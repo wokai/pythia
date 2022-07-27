@@ -1,0 +1,125 @@
+{
+  "uid": "21307769",
+  "pubdate": "2011 Mar",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Carvalho B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Collins J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Drover DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Atkinson Ralls L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Riley ET",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Riley ET",
+  "title": "ED(50) and ED(95) of intrathecal bupivacaine in morbidly obese patients undergoing cesarean delivery.",
+  "sorttitle": "ed 50 and ed 95 of intrathecal bupivacaine in morbidly obese patients undergoing cesarean delivery",
+  "volume": "114",
+  "issue": "3",
+  "pages": "529-35",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21307769"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0b013e318209a92d"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21307769"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21307769"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/02/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/02/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/04/16 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2011 Mar;114(3):481-2",
+      "reftype": "Comment in",
+      "pmid": 21278568,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2011 Oct;115(4):899-900; author reply 900",
+      "reftype": "Comment in",
+      "pmid": 21934413,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0b013e318209a92d",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/03/01 00:00",
+  "sortfirstauthor": "Carvalho B",
+  "vernaculartitle": ""
+}

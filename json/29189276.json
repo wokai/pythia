@@ -1,0 +1,103 @@
+{
+  "uid": "29189276",
+  "pubdate": "2018 Aug",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Kuck K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baker PD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Baker PD",
+  "title": "Perioperative Noninvasive Blood Pressure Monitoring.",
+  "sorttitle": "perioperative noninvasive blood pressure monitoring",
+  "volume": "127",
+  "issue": "2",
+  "pages": "408-411",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29189276"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000002619"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29189276"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29189276"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/12/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/08/17 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/12/01 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2018 Sep;127(3):e46",
+      "reftype": "Comment in",
+      "pmid": 29461389,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000002619",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/08/01 00:00",
+  "sortfirstauthor": "Kuck K",
+  "vernaculartitle": ""
+}

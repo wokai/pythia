@@ -1,0 +1,89 @@
+{
+  "uid": "4001923",
+  "pubdate": "1985 May 17",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Gilbert W",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gilbert W",
+  "title": "Genes-in-pieces revisited.",
+  "sorttitle": "genes in pieces revisited",
+  "volume": "228",
+  "issue": "4701",
+  "pages": "823-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "4001923"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.4001923"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "4001923"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "4001923"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1985/05/17 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1985/05/17 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1985/05/17 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 67,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1985/05/17 00:00",
+  "sortfirstauthor": "Gilbert W",
+  "vernaculartitle": ""
+}

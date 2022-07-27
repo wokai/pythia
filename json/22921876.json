@@ -1,0 +1,102 @@
+{
+  "uid": "22921876",
+  "pubdate": "2012 Oct",
+  "epubdate": "2012 Aug 22",
+  "source": "Trends Genet",
+  "authors": [
+    {
+      "name": "Macrae R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Macrae R",
+  "title": "The genetics of being human.",
+  "sorttitle": "genetics of being human",
+  "volume": "28",
+  "issue": "10",
+  "pages": "473",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8507085",
+  "issn": "0168-9525",
+  "essn": "",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22921876"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0168-9525(12)00114-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.tig.2012.07.007"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22921876"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22921876"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2012/07/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2012/07/26 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2012/08/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/08/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/12/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Trends in genetics : TIG",
+  "elocationid": "doi: 10.1016/j.tig.2012.07.007",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/10/01 00:00",
+  "sortfirstauthor": "Macrae R",
+  "vernaculartitle": ""
+}

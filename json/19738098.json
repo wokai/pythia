@@ -1,0 +1,99 @@
+{
+  "uid": "19738098",
+  "pubdate": "2009 Sep 9",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Sittig DF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Singh H",
+  "title": "Eight rights of safe electronic health record use.",
+  "sorttitle": "eight rights of safe electronic health record use",
+  "volume": "302",
+  "issue": "10",
+  "pages": "1111-3",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19738098"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "302/10/1111"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2009.1311"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19738098"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19738098"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/09/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/09/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/09/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 30,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2009.1311",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/09/09 00:00",
+  "sortfirstauthor": "Sittig DF",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,166 @@
+{
+  "uid": "33558003",
+  "pubdate": "2020 Dec",
+  "epubdate": "",
+  "source": "Twin Res Hum Genet",
+  "authors": [
+    {
+      "name": "Williams FMK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Freidin MB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mangino M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Couvreur S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Visconti A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bowyer RCE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Le Roy CI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Falchi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mompeó O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sudre C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davies R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hammond C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Menni C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Steves CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spector TD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Spector TD",
+  "title": "Self-Reported Symptoms of COVID-19, Including Symptoms Most Predictive of SARS-CoV-2 Infection, Are Heritable.",
+  "sorttitle": "self reported symptoms of covid 19 including symptoms most predictive of sars cov 2 infection are heritable",
+  "volume": "23",
+  "issue": "6",
+  "pages": "316-321",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101244624",
+  "issn": "1832-4274",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33558003"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1832427420000857"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1017/thg.2020.85"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33558003"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33558003"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/02/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/02/09 05:55"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 27,
+  "fulljournalname": "Twin research and human genetics : the official journal of the International Society for Twin Studies",
+  "elocationid": "doi: 10.1017/thg.2020.85",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/01 00:00",
+  "sortfirstauthor": "Williams FMK",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,107 @@
+{
+  "uid": "12226674",
+  "pubdate": "2002 Sep 12",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Lambeck K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Esat TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Potter EK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Potter EK",
+  "title": "Links between climate and sea levels for the past three million years.",
+  "sorttitle": "links between climate and sea levels for the past three million years",
+  "volume": "419",
+  "issue": "6903",
+  "pages": "199-206",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12226674"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature01089"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature01089"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12226674"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12226674"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2002/09/13 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/10/17 04:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2002/09/13 10:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 49,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2002/09/12 00:00",
+  "sortfirstauthor": "Lambeck K",
+  "vernaculartitle": ""
+}

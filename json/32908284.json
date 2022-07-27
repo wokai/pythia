@@ -1,0 +1,151 @@
+{
+  "uid": "32908284",
+  "pubdate": "2020 Sep",
+  "epubdate": "2020 Sep 9",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "Cruz Rivera S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chan AW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Denniston AK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Calvert MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "SPIRIT-AI and CONSORT-AI Working Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "SPIRIT-AI and CONSORT-AI Steering Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "SPIRIT-AI and CONSORT-AI Consensus Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Calvert MJ",
+  "title": "Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension.",
+  "sorttitle": "guidelines for clinical trial protocols for interventions involving artificial intelligence the spirit ai extension",
+  "volume": "26",
+  "issue": "9",
+  "pages": "1351-1363",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "Guideline",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32908284"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-020-1037-7"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-020-1037-7"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7598944"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32908284"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32908284"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7598944;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/04/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/07/23 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/10 05:33"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/11/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-020-1037-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/01 00:00",
+  "sortfirstauthor": "Cruz Rivera S",
+  "vernaculartitle": ""
+}

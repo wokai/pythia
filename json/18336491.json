@@ -1,0 +1,102 @@
+{
+  "uid": "18336491",
+  "pubdate": "2008 Apr",
+  "epubdate": "",
+  "source": "Anaesthesia",
+  "authors": [
+    {
+      "name": "Morris CG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Low J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Low J",
+  "title": "Metabolic acidosis in the critically ill: part 2. Causes and treatment.",
+  "sorttitle": "metabolic acidosis in the critically ill part 2 causes and treatment",
+  "volume": "63",
+  "issue": "4",
+  "pages": "396-411",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370524",
+  "issn": "0003-2409",
+  "essn": "1365-2044",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18336491"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ANA5371"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1365-2044.2007.05371.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18336491"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18336491"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/03/14 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/04/04 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/03/14 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Anaesthesia",
+  "elocationid": "doi: 10.1111/j.1365-2044.2007.05371.x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/04/01 00:00",
+  "sortfirstauthor": "Morris CG",
+  "vernaculartitle": ""
+}

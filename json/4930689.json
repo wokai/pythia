@@ -1,0 +1,89 @@
+{
+  "uid": "4930689",
+  "pubdate": "1971 May 28",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Leakey RE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Leakey RE",
+  "title": "Further evidence of lower Pleistocene hominids from East Rudolf, North Kenya.",
+  "sorttitle": "further evidence of lower pleistocene hominids from east rudolf north kenya",
+  "volume": "231",
+  "issue": "5300",
+  "pages": "241-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "4930689"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/231241a0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "4930689"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "4930689"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1971/03/28 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1971/03/28 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1971/03/28 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 3,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1971/05/28 00:00",
+  "sortfirstauthor": "Leakey RE",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,161 @@
+{
+  "uid": "21345841",
+  "pubdate": "2011 Jul",
+  "epubdate": "2011 Feb 22",
+  "source": "Age Ageing",
+  "authors": [
+    {
+      "name": "Nava S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grassi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fanfulla F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Domenighetti G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carlucci A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perren A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dell'Orso D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vitacca M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ceriana P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Karakurt Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clini E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Clini E",
+  "title": "Non-invasive ventilation in elderly patients with acute hypercapnic respiratory failure: a randomised controlled trial.",
+  "sorttitle": "non invasive ventilation in elderly patients with acute hypercapnic respiratory failure a randomised controlled trial",
+  "volume": "40",
+  "issue": "4",
+  "pages": "444-50",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0375655",
+  "issn": "0002-0729",
+  "essn": "1468-2834",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21345841"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "afr003"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/ageing/afr003"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21345841"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21345841"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/02/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/02/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/10/08 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Age Ageing. 2011 Jul;40(4):414-6",
+      "reftype": "Comment in",
+      "pmid": 21673135,
+      "note": ""
+    },
+    {
+      "refsource": "Ann Intern Med. 2012 Feb 21;156(4):JC2-02",
+      "reftype": "Comment in",
+      "pmid": 22351728,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "Age and ageing",
+  "elocationid": "doi: 10.1093/ageing/afr003",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/07/01 00:00",
+  "sortfirstauthor": "Nava S",
+  "vernaculartitle": ""
+}

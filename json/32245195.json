@@ -1,0 +1,153 @@
+{
+  "uid": "32245195",
+  "pubdate": "2020 Mar 21",
+  "epubdate": "2020 Mar 21",
+  "source": "Antibiotics (Basel)",
+  "authors": [
+    {
+      "name": "Scharf C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paal M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schroeder I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vogeser M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Draenert R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Irlbeck M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zoller M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liebchen U",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Liebchen U",
+  "title": "Therapeutic Drug Monitoring of Meropenem and Piperacillin in Critical Illness-Experience and Recommendations from One Year in Routine Clinical Practice.",
+  "sorttitle": "therapeutic drug monitoring of meropenem and piperacillin in critical illness experience and recommendations from one year in routine clinical practice",
+  "volume": "9",
+  "issue": "3",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101637404",
+  "issn": "",
+  "essn": "2079-6382",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32245195"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "antibiotics9030131"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/antibiotics9030131"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7148485"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32245195"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32245195"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7148485;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/27 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/03/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/03/19 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/04/05 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Antibiotics (Basel, Switzerland)",
+  "elocationid": "pii: E131. doi: 10.3390/antibiotics9030131",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/03/21 00:00",
+  "sortfirstauthor": "Scharf C",
+  "vernaculartitle": ""
+}

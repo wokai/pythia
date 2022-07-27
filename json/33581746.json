@@ -1,0 +1,126 @@
+{
+  "uid": "33581746",
+  "pubdate": "2021 Jan 29",
+  "epubdate": "2021 Jan 29",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Grubaugh ND",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hodcroft EB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fauver JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Phelan AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cevik M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cevik M",
+  "title": "Public health actions to control new SARS-CoV-2 variants.",
+  "sorttitle": "public health actions to control new sars cov 2 variants",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33581746"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(21)00087-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2021.01.044"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7846239"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33581746"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33581746"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7846239;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2021/02/14 20:21"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/02/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Cell",
+  "elocationid": "pii: S0092-8674(21)00087-8. doi: 10.1016/j.cell.2021.01.044",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/29 00:00",
+  "sortfirstauthor": "Grubaugh ND",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,121 @@
+{
+  "uid": "30694886",
+  "pubdate": "2019 Mar",
+  "epubdate": "",
+  "source": "Eur J Anaesthesiol",
+  "authors": [
+    {
+      "name": "Disma N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomas M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Afshari A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Veyckemans F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Hert S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "De Hert S",
+  "title": "Clear fluids fasting for elective paediatric anaesthesia: The European Society of Anaesthesiology consensus statement.",
+  "sorttitle": "clear fluids fasting for elective paediatric anaesthesia the european society of anaesthesiology consensus statement",
+  "volume": "36",
+  "issue": "3",
+  "pages": "173-174",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8411711",
+  "issn": "0265-0215",
+  "essn": "1365-2346",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30694886"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/EJA.0000000000000914"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00003643-201903000-00001"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30694886"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30694886"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/01/30 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/01/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/12/04 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur J Anaesthesiol. 2020 Jan;37(1):52",
+      "reftype": "Comment in",
+      "pmid": 31794525,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "European journal of anaesthesiology",
+  "elocationid": "doi: 10.1097/EJA.0000000000000914",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/03/01 00:00",
+  "sortfirstauthor": "Disma N",
+  "vernaculartitle": ""
+}

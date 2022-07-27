@@ -1,0 +1,215 @@
+{
+  "uid": "27043493",
+  "pubdate": "2016 Jul",
+  "epubdate": "",
+  "source": "Eur J Anaesthesiol",
+  "authors": [
+    {
+      "name": "Marx G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schindler AW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mosch C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Albers J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bauer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gnass I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hobohm C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Janssens U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kluge S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kranke P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maurer T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Merz W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neugebauer E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Quintel M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Senninger N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Trampisch HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Waydhas C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wildenauer R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zacharowski K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eikermann M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Eikermann M",
+  "title": "Intravascular volume therapy in adults: Guidelines from the Association of the Scientific Medical Societies in Germany.",
+  "sorttitle": "intravascular volume therapy in adults guidelines from the association of the scientific medical societies in germany",
+  "volume": "33",
+  "issue": "7",
+  "pages": "488-521",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8411711",
+  "issn": "0265-0215",
+  "essn": "1365-2346",
+  "pubtype": [
+    "Guideline",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27043493"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/EJA.0000000000000447"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4890839"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27043493"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27043493"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4890839;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/04/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/04/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/01/27 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur J Anaesthesiol. 2016 Jul;33(7):483-7",
+      "reftype": "Comment in",
+      "pmid": 27270704,
+      "note": ""
+    },
+    {
+      "refsource": "Eur J Anaesthesiol. 2017 Feb;34(2):108-109",
+      "reftype": "Comment in",
+      "pmid": 28027209,
+      "note": ""
+    },
+    {
+      "refsource": "Eur J Anaesthesiol. 2017 Jun;34(6):396-397",
+      "reftype": "Comment in",
+      "pmid": 28459786,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 13,
+  "fulljournalname": "European journal of anaesthesiology",
+  "elocationid": "doi: 10.1097/EJA.0000000000000447",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/07/01 00:00",
+  "sortfirstauthor": "Marx G",
+  "vernaculartitle": ""
+}

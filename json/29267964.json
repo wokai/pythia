@@ -1,0 +1,112 @@
+{
+  "uid": "29267964",
+  "pubdate": "2018 Jan 1",
+  "epubdate": "",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Brennan PF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chiang MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ohno-Machado L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ohno-Machado L",
+  "title": "Biomedical informatics and data science: evolving fields with significant overlap.",
+  "sorttitle": "biomedical informatics and data science evolving fields with significant overlap",
+  "volume": "25",
+  "issue": "1",
+  "pages": "2-3",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29267964"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "4757451"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/jamia/ocx146"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7647135"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29267964"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29267964"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7647135;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/12/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/03 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/12/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 4,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1093/jamia/ocx146",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/01 00:00",
+  "sortfirstauthor": "Brennan PF",
+  "vernaculartitle": ""
+}

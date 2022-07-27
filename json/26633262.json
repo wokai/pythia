@@ -1,0 +1,141 @@
+{
+  "uid": "26633262",
+  "pubdate": "2015 Dec 3",
+  "epubdate": "2015 Dec 3",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Annane D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellissant E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bollaert PE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Briegel J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Keh D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kupfer Y",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kupfer Y",
+  "title": "Corticosteroids for treating sepsis.",
+  "sorttitle": "corticosteroids for treating sepsis",
+  "volume": "",
+  "issue": "12",
+  "pages": "CD002243",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26633262"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD002243.pub3"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6494587"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26633262"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26633262"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6494587;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/12/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/12/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/04/29 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cochrane Database Syst Rev. 2004;(1):CD002243",
+      "reftype": "Update of",
+      "pmid": 14973984,
+      "note": ""
+    },
+    {
+      "refsource": "Cochrane Database Syst Rev. 2019 Dec 6;12:CD002243",
+      "reftype": "Update in",
+      "pmid": 31808551,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 54,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD002243.pub3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/12/03 00:00",
+  "sortfirstauthor": "Annane D",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,114 @@
+{
+  "uid": "32047978",
+  "pubdate": "2020 Feb 11",
+  "epubdate": "2020 Feb 11",
+  "source": "Med Klin Intensivmed Notfmed",
+  "authors": [
+    {
+      "name": "Kächele M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Keller F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Keller F",
+  "title": "[Pharmacokinetics and pharmacodynamics in extracorporeal renal replacement therapy].",
+  "sorttitle": "pharmacokinetics and pharmacodynamics in extracorporeal renal replacement therapy",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "101575086",
+  "issn": "2193-6218",
+  "essn": "2193-6226",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32047978"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00063-020-00654-7"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00063-020-00654-7"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32047978"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32047978"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/05/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/11/18 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/11/18 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/02/13 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/02/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/13 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Medizinische Klinik, Intensivmedizin und Notfallmedizin",
+  "elocationid": "doi: 10.1007/s00063-020-00654-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/02/11 00:00",
+  "sortfirstauthor": "Kächele M",
+  "vernaculartitle": "Pharmakokinetik und Pharmakodynamik bei extrakorporaler Nierenersatztherapie."
+}

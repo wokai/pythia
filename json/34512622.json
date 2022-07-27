@@ -1,0 +1,150 @@
+{
+  "uid": "34512622",
+  "pubdate": "2021",
+  "epubdate": "2021 Aug 26",
+  "source": "Front Immunol",
+  "authors": [
+    {
+      "name": "Esposito S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mariotti Zani E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Torelli L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scavone S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petraroli M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patianna V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Predieri B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iughetti L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Principi N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Principi N",
+  "title": "Childhood Vaccinations and Type 1 Diabetes.",
+  "sorttitle": "childhood vaccinations and type 1 diabetes",
+  "volume": "12",
+  "issue": "",
+  "pages": "667889",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101560960",
+  "issn": "",
+  "essn": "1664-3224",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34512622"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fimmu.2021.667889"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8427438"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34512622"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34512622"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8427438;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/02/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/08/12 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/09/13 06:44"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/09/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/10/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Frontiers in immunology",
+  "elocationid": "doi: 10.3389/fimmu.2021.667889",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/08/26 00:00",
+  "sortfirstauthor": "Esposito S",
+  "vernaculartitle": ""
+}

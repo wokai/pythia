@@ -1,0 +1,134 @@
+{
+  "uid": "31491883",
+  "pubdate": "2019 Sep 5",
+  "epubdate": "2019 Sep 5",
+  "source": "J Clin Med",
+  "authors": [
+    {
+      "name": "Delsoglio M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Achamrah N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berger MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pichard C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pichard C",
+  "title": "Indirect Calorimetry in Clinical Practice.",
+  "sorttitle": "indirect calorimetry in clinical practice",
+  "volume": "8",
+  "issue": "9",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101606588",
+  "issn": "",
+  "essn": "2077-0383",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31491883"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "jcm8091387"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/jcm8091387"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6780066"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31491883"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31491883"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6780066;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/08/09 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/08/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/08/30 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/09/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/09/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/09/08 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 17,
+  "fulljournalname": "Journal of clinical medicine",
+  "elocationid": "pii: E1387. doi: 10.3390/jcm8091387",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/09/05 00:00",
+  "sortfirstauthor": "Delsoglio M",
+  "vernaculartitle": ""
+}

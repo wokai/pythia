@@ -1,0 +1,121 @@
+{
+  "uid": "31529984",
+  "pubdate": "2020 Mar",
+  "epubdate": "2019 Sep 17",
+  "source": "Ann Pharmacother",
+  "authors": [
+    {
+      "name": "Lamb DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bungard TJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lowerison J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Semchuk WM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomson P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brocklebank C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bolt J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bolt J",
+  "title": "Jurisdictional Guidance on DOAC Use-Will It Affect Practice? A Comparison of European, American, and Canadian Product Monographs.",
+  "sorttitle": "jurisdictional guidance on doac use will it affect practice a comparison of european american and canadian product monographs",
+  "volume": "54",
+  "issue": "3",
+  "pages": "277-282",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9203131",
+  "issn": "1060-0280",
+  "essn": "1542-6270",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31529984"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1177/1060028019877215"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31529984"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31529984"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/09/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/05 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/09/19 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "The Annals of pharmacotherapy",
+  "elocationid": "doi: 10.1177/1060028019877215",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/03/01 00:00",
+  "sortfirstauthor": "Lamb DA",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,167 @@
+{
+  "uid": "16060722",
+  "pubdate": "2005 Aug",
+  "epubdate": "2005 Aug 30",
+  "source": "PLoS Med",
+  "authors": [
+    {
+      "name": "Ioannidis JP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ioannidis JP",
+  "title": "Why most published research findings are false.",
+  "sorttitle": "why most published research findings are false",
+  "volume": "2",
+  "issue": "8",
+  "pages": "e124",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101231360",
+  "issn": "1549-1277",
+  "essn": "1549-1676",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16060722"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "04-PLME-E-0321R2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pmed.0020124"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC1182327"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16060722"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16060722"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC1182327;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/08/03 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/08/19 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/08/03 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "PLoS Med. 2005 Aug;2(8):e272",
+      "reftype": "Comment in",
+      "pmid": 16120013,
+      "note": ""
+    },
+    {
+      "refsource": "PLoS Med. 2005 Nov;2(11):e361",
+      "reftype": "Comment in",
+      "pmid": 16288554,
+      "note": ""
+    },
+    {
+      "refsource": "PLoS Med. 2005 Nov;2(11):e386; author reply e398",
+      "reftype": "Comment in",
+      "pmid": 16288559,
+      "note": ""
+    },
+    {
+      "refsource": "PLoS Med. 2005 Nov;2(11):e395",
+      "reftype": "Comment in",
+      "pmid": 16288562,
+      "note": ""
+    },
+    {
+      "refsource": "PLoS Med. 2007 Apr;4(4):e168",
+      "reftype": "Comment in",
+      "pmid": 17456002,
+      "note": ""
+    },
+    {
+      "refsource": "Virtual Mentor. 2013 Jan;15(1):29-33",
+      "reftype": "Comment in",
+      "pmid": 23356804,
+      "note": ""
+    },
+    {
+      "refsource": "Clin Chem. 2014 Sep;60(9):1238-9",
+      "reftype": "Comment in",
+      "pmid": 25037936,
+      "note": ""
+    },
+    {
+      "refsource": "Am J Transplant. 2016 Oct;16(10):2769-2770",
+      "reftype": "Comment in",
+      "pmid": 27662077,
+      "note": ""
+    },
+    {
+      "refsource": "World Neurosurg. 2018 Sep;117:460-462",
+      "reftype": "Comment in",
+      "pmid": 30031185,
+      "note": ""
+    },
+    {
+      "refsource": "BMJ Evid Based Med. 2020 Feb;25(1):12-14",
+      "reftype": "Comment in",
+      "pmid": 30804021,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1428,
+  "fulljournalname": "PLoS medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/08/01 00:00",
+  "sortfirstauthor": "Ioannidis JP",
+  "vernaculartitle": ""
+}

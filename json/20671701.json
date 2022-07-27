@@ -1,0 +1,96 @@
+{
+  "uid": "20671701",
+  "pubdate": "2010 Jul 29",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Burns JA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Burns JA",
+  "title": "The four hundred years of planetary science since Galileo and Kepler.",
+  "sorttitle": "four hundred years of planetary science since galileo and kepler",
+  "volume": "466",
+  "issue": "7306",
+  "pages": "575-84",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20671701"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature09215"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature09215"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20671701"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20671701"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/07/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/07/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/07/31 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature09215",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/07/29 00:00",
+  "sortfirstauthor": "Burns JA",
+  "vernaculartitle": ""
+}

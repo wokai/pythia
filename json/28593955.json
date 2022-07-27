@@ -1,0 +1,119 @@
+{
+  "uid": "28593955",
+  "pubdate": "2017 Jun 7",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Stringer C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Galway-Witham J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Galway-Witham J",
+  "title": "Palaeoanthropology: On the origin of our species.",
+  "sorttitle": "palaeoanthropology on the origin of our species",
+  "volume": "546",
+  "issue": "7657",
+  "pages": "212-214",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Comment",
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28593955"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "546212a"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/546212a"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28593955"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28593955"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/06/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/06/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/09/29 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2017 Jun 7;546(7657):289-292",
+      "reftype": "Comment on",
+      "pmid": 28593953,
+      "note": ""
+    },
+    {
+      "refsource": "Nature. 2017 Jun 7;546(7657):293-296",
+      "reftype": "Comment on",
+      "pmid": 28593967,
+      "note": ""
+    },
+    {
+      "refsource": "Nature. 2017 Jun 14;546(7658):362",
+      "reftype": "Erratum in",
+      "pmid": 28617465,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 4,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/546212a",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/06/07 00:00",
+  "sortfirstauthor": "Stringer C",
+  "vernaculartitle": ""
+}

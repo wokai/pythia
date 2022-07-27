@@ -1,0 +1,145 @@
+{
+  "uid": "28099321",
+  "pubdate": "2017 Feb",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Nimmagadda U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Salem MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crystal GJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Crystal GJ",
+  "title": "Preoxygenation: Physiologic Basis, Benefits, and Potential Risks.",
+  "sorttitle": "preoxygenation physiologic basis benefits and potential risks",
+  "volume": "124",
+  "issue": "2",
+  "pages": "507-517",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28099321"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000001589"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201702000-00022"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28099321"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28099321"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/01/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/01/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/07/20 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2017 Feb;124(2):388-389",
+      "reftype": "Comment in",
+      "pmid": 28098687,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2017 Jun;124(6):2093",
+      "reftype": "Comment in",
+      "pmid": 28525518,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2017 Jun;124(6):2093-2094",
+      "reftype": "Comment in",
+      "pmid": 28525519,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2017 Jun;124(6):2094",
+      "reftype": "Comment in",
+      "pmid": 28525520,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2017 Oct;125(4):1423-1424",
+      "reftype": "Comment in",
+      "pmid": 28806204,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2017 Oct;125(4):1424-1425",
+      "reftype": "Comment in",
+      "pmid": 28922222,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000001589",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/02/01 00:00",
+  "sortfirstauthor": "Nimmagadda U",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,88 @@
+{
+  "uid": "32641847",
+  "pubdate": "2020 Jul",
+  "epubdate": "",
+  "source": "Nat Biotechnol",
+  "authors": [],
+  "lastauthor": "",
+  "title": "A COVID-19 model.",
+  "sorttitle": "covid 19 model",
+  "volume": "38",
+  "issue": "7",
+  "pages": "773",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9604648",
+  "issn": "1087-0156",
+  "essn": "1546-1696",
+  "pubtype": [
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32641847"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41587-020-0606-0"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41587-020-0606-0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32641847"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32641847"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/07/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/07/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/07/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature biotechnology",
+  "elocationid": "doi: 10.1038/s41587-020-0606-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/01 00:00",
+  "sortfirstauthor": "",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,116 @@
+{
+  "uid": "33340022",
+  "pubdate": "2021 Feb",
+  "epubdate": "2020 Dec 18",
+  "source": "Nat Rev Immunol",
+  "authors": [
+    {
+      "name": "Dai L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gao GF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gao GF",
+  "title": "Viral targets for vaccines against COVID-19.",
+  "sorttitle": "viral targets for vaccines against covid 19",
+  "volume": "21",
+  "issue": "2",
+  "pages": "73-82",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101124169",
+  "issn": "1474-1733",
+  "essn": "1474-1741",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33340022"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41577-020-00480-0"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41577-020-00480-0"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7747004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33340022"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33340022"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7747004;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2020/11/19 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/11 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/19 05:28"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "Nature reviews. Immunology",
+  "elocationid": "doi: 10.1038/s41577-020-00480-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/01 00:00",
+  "sortfirstauthor": "Dai L",
+  "vernaculartitle": ""
+}

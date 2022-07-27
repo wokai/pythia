@@ -1,0 +1,151 @@
+{
+  "uid": "18195197",
+  "pubdate": "2008 Jan 14",
+  "epubdate": "",
+  "source": "Arch Intern Med",
+  "authors": [
+    {
+      "name": "Garcia DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Regan S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Henault LE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Upadhyay A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baker J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Othman M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hylek EM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hylek EM",
+  "title": "Risk of thromboembolism with short-term interruption of warfarin therapy.",
+  "sorttitle": "risk of thromboembolism with short term interruption of warfarin therapy",
+  "volume": "168",
+  "issue": "1",
+  "pages": "63-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372440",
+  "issn": "0003-9926",
+  "essn": "1538-3679",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18195197"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "168/1/63"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/archinternmed.2007.23"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18195197"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18195197"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/01/16 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/02/26 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/01/16 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Fam Pract. 2008 May;57(5):304",
+      "reftype": "Comment in",
+      "pmid": 18464333,
+      "note": ""
+    },
+    {
+      "refsource": "Arch Intern Med. 2008 Aug 11;168(15):1719",
+      "reftype": "Comment in",
+      "pmid": 18695093,
+      "note": ""
+    },
+    {
+      "refsource": "Arch Intern Med. 2008 Sep 22;168(17):1932; author reply 1933",
+      "reftype": "Comment in",
+      "pmid": 18809827,
+      "note": ""
+    },
+    {
+      "refsource": "Arch Intern Med. 2008 Sep 22;168(17):1932; author reply 1933",
+      "reftype": "Comment in",
+      "pmid": 18809828,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 52,
+  "fulljournalname": "Archives of internal medicine",
+  "elocationid": "doi: 10.1001/archinternmed.2007.23",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/01/14 00:00",
+  "sortfirstauthor": "Garcia DA",
+  "vernaculartitle": ""
+}

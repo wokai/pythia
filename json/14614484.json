@@ -1,0 +1,107 @@
+{
+  "uid": "14614484",
+  "pubdate": "2003 Nov 13",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Henze K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin W",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Martin W",
+  "title": "Evolutionary biology: essence of mitochondria.",
+  "sorttitle": "evolutionary biology essence of mitochondria",
+  "volume": "426",
+  "issue": "6963",
+  "pages": "127-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Comment",
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14614484"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/426127a"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "426127a"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14614484"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14614484"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/11/14 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/12/16 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/11/14 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2003 Nov 13;426(6963):172-6",
+      "reftype": "Comment on",
+      "pmid": 14614504,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 52,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/11/13 00:00",
+  "sortfirstauthor": "Henze K",
+  "vernaculartitle": ""
+}

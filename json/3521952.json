@@ -1,0 +1,121 @@
+{
+  "uid": "3521952",
+  "pubdate": "1986 Jun 15",
+  "epubdate": "",
+  "source": "Clin Chim Acta",
+  "authors": [
+    {
+      "name": "White TF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Farndon JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Conceicao SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laker MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ward MK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kerr DN",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kerr DN",
+  "title": "Serum calcium status in health and disease: a comparison of measured and derived parameters.",
+  "sorttitle": "serum calcium status in health and disease a comparison of measured and derived parameters",
+  "volume": "157",
+  "issue": "2",
+  "pages": "199-213",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1302422",
+  "issn": "0009-8981",
+  "essn": "1873-3492",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3521952"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "0009-8981(86)90226-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/0009-8981(86)90226-3"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3521952"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3521952"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1986/06/15 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1986/06/15 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1986/06/15 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Clinica chimica acta; international journal of clinical chemistry",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1986/06/15 00:00",
+  "sortfirstauthor": "White TF",
+  "vernaculartitle": ""
+}

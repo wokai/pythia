@@ -1,0 +1,136 @@
+{
+  "uid": "33490153",
+  "pubdate": "2020 Dec",
+  "epubdate": "",
+  "source": "Ann Transl Med",
+  "authors": [
+    {
+      "name": "Zhong X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yang H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dong W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liang G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Liang G",
+  "title": "Airway pressure release ventilation versus low tidal volume ventilation for patients with acute respiratory distress syndrome/acute lung injury: a meta-analysis of randomized clinical trials.",
+  "sorttitle": "airway pressure release ventilation versus low tidal volume ventilation for patients with acute respiratory distress syndrome acute lung injury a meta analysis of randomized clinical trials",
+  "volume": "8",
+  "issue": "24",
+  "pages": "1641",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101617978",
+  "issn": "2305-5839",
+  "essn": "2305-5847",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33490153"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.21037/atm-20-6917"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "atm-08-24-1641"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7812231"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33490153"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33490153"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7812231;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/25 05:45"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/26 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Annals of translational medicine",
+  "elocationid": "doi: 10.21037/atm-20-6917",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/01 00:00",
+  "sortfirstauthor": "Zhong X",
+  "vernaculartitle": ""
+}

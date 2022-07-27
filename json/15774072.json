@@ -1,0 +1,117 @@
+{
+  "uid": "15774072",
+  "pubdate": "2005 Apr",
+  "epubdate": "2004 Oct 20",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Huerta-Alardín AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Varon J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marik PE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Marik PE",
+  "title": "Bench-to-bedside review: Rhabdomyolysis -- an overview for clinicians.",
+  "sorttitle": "bench to bedside review rhabdomyolysis an overview for clinicians",
+  "volume": "9",
+  "issue": "2",
+  "pages": "158-69",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15774072"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "cc2978"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/cc2978"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC1175909"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15774072"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15774072"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC1175909;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/03/19 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/03/11 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/03/19 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 192,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/04/01 00:00",
+  "sortfirstauthor": "Huerta-Alardín AL",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,111 @@
+{
+  "uid": "29628561",
+  "pubdate": "2018 Jan-Mar",
+  "epubdate": "",
+  "source": "Anesth Essays Res",
+  "authors": [
+    {
+      "name": "Ali Elnabtity AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Selim MF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Selim MF",
+  "title": "Norepinephrine versus Ephedrine to Maintain Arterial Blood Pressure during Spinal Anesthesia for Cesarean Delivery: A Prospective Double-blinded Trial.",
+  "sorttitle": "norepinephrine versus ephedrine to maintain arterial blood pressure during spinal anesthesia for cesarean delivery a prospective double blinded trial",
+  "volume": "12",
+  "issue": "1",
+  "pages": "92-97",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101578762",
+  "issn": "0259-1162",
+  "essn": "2229-7685",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29628561"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.4103/aer.AER_204_17"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "AER-12-92"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5872901"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29628561"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29628561"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5872901;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/04/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/04/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/04/10 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Anesthesia, essays and researches",
+  "elocationid": "doi: 10.4103/aer.AER_204_17",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/01 00:00",
+  "sortfirstauthor": "Ali Elnabtity AM",
+  "vernaculartitle": ""
+}

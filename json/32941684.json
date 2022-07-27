@@ -1,0 +1,107 @@
+{
+  "uid": "32941684",
+  "pubdate": "2020 Jul 8",
+  "epubdate": "2020 Jul 8",
+  "source": "Compr Physiol",
+  "authors": [
+    {
+      "name": "Hopkins SR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hopkins SR",
+  "title": "Ventilation/Perfusion Relationships and Gas Exchange: Measurement Approaches.",
+  "sorttitle": "ventilation perfusion relationships and gas exchange measurement approaches",
+  "volume": "10",
+  "issue": "3",
+  "pages": "1155-1205",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101574442",
+  "issn": "",
+  "essn": "2040-4603",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32941684"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/cphy.c180042"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8274320"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1720043"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32941684"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32941684"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8274320;manuscript-id: NIHMS1720043;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/17 17:19"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/09/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Comprehensive Physiology",
+  "elocationid": "doi: 10.1002/cphy.c180042",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/08 00:00",
+  "sortfirstauthor": "Hopkins SR",
+  "vernaculartitle": ""
+}

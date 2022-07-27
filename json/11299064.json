@@ -1,0 +1,115 @@
+{
+  "uid": "11299064",
+  "pubdate": "2001",
+  "epubdate": "2001 Mar 6",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Naeije R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brimioulle S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Brimioulle S",
+  "title": "Physiology in medicine: importance of hypoxic pulmonary vasoconstriction in maintaining arterial oxygenation during acute respiratory failure.",
+  "sorttitle": "physiology in medicine importance of hypoxic pulmonary vasoconstriction in maintaining arterial oxygenation during acute respiratory failure",
+  "volume": "5",
+  "issue": "2",
+  "pages": "67-71",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11299064"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC137269"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/cc989"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11299064"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11299064"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC137269;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2001/02/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2001/02/19 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2001/04/12 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/07/13 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2001/04/12 10:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 18,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2001/01/01 00:00",
+  "sortfirstauthor": "Naeije R",
+  "vernaculartitle": ""
+}

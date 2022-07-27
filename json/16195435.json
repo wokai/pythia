@@ -1,0 +1,102 @@
+{
+  "uid": "16195435",
+  "pubdate": "2005 Sep 30",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Miller G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Miller G",
+  "title": "Neuroscience. Neural communication breaks down as consciousness fades and sleep sets in.",
+  "sorttitle": "neuroscience neural communication breaks down as consciousness fades and sleep sets in",
+  "volume": "309",
+  "issue": "5744",
+  "pages": "2148-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Comment",
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16195435"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "309/5744/2148a"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.309.5744.2148a"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16195435"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16195435"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/10/01 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/10/08 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/10/01 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Science. 2005 Sep 30;309(5744):2228-32",
+      "reftype": "Comment on",
+      "pmid": 16195466,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/09/30 00:00",
+  "sortfirstauthor": "Miller G",
+  "vernaculartitle": ""
+}

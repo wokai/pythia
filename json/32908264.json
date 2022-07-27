@@ -1,0 +1,115 @@
+{
+  "uid": "32908264",
+  "pubdate": "2020 Sep",
+  "epubdate": "2020 Sep 9",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Haque A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Milstein A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fei-Fei L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Fei-Fei L",
+  "title": "Illuminating the dark spaces of healthcare with ambient intelligence.",
+  "sorttitle": "illuminating the dark spaces of healthcare with ambient intelligence",
+  "volume": "585",
+  "issue": "7824",
+  "pages": "193-202",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32908264"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-020-2669-y"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-020-2669-y"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32908264"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32908264"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/16 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/07/14 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/10 05:33"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-020-2669-y",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/01 00:00",
+  "sortfirstauthor": "Haque A",
+  "vernaculartitle": ""
+}

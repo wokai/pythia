@@ -1,0 +1,109 @@
+{
+  "uid": "23788067",
+  "pubdate": "2013 Jul-Aug",
+  "epubdate": "",
+  "source": "Reg Anesth Pain Med",
+  "authors": [
+    {
+      "name": "Barrington MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kluger R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kluger R",
+  "title": "Ultrasound guidance reduces the risk of local anesthetic systemic toxicity following peripheral nerve blockade.",
+  "sorttitle": "ultrasound guidance reduces the risk of local anesthetic systemic toxicity following peripheral nerve blockade",
+  "volume": "38",
+  "issue": "4",
+  "pages": "289-99",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9804508",
+  "issn": "1098-7339",
+  "essn": "1532-8651",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23788067"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/AAP.0b013e318292669b"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00115550-201307000-00008"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23788067"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23788067"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/06/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/06/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/03/04 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Reg Anesth Pain Med. 2013 Jul-Aug;38(4):259-61",
+      "reftype": "Comment in",
+      "pmid": 23788065,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 31,
+  "fulljournalname": "Regional anesthesia and pain medicine",
+  "elocationid": "doi: 10.1097/AAP.0b013e318292669b",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/07/01 00:00",
+  "sortfirstauthor": "Barrington MJ",
+  "vernaculartitle": ""
+}

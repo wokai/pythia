@@ -1,0 +1,171 @@
+{
+  "uid": "30322584",
+  "pubdate": "2018 Oct 13",
+  "epubdate": "",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Boerma T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ronsmans C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Melesse DY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barros AJD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barros FC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Juan L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moller AB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Say L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hosseinpoor AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Lyra Rabello Neto D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Temmerman M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Temmerman M",
+  "title": "Global epidemiology of use of and disparities in caesarean sections.",
+  "sorttitle": "global epidemiology of use of and disparities in caesarean sections",
+  "volume": "392",
+  "issue": "10155",
+  "pages": "1341-1348",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30322584"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(18)31928-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(18)31928-7"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30322584"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30322584"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/04/06 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/08/06 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/08/09 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/10/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/10/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/11/06 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2019 Jul 6;394(10192):23-24",
+      "reftype": "Comment in",
+      "pmid": 31282354,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 129,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(18)31928-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/13 00:00",
+  "sortfirstauthor": "Boerma T",
+  "vernaculartitle": ""
+}

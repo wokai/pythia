@@ -1,0 +1,144 @@
+{
+  "uid": "29092073",
+  "pubdate": "2018 Jan 1",
+  "epubdate": "",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Almugbel R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hung LH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hu J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Almutairy A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ortogero N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tamta Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yeung KY",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Yeung KY",
+  "title": "Reproducible Bioconductor workflows using browser-based interactive notebooks and containers.",
+  "sorttitle": "reproducible bioconductor workflows using browser based interactive notebooks and containers",
+  "volume": "25",
+  "issue": "1",
+  "pages": "4-12",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29092073"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "4571788"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/jamia/ocx120"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6381817"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29092073"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29092073"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6381817;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/05/30 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/09/28 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/11/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/03 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/11/02 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1093/jamia/ocx120",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/01 00:00",
+  "sortfirstauthor": "Almugbel R",
+  "vernaculartitle": ""
+}

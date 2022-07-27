@@ -1,0 +1,94 @@
+{
+  "uid": "32346146",
+  "pubdate": "2020 Apr",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Callaway E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Callaway E",
+  "title": "The race for coronavirus vaccines: a graphical guide.",
+  "sorttitle": "race for coronavirus vaccines a graphical guide",
+  "volume": "580",
+  "issue": "7805",
+  "pages": "576-577",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32346146"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/d41586-020-01221-y"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/d41586-020-01221-y"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32346146"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32346146"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/30 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 82,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/d41586-020-01221-y",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/04/01 00:00",
+  "sortfirstauthor": "Callaway E",
+  "vernaculartitle": ""
+}

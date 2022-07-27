@@ -1,0 +1,156 @@
+{
+  "uid": "23458594",
+  "pubdate": "2013 Mar",
+  "epubdate": "2013 Jan 9",
+  "source": "J Clin Hypertens (Greenwich)",
+  "authors": [
+    {
+      "name": "González Pacheco H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morales Victorino N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Núñez Urquiza JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Altamirano Castillo A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Juárez Herrera U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arias Mendoza A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Azar Manzur F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Briseño de la Cruz JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martínez Sánchez C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Martínez Sánchez C",
+  "title": "Patients with hypertensive crises who are admitted to a coronary care unit: clinical characteristics and outcomes.",
+  "sorttitle": "patients with hypertensive crises who are admitted to a coronary care unit clinical characteristics and outcomes",
+  "volume": "15",
+  "issue": "3",
+  "pages": "210-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100888554",
+  "issn": "1524-6175",
+  "essn": "1751-7176",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23458594"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/jch.12058"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23458594"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23458594"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2012/09/23 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2012/11/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2012/11/16 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/03/06 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/03/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/08/31 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Clin Hypertens (Greenwich). 2013 Aug;15(8):608",
+      "reftype": "Comment in",
+      "pmid": 23889727,
+      "note": ""
+    },
+    {
+      "refsource": "J Clin Hypertens (Greenwich). 2013 Aug;15(8):609",
+      "reftype": "Comment in",
+      "pmid": 23889728,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Journal of clinical hypertension (Greenwich, Conn.)",
+  "elocationid": "doi: 10.1111/jch.12058",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/03/01 00:00",
+  "sortfirstauthor": "González Pacheco H",
+  "vernaculartitle": ""
+}

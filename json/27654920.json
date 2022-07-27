@@ -1,0 +1,117 @@
+{
+  "uid": "27654920",
+  "pubdate": "2016 Oct 6",
+  "epubdate": "2016 Sep 21",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Timmermann A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Friedrich T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Friedrich T",
+  "title": "Late Pleistocene climate drivers of early human migration.",
+  "sorttitle": "late pleistocene climate drivers of early human migration",
+  "volume": "538",
+  "issue": "7623",
+  "pages": "92-95",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27654920"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature19365"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature19365"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27654920"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27654920"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/01/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/08/12 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/09/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/03/08 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/09/23 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2016 Oct 6;538(7623):49-50",
+      "reftype": "Comment in",
+      "pmid": 27654915,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 29,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature19365",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/10/06 00:00",
+  "sortfirstauthor": "Timmermann A",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,109 @@
+{
+  "uid": "31785834",
+  "pubdate": "2020 Jan 9",
+  "epubdate": "2019 Nov 27",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Gibbs DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Holdsworth MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Holdsworth MJ",
+  "title": "Every Breath You Take: New Insights into Plant and Animal Oxygen Sensing.",
+  "sorttitle": "every breath you take new insights into plant and animal oxygen sensing",
+  "volume": "180",
+  "issue": "1",
+  "pages": "22-24",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Comment",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31785834"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(19)31220-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2019.10.043"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31785834"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31785834"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/12/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/06/17 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/12/02 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Science. 2019 Jul 5;365(6448):65-69",
+      "reftype": "Comment on",
+      "pmid": 31273118,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Cell",
+  "elocationid": "doi: 10.1016/j.cell.2019.10.043",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/01/09 00:00",
+  "sortfirstauthor": "Gibbs DJ",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,128 @@
+{
+  "uid": "25536092",
+  "pubdate": "2015 Mar",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Lee LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Caplan RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stephens LS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Posner KL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Terman GW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Voepel-Lewis T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Domino KB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Domino KB",
+  "title": "Postoperative opioid-induced respiratory depression: a closed claims analysis.",
+  "sorttitle": "postoperative opioid induced respiratory depression a closed claims analysis",
+  "volume": "122",
+  "issue": "3",
+  "pages": "659-65",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25536092"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000000564"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25536092"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25536092"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/12/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/12/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/04/18 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2015 Mar;122(3):484-5",
+      "reftype": "Comment in",
+      "pmid": 25502066,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 68,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000000564",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/03/01 00:00",
+  "sortfirstauthor": "Lee LA",
+  "vernaculartitle": ""
+}

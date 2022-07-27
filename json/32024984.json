@@ -1,0 +1,106 @@
+{
+  "uid": "32024984",
+  "pubdate": "2020 Aug",
+  "epubdate": "2020 Feb 5",
+  "source": "Nat Rev Immunol",
+  "authors": [
+    {
+      "name": "Garner H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Visser KE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "de Visser KE",
+  "title": "Immune crosstalk in cancer progression and metastatic spread: a complex conversation.",
+  "sorttitle": "immune crosstalk in cancer progression and metastatic spread a complex conversation",
+  "volume": "20",
+  "issue": "8",
+  "pages": "483-497",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101124169",
+  "issn": "1474-1733",
+  "essn": "1474-1741",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32024984"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41577-019-0271-z"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41577-019-0271-z"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32024984"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32024984"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2019/12/20 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/02/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/11/11 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/02/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "Nature reviews. Immunology",
+  "elocationid": "doi: 10.1038/s41577-019-0271-z",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/01 00:00",
+  "sortfirstauthor": "Garner H",
+  "vernaculartitle": ""
+}

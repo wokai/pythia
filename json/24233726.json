@@ -1,0 +1,253 @@
+{
+  "uid": "24233726",
+  "pubdate": "2013 Nov 15",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Thalmann O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shapiro B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cui P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schuenemann VJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sawyer SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greenfield DL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Germonpré MB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sablin MV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "López-Giráldez F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Domingo-Roura X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Napierala H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Uerpmann HP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Loponte DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Acosta AA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giemsch L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmitz RW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Worthington B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Buikstra JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Druzhkova A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Graphodatsky AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ovodov ND",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wahlberg N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Freedman AH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schweizer RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koepfli KP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leonard JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krause J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pääbo S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Green RE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wayne RK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wayne RK",
+  "title": "Complete mitochondrial genomes of ancient canids suggest a European origin of domestic dogs.",
+  "sorttitle": "complete mitochondrial genomes of ancient canids suggest a european origin of domestic dogs",
+  "volume": "342",
+  "issue": "6160",
+  "pages": "871-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24233726"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "342/6160/871"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.1243650"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24233726"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24233726"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/11/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/11/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/12/16 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Science. 2013 Nov 15;342(6160):785-6",
+      "reftype": "Comment in",
+      "pmid": 24233697,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 109,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "doi: 10.1126/science.1243650",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/11/15 00:00",
+  "sortfirstauthor": "Thalmann O",
+  "vernaculartitle": ""
+}

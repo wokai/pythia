@@ -1,0 +1,119 @@
+{
+  "uid": "30576561",
+  "pubdate": "2019 Feb 1",
+  "epubdate": "",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Colicchio TK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cimino JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cimino JJ",
+  "title": "Clinicians' reasoning as reflected in electronic clinical note-entry and reading/retrieval: a systematic review and qualitative synthesis.",
+  "sorttitle": "clinicians reasoning as reflected in electronic clinical note entry and reading retrieval a systematic review and qualitative synthesis",
+  "volume": "26",
+  "issue": "2",
+  "pages": "172-184",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30576561"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "5255653"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/jamia/ocy155"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7647174"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30576561"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30576561"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7647174;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/08/14 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/10/27 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/12/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/01/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/12/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1093/jamia/ocy155",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/02/01 00:00",
+  "sortfirstauthor": "Colicchio TK",
+  "vernaculartitle": ""
+}

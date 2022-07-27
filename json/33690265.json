@@ -1,0 +1,334 @@
+{
+  "uid": "33690265",
+  "pubdate": "2021 Mar 9",
+  "epubdate": "2021 Mar 9",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Tegally H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wilkinson E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giovanetti M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iranzadeh A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fonseca V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giandhari J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Doolabh D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pillay S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "San EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Msomi N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mlisana K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "von Gottberg A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walaza S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Allam M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ismail A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mohale T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Glass AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Engelbrecht S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van Zyl G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Preiser W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petruccione F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sigal A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hardie D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marais G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hsiao M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Korsman S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davies MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tyers L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mudau I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "York D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maslo C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goedhals D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abrahams S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laguda-Akingba O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alisoltani-Dehkordi A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Godzik A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wibmer CK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sewell BT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lourenço J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alcantara LCJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kosakovsky Pond SL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weaver S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lessells RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bhiman JN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Williamson C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Oliveira T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "de Oliveira T",
+  "title": "Emergence of a SARS-CoV-2 variant of concern with mutations in spike glycoprotein.",
+  "sorttitle": "emergence of a sars cov 2 variant of concern with mutations in spike glycoprotein",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33690265"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-021-03402-9"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-021-03402-9"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33690265"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33690265"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/12/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/02/26 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/03/10 18:07"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/03/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/11 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-021-03402-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/09 00:00",
+  "sortfirstauthor": "Tegally H",
+  "vernaculartitle": ""
+}

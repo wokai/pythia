@@ -1,0 +1,157 @@
+{
+  "uid": "32415860",
+  "pubdate": "2021 Mar",
+  "epubdate": "2020 Nov 4",
+  "source": "Hepatology",
+  "authors": [
+    {
+      "name": "Bloom PP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyerowitz EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reinus Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Daidone M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gustafson J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim AY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schaefer E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chung RT",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chung RT",
+  "title": "Liver Biochemistries in Hospitalized Patients With COVID-19.",
+  "sorttitle": "liver biochemistries in hospitalized patients with covid 19",
+  "volume": "73",
+  "issue": "3",
+  "pages": "890-900",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8302946",
+  "issn": "0270-9139",
+  "essn": "1527-3350",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32415860"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/hep.31326"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32415860"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32415860"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "revised",
+      "date": "2020/05/13 00:00"
+    },
+    {
+      "pubstatus": "received",
+      "date": "2020/04/10 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/05/14 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/05/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/25 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/05/17 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Hepatology. 2021 Feb;73(2):875-876",
+      "reftype": "Comment in",
+      "pmid": 32767776,
+      "note": ""
+    },
+    {
+      "refsource": "Hepatology. 2021 Feb;73(2):874",
+      "reftype": "Comment in",
+      "pmid": 32767788,
+      "note": ""
+    },
+    {
+      "refsource": "Hepatology. 2021 Feb;73(2):875",
+      "reftype": "Comment in",
+      "pmid": 32767854,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 68,
+  "fulljournalname": "Hepatology (Baltimore, Md.)",
+  "elocationid": "doi: 10.1002/hep.31326",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/01 00:00",
+  "sortfirstauthor": "Bloom PP",
+  "vernaculartitle": ""
+}

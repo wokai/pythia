@@ -1,0 +1,129 @@
+{
+  "uid": "31754831",
+  "pubdate": "2019 Dec",
+  "epubdate": "2019 Nov 22",
+  "source": "Pflugers Arch",
+  "authors": [
+    {
+      "name": "Fandrey J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schödel J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eckardt KU",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Katschinski DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wenger RH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wenger RH",
+  "title": "Now a Nobel gas: oxygen.",
+  "sorttitle": "now a nobel gas oxygen",
+  "volume": "471",
+  "issue": "11-12",
+  "pages": "1343-1358",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0154720",
+  "issn": "0031-6768",
+  "essn": "1432-2013",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31754831"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00424-019-02334-8"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00424-019-02334-8"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31754831"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31754831"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/11/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/11/18 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/11/15 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/11/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/11/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Pflugers Archiv : European journal of physiology",
+  "elocationid": "doi: 10.1007/s00424-019-02334-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/12/01 00:00",
+  "sortfirstauthor": "Fandrey J",
+  "vernaculartitle": ""
+}

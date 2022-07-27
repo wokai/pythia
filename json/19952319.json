@@ -1,0 +1,159 @@
+{
+  "uid": "19952319",
+  "pubdate": "2009 Dec 2",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Vincent JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rello J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marshall J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Silva E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anzueto A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin CD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moreno R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipman J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gomersall C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sakr Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reinhart K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "EPIC II Group of Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Reinhart K",
+  "title": "International study of the prevalence and outcomes of infection in intensive care units.",
+  "sorttitle": "international study of the prevalence and outcomes of infection in intensive care units",
+  "volume": "302",
+  "issue": "21",
+  "pages": "2323-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19952319"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "302/21/2323"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2009.1754"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19952319"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19952319"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/12/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/12/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/12/16 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA. 2009 Dec 2;302(21):2367-8",
+      "reftype": "Comment in",
+      "pmid": 19952325,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 773,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2009.1754",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/12/02 00:00",
+  "sortfirstauthor": "Vincent JL",
+  "vernaculartitle": ""
+}

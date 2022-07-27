@@ -1,0 +1,146 @@
+{
+  "uid": "23782969",
+  "pubdate": "2013 Sep",
+  "epubdate": "",
+  "source": "Crit Care Med",
+  "authors": [
+    {
+      "name": "Ricard JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Salomon L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boyer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thiery G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meybeck A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roy C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pasquet B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Le Mière E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dreyfuss D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dreyfuss D",
+  "title": "Central or peripheral catheters for initial venous access of ICU patients: a randomized controlled trial.",
+  "sorttitle": "central or peripheral catheters for initial venous access of icu patients a randomized controlled trial",
+  "volume": "41",
+  "issue": "9",
+  "pages": "2108-15",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0355501",
+  "issn": "0090-3493",
+  "essn": "1530-0293",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23782969"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/CCM.0b013e31828a42c5"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23782969"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23782969"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/06/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/06/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/10/31 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Crit Care Med. 2014 Mar;42(3):e243-4",
+      "reftype": "Comment in",
+      "pmid": 24534980,
+      "note": ""
+    },
+    {
+      "refsource": "Crit Care Med. 2014 Mar;42(3):e244",
+      "reftype": "Comment in",
+      "pmid": 24534981,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Critical care medicine",
+  "elocationid": "doi: 10.1097/CCM.0b013e31828a42c5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/09/01 00:00",
+  "sortfirstauthor": "Ricard JD",
+  "vernaculartitle": ""
+}

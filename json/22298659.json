@@ -1,0 +1,119 @@
+{
+  "uid": "22298659",
+  "pubdate": "2012 Jan",
+  "epubdate": "",
+  "source": "Physiol Rev",
+  "authors": [
+    {
+      "name": "Sylvester JT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shimoda LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aaronson PI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ward JP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ward JP",
+  "title": "Hypoxic pulmonary vasoconstriction.",
+  "sorttitle": "hypoxic pulmonary vasoconstriction",
+  "volume": "92",
+  "issue": "1",
+  "pages": "367-520",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0231714",
+  "issn": "0031-9333",
+  "essn": "1522-1210",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22298659"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "92/1/367"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/physrev.00041.2010"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22298659"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22298659"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/02/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/02/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/04/06 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Physiol Rev. 2014 Jul;94(3):989",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 216,
+  "fulljournalname": "Physiological reviews",
+  "elocationid": "doi: 10.1152/physrev.00041.2010",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/01/01 00:00",
+  "sortfirstauthor": "Sylvester JT",
+  "vernaculartitle": ""
+}

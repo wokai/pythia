@@ -1,0 +1,118 @@
+{
+  "uid": "10877005",
+  "pubdate": "2000 May",
+  "epubdate": "",
+  "source": "Eur J Clin Pharmacol",
+  "authors": [
+    {
+      "name": "von Bahr C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ursing C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yasui N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tybring G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bertilsson L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Röjdmark S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Röjdmark S",
+  "title": "Fluvoxamine but not citalopram increases serum melatonin in healthy subjects-- an indication that cytochrome P450 CYP1A2 and CYP2C19 hydroxylate melatonin.",
+  "sorttitle": "fluvoxamine but not citalopram increases serum melatonin in healthy subjects an indication that cytochrome p450 cyp1a2 and cyp2c19 hydroxylate melatonin",
+  "volume": "56",
+  "issue": "2",
+  "pages": "123-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1256165",
+  "issn": "0031-6970",
+  "essn": "1432-1041",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "10877005"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s002280050729"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "10877005"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "10877005"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2000/07/06 11:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2000/10/14 11:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2000/07/06 11:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "European journal of clinical pharmacology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/05/01 00:00",
+  "sortfirstauthor": "von Bahr C",
+  "vernaculartitle": ""
+}

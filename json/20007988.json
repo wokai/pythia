@@ -1,0 +1,107 @@
+{
+  "uid": "20007988",
+  "pubdate": "2009 Dec",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Roth S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Roth S",
+  "title": "Perioperative visual loss: what do we know, what can we do?",
+  "sorttitle": "perioperative visual loss what do we know what can we do",
+  "volume": "103 Suppl 1",
+  "issue": "",
+  "pages": "i31-40",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20007988"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)33862-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aep295"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2791856"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20007988"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20007988"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2791856;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/12/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/12/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/02/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 29,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aep295",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/12/01 00:00",
+  "sortfirstauthor": "Roth S",
+  "vernaculartitle": ""
+}

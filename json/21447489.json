@@ -1,0 +1,147 @@
+{
+  "uid": "21447489",
+  "pubdate": "2011 May",
+  "epubdate": "2011 Mar 29",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Cook TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Woodall N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harper J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benger J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fourth National Audit Project.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Benger J",
+  "title": "Major complications of airway management in the UK: results of the Fourth National Audit Project of the Royal College of Anaesthetists and the Difficult Airway Society. Part 2: intensive care and emergency departments.",
+  "sorttitle": "major complications of airway management in the uk results of the fourth national audit project of the royal college of anaesthetists and the difficult airway society part 2 intensive care and emergency departments",
+  "volume": "106",
+  "issue": "5",
+  "pages": "632-42",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21447489"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)33210-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aer059"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21447489"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21447489"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/03/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/03/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/06/24 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2011 May;106(5):613-6",
+      "reftype": "Comment in",
+      "pmid": 21498493,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2011 Oct;107(4):636; author reply 636-8",
+      "reftype": "Comment in",
+      "pmid": 21903644,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2013 Feb;110(2):315-6",
+      "reftype": "Comment in",
+      "pmid": 23319675,
+      "note": ""
+    },
+    {
+      "refsource": "BMJ. 2018 Aug 16;362:k3549",
+      "reftype": "Comment in",
+      "pmid": 30115625,
+      "note": ""
+    },
+    {
+      "refsource": "Eur J Anaesthesiol. 2020 Jun;37(6):503-504",
+      "reftype": "Comment in",
+      "pmid": 32379147,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 139,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aer059",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/05/01 00:00",
+  "sortfirstauthor": "Cook TM",
+  "vernaculartitle": ""
+}

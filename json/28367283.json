@@ -1,0 +1,121 @@
+{
+  "uid": "28367283",
+  "pubdate": "2017 Apr",
+  "epubdate": "2017 Feb 3",
+  "source": "Korean J Anesthesiol",
+  "authors": [
+    {
+      "name": "Kwak KH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kwak KH",
+  "title": "Postdural puncture headache.",
+  "sorttitle": "postdural puncture headache",
+  "volume": "70",
+  "issue": "2",
+  "pages": "136-143",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101502451",
+  "issn": "2005-6419",
+  "essn": "2005-7563",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28367283"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.4097/kjae.2017.70.2.136"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5370299"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28367283"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28367283"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5370299;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/11/18 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/11/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/12/19 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/04/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/04/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/04/04 06:01"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Korean J Anesthesiol. 2018 Feb;71(1):73-74",
+      "reftype": "Comment in",
+      "pmid": 29441179,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "Korean journal of anesthesiology",
+  "elocationid": "doi: 10.4097/kjae.2017.70.2.136",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/04/01 00:00",
+  "sortfirstauthor": "Kwak KH",
+  "vernaculartitle": ""
+}

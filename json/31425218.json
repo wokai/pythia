@@ -1,0 +1,184 @@
+{
+  "uid": "31425218",
+  "pubdate": "2019 Sep",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Moore HB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moore EE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neal MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sheppard FR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kornblith LZ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Draxler DF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walsh M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Medcalf RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cohen MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cotton BA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomas SG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leeper CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gaines BA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sauaia A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sauaia A",
+  "title": "Fibrinolysis Shutdown in Trauma: Historical Review and Clinical Implications.",
+  "sorttitle": "fibrinolysis shutdown in trauma historical review and clinical implications",
+  "volume": "129",
+  "issue": "3",
+  "pages": "762-773",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31425218"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000004234"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201909000-00024"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7340109"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1602052"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31425218"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31425218"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7340109;manuscript-id: NIHMS1602052;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/08/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/08/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/18 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2019 Sep;129(3):644-646",
+      "reftype": "Comment in",
+      "pmid": 31425200,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000004234",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/09/01 00:00",
+  "sortfirstauthor": "Moore HB",
+  "vernaculartitle": ""
+}

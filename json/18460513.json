@@ -1,0 +1,111 @@
+{
+  "uid": "18460513",
+  "pubdate": "2008 May",
+  "epubdate": "",
+  "source": "Chest",
+  "authors": [
+    {
+      "name": "Karanicolas PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kunz R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyatt GH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Guyatt GH",
+  "title": "Point: evidence-based medicine has a sound scientific base.",
+  "sorttitle": "point evidence based medicine has a sound scientific base",
+  "volume": "133",
+  "issue": "5",
+  "pages": "1067-71",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0231335",
+  "issn": "0012-3692",
+  "essn": "1931-3543",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18460513"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0012-3692(15)51732-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1378/chest.08-0068"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18460513"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18460513"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/05/08 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/06/25 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/05/08 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Chest. 2009 Jan;135(1):245; author reply 245-6",
+      "reftype": "Comment in",
+      "pmid": 19136417,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Chest",
+  "elocationid": "doi: 10.1378/chest.08-0068",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/05/01 00:00",
+  "sortfirstauthor": "Karanicolas PJ",
+  "vernaculartitle": ""
+}

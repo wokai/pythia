@@ -1,0 +1,98 @@
+{
+  "uid": "2628507",
+  "pubdate": "1989 Dec",
+  "epubdate": "",
+  "source": "Int J Clin Monit Comput",
+  "authors": [
+    {
+      "name": "Shabot MM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Shabot MM",
+  "title": "Standardized acquisition of bedside data: the IEEE P1073 medical information bus.",
+  "sorttitle": "standardized acquisition of bedside data the ieee p1073 medical information bus",
+  "volume": "6",
+  "issue": "4",
+  "pages": "197-204",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8601284",
+  "issn": "0167-9945",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "2628507"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/BF01733623"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "2628507"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "2628507"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1989/12/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1989/12/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1989/12/01 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Int J Clin Monit Comput. 1989 Dec;6(4):205-9",
+      "reftype": "Comment in",
+      "pmid": 2628508,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "International journal of clinical monitoring and computing",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1989/12/01 00:00",
+  "sortfirstauthor": "Shabot MM",
+  "vernaculartitle": ""
+}

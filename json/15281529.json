@@ -1,0 +1,97 @@
+{
+  "uid": "15281529",
+  "pubdate": "2004 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Petrucci N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iacovelli W",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Iacovelli W",
+  "title": "Ventilation with smaller tidal volumes: a quantitative systematic review of randomized controlled trials.",
+  "sorttitle": "ventilation with smaller tidal volumes a quantitative systematic review of randomized controlled trials",
+  "volume": "99",
+  "issue": "1",
+  "pages": "193-200",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15281529"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/01.ane.0000118102.93688.97"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15281529"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15281529"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/07/30 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/08/27 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/07/30 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/07/01 00:00",
+  "sortfirstauthor": "Petrucci N",
+  "vernaculartitle": ""
+}

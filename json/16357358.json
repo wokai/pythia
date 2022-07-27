@@ -1,0 +1,121 @@
+{
+  "uid": "16357358",
+  "pubdate": "2006 Mar-Apr",
+  "epubdate": "2005 Dec 15",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "van der Sijs H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aarts J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vulto A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berg M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Berg M",
+  "title": "Overriding of drug safety alerts in computerized physician order entry.",
+  "sorttitle": "overriding of drug safety alerts in computerized physician order entry",
+  "volume": "13",
+  "issue": "2",
+  "pages": "138-47",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16357358"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "M1809"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1197/jamia.M1809"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC1447540"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16357358"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16357358"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC1447540;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/12/17 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/04/08 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/12/17 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 323,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2006/03/01 00:00",
+  "sortfirstauthor": "van der Sijs H",
+  "vernaculartitle": ""
+}

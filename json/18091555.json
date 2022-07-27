@@ -1,0 +1,155 @@
+{
+  "uid": "18091555",
+  "pubdate": "2008 Mar",
+  "epubdate": "",
+  "source": "Crit Care Med",
+  "authors": [
+    {
+      "name": "Cressoni M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Caironi P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Polli F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carlesso E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chiumello D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cadringher P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Quintel M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ranieri VM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bugedo G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gattinoni L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gattinoni L",
+  "title": "Anatomical and functional intrapulmonary shunt in acute respiratory distress syndrome.",
+  "sorttitle": "anatomical and functional intrapulmonary shunt in acute respiratory distress syndrome",
+  "volume": "36",
+  "issue": "3",
+  "pages": "669-75",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0355501",
+  "issn": "0090-3493",
+  "essn": "1530-0293",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18091555"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/01.CCM.0000300276.12074.E1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18091555"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18091555"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/12/20 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/05/30 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/12/20 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Crit Care Med. 2008 Mar;36(3):983-4",
+      "reftype": "Comment in",
+      "pmid": 18431288,
+      "note": ""
+    },
+    {
+      "refsource": "Crit Care Med. 2008 Sep;36(9):2713-4; author reply 2714-5",
+      "reftype": "Comment in",
+      "pmid": 18728502,
+      "note": ""
+    },
+    {
+      "refsource": "Crit Care Med. 2008 Sep;36(9):2713; author reply 2714-5",
+      "reftype": "Comment in",
+      "pmid": 18728503,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 30,
+  "fulljournalname": "Critical care medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/03/01 00:00",
+  "sortfirstauthor": "Cressoni M",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,118 @@
+{
+  "uid": "26976247",
+  "pubdate": "2016 Mar 14",
+  "epubdate": "2016 Mar 14",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Chhabra A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Subramaniam R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Srivastava A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prabhakar H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kalaivani M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paranjape S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Paranjape S",
+  "title": "Spectral entropy monitoring for adults and children undergoing general anaesthesia.",
+  "sorttitle": "spectral entropy monitoring for adults and children undergoing general anaesthesia",
+  "volume": "3",
+  "issue": "",
+  "pages": "CD010135",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26976247"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD010135.pub2"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26976247"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26976247"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/03/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/03/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/07/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD010135.pub2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/03/14 00:00",
+  "sortfirstauthor": "Chhabra A",
+  "vernaculartitle": ""
+}

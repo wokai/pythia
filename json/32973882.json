@@ -1,0 +1,169 @@
+{
+  "uid": "32973882",
+  "pubdate": "2020",
+  "epubdate": "2020 Aug 21",
+  "source": "Front Genet",
+  "authors": [
+    {
+      "name": "Cismaru AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grimm L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rudin D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ibañez L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liakoni E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bonadies N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kreutz R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hallberg P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wadelius M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "EuDAC Collaborators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Haschke M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Largiadèr CR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Amstutz U",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Amstutz U",
+  "title": "High-Throughput Sequencing to Investigate Associations Between HLA Genes and Metamizole-Induced Agranulocytosis.",
+  "sorttitle": "high throughput sequencing to investigate associations between hla genes and metamizole induced agranulocytosis",
+  "volume": "11",
+  "issue": "",
+  "pages": "951",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101560621",
+  "issn": "",
+  "essn": "1664-8021",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32973882"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fgene.2020.00951"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7473498"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32973882"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32973882"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7473498;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/03/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/07/29 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/25 06:02"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/26 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Frontiers in genetics",
+  "elocationid": "doi: 10.3389/fgene.2020.00951",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/21 00:00",
+  "sortfirstauthor": "Cismaru AL",
+  "vernaculartitle": ""
+}

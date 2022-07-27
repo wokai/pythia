@@ -1,0 +1,116 @@
+{
+  "uid": "24482835",
+  "pubdate": "2014 Jan 30",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Collins FS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tabak LA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tabak LA",
+  "title": "Policy: NIH plans to enhance reproducibility.",
+  "sorttitle": "policy nih plans to enhance reproducibility",
+  "volume": "505",
+  "issue": "7485",
+  "pages": "612-3",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24482835"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4058759"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS574872"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/505612a"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24482835"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24482835"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4058759;manuscript-id: NIHMS574872;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/02/01 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/02/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/02/19 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2014 Mar 20;507(7492):306",
+      "reftype": "Comment in",
+      "pmid": 24646984,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 414,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/01/30 00:00",
+  "sortfirstauthor": "Collins FS",
+  "vernaculartitle": ""
+}

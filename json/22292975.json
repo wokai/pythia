@@ -1,0 +1,106 @@
+{
+  "uid": "22292975",
+  "pubdate": "2012 Feb",
+  "epubdate": "2012 Jan 31",
+  "source": "Clin Toxicol (Phila)",
+  "authors": [
+    {
+      "name": "Sullivan R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hodgman MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kao L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tormoehlen LM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tormoehlen LM",
+  "title": "Baclofen overdose mimicking brain death.",
+  "sorttitle": "baclofen overdose mimicking brain death",
+  "volume": "50",
+  "issue": "2",
+  "pages": "141-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101241654",
+  "issn": "1556-3650",
+  "essn": "1556-9519",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22292975"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3109/15563650.2011.654209"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22292975"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22292975"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/02/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/02/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/03/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "Clinical toxicology (Philadelphia, Pa.)",
+  "elocationid": "doi: 10.3109/15563650.2011.654209",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/02/01 00:00",
+  "sortfirstauthor": "Sullivan R",
+  "vernaculartitle": ""
+}

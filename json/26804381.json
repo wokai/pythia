@@ -1,0 +1,97 @@
+{
+  "uid": "26804381",
+  "pubdate": "2016 Jun",
+  "epubdate": "2016 Jan 21",
+  "source": "Semin Perinatol",
+  "authors": [
+    {
+      "name": "Fleischman AR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Fleischman AR",
+  "title": "Ethical issues in neonatal research involving human subjects.",
+  "sorttitle": "ethical issues in neonatal research involving human subjects",
+  "volume": "40",
+  "issue": "4",
+  "pages": "247-53",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7801132",
+  "issn": "0146-0005",
+  "essn": "1558-075X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26804381"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0146-0005(15)00206-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1053/j.semperi.2015.12.014"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26804381"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26804381"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/01/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/01/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/01/02 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Seminars in perinatology",
+  "elocationid": "doi: 10.1053/j.semperi.2015.12.014",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/06/01 00:00",
+  "sortfirstauthor": "Fleischman AR",
+  "vernaculartitle": ""
+}

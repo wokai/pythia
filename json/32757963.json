@@ -1,0 +1,240 @@
+{
+  "uid": "32757963",
+  "pubdate": "2021 Jan 15",
+  "epubdate": "",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "Kyriazopoulou E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liaskou-Antoniou L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Adamis G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Panagaki A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Melachroinopoulos N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Drakou E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marousis K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chrysos G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spyrou A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alexiou N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Symbardi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alexiou Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lagou S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kolonia V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gkavogianni T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kyprianou M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anagnostopoulos I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Poulakou G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lada M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Makina A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roulia E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koupetori M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Apostolopoulos V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petrou D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nitsotolis T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Antoniadou A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giamarellos-Bourboulis EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Giamarellos-Bourboulis EJ",
+  "title": "Procalcitonin to Reduce Long-Term Infection-associated Adverse Events in Sepsis. A Randomized Trial.",
+  "sorttitle": "procalcitonin to reduce long term infection associated adverse events in sepsis a randomized trial",
+  "volume": "203",
+  "issue": "2",
+  "pages": "202-210",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32757963"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/rccm.202004-1201OC"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7874409"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32757963"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32757963"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7874409;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/12 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/08 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Am J Respir Crit Care Med. 2021 Jan 15;203(2):157-158",
+      "reftype": "Comment in",
+      "pmid": 32936687,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "doi: 10.1164/rccm.202004-1201OC",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/15 00:00",
+  "sortfirstauthor": "Kyriazopoulou E",
+  "vernaculartitle": ""
+}

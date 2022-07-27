@@ -1,0 +1,119 @@
+{
+  "uid": "25975356",
+  "pubdate": "2015 May 15",
+  "epubdate": "2015 May 15",
+  "source": "BMC Anesthesiol",
+  "authors": [
+    {
+      "name": "Zabolotskikh I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Trembach N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Trembach N",
+  "title": "Safety and efficacy of combined epidural/general anesthesia during major abdominal surgery in patients with increased intracranial pressure: a cohort study.",
+  "sorttitle": "safety and efficacy of combined epidural general anesthesia during major abdominal surgery in patients with increased intracranial pressure a cohort study",
+  "volume": "15",
+  "issue": "",
+  "pages": "76",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100968535",
+  "issn": "",
+  "essn": "1471-2253",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25975356"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s12871-015-0056-2"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s12871-015-0056-2"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4438572"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25975356"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25975356"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4438572;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/11/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/05/11 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/05/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/05/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/01/12 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "BMC anesthesiology",
+  "elocationid": "doi: 10.1186/s12871-015-0056-2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/05/15 00:00",
+  "sortfirstauthor": "Zabolotskikh I",
+  "vernaculartitle": ""
+}

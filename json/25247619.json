@@ -1,0 +1,87 @@
+{
+  "uid": "25247619",
+  "pubdate": "2014",
+  "epubdate": "",
+  "source": "Immunohematology",
+  "authors": [
+    {
+      "name": "Curtis BR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Curtis BR",
+  "title": "Drug-induced immune neutropenia/agranulocytosis.",
+  "sorttitle": "drug induced immune neutropenia agranulocytosis",
+  "volume": "30",
+  "issue": "2",
+  "pages": "95-101",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8806387",
+  "issn": "0894-203X",
+  "essn": "1930-3955",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25247619"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25247619"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25247619"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/09/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/09/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/11/11 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 14,
+  "fulljournalname": "Immunohematology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/01/01 00:00",
+  "sortfirstauthor": "Curtis BR",
+  "vernaculartitle": ""
+}

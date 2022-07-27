@@ -1,0 +1,111 @@
+{
+  "uid": "29767636",
+  "pubdate": "2018 Jun",
+  "epubdate": "",
+  "source": "Crit Care Med",
+  "authors": [
+    {
+      "name": "Levy MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Evans LE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rhodes A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rhodes A",
+  "title": "The Surviving Sepsis Campaign Bundle: 2018 Update.",
+  "sorttitle": "surviving sepsis campaign bundle 2018 update",
+  "volume": "46",
+  "issue": "6",
+  "pages": "997-1000",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0355501",
+  "issn": "0090-3493",
+  "essn": "1530-0293",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29767636"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/CCM.0000000000003119"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00003246-201806000-00021"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29767636"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29767636"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/05/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/05/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/09/20 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur J Emerg Med. 2019 Aug;26(4):232-233",
+      "reftype": "Comment in",
+      "pmid": 31116120,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 120,
+  "fulljournalname": "Critical care medicine",
+  "elocationid": "doi: 10.1097/CCM.0000000000003119",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/06/01 00:00",
+  "sortfirstauthor": "Levy MM",
+  "vernaculartitle": ""
+}

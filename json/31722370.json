@@ -1,0 +1,133 @@
+{
+  "uid": "31722370",
+  "pubdate": "2020 Oct 14",
+  "epubdate": "",
+  "source": "Eur Heart J",
+  "authors": [
+    {
+      "name": "Iborra-Egea O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rueda F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "García-García C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Borràs E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sabidó E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bayes-Genis A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bayes-Genis A",
+  "title": "Molecular signature of cardiogenic shock.",
+  "sorttitle": "molecular signature of cardiogenic shock",
+  "volume": "41",
+  "issue": "39",
+  "pages": "3839-3848",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8006263",
+  "issn": "0195-668X",
+  "essn": "1522-9645",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31722370"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "5625108"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/eurheartj/ehz783"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31722370"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31722370"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/05/23 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/07/16 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/10/25 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/11/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/11/14 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/11/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "European heart journal",
+  "elocationid": "doi: 10.1093/eurheartj/ehz783",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/14 00:00",
+  "sortfirstauthor": "Iborra-Egea O",
+  "vernaculartitle": ""
+}

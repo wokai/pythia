@@ -1,0 +1,102 @@
+{
+  "uid": "21750297",
+  "pubdate": "2011 Jul 13",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Suffredini AF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Munford RS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Munford RS",
+  "title": "Novel therapies for septic shock over the past 4 decades.",
+  "sorttitle": "novel therapies for septic shock over the past 4 decades",
+  "volume": "306",
+  "issue": "2",
+  "pages": "194-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21750297"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "306/2/194"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2011.909"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21750297"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21750297"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/07/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/07/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/07/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 32,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2011.909",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/07/13 00:00",
+  "sortfirstauthor": "Suffredini AF",
+  "vernaculartitle": ""
+}

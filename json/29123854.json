@@ -1,0 +1,125 @@
+{
+  "uid": "29123854",
+  "pubdate": "2017 Apr",
+  "epubdate": "2017 Mar 6",
+  "source": "Acute Med Surg",
+  "authors": [
+    {
+      "name": "Sekimoto K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tobe M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saito S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Saito S",
+  "title": "Local anesthetic toxicity: acute and chronic management.",
+  "sorttitle": "local anesthetic toxicity acute and chronic management",
+  "volume": "4",
+  "issue": "2",
+  "pages": "152-160",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101635464",
+  "issn": "",
+  "essn": "2052-8817",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29123854"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/ams2.265"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "AMS2265"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5667269"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29123854"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29123854"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5667269;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/07/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/12/30 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/11/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/11/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/11/11 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Acute medicine & surgery",
+  "elocationid": "doi: 10.1002/ams2.265",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/03/06 00:00",
+  "sortfirstauthor": "Sekimoto K",
+  "vernaculartitle": ""
+}

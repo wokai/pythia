@@ -1,0 +1,113 @@
+{
+  "uid": "25136993",
+  "pubdate": "2014 Sep",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Memtsoudis SG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu SS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Liu SS",
+  "title": "Do neuraxial techniques affect perioperative outcomes? The story of vantage points and number games.",
+  "sorttitle": "do neuraxial techniques affect perioperative outcomes the story of vantage points and number games",
+  "volume": "119",
+  "issue": "3",
+  "pages": "501-2",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Comment",
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25136993"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000000276"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201409000-00001"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25136993"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25136993"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/08/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/08/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/10/07 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2014 Sep;119(3):716-25",
+      "reftype": "Comment on",
+      "pmid": 24977635,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2014 Sep;119(3):740-4",
+      "reftype": "Comment on",
+      "pmid": 25137006,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 2,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000000276",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/09/01 00:00",
+  "sortfirstauthor": "Memtsoudis SG",
+  "vernaculartitle": ""
+}

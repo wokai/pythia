@@ -1,0 +1,139 @@
+{
+  "uid": "24147111",
+  "pubdate": "2013",
+  "epubdate": "2013 Oct 16",
+  "source": "PLoS One",
+  "authors": [
+    {
+      "name": "Wang ZM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lin MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tan B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Qiu HB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yu WF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Yu WF",
+  "title": "Influence of obstructive jaundice on pharmacodynamics of rocuronium.",
+  "sorttitle": "influence of obstructive jaundice on pharmacodynamics of rocuronium",
+  "volume": "8",
+  "issue": "10",
+  "pages": "e78052",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101285081",
+  "issn": "",
+  "essn": "1932-6203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24147111"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pone.0078052"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PONE-D-13-24770"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3797760"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24147111"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24147111"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3797760;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/06/13 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2013/09/09 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/10/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/10/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/06/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "PloS one",
+  "elocationid": "doi: 10.1371/journal.pone.0078052",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/10/16 00:00",
+  "sortfirstauthor": "Wang ZM",
+  "vernaculartitle": ""
+}

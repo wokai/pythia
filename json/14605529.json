@@ -1,0 +1,158 @@
+{
+  "uid": "14605529",
+  "pubdate": "2003 Nov",
+  "epubdate": "",
+  "source": "Crit Care Med",
+  "authors": [
+    {
+      "name": "Brower RG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morris A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "MacIntyre N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Matthay MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hayden D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thompson T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clemmer T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lanken PN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schoenfeld D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "ARDS Clinical Trials Network, National Heart, Lung, and Blood Institute, National Institutes of Health.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schoenfeld D",
+  "title": "Effects of recruitment maneuvers in patients with acute lung injury and acute respiratory distress syndrome ventilated with high positive end-expiratory pressure.",
+  "sorttitle": "effects of recruitment maneuvers in patients with acute lung injury and acute respiratory distress syndrome ventilated with high positive end expiratory pressure",
+  "volume": "31",
+  "issue": "11",
+  "pages": "2592-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0355501",
+  "issn": "0090-3493",
+  "essn": "1530-0293",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14605529"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/01.CCM.0000090001.91640.45"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14605529"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14605529"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/11/08 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/12/12 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/11/08 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Crit Care Med. 2004 Mar;32(3):907",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Crit Care Med. 2003 Nov;31(11):2701-3",
+      "reftype": "Comment in",
+      "pmid": 14605547,
+      "note": ""
+    },
+    {
+      "refsource": "Crit Care Med. 2004 Jun;32(6):1441-2; author reply 1442",
+      "reftype": "Comment in",
+      "pmid": 15187556,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 39,
+  "fulljournalname": "Critical care medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/11/01 00:00",
+  "sortfirstauthor": "Brower RG",
+  "vernaculartitle": ""
+}

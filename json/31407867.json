@@ -1,0 +1,119 @@
+{
+  "uid": "31407867",
+  "pubdate": "2020 Jan",
+  "epubdate": "2019 Aug 13",
+  "source": "Wiley Interdiscip Rev Syst Biol Med",
+  "authors": [
+    {
+      "name": "Mukund K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Subramaniam S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Subramaniam S",
+  "title": "Skeletal muscle: A review of molecular structure and function, in health and disease.",
+  "sorttitle": "skeletal muscle a review of molecular structure and function in health and disease",
+  "volume": "12",
+  "issue": "1",
+  "pages": "e1462",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101516550",
+  "issn": "1939-5094",
+  "essn": "1939-005X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31407867"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/wsbm.1462"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6916202"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31407867"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31407867"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6916202;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/04/15 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/07/03 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/07/03 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/08/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/06/03 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/08/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 32,
+  "fulljournalname": "Wiley interdisciplinary reviews. Systems biology and medicine",
+  "elocationid": "doi: 10.1002/wsbm.1462",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/01/01 00:00",
+  "sortfirstauthor": "Mukund K",
+  "vernaculartitle": ""
+}

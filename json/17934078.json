@@ -1,0 +1,122 @@
+{
+  "uid": "17934078",
+  "pubdate": "2007 Oct",
+  "epubdate": "",
+  "source": "Clin Microbiol Rev",
+  "authors": [
+    {
+      "name": "Cheng VC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lau SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Woo PC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yuen KY",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Yuen KY",
+  "title": "Severe acute respiratory syndrome coronavirus as an agent of emerging and reemerging infection.",
+  "sorttitle": "severe acute respiratory syndrome coronavirus as an agent of emerging and reemerging infection",
+  "volume": "20",
+  "issue": "4",
+  "pages": "660-94",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8807282",
+  "issn": "0893-8512",
+  "essn": "1098-6618",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17934078"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "20/4/660"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1128/CMR.00023-07"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2176051"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17934078"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17934078"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2176051;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/10/16 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/12/06 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/10/16 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 348,
+  "fulljournalname": "Clinical microbiology reviews",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/10/01 00:00",
+  "sortfirstauthor": "Cheng VC",
+  "vernaculartitle": ""
+}

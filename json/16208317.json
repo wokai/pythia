@@ -1,0 +1,195 @@
+{
+  "uid": "16208317",
+  "pubdate": "2005 Oct 20",
+  "epubdate": "2005 Oct 5",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Ghedin E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sengamalay NA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shumway M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zaborsky J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feldblyum T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Subbu V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spiro DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sitz J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koo H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bolotov P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dernovoy D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tatusova T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bao Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "St George K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taylor J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipman DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fraser CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taubenberger JK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Salzberg SL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Salzberg SL",
+  "title": "Large-scale sequencing of human influenza reveals the dynamic nature of viral genome evolution.",
+  "sorttitle": "large scale sequencing of human influenza reveals the dynamic nature of viral genome evolution",
+  "volume": "437",
+  "issue": "7062",
+  "pages": "1162-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16208317"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature04239"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature04239"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16208317"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16208317"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2005/07/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2005/09/16 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/10/07 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/10/29 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/10/07 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 185,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/10/20 00:00",
+  "sortfirstauthor": "Ghedin E",
+  "vernaculartitle": ""
+}

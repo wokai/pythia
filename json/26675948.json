@@ -1,0 +1,117 @@
+{
+  "uid": "26675948",
+  "pubdate": "2016 Jan",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Partridge H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perkins B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mathieu S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nicholls A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Adeniji K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Adeniji K",
+  "title": "Clinical recommendations in the management of the patient with type 1 diabetes on insulin pump therapy in the perioperative period: a primer for the anaesthetist.",
+  "sorttitle": "clinical recommendations in the management of the patient with type 1 diabetes on insulin pump therapy in the perioperative period a primer for the anaesthetist",
+  "volume": "116",
+  "issue": "1",
+  "pages": "18-26",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26675948"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)30519-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aev347"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26675948"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26675948"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/12/18 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/12/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/04/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aev347",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/01/01 00:00",
+  "sortfirstauthor": "Partridge H",
+  "vernaculartitle": ""
+}

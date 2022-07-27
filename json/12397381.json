@@ -1,0 +1,100 @@
+{
+  "uid": "12397381",
+  "pubdate": "2002 Oct",
+  "epubdate": "2002 Sep 6",
+  "source": "Pflugers Arch",
+  "authors": [
+    {
+      "name": "Tyberg JV",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tyberg JV",
+  "title": "How changes in venous capacitance modulate cardiac output.",
+  "sorttitle": "how changes in venous capacitance modulate cardiac output",
+  "volume": "445",
+  "issue": "1",
+  "pages": "10-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0154720",
+  "issn": "0031-6768",
+  "essn": "1432-2013",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12397381"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00424-002-0922-x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12397381"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12397381"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2002/06/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2002/07/18 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2002/10/25 04:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/08/06 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2002/10/25 04:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Pflugers Archiv : European journal of physiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2002/10/01 00:00",
+  "sortfirstauthor": "Tyberg JV",
+  "vernaculartitle": ""
+}

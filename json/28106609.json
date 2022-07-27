@@ -1,0 +1,107 @@
+{
+  "uid": "28106609",
+  "pubdate": "2017 Mar",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Simpao AF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gálvez JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cannesson M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cannesson M",
+  "title": "Should We Fear Computers or the Lack of Them? Technology, Digital Quality Improvement, and the Care Redesign Process.",
+  "sorttitle": "should we fear computers or the lack of them technology digital quality improvement and the care redesign process",
+  "volume": "126",
+  "issue": "3",
+  "pages": "369-370",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Comment",
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28106609"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000001517"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28106609"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28106609"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/01/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/12/26 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/01/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2017 Mar;126(3):431-440",
+      "reftype": "Comment on",
+      "pmid": 28106608,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000001517",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/03/01 00:00",
+  "sortfirstauthor": "Simpao AF",
+  "vernaculartitle": ""
+}

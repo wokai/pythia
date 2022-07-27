@@ -1,0 +1,95 @@
+{
+  "uid": "24448603",
+  "pubdate": "2014 Jan 21",
+  "epubdate": "2014 Jan 21",
+  "source": "BMJ",
+  "authors": [
+    {
+      "name": "Smith R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rennie D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rennie D",
+  "title": "Evidence based medicine--an oral history.",
+  "sorttitle": "evidence based medicine an oral history",
+  "volume": "348",
+  "issue": "",
+  "pages": "g371",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8900488",
+  "issn": "0959-8138",
+  "essn": "1756-1833",
+  "pubtype": [
+    "Editorial",
+    "Historical Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24448603"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmj.g371"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24448603"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24448603"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/01/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/01/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/03/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 3,
+  "fulljournalname": "BMJ (Clinical research ed.)",
+  "elocationid": "doi: 10.1136/bmj.g371",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/01/21 00:00",
+  "sortfirstauthor": "Smith R",
+  "vernaculartitle": ""
+}

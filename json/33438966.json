@@ -1,0 +1,107 @@
+{
+  "uid": "33438966",
+  "pubdate": "2021 Mar 1",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Weinberg GL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Weinberg GL",
+  "title": "Perioperative Lidocaine Infusion: Does the Risk Outweigh the Benefit?",
+  "sorttitle": "perioperative lidocaine infusion does the risk outweigh the benefit",
+  "volume": "132",
+  "issue": "3",
+  "pages": "906-909",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33438966"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000005322"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-202103000-00039"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33438966"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33438966"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/13 11:02"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2021 Jul 1;133(1):e12-e14",
+      "reftype": "Comment in",
+      "pmid": 34127603,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2021 Jul 1;133(1):e14",
+      "reftype": "Comment in",
+      "pmid": 34127604,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000005322",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/01 00:00",
+  "sortfirstauthor": "Weinberg GL",
+  "vernaculartitle": ""
+}

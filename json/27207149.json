@@ -1,0 +1,155 @@
+{
+  "uid": "27207149",
+  "pubdate": "2016 Dec",
+  "epubdate": "2016 May 20",
+  "source": "Intensive Care Med Exp",
+  "authors": [
+    {
+      "name": "Jain SV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kollisch-Singule M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sadowitz B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dombert L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Satalin J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Andrews P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gatto LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nieman GF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Habashi NM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Habashi NM",
+  "title": "The 30-year evolution of airway pressure release ventilation (APRV).",
+  "sorttitle": "30 year evolution of airway pressure release ventilation aprv",
+  "volume": "4",
+  "issue": "1",
+  "pages": "11",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101645149",
+  "issn": "",
+  "essn": "2197-425X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27207149"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s40635-016-0085-2"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s40635-016-0085-2"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4875584"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27207149"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27207149"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4875584;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/01/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/05/03 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/05/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/05/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/05/22 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 35,
+  "fulljournalname": "Intensive care medicine experimental",
+  "elocationid": "doi: 10.1186/s40635-016-0085-2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/12/01 00:00",
+  "sortfirstauthor": "Jain SV",
+  "vernaculartitle": ""
+}

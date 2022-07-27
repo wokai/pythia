@@ -1,0 +1,112 @@
+{
+  "uid": "22505868",
+  "pubdate": "2012 Apr 15",
+  "epubdate": "2012 Apr 15",
+  "source": "J Clin Sleep Med",
+  "authors": [
+    {
+      "name": "Vasu TS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grewal R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Doghramji K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Doghramji K",
+  "title": "Obstructive sleep apnea syndrome and perioperative complications: a systematic review of the literature.",
+  "sorttitle": "obstructive sleep apnea syndrome and perioperative complications a systematic review of the literature",
+  "volume": "8",
+  "issue": "2",
+  "pages": "199-207",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101231977",
+  "issn": "1550-9389",
+  "essn": "1550-9397",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22505868"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.5664/jcsm.1784"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3311420"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22505868"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22505868"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3311420;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/04/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/04/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/08/25 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 31,
+  "fulljournalname": "Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine",
+  "elocationid": "doi: 10.5664/jcsm.1784",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/04/15 00:00",
+  "sortfirstauthor": "Vasu TS",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,113 @@
+{
+  "uid": "16062651",
+  "pubdate": "1971 May 28",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Vondra CF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnson GD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bowen BE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Behrensmeyer AK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Behrensmeyer AK",
+  "title": "Preliminary stratigraphical studies of the East Rudolf basin, kenya.",
+  "sorttitle": "preliminary stratigraphical studies of the east rudolf basin kenya",
+  "volume": "231",
+  "issue": "5300",
+  "pages": "245-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "News"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16062651"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "231245a0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/231245a0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16062651"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16062651"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "revised",
+      "date": "1971/03/26 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "1971/05/28 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1971/05/28 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1971/05/28 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1971/05/28 00:00",
+  "sortfirstauthor": "Vondra CF",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,102 @@
+{
+  "uid": "26348424",
+  "pubdate": "2015 Oct",
+  "epubdate": "",
+  "source": "Curr Opin Crit Care",
+  "authors": [
+    {
+      "name": "Docherty AB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lone NI",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lone NI",
+  "title": "Exploiting big data for critical care research.",
+  "sorttitle": "exploiting big data for critical care research",
+  "volume": "21",
+  "issue": "5",
+  "pages": "467-72",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9504454",
+  "issn": "1070-5295",
+  "essn": "1531-7072",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26348424"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/MCC.0000000000000228"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00075198-201510000-00015"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26348424"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26348424"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/09/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/09/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/07/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Current opinion in critical care",
+  "elocationid": "doi: 10.1097/MCC.0000000000000228",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/10/01 00:00",
+  "sortfirstauthor": "Docherty AB",
+  "vernaculartitle": ""
+}

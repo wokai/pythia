@@ -1,0 +1,149 @@
+{
+  "uid": "26352116",
+  "pubdate": "2016 Jan 1",
+  "epubdate": "",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "Riviello ED",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kiviri W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Twagirumugabe T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mueller A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Banner-Goodspeed VM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Officer L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Novack V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mutumwinka M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Talmor DS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fowler RA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Fowler RA",
+  "title": "Hospital Incidence and Outcomes of the Acute Respiratory Distress Syndrome Using the Kigali Modification of the Berlin Definition.",
+  "sorttitle": "hospital incidence and outcomes of the acute respiratory distress syndrome using the kigali modification of the berlin definition",
+  "volume": "193",
+  "issue": "1",
+  "pages": "52-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26352116"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/rccm.201503-0584OC"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26352116"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26352116"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/09/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/09/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/05/05 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Am J Respir Crit Care Med. 2016 Jan 1;193(1):5-7",
+      "reftype": "Comment in",
+      "pmid": 26720784,
+      "note": ""
+    },
+    {
+      "refsource": "J Thorac Dis. 2016 Jun;8(6):E443-5",
+      "reftype": "Comment in",
+      "pmid": 27294247,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 97,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "doi: 10.1164/rccm.201503-0584OC",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/01/01 00:00",
+  "sortfirstauthor": "Riviello ED",
+  "vernaculartitle": ""
+}

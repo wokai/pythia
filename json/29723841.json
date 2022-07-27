@@ -1,0 +1,110 @@
+{
+  "uid": "29723841",
+  "pubdate": "2018 Oct",
+  "epubdate": "2018 May 1",
+  "source": "Curr Opin Microbiol",
+  "authors": [
+    {
+      "name": "Wyres KL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Holt KE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Holt KE",
+  "title": "Klebsiella pneumoniae as a key trafficker of drug resistance genes from environmental to clinically important bacteria.",
+  "sorttitle": "klebsiella pneumoniae as a key trafficker of drug resistance genes from environmental to clinically important bacteria",
+  "volume": "45",
+  "issue": "",
+  "pages": "131-139",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9815056",
+  "issn": "1369-5274",
+  "essn": "1879-0364",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29723841"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1369-5274(18)30022-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.mib.2018.04.004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29723841"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29723841"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/04/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/04/15 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/05/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/05/24 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/05/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 81,
+  "fulljournalname": "Current opinion in microbiology",
+  "elocationid": "doi: 10.1016/j.mib.2018.04.004",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "Wyres KL",
+  "vernaculartitle": ""
+}

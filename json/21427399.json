@@ -1,0 +1,107 @@
+{
+  "uid": "21427399",
+  "pubdate": "2011 Apr 1",
+  "epubdate": "",
+  "source": "Clin Infect Dis",
+  "authors": [
+    {
+      "name": "Fine P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eames K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heymann DL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Heymann DL",
+  "title": "\"Herd immunity\": a rough guide.",
+  "sorttitle": "herd immunity a rough guide",
+  "volume": "52",
+  "issue": "7",
+  "pages": "911-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9203213",
+  "issn": "1058-4838",
+  "essn": "1537-6591",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21427399"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "cir007"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/cid/cir007"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21427399"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21427399"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/03/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/03/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/07/19 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 198,
+  "fulljournalname": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+  "elocationid": "doi: 10.1093/cid/cir007",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/04/01 00:00",
+  "sortfirstauthor": "Fine P",
+  "vernaculartitle": ""
+}

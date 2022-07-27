@@ -1,0 +1,111 @@
+{
+  "uid": "28492888",
+  "pubdate": "2017 May 9",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Evans JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Powell BC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berg JS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Berg JS",
+  "title": "Finding the Rare Pathogenic Variants in a Human Genome.",
+  "sorttitle": "finding the rare pathogenic variants in a human genome",
+  "volume": "317",
+  "issue": "18",
+  "pages": "1904-1905",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28492888"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2625307"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2017.0432"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28492888"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28492888"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/05/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/05/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/07/18 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA. 2017 May 9;317(18):1842-1843",
+      "reftype": "Comment in",
+      "pmid": 28492884,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 11,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2017.0432",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/05/09 00:00",
+  "sortfirstauthor": "Evans JP",
+  "vernaculartitle": ""
+}

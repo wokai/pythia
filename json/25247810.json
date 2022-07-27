@@ -1,0 +1,161 @@
+{
+  "uid": "25247810",
+  "pubdate": "2015 Jan 1",
+  "epubdate": "",
+  "source": "Biochem J",
+  "authors": [
+    {
+      "name": "Wiek C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmidt EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roellecke K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Freund M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nakano M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kelly EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaisers W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yarov-Yarovoy V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kramm CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rettie AE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hanenberg H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hanenberg H",
+  "title": "Identification of amino acid determinants in CYP4B1 for optimal catalytic processing of 4-ipomeanol.",
+  "sorttitle": "identification of amino acid determinants in cyp4b1 for optimal catalytic processing of 4 ipomeanol",
+  "volume": "465",
+  "issue": "1",
+  "pages": "103-14",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2984726R",
+  "issn": "0264-6021",
+  "essn": "1470-8728",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25247810"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "BJ20140813"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1042/BJ20140813"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4312185"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS641644"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25247810"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25247810"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4312185;manuscript-id: NIHMS641644;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/09/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/09/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/04/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "The Biochemical journal",
+  "elocationid": "doi: 10.1042/BJ20140813",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/01/01 00:00",
+  "sortfirstauthor": "Wiek C",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,119 @@
+{
+  "uid": "19034520",
+  "pubdate": "2009 Jan",
+  "epubdate": "2008 Nov 26",
+  "source": "Hum Genet",
+  "authors": [
+    {
+      "name": "Ingram CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mulcare CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Itan Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomas MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Swallow DM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Swallow DM",
+  "title": "Lactose digestion and the evolutionary genetics of lactase persistence.",
+  "sorttitle": "lactose digestion and the evolutionary genetics of lactase persistence",
+  "volume": "124",
+  "issue": "6",
+  "pages": "579-91",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7613873",
+  "issn": "0340-6717",
+  "essn": "1432-1203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19034520"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00439-008-0593-6"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19034520"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19034520"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2008/08/06 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2008/11/06 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/11/27 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/01/08 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/11/27 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 80,
+  "fulljournalname": "Human genetics",
+  "elocationid": "doi: 10.1007/s00439-008-0593-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/01/01 00:00",
+  "sortfirstauthor": "Ingram CJ",
+  "vernaculartitle": ""
+}

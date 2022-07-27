@@ -1,0 +1,140 @@
+{
+  "uid": "12216343",
+  "pubdate": "2002 Sep",
+  "epubdate": "",
+  "source": "Jt Comm J Qual Improv",
+  "authors": [
+    {
+      "name": "Nelson EC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Batalden PB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huber TP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mohr JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Godfrey MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Headrick LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wasson JH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wasson JH",
+  "title": "Microsystems in health care: Part 1. Learning from high-performing front-line clinical units.",
+  "sorttitle": "microsystems in health care part 1 learning from high performing front line clinical units",
+  "volume": "28",
+  "issue": "9",
+  "pages": "472-93",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9315239",
+  "issn": "1070-3241",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12216343"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/s1070-3241(02)28051-7"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12216343"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12216343"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2002/09/10 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/09/20 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2002/09/10 10:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Jt Comm J Qual Improv. 2002 Sep;28(9):494-5",
+      "reftype": "Comment in",
+      "pmid": 12216344,
+      "note": ""
+    },
+    {
+      "refsource": "Jt Comm J Qual Improv. 2002 Sep;28(9):495-6",
+      "reftype": "Comment in",
+      "pmid": 12216345,
+      "note": ""
+    },
+    {
+      "refsource": "Jt Comm J Qual Improv. 2002 Sep;28(9):496-7",
+      "reftype": "Comment in",
+      "pmid": 12216346,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 84,
+  "fulljournalname": "The Joint Commission journal on quality improvement",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2002/09/01 00:00",
+  "sortfirstauthor": "Nelson EC",
+  "vernaculartitle": ""
+}

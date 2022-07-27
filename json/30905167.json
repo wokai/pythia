@@ -1,0 +1,111 @@
+{
+  "uid": "30905167",
+  "pubdate": "2019 Jul",
+  "epubdate": "2019 Mar 24",
+  "source": "J Cardiovasc Pharmacol Ther",
+  "authors": [
+    {
+      "name": "Kovacevic MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lupi KE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gilmore JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Malloy R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Malloy R",
+  "title": "Evaluation of the Effect of Apixaban on INR in the Inpatient Population.",
+  "sorttitle": "evaluation of the effect of apixaban on inr in the inpatient population",
+  "volume": "24",
+  "issue": "4",
+  "pages": "355-358",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9602617",
+  "issn": "1074-2484",
+  "essn": "1940-4034",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30905167"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1177/1074248419838502"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30905167"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30905167"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/03/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/19 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/03/26 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Journal of cardiovascular pharmacology and therapeutics",
+  "elocationid": "doi: 10.1177/1074248419838502",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/07/01 00:00",
+  "sortfirstauthor": "Kovacevic MP",
+  "vernaculartitle": ""
+}

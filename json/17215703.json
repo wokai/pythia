@@ -1,0 +1,100 @@
+{
+  "uid": "17215703",
+  "pubdate": "2007 Winter",
+  "epubdate": "",
+  "source": "Int Anesthesiol Clin",
+  "authors": [
+    {
+      "name": "Macarthur A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Riley ET",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Riley ET",
+  "title": "Obstetric anesthesia controversies: vasopressor choice for postspinal hypotension during cesarean delivery.",
+  "sorttitle": "obstetric anesthesia controversies vasopressor choice for postspinal hypotension during cesarean delivery",
+  "volume": "45",
+  "issue": "1",
+  "pages": "115-32",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370760",
+  "issn": "0020-5907",
+  "essn": "1537-1913",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17215703"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/AIA.0b013e31802b8d53"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00004311-200704510-00009"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17215703"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17215703"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/01/12 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/02/21 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/01/12 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 13,
+  "fulljournalname": "International anesthesiology clinics",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/01/01 00:00",
+  "sortfirstauthor": "Macarthur A",
+  "vernaculartitle": ""
+}

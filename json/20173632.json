@@ -1,0 +1,92 @@
+{
+  "uid": "20173632",
+  "pubdate": "2010 Jun",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Wappler F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wappler F",
+  "title": "Anesthesia for patients with a history of malignant hyperthermia.",
+  "sorttitle": "anesthesia for patients with a history of malignant hyperthermia",
+  "volume": "23",
+  "issue": "3",
+  "pages": "417-22",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20173632"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0b013e328337ffe0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20173632"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20173632"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/02/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/02/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/08/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0b013e328337ffe0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/06/01 00:00",
+  "sortfirstauthor": "Wappler F",
+  "vernaculartitle": ""
+}

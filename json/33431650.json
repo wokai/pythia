@@ -1,0 +1,201 @@
+{
+  "uid": "33431650",
+  "pubdate": "2021 Jan 26",
+  "epubdate": "",
+  "source": "Proc Natl Acad Sci U S A",
+  "authors": [
+    {
+      "name": "Howard J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huang A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tufekci Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zdimal V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van der Westhuizen HM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "von Delft A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Price A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fridman L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tang LH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tang V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watson GL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bax CE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shaikh R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Questier F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hernandez D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chu LF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramirez CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rimoin AW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rimoin AW",
+  "title": "An evidence review of face masks against COVID-19.",
+  "sorttitle": "evidence review of face masks against covid 19",
+  "volume": "118",
+  "issue": "4",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7505876",
+  "issn": "0027-8424",
+  "essn": "1091-6490",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33431650"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2014564118"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1073/pnas.2014564118"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7848583"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33431650"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33431650"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7848583;embargo-date: 2021/07/11;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pmc-release",
+      "date": "2021/07/11 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/12 05:51"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 23,
+  "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+  "elocationid": "pii: e2014564118. doi: 10.1073/pnas.2014564118",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/26 00:00",
+  "sortfirstauthor": "Howard J",
+  "vernaculartitle": ""
+}

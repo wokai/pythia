@@ -1,0 +1,146 @@
+{
+  "uid": "8565239",
+  "pubdate": "1996 Jan",
+  "epubdate": "",
+  "source": "Clin Chem",
+  "authors": [
+    {
+      "name": "Forrey AW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McDonald CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "DeMoor G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huff SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leavelle D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leland D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fiers T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Charles L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Griffin B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stalling F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tullis A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hutchins K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baenziger J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Baenziger J",
+  "title": "Logical observation identifier names and codes (LOINC) database: a public use set of codes and names for electronic reporting of clinical laboratory test results.",
+  "sorttitle": "logical observation identifier names and codes loinc database a public use set of codes and names for electronic reporting of clinical laboratory test results",
+  "volume": "42",
+  "issue": "1",
+  "pages": "81-90",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421549",
+  "issn": "0009-9147",
+  "essn": "1530-8561",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8565239"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8565239"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8565239"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1996/01/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1996/01/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1996/01/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 83,
+  "fulljournalname": "Clinical chemistry",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1996/01/01 00:00",
+  "sortfirstauthor": "Forrey AW",
+  "vernaculartitle": ""
+}

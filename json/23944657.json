@@ -1,0 +1,102 @@
+{
+  "uid": "23944657",
+  "pubdate": "2013 Oct",
+  "epubdate": "2013 Aug 15",
+  "source": "Anaesthesia",
+  "authors": [
+    {
+      "name": "Weale N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laxton C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Laxton C",
+  "title": "Prophylactic use of oxytocin at caesarean section: where are the guidelines?",
+  "sorttitle": "prophylactic use of oxytocin at caesarean section where are the guidelines",
+  "volume": "68",
+  "issue": "10",
+  "pages": "1006-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370524",
+  "issn": "0003-2409",
+  "essn": "1365-2044",
+  "pubtype": [
+    "Comment",
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23944657"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/anae.12337"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23944657"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23944657"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/08/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/08/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/11/14 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anaesthesia. 2013 Oct;68(10):1021-5",
+      "reftype": "Comment on",
+      "pmid": 23944710,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 4,
+  "fulljournalname": "Anaesthesia",
+  "elocationid": "doi: 10.1111/anae.12337",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/10/01 00:00",
+  "sortfirstauthor": "Weale N",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,126 @@
+{
+  "uid": "27398364",
+  "pubdate": "2016 Apr-Jun",
+  "epubdate": "2016 Apr 28",
+  "source": "CMAJ Open",
+  "authors": [
+    {
+      "name": "Taylor TS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watling CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Teunissen PW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dornan T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lingard L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lingard L",
+  "title": "Principles of fatigue in residency education: a qualitative study.",
+  "sorttitle": "principles of fatigue in residency education a qualitative study",
+  "volume": "4",
+  "issue": "2",
+  "pages": "E200-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101620603",
+  "issn": "",
+  "essn": "2291-0026",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27398364"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.9778/cmajo.20150086"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "20150086"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4933638"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27398364"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27398364"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4933638;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/07/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/07/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/07/12 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "CMAJ open",
+  "elocationid": "doi: 10.9778/cmajo.20150086",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/04/28 00:00",
+  "sortfirstauthor": "Taylor TS",
+  "vernaculartitle": ""
+}

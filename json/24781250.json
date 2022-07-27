@@ -1,0 +1,286 @@
+{
+  "uid": "24781250",
+  "pubdate": "2014 Apr 29",
+  "epubdate": "2014 Apr 29",
+  "source": "Nat Commun",
+  "authors": [
+    {
+      "name": "Elhaik E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tatarinova T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chebotarev D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Piras IS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maria Calò C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Montis A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Atzori M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marini M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tofanelli S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Francalacci P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pagani L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tyler-Smith C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xue Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cucca F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schurr TG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gaieski JB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Melendez C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vilar MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Owings AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gómez R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fujita R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Santos FR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Comas D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Balanovsky O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Balanovska E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zalloua P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Soodyall H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pitchappan R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ganeshprasad A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hammer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Matisoo-Smith L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wells RS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Genographic Consortium.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wells RS",
+  "title": "Geographic population structure analysis of worldwide human populations infers their biogeographical origins.",
+  "sorttitle": "geographic population structure analysis of worldwide human populations infers their biogeographical origins",
+  "volume": "5",
+  "issue": "",
+  "pages": "3513",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101528555",
+  "issn": "",
+  "essn": "2041-1723",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24781250"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ncomms4513"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/ncomms4513"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4007635"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "EMS57224"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24781250"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24781250"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4007635;manuscript-id: EMS57224;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/04/17 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/02/26 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/05/01 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/05/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/11/03 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Commun. 2016 Oct 31;7:13468",
+      "reftype": "Erratum in",
+      "pmid": 27796289,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 49,
+  "fulljournalname": "Nature communications",
+  "elocationid": "doi: 10.1038/ncomms4513",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/04/29 00:00",
+  "sortfirstauthor": "Elhaik E",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,131 @@
+{
+  "uid": "29789778",
+  "pubdate": "2018",
+  "epubdate": "2018 Mar 29",
+  "source": "Biomed Res Int",
+  "authors": [
+    {
+      "name": "Jing R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dai HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lin F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ge WY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pan LH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pan LH",
+  "title": "Conscious Sedation versus General Anesthesia for Patients with Acute Ischemic Stroke Undergoing Endovascular Therapy: A Systematic Review and Meta-Analysis.",
+  "sorttitle": "conscious sedation versus general anesthesia for patients with acute ischemic stroke undergoing endovascular therapy a systematic review and meta analysis",
+  "volume": "2018",
+  "issue": "",
+  "pages": "2318489",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101600173",
+  "issn": "2314-6133",
+  "essn": "2314-6141",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29789778"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1155/2018/2318489"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5896359"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29789778"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29789778"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5896359;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/11/09 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/01/16 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/05/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/05/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/09/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "BioMed research international",
+  "elocationid": "doi: 10.1155/2018/2318489",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/03/29 00:00",
+  "sortfirstauthor": "Jing R",
+  "vernaculartitle": ""
+}

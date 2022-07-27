@@ -1,0 +1,162 @@
+{
+  "uid": "22117544",
+  "pubdate": "2013 Feb",
+  "epubdate": "2011 Nov 25",
+  "source": "Clin Microbiol Infect",
+  "authors": [
+    {
+      "name": "Leclercq R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cantón R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brown DF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giske CG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heisig P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "MacGowan AP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mouton JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nordmann P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rodloff AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rossolini GM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Soussy CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Steinbakk M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Winstanley TG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kahlmeter G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kahlmeter G",
+  "title": "EUCAST expert rules in antimicrobial susceptibility testing.",
+  "sorttitle": "eucast expert rules in antimicrobial susceptibility testing",
+  "volume": "19",
+  "issue": "2",
+  "pages": "141-60",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9516420",
+  "issn": "1198-743X",
+  "essn": "1469-0691",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22117544"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1469-0691.2011.03703.x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1198-743X(14)60249-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22117544"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22117544"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/11/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/11/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/07/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 158,
+  "fulljournalname": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+  "elocationid": "doi: 10.1111/j.1469-0691.2011.03703.x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/02/01 00:00",
+  "sortfirstauthor": "Leclercq R",
+  "vernaculartitle": ""
+}

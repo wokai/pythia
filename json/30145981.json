@@ -1,0 +1,209 @@
+{
+  "uid": "30145981",
+  "pubdate": "2018 Aug 27",
+  "epubdate": "2018 Aug 27",
+  "source": "BMC Med",
+  "authors": [
+    {
+      "name": "Fröhlich H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Balling R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beerenwinkel N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kohlbacher O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kumar S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lengauer T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maathuis MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moreau Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murphy SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Przytycka TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rebhan M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Röst H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schuppert A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwab M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spang R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stekhoven D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sun J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weber A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ziemek D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zupan B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zupan B",
+  "title": "From hype to reality: data science enabling personalized medicine.",
+  "sorttitle": "from hype to reality data science enabling personalized medicine",
+  "volume": "16",
+  "issue": "1",
+  "pages": "150",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101190723",
+  "issn": "",
+  "essn": "1741-7015",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30145981"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s12916-018-1122-7"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s12916-018-1122-7"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6109989"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30145981"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30145981"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6109989;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/03/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/07/09 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/08/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/08/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/10/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "BMC medicine",
+  "elocationid": "doi: 10.1186/s12916-018-1122-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/08/27 00:00",
+  "sortfirstauthor": "Fröhlich H",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,122 @@
+{
+  "uid": "26960938",
+  "pubdate": "2016 Apr",
+  "epubdate": "",
+  "source": "Clin Microbiol Rev",
+  "authors": [
+    {
+      "name": "Falagas ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vouloumanou EK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Samonis G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vardakas KZ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Vardakas KZ",
+  "title": "Fosfomycin.",
+  "sorttitle": "fosfomycin",
+  "volume": "29",
+  "issue": "2",
+  "pages": "321-47",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8807282",
+  "issn": "0893-8512",
+  "essn": "1098-6618",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26960938"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "29/2/321"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1128/CMR.00068-15"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4786888"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26960938"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26960938"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4786888;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/03/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/03/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/10/19 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 108,
+  "fulljournalname": "Clinical microbiology reviews",
+  "elocationid": "doi: 10.1128/CMR.00068-15",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/04/01 00:00",
+  "sortfirstauthor": "Falagas ME",
+  "vernaculartitle": ""
+}

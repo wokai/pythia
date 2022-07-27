@@ -1,0 +1,144 @@
+{
+  "uid": "33078400",
+  "pubdate": "2020 Oct",
+  "epubdate": "2020 Oct 19",
+  "source": "J Clin Lab Anal",
+  "authors": [
+    {
+      "name": "Cheng L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yan S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li Y",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Li Y",
+  "title": "Ferritin in the coronavirus disease 2019 (COVID-19): A systematic review and meta-analysis.",
+  "sorttitle": "ferritin in the coronavirus disease 2019 covid 19 a systematic review and meta analysis",
+  "volume": "34",
+  "issue": "10",
+  "pages": "e23618",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8801384",
+  "issn": "0887-8013",
+  "essn": "1098-2825",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33078400"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/jcla.23618"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7595919"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33078400"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33078400"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7595919;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/07/04 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/09/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/09/24 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/11/21 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/20 06:27"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 36,
+  "fulljournalname": "Journal of clinical laboratory analysis",
+  "elocationid": "doi: 10.1002/jcla.23618",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/01 00:00",
+  "sortfirstauthor": "Cheng L",
+  "vernaculartitle": ""
+}

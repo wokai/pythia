@@ -1,0 +1,139 @@
+{
+  "uid": "17259202",
+  "pubdate": "2007 Mar-Apr",
+  "epubdate": "2007 Jan 26",
+  "source": "Health Aff (Millwood)",
+  "authors": [
+    {
+      "name": "Stewart WF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shah NR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Selna MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paulus RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walker JM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Walker JM",
+  "title": "Bridging the inferential gap: the electronic health record and clinical evidence.",
+  "sorttitle": "bridging the inferential gap the electronic health record and clinical evidence",
+  "volume": "26",
+  "issue": "2",
+  "pages": "w181-91",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8303128",
+  "issn": "0278-2715",
+  "essn": "1544-5208",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17259202"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "hlthaff.26.2.w181"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1377/hlthaff.26.2.w181"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2670472"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS105057"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17259202"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17259202"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2670472;manuscript-id: NIHMS105057;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/01/30 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/03/31 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/01/30 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Health Aff (Millwood). 2007 Mar-Apr;26(2):w192-4",
+      "reftype": "Comment in",
+      "pmid": 17259203,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 22,
+  "fulljournalname": "Health affairs (Project Hope)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/03/01 00:00",
+  "sortfirstauthor": "Stewart WF",
+  "vernaculartitle": ""
+}

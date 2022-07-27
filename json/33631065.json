@@ -1,0 +1,420 @@
+{
+  "uid": "33631065",
+  "pubdate": "2021 Apr 22",
+  "epubdate": "2021 Feb 25",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "REMAP-CAP Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Gordon AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mouncey PR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Al-Beidh F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rowan KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nichol AD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arabi YM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Annane D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beane A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Bentum-Puijk W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berry LR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bhimani Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bonten MJM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bradbury CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brunkhorst FM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Buzgau A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cheng AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Detry MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Duffy EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Estcourt LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fitzgerald M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goossens H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haniffa R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Higgins AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hills TE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Horvat CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lamontagne F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lawler PR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leavis HL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Linstrum KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Litton E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lorenzi E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marshall JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mayr FB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McAuley DF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McGlothlin A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McGuinness SP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McVerry BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Montgomery SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morpeth SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murthy S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Orr K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parke RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parker JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patanwala AE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pettilä V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rademaker E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Santos MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saunders CT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seymour CW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shankar-Hari M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sligl WI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Turgeon AF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Turner AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van de Veerdonk FL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zarychanski R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Green C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lewis RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Angus DC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McArthur CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berry S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Webb SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Derde LPG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Derde LPG",
+  "title": "Interleukin-6 Receptor Antagonists in Critically Ill Patients with Covid-19.",
+  "sorttitle": "interleukin 6 receptor antagonists in critically ill patients with covid 19",
+  "volume": "384",
+  "issue": "16",
+  "pages": "1491-1502",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33631065"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa2100433"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7953461"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33631065"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33631065"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7953461;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/02/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/04/27 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/02/25 17:18"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2021 Apr 22;384(16):1564-1565",
+      "reftype": "Comment in",
+      "pmid": 33631064,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa2100433",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/04/22 00:00",
+  "sortfirstauthor": "Gordon AC",
+  "vernaculartitle": ""
+}

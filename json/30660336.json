@@ -1,0 +1,372 @@
+{
+  "uid": "30660336",
+  "pubdate": "2019 Feb 2",
+  "epubdate": "2019 Jan 16",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Willett W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rockström J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Loken B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Springmann M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lang T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vermeulen S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Garnett T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tilman D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "DeClerck F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wood A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jonell M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clark M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gordon LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fanzo J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hawkes C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zurayk R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rivera JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Vries W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Majele Sibanda L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Afshin A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chaudhary A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herrero M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Agustina R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Branca F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lartey A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fan S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crona B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fox E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bignet V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Troell M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lindahl T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cornell SE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Srinath Reddy K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Narain S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nishtar S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murray CJL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Murray CJL",
+  "title": "Food in the Anthropocene: the EAT-Lancet Commission on healthy diets from sustainable food systems.",
+  "sorttitle": "food in the anthropocene the eat lancet commission on healthy diets from sustainable food systems",
+  "volume": "393",
+  "issue": "10170",
+  "pages": "447-492",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30660336"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(18)31788-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(18)31788-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30660336"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30660336"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/03/27 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/07/02 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/07/27 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/01/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/02/26 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/01/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2019 Feb 2;393(10170):386-387",
+      "reftype": "Comment in",
+      "pmid": 30660335,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Jan 19;393(10168):200",
+      "reftype": "Comment in",
+      "pmid": 30663579,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Feb 9;393(10171):530",
+      "reftype": "Erratum in",
+      "pmid": 30739687,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Jul 20;394(10194):215",
+      "reftype": "Comment in",
+      "pmid": 31235279,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Jul 20;394(10194):213-214",
+      "reftype": "Comment in",
+      "pmid": 31235280,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Jul 20;394(10194):214",
+      "reftype": "Comment in",
+      "pmid": 31235282,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Jul 20;394(10194):214-215",
+      "reftype": "Comment in",
+      "pmid": 31235283,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Jun 29;393(10191):2590",
+      "reftype": "Erratum in",
+      "pmid": 31258126,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Sep 28;394(10204):1140-1141",
+      "reftype": "Comment in",
+      "pmid": 31571598,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Dec 14;394(10215):2153-2154",
+      "reftype": "Comment in",
+      "pmid": 31780094,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2020 Feb 1;395(10221):338",
+      "reftype": "Erratum in",
+      "pmid": 32007166,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2020 May 30;395(10238):1691-1692",
+      "reftype": "Comment in",
+      "pmid": 32473670,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet Planet Health. 2020 Aug;4(8):e309-e311",
+      "reftype": "Comment in",
+      "pmid": 32800148,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2020 Oct 3;396(10256):e56",
+      "reftype": "Erratum in",
+      "pmid": 33010846,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 352,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(18)31788-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/02/02 00:00",
+  "sortfirstauthor": "Willett W",
+  "vernaculartitle": ""
+}

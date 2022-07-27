@@ -1,0 +1,118 @@
+{
+  "uid": "31980163",
+  "pubdate": "2020 Jan 21",
+  "epubdate": "2020 Jan 21",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Hewson DW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moppett I",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Moppett I",
+  "title": "Preoperative fasting and prevention of pulmonary aspiration in adults: research feast, quality improvement famine.",
+  "sorttitle": "preoperative fasting and prevention of pulmonary aspiration in adults research feast quality improvement famine",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31980163"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(19)30999-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.bja.2019.12.018"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31980163"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31980163"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/11/12 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/12/16 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/12/16 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/01/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/01/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/01/26 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2020 Oct;125(4):e347-e348",
+      "reftype": "Comment in",
+      "pmid": 32591090,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "pii: S0007-0912(19)30999-7. doi: 10.1016/j.bja.2019.12.018",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/01/21 00:00",
+  "sortfirstauthor": "Hewson DW",
+  "vernaculartitle": ""
+}

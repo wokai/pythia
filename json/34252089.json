@@ -1,0 +1,143 @@
+{
+  "uid": "34252089",
+  "pubdate": "2021 Jul",
+  "epubdate": "2021 Jul 12",
+  "source": "PLoS Genet",
+  "authors": [
+    {
+      "name": "Wein T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barz M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stücker FT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hammerschmidt K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dagan T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dagan T",
+  "title": "Essential gene acquisition destabilizes plasmid inheritance.",
+  "sorttitle": "essential gene acquisition destabilizes plasmid inheritance",
+  "volume": "17",
+  "issue": "7",
+  "pages": "e1009656",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101239074",
+  "issn": "1553-7390",
+  "essn": "1553-7404",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34252089"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pgen.1009656"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PGENETICS-D-20-01843"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8297927"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34252089"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34252089"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8297927;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/12/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/06/09 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/07/22 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/07/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/11/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/07/12 17:23"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "PLoS genetics",
+  "elocationid": "doi: 10.1371/journal.pgen.1009656",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/07/12 00:00",
+  "sortfirstauthor": "Wein T",
+  "vernaculartitle": ""
+}

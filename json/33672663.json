@@ -1,0 +1,129 @@
+{
+  "uid": "33672663",
+  "pubdate": "2021 Feb 20",
+  "epubdate": "2021 Feb 20",
+  "source": "Microorganisms",
+  "authors": [
+    {
+      "name": "Hamel M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rolain JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baron SA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Baron SA",
+  "title": "The History of Colistin Resistance Mechanisms in Bacteria: Progress and Challenges.",
+  "sorttitle": "history of colistin resistance mechanisms in bacteria progress and challenges",
+  "volume": "9",
+  "issue": "2",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101625893",
+  "issn": "",
+  "essn": "2076-2607",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33672663"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "microorganisms9020442"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/microorganisms9020442"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7924381"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33672663"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33672663"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7924381;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/01/20 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/02/17 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/02/18 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/03/06 01:13"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/03/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/07 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Microorganisms",
+  "elocationid": "pii: 442. doi: 10.3390/microorganisms9020442",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/20 00:00",
+  "sortfirstauthor": "Hamel M",
+  "vernaculartitle": ""
+}

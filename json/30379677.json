@@ -1,0 +1,131 @@
+{
+  "uid": "30379677",
+  "pubdate": "2019 Oct",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Massouh F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chan B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ma J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patel V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Geary MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laffey JG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wijeysundera DN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abdallah FW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Abdallah FW",
+  "title": "Is Activity Tracker-Measured Ambulation an Accurate and Reliable Determinant of Postoperative Quality of Recovery? A Prospective Cohort Validation Study.",
+  "sorttitle": "is activity tracker measured ambulation an accurate and reliable determinant of postoperative quality of recovery a prospective cohort validation study",
+  "volume": "129",
+  "issue": "4",
+  "pages": "1144-1152",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30379677"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000003913"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30379677"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30379677"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/11/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/25 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/11/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000003913",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/10/01 00:00",
+  "sortfirstauthor": "Massouh F",
+  "vernaculartitle": ""
+}

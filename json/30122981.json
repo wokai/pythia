@@ -1,0 +1,117 @@
+{
+  "uid": "30122981",
+  "pubdate": "2018",
+  "epubdate": "2018 Aug 8",
+  "source": "Local Reg Anesth",
+  "authors": [
+    {
+      "name": "El-Boghdadly K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pawa A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chin KJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chin KJ",
+  "title": "Local anesthetic systemic toxicity: current perspectives.",
+  "sorttitle": "local anesthetic systemic toxicity current perspectives",
+  "volume": "11",
+  "issue": "",
+  "pages": "35-44",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101566276",
+  "issn": "",
+  "essn": "1178-7112",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30122981"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.2147/LRA.S154512"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "lra-11-035"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6087022"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30122981"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30122981"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6087022;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/08/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/08/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/08/21 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 25,
+  "fulljournalname": "Local and regional anesthesia",
+  "elocationid": "doi: 10.2147/LRA.S154512",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/08/08 00:00",
+  "sortfirstauthor": "El-Boghdadly K",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,107 @@
+{
+  "uid": "25053448",
+  "pubdate": "2014 Sep",
+  "epubdate": "2014 Jul 23",
+  "source": "Nat Rev Neurosci",
+  "authors": [
+    {
+      "name": "Vriens J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nilius B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Voets T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Voets T",
+  "title": "Peripheral thermosensation in mammals.",
+  "sorttitle": "peripheral thermosensation in mammals",
+  "volume": "15",
+  "issue": "9",
+  "pages": "573-89",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962781",
+  "issn": "1471-003X",
+  "essn": "1471-0048",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25053448"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrn3784"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrn3784"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25053448"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25053448"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/07/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/07/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/10/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 91,
+  "fulljournalname": "Nature reviews. Neuroscience",
+  "elocationid": "doi: 10.1038/nrn3784",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/09/01 00:00",
+  "sortfirstauthor": "Vriens J",
+  "vernaculartitle": ""
+}

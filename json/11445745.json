@@ -1,0 +1,99 @@
+{
+  "uid": "11445745",
+  "pubdate": "2001 Jul",
+  "epubdate": "",
+  "source": "Crit Care Med",
+  "authors": [
+    {
+      "name": "Annane D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Annane D",
+  "title": "Corticosteroids for septic shock.",
+  "sorttitle": "corticosteroids for septic shock",
+  "volume": "29",
+  "issue": "7 Suppl",
+  "pages": "S117-20",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0355501",
+  "issn": "0090-3493",
+  "essn": "1530-0293",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11445745"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00003246-200107001-00036"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11445745"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11445745"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2001/07/11 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/08/10 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2001/07/11 10:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Curr Surg. 2003 May-Jun;60(3):235-40",
+      "reftype": "Comment in",
+      "pmid": 15212056,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 14,
+  "fulljournalname": "Critical care medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2001/07/01 00:00",
+  "sortfirstauthor": "Annane D",
+  "vernaculartitle": ""
+}

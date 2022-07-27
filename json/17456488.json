@@ -1,0 +1,147 @@
+{
+  "uid": "17456488",
+  "pubdate": "2007 May",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Howard-Alpe GM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Bono J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hudsmith L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Orr WP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Foex P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sear JW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sear JW",
+  "title": "Coronary artery stents and non-cardiac surgery.",
+  "sorttitle": "coronary artery stents and non cardiac surgery",
+  "volume": "98",
+  "issue": "5",
+  "pages": "560-74",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17456488"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)34839-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aem089"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17456488"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17456488"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/04/26 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/06/19 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/04/26 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2007 Aug;99(2):299-300; author reply 300",
+      "reftype": "Comment in",
+      "pmid": 17616567,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2007 Oct;99(4):594; author reply 594-6",
+      "reftype": "Comment in",
+      "pmid": 17827188,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2008 Jan;100(1):137; author reply 137-8",
+      "reftype": "Comment in",
+      "pmid": 18070788,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2008 Jan;100(1):138; author reply 138-9",
+      "reftype": "Comment in",
+      "pmid": 18070789,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/05/01 00:00",
+  "sortfirstauthor": "Howard-Alpe GM",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,109 @@
+{
+  "uid": "22063719",
+  "pubdate": "2012 Jul",
+  "epubdate": "2011 Oct 31",
+  "source": "Neuropharmacology",
+  "authors": [
+    {
+      "name": "Clapham JC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Clapham JC",
+  "title": "Central control of thermogenesis.",
+  "sorttitle": "central control of thermogenesis",
+  "volume": "63",
+  "issue": "1",
+  "pages": "111-23",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0236217",
+  "issn": "0028-3908",
+  "essn": "1873-7064",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22063719"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0028-3908(11)00469-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.neuropharm.2011.10.014"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22063719"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22063719"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2011/08/30 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2011/10/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2011/10/24 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2011/11/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/11/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/10/24 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 31,
+  "fulljournalname": "Neuropharmacology",
+  "elocationid": "doi: 10.1016/j.neuropharm.2011.10.014",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/07/01 00:00",
+  "sortfirstauthor": "Clapham JC",
+  "vernaculartitle": ""
+}

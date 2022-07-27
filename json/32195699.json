@@ -1,0 +1,176 @@
+{
+  "uid": "32195699",
+  "pubdate": "2020 Jun",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Chen X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gong Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guo X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zuo M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shi W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xu X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mi W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chinese Society of Anesthesiology, Chinese Association of Anesthesiologists.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Huang Y",
+  "title": "Perioperative Management of Patients Infected with the Novel Coronavirus: Recommendation from the Joint Task Force of the Chinese Society of Anesthesiology and the Chinese Association of Anesthesiologists.",
+  "sorttitle": "perioperative management of patients infected with the novel coronavirus recommendation from the joint task force of the chinese society of anesthesiology and the chinese association of anesthesiologists",
+  "volume": "132",
+  "issue": "6",
+  "pages": "1307-1316",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32195699"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000003301"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7155907"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32195699"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32195699"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7155907;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/03/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/16 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/03/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Clin Anesth. 2020 Oct;65:109869",
+      "reftype": "Comment in",
+      "pmid": 32417619,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2020 Sep;133(3):693",
+      "reftype": "Erratum in",
+      "pmid": 32662616,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2020 Sep;133(3):679-680",
+      "reftype": "Comment in",
+      "pmid": 32675692,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 88,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000003301",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/06/01 00:00",
+  "sortfirstauthor": "Chen X",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,116 @@
+{
+  "uid": "15915024",
+  "pubdate": "2005 Jun",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Østergaard D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Viby-Mogensen J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rasmussen SN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gätke MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Varin F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Varin F",
+  "title": "Pharmacokinetics and pharmacodynamics of mivacurium in patients phenotypically homozygous for the atypical plasma cholinesterase variant: effect of injection of human cholinesterase.",
+  "sorttitle": "pharmacokinetics and pharmacodynamics of mivacurium in patients phenotypically homozygous for the atypical plasma cholinesterase variant effect of injection of human cholinesterase",
+  "volume": "102",
+  "issue": "6",
+  "pages": "1124-32",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15915024"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000542-200506000-00011"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-200506000-00011"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15915024"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15915024"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/05/26 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/07/20 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/05/26 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/06/01 00:00",
+  "sortfirstauthor": "Østergaard D",
+  "vernaculartitle": ""
+}

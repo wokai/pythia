@@ -1,0 +1,238 @@
+{
+  "uid": "20802247",
+  "pubdate": "2010 Oct",
+  "epubdate": "2010 Aug 29",
+  "source": "Eur Heart J",
+  "authors": [
+    {
+      "name": "European Heart Rhythm Association.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "European Association for Cardio-Thoracic Surgery.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Camm AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kirchhof P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lip GY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schotten U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Savelieva I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ernst S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van Gelder IC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Al-Attar N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hindricks G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prendergast B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heidbuchel H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alfieri O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Angelini A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Atar D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Colonna P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Caterina R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Sutter J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goette A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gorenek B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heldal M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hohloser SH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kolh P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Le Heuzey JY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ponikowski P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rutten FH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rutten FH",
+  "title": "Guidelines for the management of atrial fibrillation: the Task Force for the Management of Atrial Fibrillation of the European Society of Cardiology (ESC).",
+  "sorttitle": "guidelines for the management of atrial fibrillation the task force for the management of atrial fibrillation of the european society of cardiology esc",
+  "volume": "31",
+  "issue": "19",
+  "pages": "2369-429",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8006263",
+  "issn": "0195-668X",
+  "essn": "1522-9645",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20802247"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ehq278"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/eurheartj/ehq278"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20802247"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20802247"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/08/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/08/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/12/13 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur Heart J. 2011 May;32(9):1172",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Nat Rev Cardiol. 2010 Nov;7(11):598",
+      "reftype": "Comment in",
+      "pmid": 21080602,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 877,
+  "fulljournalname": "European heart journal",
+  "elocationid": "doi: 10.1093/eurheartj/ehq278",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/10/01 00:00",
+  "sortfirstauthor": "Camm AJ",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,177 @@
+{
+  "uid": "20603348",
+  "pubdate": "2010 Dec 14",
+  "epubdate": "2010 Jul 5",
+  "source": "CMAJ",
+  "authors": [
+    {
+      "name": "Brouwers MC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kho ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Browman GP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burgers JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cluzeau F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feder G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fervers B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Graham ID",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grimshaw J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hanna SE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Littlejohns P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Makarski J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zitzelsberger L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "AGREE Next Steps Consortium.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zitzelsberger L",
+  "title": "AGREE II: advancing guideline development, reporting and evaluation in health care.",
+  "sorttitle": "agree ii advancing guideline development reporting and evaluation in health care",
+  "volume": "182",
+  "issue": "18",
+  "pages": "E839-42",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9711805",
+  "issn": "0820-3946",
+  "essn": "1488-2329",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20603348"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "cmaj.090449"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1503/cmaj.090449"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3001530"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20603348"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20603348"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3001530;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/07/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/07/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/02/09 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Spine J. 2015 Oct 1;15(10):2300-1",
+      "reftype": "Comment in",
+      "pmid": 26409635,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 732,
+  "fulljournalname": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+  "elocationid": "doi: 10.1503/cmaj.090449",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/12/14 00:00",
+  "sortfirstauthor": "Brouwers MC",
+  "vernaculartitle": ""
+}

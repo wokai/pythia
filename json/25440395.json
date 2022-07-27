@@ -1,0 +1,96 @@
+{
+  "uid": "25440395",
+  "pubdate": "2015 Jan",
+  "epubdate": "",
+  "source": "Anaesthesia",
+  "authors": [
+    {
+      "name": "Hunt BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hunt BJ",
+  "title": "The current place of tranexamic acid in the management of bleeding.",
+  "sorttitle": "current place of tranexamic acid in the management of bleeding",
+  "volume": "70 Suppl 1",
+  "issue": "",
+  "pages": "50-3, e18",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370524",
+  "issn": "0003-2409",
+  "essn": "1365-2044",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25440395"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/anae.12910"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25440395"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25440395"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2014/09/11 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/12/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/12/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/01/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 27,
+  "fulljournalname": "Anaesthesia",
+  "elocationid": "doi: 10.1111/anae.12910",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/01/01 00:00",
+  "sortfirstauthor": "Hunt BJ",
+  "vernaculartitle": ""
+}

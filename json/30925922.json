@@ -1,0 +1,176 @@
+{
+  "uid": "30925922",
+  "pubdate": "2019 Mar 29",
+  "epubdate": "2019 Mar 29",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Guilhaumou R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benaboud S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bennis Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dahyot-Fizelier C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dailly E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gandia P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goutelle S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lefeuvre S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mongardon N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roger C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scala-Bertola J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lemaitre F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Garnier M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Garnier M",
+  "title": "Optimization of the treatment with beta-lactam antibiotics in critically ill patients-guidelines from the French Society of Pharmacology and Therapeutics (Société Française de Pharmacologie et Thérapeutique-SFPT) and the French Society of Anaesthesia and Intensive Care Medicine (Société Française d'Anesthésie et Réanimation-SFAR).",
+  "sorttitle": "optimization of the treatment with beta lactam antibiotics in critically ill patients guidelines from the french society of pharmacology and therapeutics soci t fran aise de pharmacologie et th rapeutique sfpt and the french society of anaesthesia and intensive care medicine soci t fran aise d anesth sie et r animation sfar",
+  "volume": "23",
+  "issue": "1",
+  "pages": "104",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Consensus Development Conference",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30925922"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13054-019-2378-9"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13054-019-2378-9"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6441232"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30925922"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30925922"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6441232;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/11/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/02/26 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/03/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/03/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/12/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/s13054-019-2378-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/03/29 00:00",
+  "sortfirstauthor": "Guilhaumou R",
+  "vernaculartitle": ""
+}

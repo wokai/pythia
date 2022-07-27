@@ -1,0 +1,125 @@
+{
+  "uid": "28510752",
+  "pubdate": "2017 May 1",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Chong SE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mohd Nikman A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saedah A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wan Mohd Nazaruddin WH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kueh YC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lim JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shamsul Kamalrujan H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Shamsul Kamalrujan H",
+  "title": "Real-time ultrasound-guided paramedian spinal anaesthesia: evaluation of the efficacy and the success rate of single needle pass.",
+  "sorttitle": "real time ultrasound guided paramedian spinal anaesthesia evaluation of the efficacy and the success rate of single needle pass",
+  "volume": "118",
+  "issue": "5",
+  "pages": "799-801",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Letter",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28510752"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)31343-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aex108"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28510752"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28510752"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/05/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/05/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/12/12 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 2,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aex108",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/05/01 00:00",
+  "sortfirstauthor": "Chong SE",
+  "vernaculartitle": ""
+}

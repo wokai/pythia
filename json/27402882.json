@@ -1,0 +1,198 @@
+{
+  "uid": "27402882",
+  "pubdate": "2016 Sep 1",
+  "epubdate": "2016 Jul 8",
+  "source": "Hum Mol Genet",
+  "authors": [
+    {
+      "name": "Gregianin E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pallafacchina G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zanin S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crippa V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rusmini P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Poletti A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fang M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Diano L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petrucci A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lispi L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cavallaro T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fabrizi GM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muglia M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boaretto F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vettori A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rizzuto R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mostacciuolo ML",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vazza G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Vazza G",
+  "title": "Loss-of-function mutations in the SIGMAR1 gene cause distal hereditary motor neuropathy by impairing ER-mitochondria tethering and Ca2+ signalling.",
+  "sorttitle": "loss of function mutations in the sigmar1 gene cause distal hereditary motor neuropathy by impairing er mitochondria tethering and ca2 signalling",
+  "volume": "25",
+  "issue": "17",
+  "pages": "3741-3753",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9208958",
+  "issn": "0964-6906",
+  "essn": "1460-2083",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27402882"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ddw220"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/hmg/ddw220"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27402882"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27402882"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/05/27 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/06/29 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/06/30 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/07/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/08/24 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/07/13 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 25,
+  "fulljournalname": "Human molecular genetics",
+  "elocationid": "doi: 10.1093/hmg/ddw220",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/09/01 00:00",
+  "sortfirstauthor": "Gregianin E",
+  "vernaculartitle": ""
+}

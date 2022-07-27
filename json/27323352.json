@@ -1,0 +1,121 @@
+{
+  "uid": "27323352",
+  "pubdate": "2017 Apr",
+  "epubdate": "2016 Jun 14",
+  "source": "IEEE Trans Biomed Eng",
+  "authors": [
+    {
+      "name": "Kuhlmann L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Manton JH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heyse B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vereecke HE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipping T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Struys MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liley DT",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Liley DT",
+  "title": "Tracking Electroencephalographic Changes Using Distributions of Linear Models: Application to Propofol-Based Depth of Anesthesia Monitoring.",
+  "sorttitle": "tracking electroencephalographic changes using distributions of linear models application to propofol based depth of anesthesia monitoring",
+  "volume": "64",
+  "issue": "4",
+  "pages": "870-881",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0012737",
+  "issn": "0018-9294",
+  "essn": "1558-2531",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27323352"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1109/TBME.2016.2562261"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27323352"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27323352"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/06/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/07/14 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/06/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "IEEE transactions on bio-medical engineering",
+  "elocationid": "doi: 10.1109/TBME.2016.2562261",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/04/01 00:00",
+  "sortfirstauthor": "Kuhlmann L",
+  "vernaculartitle": ""
+}

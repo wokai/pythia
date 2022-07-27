@@ -1,0 +1,109 @@
+{
+  "uid": "25901304",
+  "pubdate": "2015 Apr 21",
+  "epubdate": "",
+  "source": "Proc Natl Acad Sci U S A",
+  "authors": [
+    {
+      "name": "Jablonski D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shubin NH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Shubin NH",
+  "title": "The future of the fossil record: Paleontology in the 21st century.",
+  "sorttitle": "future of the fossil record paleontology in the 21st century",
+  "volume": "112",
+  "issue": "16",
+  "pages": "4852-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7505876",
+  "issn": "0027-8424",
+  "essn": "1091-6490",
+  "pubtype": [
+    "Historical Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25901304"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1505146112"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1073/pnas.1505146112"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4413349"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25901304"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25901304"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4413349;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/04/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/04/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/06/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 6,
+  "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+  "elocationid": "doi: 10.1073/pnas.1505146112",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/04/21 00:00",
+  "sortfirstauthor": "Jablonski D",
+  "vernaculartitle": ""
+}

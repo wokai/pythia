@@ -1,0 +1,99 @@
+{
+  "uid": "5844267",
+  "pubdate": "1965 Nov-Dec",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Eger EI 2nd",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saidman LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brandstater B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Brandstater B",
+  "title": "Minimum alveolar anesthetic concentration: a standard of anesthetic potency.",
+  "sorttitle": "minimum alveolar anesthetic concentration a standard of anesthetic potency",
+  "volume": "26",
+  "issue": "6",
+  "pages": "756-63",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "5844267"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-196511000-00010"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "5844267"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "5844267"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1965/11/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1965/11/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1965/11/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 83,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1965/11/01 00:00",
+  "sortfirstauthor": "Eger EI 2nd",
+  "vernaculartitle": ""
+}

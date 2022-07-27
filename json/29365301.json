@@ -1,0 +1,94 @@
+{
+  "uid": "29365301",
+  "pubdate": "2018 Jan 25",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Wright AA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Katz IT",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Katz IT",
+  "title": "Beyond Burnout - Redesigning Care to Restore Meaning and Sanity for Physicians.",
+  "sorttitle": "beyond burnout redesigning care to restore meaning and sanity for physicians",
+  "volume": "378",
+  "issue": "4",
+  "pages": "309-311",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29365301"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMp1716845"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29365301"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29365301"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/01/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/01/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/02/09 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 29,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMp1716845",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/25 00:00",
+  "sortfirstauthor": "Wright AA",
+  "vernaculartitle": ""
+}

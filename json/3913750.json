@@ -1,0 +1,98 @@
+{
+  "uid": "3913750",
+  "pubdate": "1985 Oct",
+  "epubdate": "",
+  "source": "J Clin Monit",
+  "authors": [
+    {
+      "name": "Severinghaus JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Astrup PB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Astrup PB",
+  "title": "History of blood gas analysis. II. pH and acid-base balance measurements.",
+  "sorttitle": "history of blood gas analysis ii ph and acid base balance measurements",
+  "volume": "1",
+  "issue": "4",
+  "pages": "259-77",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8506707",
+  "issn": "0748-1977",
+  "essn": "",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3913750"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/BF02832819"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3913750"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3913750"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1985/10/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1985/10/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1985/10/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Journal of clinical monitoring",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1985/10/01 00:00",
+  "sortfirstauthor": "Severinghaus JW",
+  "vernaculartitle": ""
+}

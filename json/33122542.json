@@ -1,0 +1,112 @@
+{
+  "uid": "33122542",
+  "pubdate": "2021 Mar 1",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Abola RE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwartz JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Forrester JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gan TJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gan TJ",
+  "title": "A Practical Guide for Anesthesia Providers on the Management of Coronavirus Disease 2019 Patients in the Acute Care Hospital.",
+  "sorttitle": "practical guide for anesthesia providers on the management of coronavirus disease 2019 patients in the acute care hospital",
+  "volume": "132",
+  "issue": "3",
+  "pages": "594-604",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33122542"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-202103000-00002"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000005295"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33122542"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33122542"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/30 05:45"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000005295",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/01 00:00",
+  "sortfirstauthor": "Abola RE",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,102 @@
+{
+  "uid": "29311286",
+  "pubdate": "2018 Jan",
+  "epubdate": "",
+  "source": "Circ Cardiovasc Interv",
+  "authors": [
+    {
+      "name": "Papanagiotou P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ntaios G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ntaios G",
+  "title": "Endovascular Thrombectomy in Acute Ischemic Stroke.",
+  "sorttitle": "endovascular thrombectomy in acute ischemic stroke",
+  "volume": "11",
+  "issue": "1",
+  "pages": "e005362",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101499602",
+  "issn": "1941-7640",
+  "essn": "1941-7632",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29311286"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "CIRCINTERVENTIONS.117.005362"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/CIRCINTERVENTIONS.117.005362"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29311286"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29311286"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/01/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/01/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/07/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Circulation. Cardiovascular interventions",
+  "elocationid": "doi: 10.1161/CIRCINTERVENTIONS.117.005362",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/01 00:00",
+  "sortfirstauthor": "Papanagiotou P",
+  "vernaculartitle": ""
+}

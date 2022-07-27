@@ -1,0 +1,181 @@
+{
+  "uid": "9609498",
+  "pubdate": "1998 May-Jun",
+  "epubdate": "",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Huff SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rocha RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McDonald CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Moor GJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fiers T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bidgood WD Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Forrey AW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Francis WG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tracy WR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leavelle D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stalling F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Griffin B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maloney P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leland D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Charles L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hutchins K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baenziger J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Baenziger J",
+  "title": "Development of the Logical Observation Identifier Names and Codes (LOINC) vocabulary.",
+  "sorttitle": "development of the logical observation identifier names and codes loinc vocabulary",
+  "volume": "5",
+  "issue": "3",
+  "pages": "276-92",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9609498"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC61302"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/jamia.1998.0050276"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9609498"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9609498"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC61302;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1998/06/03 02:04"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/03/28 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1998/06/03 02:04"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 83,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1998/05/01 00:00",
+  "sortfirstauthor": "Huff SM",
+  "vernaculartitle": ""
+}

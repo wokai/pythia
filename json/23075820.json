@@ -1,0 +1,97 @@
+{
+  "uid": "23075820",
+  "pubdate": "2012 Nov",
+  "epubdate": "",
+  "source": "Curr Opin Cardiol",
+  "authors": [
+    {
+      "name": "Tapson VF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tapson VF",
+  "title": "Thrombolytic therapy in acute pulmonary embolism.",
+  "sorttitle": "thrombolytic therapy in acute pulmonary embolism",
+  "volume": "27",
+  "issue": "6",
+  "pages": "585-91",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8608087",
+  "issn": "0268-4705",
+  "essn": "1531-7080",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23075820"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/HCO.0b013e328358308c"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00001573-201211000-00005"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23075820"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23075820"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/10/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/10/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/04/02 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Current opinion in cardiology",
+  "elocationid": "doi: 10.1097/HCO.0b013e328358308c",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/11/01 00:00",
+  "sortfirstauthor": "Tapson VF",
+  "vernaculartitle": ""
+}

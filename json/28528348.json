@@ -1,0 +1,237 @@
+{
+  "uid": "28528348",
+  "pubdate": "2017 Jun 6",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Murphy PB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rehal S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arbane G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bourke S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Calverley PMA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crook AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dowson L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Duffy N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gibson GJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hughes PD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hurst JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lewis KE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mukherjee R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nickol A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oscroft N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patout M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pepperell J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stradling JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wedzicha JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Polkey MI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Elliott MW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hart N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hart N",
+  "title": "Effect of Home Noninvasive Ventilation With Oxygen Therapy vs Oxygen Therapy Alone on Hospital Readmission or Death After an Acute COPD Exacerbation: A Randomized Clinical Trial.",
+  "sorttitle": "effect of home noninvasive ventilation with oxygen therapy vs oxygen therapy alone on hospital readmission or death after an acute copd exacerbation a randomized clinical trial",
+  "volume": "317",
+  "issue": "21",
+  "pages": "2177-2186",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28528348"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2627985"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2017.4451"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5710342"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28528348"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28528348"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5710342;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/05/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/07/14 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/05/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA. 2017 Jun 6;317(21):2167-2169",
+      "reftype": "Comment in",
+      "pmid": 28528346,
+      "note": ""
+    },
+    {
+      "refsource": "Crit Care. 2017 Oct 26;21(1):266",
+      "reftype": "Comment in",
+      "pmid": 29073934,
+      "note": ""
+    },
+    {
+      "refsource": "Evid Based Nurs. 2018 Jan;21(1):12",
+      "reftype": "Comment in",
+      "pmid": 29175966,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 78,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2017.4451",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/06/06 00:00",
+  "sortfirstauthor": "Murphy PB",
+  "vernaculartitle": ""
+}

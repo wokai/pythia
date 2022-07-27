@@ -1,0 +1,146 @@
+{
+  "uid": "27006266",
+  "pubdate": "2016 Jun",
+  "epubdate": "2016 Jan 27",
+  "source": "J Crit Care",
+  "authors": [
+    {
+      "name": "Tam MK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong WT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gomersall CD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tian Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ng SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leung CC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Underwood MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Underwood MJ",
+  "title": "A randomized controlled trial of 2 protocols for weaning cardiac surgical patients receiving adaptive support ventilation.",
+  "sorttitle": "randomized controlled trial of 2 protocols for weaning cardiac surgical patients receiving adaptive support ventilation",
+  "volume": "33",
+  "issue": "",
+  "pages": "163-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8610642",
+  "issn": "0883-9441",
+  "essn": "1557-8615",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27006266"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0883-9441(16)00019-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jcrc.2016.01.018"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27006266"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27006266"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/08/18 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2015/12/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/01/15 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/03/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/03/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/09/14 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Crit Care. 2017 Feb;37:250",
+      "reftype": "Comment in",
+      "pmid": 27291324,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Journal of critical care",
+  "elocationid": "doi: 10.1016/j.jcrc.2016.01.018",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/06/01 00:00",
+  "sortfirstauthor": "Tam MK",
+  "vernaculartitle": ""
+}

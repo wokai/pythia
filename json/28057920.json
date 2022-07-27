@@ -1,0 +1,139 @@
+{
+  "uid": "28057920",
+  "pubdate": "2017 Jan 6",
+  "epubdate": "2017 Jan 6",
+  "source": "Sci Rep",
+  "authors": [
+    {
+      "name": "Arns A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dangendorf S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jensen J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Talke S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bender J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pattiaratchi C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pattiaratchi C",
+  "title": "Sea-level rise induced amplification of coastal protection design heights.",
+  "sorttitle": "sea level rise induced amplification of coastal protection design heights",
+  "volume": "7",
+  "issue": "",
+  "pages": "40171",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101563288",
+  "issn": "",
+  "essn": "2045-2322",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28057920"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "srep40171"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/srep40171"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5216410"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28057920"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28057920"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5216410;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/10/17 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/12/02 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/01/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/01/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/01/07 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 14,
+  "fulljournalname": "Scientific reports",
+  "elocationid": "doi: 10.1038/srep40171",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/06 00:00",
+  "sortfirstauthor": "Arns A",
+  "vernaculartitle": ""
+}

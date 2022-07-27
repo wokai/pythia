@@ -1,0 +1,107 @@
+{
+  "uid": "26316814",
+  "pubdate": "2015",
+  "epubdate": "2015 Aug 20",
+  "source": "Local Reg Anesth",
+  "authors": [
+    {
+      "name": "Palte HD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Palte HD",
+  "title": "Ophthalmic regional blocks: management, challenges, and solutions.",
+  "sorttitle": "ophthalmic regional blocks management challenges and solutions",
+  "volume": "8",
+  "issue": "",
+  "pages": "57-70",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101566276",
+  "issn": "",
+  "essn": "1178-7112",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26316814"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.2147/LRA.S64806"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "lra-8-057"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4550180"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26316814"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26316814"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4550180;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/08/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/09/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/09/01 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Local and regional anesthesia",
+  "elocationid": "doi: 10.2147/LRA.S64806",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/08/20 00:00",
+  "sortfirstauthor": "Palte HD",
+  "vernaculartitle": ""
+}

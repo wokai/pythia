@@ -1,0 +1,122 @@
+{
+  "uid": "23947944",
+  "pubdate": "2013 Dec",
+  "epubdate": "2013 Aug 16",
+  "source": "Paediatr Anaesth",
+  "authors": [
+    {
+      "name": "Kim TW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wingate JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fernandez AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Whitaker E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tham RQ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tham RQ",
+  "title": "Washout times of desflurane, sevoflurane and isoflurane from the GE Healthcare Aisys® and Avance®, Carestation®, and Aestiva® anesthesia system.",
+  "sorttitle": "washout times of desflurane sevoflurane and isoflurane from the ge healthcare aisys and avance carestation and aestiva anesthesia system",
+  "volume": "23",
+  "issue": "12",
+  "pages": "1124-30",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9206575",
+  "issn": "1155-5645",
+  "essn": "1460-9592",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23947944"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/pan.12234"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23947944"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23947944"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2013/06/28 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/08/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/08/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/08/26 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Paediatr Anaesth. 2014 Aug;24(8):896",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": "Wingate, Jamie R [added]; Fernandez, Allison M [added]; Whitaker, Emmett [added]"
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Paediatric anaesthesia",
+  "elocationid": "doi: 10.1111/pan.12234",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/12/01 00:00",
+  "sortfirstauthor": "Kim TW",
+  "vernaculartitle": ""
+}

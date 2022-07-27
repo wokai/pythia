@@ -1,0 +1,114 @@
+{
+  "uid": "27317138",
+  "pubdate": "2016 Oct",
+  "epubdate": "2016 Jul 18",
+  "source": "Br J Clin Pharmacol",
+  "authors": [
+    {
+      "name": "Patrono C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Patrono C",
+  "title": "Cardiovascular effects of cyclooxygenase-2 inhibitors: a mechanistic and clinical perspective.",
+  "sorttitle": "cardiovascular effects of cyclooxygenase 2 inhibitors a mechanistic and clinical perspective",
+  "volume": "82",
+  "issue": "4",
+  "pages": "957-64",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7503323",
+  "issn": "0306-5251",
+  "essn": "1365-2125",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27317138"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/bcp.13048"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5137820"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27317138"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27317138"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5137820;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/02/10 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/05/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/06/05 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/06/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/06/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/01/09 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "British journal of clinical pharmacology",
+  "elocationid": "doi: 10.1111/bcp.13048",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/10/01 00:00",
+  "sortfirstauthor": "Patrono C",
+  "vernaculartitle": ""
+}

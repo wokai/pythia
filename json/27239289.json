@@ -1,0 +1,106 @@
+{
+  "uid": "27239289",
+  "pubdate": "2016",
+  "epubdate": "2016 May 12",
+  "source": "F1000Res",
+  "authors": [
+    {
+      "name": "Morrison SF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Morrison SF",
+  "title": "Central control of body temperature.",
+  "sorttitle": "central control of body temperature",
+  "volume": "5",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101594320",
+  "issn": "",
+  "essn": "2046-1402",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27239289"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.12688/f1000research.7958.1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4870994"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27239289"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27239289"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4870994;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2016/05/10 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/05/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/05/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/05/31 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 49,
+  "fulljournalname": "F1000Research",
+  "elocationid": "pii: F1000 Faculty Rev-880. doi: 10.12688/f1000research.7958.1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/05/12 00:00",
+  "sortfirstauthor": "Morrison SF",
+  "vernaculartitle": ""
+}

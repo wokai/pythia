@@ -1,0 +1,149 @@
+{
+  "uid": "29941654",
+  "pubdate": "2018 Sep",
+  "epubdate": "2018 Aug 27",
+  "source": "Antimicrob Agents Chemother",
+  "authors": [
+    {
+      "name": "D'Cunha R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bach T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Young BA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nalbant D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Winokur P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "An G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "An G",
+  "title": "Quantification of Cefepime, Meropenem, Piperacillin, and Tazobactam in Human Plasma Using a Sensitive and Robust Liquid Chromatography-Tandem Mass Spectrometry Method, Part 1: Assay Development and Validation.",
+  "sorttitle": "quantification of cefepime meropenem piperacillin and tazobactam in human plasma using a sensitive and robust liquid chromatography tandem mass spectrometry method part 1 assay development and validation",
+  "volume": "62",
+  "issue": "9",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0315061",
+  "issn": "0066-4804",
+  "essn": "1098-6596",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "257",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29941654"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "AAC.00859-18"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1128/AAC.00859-18"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6125519"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29941654"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29941654"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6125519;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/04/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/05/20 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/06/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/10/23 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/06/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Antimicrobial agents and chemotherapy",
+  "elocationid": "pii: e00859-18. doi: 10.1128/AAC.00859-18",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/08/27 00:00",
+  "sortfirstauthor": "D'Cunha R",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,125 @@
+{
+  "uid": "20929920",
+  "pubdate": "2010 Oct 6",
+  "epubdate": "2010 Oct 6",
+  "source": "BMJ",
+  "authors": [
+    {
+      "name": "Lie KK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grøholt EK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eskild A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Eskild A",
+  "title": "Association of cerebral palsy with Apgar score in low and normal birthweight infants: population based cohort study.",
+  "sorttitle": "association of cerebral palsy with apgar score in low and normal birthweight infants population based cohort study",
+  "volume": "341",
+  "issue": "",
+  "pages": "c4990",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8900488",
+  "issn": "0959-8138",
+  "essn": "1756-1833",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20929920"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2952090"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmj.c4990"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20929920"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20929920"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2952090;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/10/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/10/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/10/15 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "BMJ. 2010;341:c5175",
+      "reftype": "Comment in",
+      "pmid": 20929921,
+      "note": ""
+    },
+    {
+      "refsource": "J Pediatr. 2011 May;158(5):860-1",
+      "reftype": "Comment in",
+      "pmid": 21482248,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "BMJ (Clinical research ed.)",
+  "elocationid": "doi: 10.1136/bmj.c4990",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/10/06 00:00",
+  "sortfirstauthor": "Lie KK",
+  "vernaculartitle": ""
+}

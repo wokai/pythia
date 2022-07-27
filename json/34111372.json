@@ -1,0 +1,112 @@
+{
+  "uid": "34111372",
+  "pubdate": "2021 Jul",
+  "epubdate": "2021 Jun 10",
+  "source": "Am J Public Health",
+  "authors": [
+    {
+      "name": "Morens DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taubenberger JK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fauci AS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Fauci AS",
+  "title": "A Centenary Tale of Two Pandemics: The 1918 Influenza Pandemic and COVID-19, Part II.",
+  "sorttitle": "centenary tale of two pandemics the 1918 influenza pandemic and covid 19 part ii",
+  "volume": "111",
+  "issue": "7",
+  "pages": "1267-1272",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1254074",
+  "issn": "0090-0036",
+  "essn": "1541-0048",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34111372"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.2105/AJPH.2021.306326"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8493155"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34111372"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34111372"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8493155;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/06/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/08/19 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/06/10 20:09"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "American journal of public health",
+  "elocationid": "doi: 10.2105/AJPH.2021.306326",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/07/01 00:00",
+  "sortfirstauthor": "Morens DM",
+  "vernaculartitle": ""
+}

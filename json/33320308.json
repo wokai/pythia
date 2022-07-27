@@ -1,0 +1,120 @@
+{
+  "uid": "33320308",
+  "pubdate": "2021 Aug",
+  "epubdate": "2020 Dec 15",
+  "source": "J Endocrinol Invest",
+  "authors": [
+    {
+      "name": "Fliers E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boelen A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Boelen A",
+  "title": "An update on non-thyroidal illness syndrome.",
+  "sorttitle": "update on non thyroidal illness syndrome",
+  "volume": "44",
+  "issue": "8",
+  "pages": "1597-1607",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7806594",
+  "issn": "0391-4097",
+  "essn": "1720-8386",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33320308"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s40618-020-01482-4"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s40618-020-01482-4"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8285315"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33320308"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33320308"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8285315;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/10/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/11/30 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/16 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/15 12:15"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Journal of endocrinological investigation",
+  "elocationid": "doi: 10.1007/s40618-020-01482-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/08/01 00:00",
+  "sortfirstauthor": "Fliers E",
+  "vernaculartitle": ""
+}

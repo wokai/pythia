@@ -1,0 +1,116 @@
+{
+  "uid": "22304911",
+  "pubdate": "2012 Feb 3",
+  "epubdate": "",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Semenza GL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Semenza GL",
+  "title": "Hypoxia-inducible factors in physiology and medicine.",
+  "sorttitle": "hypoxia inducible factors in physiology and medicine",
+  "volume": "148",
+  "issue": "3",
+  "pages": "399-408",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22304911"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(12)00087-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2012.01.021"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3437543"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS350382"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22304911"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22304911"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3437543;manuscript-id: NIHMS350382;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2011/10/02 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2012/02/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/02/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/03/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 896,
+  "fulljournalname": "Cell",
+  "elocationid": "doi: 10.1016/j.cell.2012.01.021",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/02/03 00:00",
+  "sortfirstauthor": "Semenza GL",
+  "vernaculartitle": ""
+}

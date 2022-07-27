@@ -1,0 +1,89 @@
+{
+  "uid": "5534630",
+  "pubdate": "1970 Mar-Apr",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "DiGiovanni AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dunbar BS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dunbar BS",
+  "title": "Epidural injections of autologous blood for postlumbar-puncture headache.",
+  "sorttitle": "epidural injections of autologous blood for postlumbar puncture headache",
+  "volume": "49",
+  "issue": "2",
+  "pages": "268-71",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "5534630"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "5534630"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "5534630"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1970/03/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1970/03/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1970/03/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 9,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1970/03/01 00:00",
+  "sortfirstauthor": "DiGiovanni AJ",
+  "vernaculartitle": ""
+}

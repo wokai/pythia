@@ -1,0 +1,94 @@
+{
+  "uid": "4673361",
+  "pubdate": "1972 Aug",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Johnstone M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Johnstone M",
+  "title": "The cardiovascular effects of oxytocic drugs.",
+  "sorttitle": "cardiovascular effects of oxytocic drugs",
+  "volume": "44",
+  "issue": "8",
+  "pages": "826-34",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "4673361"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)51159-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/44.8.826"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "4673361"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "4673361"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1972/08/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1972/08/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1972/08/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 5,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1972/08/01 00:00",
+  "sortfirstauthor": "Johnstone M",
+  "vernaculartitle": ""
+}

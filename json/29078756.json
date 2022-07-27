@@ -1,0 +1,124 @@
+{
+  "uid": "29078756",
+  "pubdate": "2017 Oct 27",
+  "epubdate": "2017 Oct 27",
+  "source": "BMC Anesthesiol",
+  "authors": [
+    {
+      "name": "Hering R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kreyer S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Putensen C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Putensen C",
+  "title": "Effects of lung protective mechanical ventilation associated with permissive respiratory acidosis on regional extra-pulmonary blood flow in experimental ARDS.",
+  "sorttitle": "effects of lung protective mechanical ventilation associated with permissive respiratory acidosis on regional extra pulmonary blood flow in experimental ards",
+  "volume": "17",
+  "issue": "1",
+  "pages": "149",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100968535",
+  "issn": "",
+  "essn": "1471-2253",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29078756"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s12871-017-0439-7"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s12871-017-0439-7"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5659005"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29078756"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29078756"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5659005;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/06/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/10/19 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/10/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/10/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/07/11 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "BMC anesthesiology",
+  "elocationid": "doi: 10.1186/s12871-017-0439-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/10/27 00:00",
+  "sortfirstauthor": "Hering R",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,109 @@
+{
+  "uid": "27479140",
+  "pubdate": "2017 Mar",
+  "epubdate": "2016 Sep 4",
+  "source": "Dev Neurobiol",
+  "authors": [
+    {
+      "name": "Homman-Ludiye J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bourne JA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bourne JA",
+  "title": "The marmoset: An emerging model to unravel the evolution and development of the primate neocortex.",
+  "sorttitle": "marmoset an emerging model to unravel the evolution and development of the primate neocortex",
+  "volume": "77",
+  "issue": "3",
+  "pages": "263-272",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101300215",
+  "issn": "1932-8451",
+  "essn": "1932-846X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27479140"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/dneu.22425"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27479140"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27479140"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/06/26 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/07/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/07/29 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/08/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/10/14 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/08/02 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Developmental neurobiology",
+  "elocationid": "doi: 10.1002/dneu.22425",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/03/01 00:00",
+  "sortfirstauthor": "Homman-Ludiye J",
+  "vernaculartitle": ""
+}

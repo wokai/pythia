@@ -1,0 +1,111 @@
+{
+  "uid": "974049",
+  "pubdate": "1976 Sep",
+  "epubdate": "",
+  "source": "Br J Obstet Gynaecol",
+  "authors": [
+    {
+      "name": "Rekonen A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Luotola H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pitkänen M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kuikka J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pyörälä T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pyörälä T",
+  "title": "Measurement of intervillous and myometrial blood flow by an intravenous 133Xe method.",
+  "sorttitle": "measurement of intervillous and myometrial blood flow by an intravenous 133xe method",
+  "volume": "83",
+  "issue": "9",
+  "pages": "723-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7503752",
+  "issn": "0306-5456",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "974049"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1471-0528.1976.tb00921.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "974049"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "974049"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1976/09/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1976/09/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1976/09/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "British journal of obstetrics and gynaecology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1976/09/01 00:00",
+  "sortfirstauthor": "Rekonen A",
+  "vernaculartitle": ""
+}

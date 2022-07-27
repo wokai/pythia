@@ -1,0 +1,133 @@
+{
+  "uid": "11178223",
+  "pubdate": "2001",
+  "epubdate": "2001 Jan 5",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Markgraf R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deutschinoff G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pientka L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scholten T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lorenz C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lorenz C",
+  "title": "Performance of the score systems Acute Physiology and Chronic Health Evaluation II and III at an interdisciplinary intensive care unit, after customization.",
+  "sorttitle": "performance of the score systems acute physiology and chronic health evaluation ii and iii at an interdisciplinary intensive care unit after customization",
+  "volume": "5",
+  "issue": "1",
+  "pages": "31-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11178223"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC29054"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/cc975"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11178223"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11178223"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC29054;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "1998/06/05 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2000/08/06 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2000/10/18 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2001/02/15 11:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/10/05 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2001/02/15 11:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2001/01/01 00:00",
+  "sortfirstauthor": "Markgraf R",
+  "vernaculartitle": ""
+}

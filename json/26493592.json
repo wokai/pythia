@@ -1,0 +1,97 @@
+{
+  "uid": "26493592",
+  "pubdate": "2015 Nov",
+  "epubdate": "",
+  "source": "Respir Care",
+  "authors": [
+    {
+      "name": "Kallet RH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kallet RH",
+  "title": "A Comprehensive Review of Prone Position in ARDS.",
+  "sorttitle": "comprehensive review of prone position in ards",
+  "volume": "60",
+  "issue": "11",
+  "pages": "1660-87",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7510357",
+  "issn": "0020-1324",
+  "essn": "1943-3654",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26493592"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "60/11/1660"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.4187/respcare.04271"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26493592"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26493592"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/10/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/10/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/08/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 40,
+  "fulljournalname": "Respiratory care",
+  "elocationid": "doi: 10.4187/respcare.04271",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/11/01 00:00",
+  "sortfirstauthor": "Kallet RH",
+  "vernaculartitle": ""
+}

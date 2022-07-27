@@ -1,0 +1,119 @@
+{
+  "uid": "24978064",
+  "pubdate": "2014 Oct",
+  "epubdate": "",
+  "source": "J Neurosurg Anesthesiol",
+  "authors": [
+    {
+      "name": "Mashour GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moore LE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lele AV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Robicsek SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gelb AW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gelb AW",
+  "title": "Perioperative care of patients at high risk for stroke during or after non-cardiac, non-neurologic surgery: consensus statement from the Society for Neuroscience in Anesthesiology and Critical Care*.",
+  "sorttitle": "perioperative care of patients at high risk for stroke during or after non cardiac non neurologic surgery consensus statement from the society for neuroscience in anesthesiology and critical care",
+  "volume": "26",
+  "issue": "4",
+  "pages": "273-85",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8910749",
+  "issn": "0898-4921",
+  "essn": "1537-1921",
+  "pubtype": [
+    "Consensus Development Conference",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24978064"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ANA.0000000000000087"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24978064"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24978064"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/07/01 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/07/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/05/26 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Neurosurg Anesthesiol. 2015 Oct;27(4):349",
+      "reftype": "Comment in",
+      "pmid": 25514496,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Journal of neurosurgical anesthesiology",
+  "elocationid": "doi: 10.1097/ANA.0000000000000087",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/10/01 00:00",
+  "sortfirstauthor": "Mashour GA",
+  "vernaculartitle": ""
+}

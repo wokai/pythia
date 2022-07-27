@@ -1,0 +1,126 @@
+{
+  "uid": "26970431",
+  "pubdate": "2016 Sep",
+  "epubdate": "2016 Apr 6",
+  "source": "Allergy",
+  "authors": [
+    {
+      "name": "Zhou L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dhopeshwarkar N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Blumenthal KG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goss F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Topaz M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Slight SP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bates DW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bates DW",
+  "title": "Drug allergies documented in electronic health records of a large healthcare system.",
+  "sorttitle": "drug allergies documented in electronic health records of a large healthcare system",
+  "volume": "71",
+  "issue": "9",
+  "pages": "1305-13",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7804028",
+  "issn": "0105-4538",
+  "essn": "1398-9995",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26970431"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/all.12881"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26970431"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26970431"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2016/03/07 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/03/13 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/03/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/11/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 41,
+  "fulljournalname": "Allergy",
+  "elocationid": "doi: 10.1111/all.12881",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/09/01 00:00",
+  "sortfirstauthor": "Zhou L",
+  "vernaculartitle": ""
+}

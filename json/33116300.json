@@ -1,0 +1,131 @@
+{
+  "uid": "33116300",
+  "pubdate": "2021 Mar",
+  "epubdate": "2020 Oct 28",
+  "source": "Nat Rev Microbiol",
+  "authors": [
+    {
+      "name": "V'kovski P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kratzel A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Steiner S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stalder H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thiel V",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Thiel V",
+  "title": "Coronavirus biology and replication: implications for SARS-CoV-2.",
+  "sorttitle": "coronavirus biology and replication implications for sars cov 2",
+  "volume": "19",
+  "issue": "3",
+  "pages": "155-170",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101190261",
+  "issn": "1740-1526",
+  "essn": "1740-1534",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33116300"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41579-020-00468-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41579-020-00468-6"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7592455"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33116300"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33116300"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7592455;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2020/09/25 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/29 05:47"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 201,
+  "fulljournalname": "Nature reviews. Microbiology",
+  "elocationid": "doi: 10.1038/s41579-020-00468-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/01 00:00",
+  "sortfirstauthor": "V'kovski P",
+  "vernaculartitle": ""
+}

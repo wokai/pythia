@@ -1,0 +1,309 @@
+{
+  "uid": "32717743",
+  "pubdate": "2020 Aug",
+  "epubdate": "2020 Jul 27",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Lucas C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klein J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Castro TBR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Silva J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sundaram M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ellingson MK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mao T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oh JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Israelow B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Takahashi T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tokuyama M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lu P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Venkataraman A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Park A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mohanty S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wyllie AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vogels CBF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Earnest R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lapidus S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ott IM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moore AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muenker MC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fournier JB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Campbell M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Odio CD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Casanovas-Massana A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yale IMPACT Team.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Herbst R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shaw AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Medzhitov R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schulz WL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grubaugh ND",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dela Cruz C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Farhadian S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ko AI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Omer SB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iwasaki A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Iwasaki A",
+  "title": "Longitudinal analyses reveal immunological misfiring in severe COVID-19.",
+  "sorttitle": "longitudinal analyses reveal immunological misfiring in severe covid 19",
+  "volume": "584",
+  "issue": "7821",
+  "pages": "463-469",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32717743"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-020-2588-y"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-020-2588-y"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7477538"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1613920"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32717743"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32717743"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7477538;manuscript-id: NIHMS1613920;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/06/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/07/21 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/07/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/08/28 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/07/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 176,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-020-2588-y",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/01 00:00",
+  "sortfirstauthor": "Lucas C",
+  "vernaculartitle": ""
+}

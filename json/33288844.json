@@ -1,0 +1,128 @@
+{
+  "uid": "33288844",
+  "pubdate": "2021 Mar",
+  "epubdate": "2020 Dec 7",
+  "source": "Br J Cancer",
+  "authors": [
+    {
+      "name": "Fanciullino R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ciccolini J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Milano G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Milano G",
+  "title": "COVID-19 vaccine race: watch your step for cancer patients.",
+  "sorttitle": "covid 19 vaccine race watch your step for cancer patients",
+  "volume": "124",
+  "issue": "5",
+  "pages": "860-861",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370635",
+  "issn": "0007-0920",
+  "essn": "1532-1827",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33288844"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41416-020-01219-3"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41416-020-01219-3"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7720437"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33288844"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33288844"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7720437;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/11/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/11/30 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/11/27 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/08 05:42"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "British journal of cancer",
+  "elocationid": "doi: 10.1038/s41416-020-01219-3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/01 00:00",
+  "sortfirstauthor": "Fanciullino R",
+  "vernaculartitle": ""
+}

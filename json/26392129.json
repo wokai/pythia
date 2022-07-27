@@ -1,0 +1,124 @@
+{
+  "uid": "26392129",
+  "pubdate": "2016 Feb 1",
+  "epubdate": "2015 Aug 18",
+  "source": "Biol Psychiatry",
+  "authors": [
+    {
+      "name": "Feldman R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Monakhov M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pratt M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ebstein RP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ebstein RP",
+  "title": "Oxytocin Pathway Genes: Evolutionary Ancient System Impacting on Human Affiliation, Sociality, and Psychopathology.",
+  "sorttitle": "oxytocin pathway genes evolutionary ancient system impacting on human affiliation sociality and psychopathology",
+  "volume": "79",
+  "issue": "3",
+  "pages": "174-84",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0213264",
+  "issn": "0006-3223",
+  "essn": "1873-2402",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26392129"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0006-3223(15)00656-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.biopsych.2015.08.008"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26392129"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26392129"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/02/03 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2015/08/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/08/06 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/09/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/09/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/10/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 102,
+  "fulljournalname": "Biological psychiatry",
+  "elocationid": "doi: 10.1016/j.biopsych.2015.08.008",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/02/01 00:00",
+  "sortfirstauthor": "Feldman R",
+  "vernaculartitle": ""
+}

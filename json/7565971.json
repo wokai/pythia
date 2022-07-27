@@ -1,0 +1,150 @@
+{
+  "uid": "7565971",
+  "pubdate": "1995 Nov 2",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Bosma PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chowdhury JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bakker C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gantla S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Boer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oostra BA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lindhout D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tytgat GN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jansen PL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oude Elferink RP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Oude Elferink RP",
+  "title": "The genetic basis of the reduced expression of bilirubin UDP-glucuronosyltransferase 1 in Gilbert's syndrome.",
+  "sorttitle": "genetic basis of the reduced expression of bilirubin udp glucuronosyltransferase 1 in gilbert s syndrome",
+  "volume": "333",
+  "issue": "18",
+  "pages": "1171-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "7565971"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJM199511023331802"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "7565971"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "7565971"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1995/11/02 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1995/11/02 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1995/11/02 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 1995 Nov 2;333(18):1217-8",
+      "reftype": "Comment in",
+      "pmid": 7565981,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 1996 Mar 21;334(12):802-3",
+      "reftype": "Comment in",
+      "pmid": 8592567,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract",
+    "Author List Incomplete"
+  ],
+  "pmcrefcount": 239,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1995/11/02 00:00",
+  "sortfirstauthor": "Bosma PJ",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,257 @@
+{
+  "uid": "19812666",
+  "pubdate": "2009 Oct 8",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Manolio TA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Collins FS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cox NJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goldstein DB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hindorff LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hunter DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCarthy MI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramos EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cardon LR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chakravarti A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cho JH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guttmacher AE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kong A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kruglyak L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mardis E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rotimi CN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Slatkin M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Valle D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Whittemore AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boehnke M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clark AG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eichler EE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gibson G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haines JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mackay TF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCarroll SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Visscher PM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Visscher PM",
+  "title": "Finding the missing heritability of complex diseases.",
+  "sorttitle": "finding the missing heritability of complex diseases",
+  "volume": "461",
+  "issue": "7265",
+  "pages": "747-53",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19812666"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature08494"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature08494"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2831613"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS175346"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19812666"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19812666"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2831613;manuscript-id: NIHMS175346;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2009/06/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2009/09/11 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2009/10/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/10/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/10/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Genet Epidemiol. 2016 Sep;40(6):502-11",
+      "reftype": "Comment in",
+      "pmid": 27312886,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3043,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature08494",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/10/08 00:00",
+  "sortfirstauthor": "Manolio TA",
+  "vernaculartitle": ""
+}

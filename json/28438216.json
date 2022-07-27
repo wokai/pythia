@@ -1,0 +1,149 @@
+{
+  "uid": "28438216",
+  "pubdate": "2017 Apr 24",
+  "epubdate": "2017 Apr 24",
+  "source": "Biomed Eng Online",
+  "authors": [
+    {
+      "name": "Kamoi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pretty C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Balmer J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davidson S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pironet A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Desaive T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shaw GM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chase JG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chase JG",
+  "title": "Improved pressure contour analysis for estimating cardiac stroke volume using pulse wave velocity measurement.",
+  "sorttitle": "improved pressure contour analysis for estimating cardiac stroke volume using pulse wave velocity measurement",
+  "volume": "16",
+  "issue": "1",
+  "pages": "51",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101147518",
+  "issn": "",
+  "essn": "1475-925X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28438216"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s12938-017-0341-z"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s12938-017-0341-z"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5404318"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28438216"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28438216"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5404318;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/11/17 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/04/19 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/04/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/04/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/12/19 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Biomedical engineering online",
+  "elocationid": "doi: 10.1186/s12938-017-0341-z",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/04/24 00:00",
+  "sortfirstauthor": "Kamoi S",
+  "vernaculartitle": ""
+}

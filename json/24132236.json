@@ -1,0 +1,136 @@
+{
+  "uid": "24132236",
+  "pubdate": "2013 Oct 24",
+  "epubdate": "2013 Oct 16",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Murdock DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dong XP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Repetski JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marone F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stampanoni M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Donoghue PC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Donoghue PC",
+  "title": "The origin of conodonts and of vertebrate mineralized skeletons.",
+  "sorttitle": "origin of conodonts and of vertebrate mineralized skeletons",
+  "volume": "502",
+  "issue": "7472",
+  "pages": "546-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24132236"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature12645"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature12645"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24132236"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24132236"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/07/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2013/09/10 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/10/18 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/10/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/12/16 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2013 Oct 24;502(7472):457-8",
+      "reftype": "Comment in",
+      "pmid": 24132238,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 14,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature12645",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/10/24 00:00",
+  "sortfirstauthor": "Murdock DJ",
+  "vernaculartitle": ""
+}

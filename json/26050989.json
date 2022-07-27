@@ -1,0 +1,151 @@
+{
+  "uid": "26050989",
+  "pubdate": "2015 Sep",
+  "epubdate": "2015 Jun 8",
+  "source": "Mol Ther",
+  "authors": [
+    {
+      "name": "Thess A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grund S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mui BL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hope MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baumhof P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fotin-Mleczek M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schlake T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schlake T",
+  "title": "Sequence-engineered mRNA Without Chemical Nucleoside Modifications Enables an Effective Protein Therapy in Large Animals.",
+  "sorttitle": "sequence engineered mrna without chemical nucleoside modifications enables an effective protein therapy in large animals",
+  "volume": "23",
+  "issue": "9",
+  "pages": "1456-64",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100890581",
+  "issn": "1525-0016",
+  "essn": "1525-0024",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26050989"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1525-0016(16)30273-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/mt.2015.103"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4817881"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26050989"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26050989"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4817881;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/01/30 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/05/27 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/06/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/06/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/05/25 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Mol Ther. 2015 Sep;23(9):1416-7",
+      "reftype": "Comment in",
+      "pmid": 26321183,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 78,
+  "fulljournalname": "Molecular therapy : the journal of the American Society of Gene Therapy",
+  "elocationid": "doi: 10.1038/mt.2015.103",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/09/01 00:00",
+  "sortfirstauthor": "Thess A",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,196 @@
+{
+  "uid": "15190137",
+  "pubdate": "2004 Jun 10",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Esteban A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Frutos-Vivar F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferguson ND",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arabi Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Apezteguía C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "González M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Epstein SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hill NS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nava S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Soares MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "D'Empaire G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alía I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anzueto A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Anzueto A",
+  "title": "Noninvasive positive-pressure ventilation for respiratory failure after extubation.",
+  "sorttitle": "noninvasive positive pressure ventilation for respiratory failure after extubation",
+  "volume": "350",
+  "issue": "24",
+  "pages": "2452-60",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15190137"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa032736"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "350/24/2452"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15190137"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15190137"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/06/11 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/06/16 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/06/11 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2004 Jun 10;350(24):2512-5",
+      "reftype": "Comment in",
+      "pmid": 15190145,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2004 Sep 16;351(12):1257-9; author reply 1257-9",
+      "reftype": "Comment in",
+      "pmid": 15371585,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2004 Sep 16;351(12):1257-9; author reply 1257-9",
+      "reftype": "Comment in",
+      "pmid": 15376349,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2004 Sep 16;351(12):1257-9; author reply 1257-9",
+      "reftype": "Comment in",
+      "pmid": 15376350,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2004 Sep 30;351(14):1461-3; author reply 1461-3",
+      "reftype": "Comment in",
+      "pmid": 15459312,
+      "note": ""
+    },
+    {
+      "refsource": "ACP J Club. 2004 Nov-Dec;141(3):71",
+      "reftype": "Comment in",
+      "pmid": 15518455,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 136,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/06/10 00:00",
+  "sortfirstauthor": "Esteban A",
+  "vernaculartitle": ""
+}

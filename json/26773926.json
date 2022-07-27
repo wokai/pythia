@@ -1,0 +1,124 @@
+{
+  "uid": "26773926",
+  "pubdate": "2016 Feb",
+  "epubdate": "2015 Oct 9",
+  "source": "Metabolism",
+  "authors": [
+    {
+      "name": "DeFronzo R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fleming GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bicsak TA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bicsak TA",
+  "title": "Metformin-associated lactic acidosis: Current perspectives on causes and risk.",
+  "sorttitle": "metformin associated lactic acidosis current perspectives on causes and risk",
+  "volume": "65",
+  "issue": "2",
+  "pages": "20-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0375267",
+  "issn": "0026-0495",
+  "essn": "1532-8600",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26773926"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0026-0495(15)00306-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.metabol.2015.10.014"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26773926"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26773926"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/06/24 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2015/10/01 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/10/05 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/01/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/01/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/05/25 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 75,
+  "fulljournalname": "Metabolism: clinical and experimental",
+  "elocationid": "doi: 10.1016/j.metabol.2015.10.014",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/02/01 00:00",
+  "sortfirstauthor": "DeFronzo R",
+  "vernaculartitle": ""
+}

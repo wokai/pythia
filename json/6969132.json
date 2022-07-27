@@ -1,0 +1,90 @@
+{
+  "uid": "6969132",
+  "pubdate": "1980",
+  "epubdate": "",
+  "source": "Bull World Health Organ",
+  "authors": [],
+  "lastauthor": "",
+  "title": "A revision of the system of nomenclature for influenza viruses: a WHO memorandum.",
+  "sorttitle": "revision of the system of nomenclature for influenza viruses a who memorandum",
+  "volume": "58",
+  "issue": "4",
+  "pages": "585-91",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7507052",
+  "issn": "0042-9686",
+  "essn": "1564-0604",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "6969132"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2395936"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "6969132"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "6969132"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2395936;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1980/01/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1980/01/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1980/01/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 90,
+  "fulljournalname": "Bulletin of the World Health Organization",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1980/01/01 00:00",
+  "sortfirstauthor": "",
+  "vernaculartitle": ""
+}

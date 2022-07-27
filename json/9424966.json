@@ -1,0 +1,107 @@
+{
+  "uid": "9424966",
+  "pubdate": "1997 Oct",
+  "epubdate": "",
+  "source": "Anaesthesist",
+  "authors": [
+    {
+      "name": "Savarese JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lien CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Belmont MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wastila WB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wastila WB",
+  "title": "[The clinical pharmacology of new benzylisoquinoline-diester compounds, with special consideration of cisatracurium and mivacurium].",
+  "sorttitle": "clinical pharmacology of new benzylisoquinoline diester compounds with special consideration of cisatracurium and mivacurium",
+  "volume": "46",
+  "issue": "10",
+  "pages": "840-9",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "0370525",
+  "issn": "0003-2417",
+  "essn": "1432-055X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9424966"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s001010050477"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9424966"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9424966"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1998/01/10 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1998/01/10 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1998/01/10 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Der Anaesthesist",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1997/10/01 00:00",
+  "sortfirstauthor": "Savarese JJ",
+  "vernaculartitle": "Die klinische Pharmakologie neuer Benzylisochinolin-Diester-Verbindungen. Unter besonderer Berücksichtigung von Cisatracurium und Mivacurium."
+}

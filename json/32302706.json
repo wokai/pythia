@@ -1,0 +1,134 @@
+{
+  "uid": "32302706",
+  "pubdate": "2020 Jul",
+  "epubdate": "2020 Apr 14",
+  "source": "Pharmacol Res",
+  "authors": [
+    {
+      "name": "Li Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yang L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "You R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "You R",
+  "title": "Physiological and pathological regulation of ACE2, the SARS-CoV-2 receptor.",
+  "sorttitle": "physiological and pathological regulation of ace2 the sars cov 2 receptor",
+  "volume": "157",
+  "issue": "",
+  "pages": "104833",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8907422",
+  "issn": "1043-6618",
+  "essn": "1096-1186",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32302706"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1043-6618(20)31141-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.phrs.2020.104833"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7194807"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32302706"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32302706"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7194807;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/24 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/04/09 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/04/10 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/07/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 70,
+  "fulljournalname": "Pharmacological research",
+  "elocationid": "doi: 10.1016/j.phrs.2020.104833",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/01 00:00",
+  "sortfirstauthor": "Li Y",
+  "vernaculartitle": ""
+}

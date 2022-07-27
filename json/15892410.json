@@ -1,0 +1,118 @@
+{
+  "uid": "15892410",
+  "pubdate": "2005 Apr",
+  "epubdate": "",
+  "source": "Eur J Anaesthesiol",
+  "authors": [
+    {
+      "name": "Barrio J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "SanMiguel G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Asensio I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Molina I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "López F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "García V",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "García V",
+  "title": "Time course and train-of-four fade of mivacurium block during sevoflurane and intravenous anaesthesia.",
+  "sorttitle": "time course and train of four fade of mivacurium block during sevoflurane and intravenous anaesthesia",
+  "volume": "22",
+  "issue": "4",
+  "pages": "303-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8411711",
+  "issn": "0265-0215",
+  "essn": "1365-2346",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15892410"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1017/s0265021505000517"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15892410"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15892410"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/05/17 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/07/28 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/05/17 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "European journal of anaesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/04/01 00:00",
+  "sortfirstauthor": "Barrio J",
+  "vernaculartitle": ""
+}

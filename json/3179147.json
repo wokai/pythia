@@ -1,0 +1,116 @@
+{
+  "uid": "3179147",
+  "pubdate": "1988 Sep",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Tiret L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nivoche Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hatton F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Desmonts JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vourc'h G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Vourc'h G",
+  "title": "Complications related to anaesthesia in infants and children. A prospective survey of 40240 anaesthetics.",
+  "sorttitle": "complications related to anaesthesia in infants and children a prospective survey of 40240 anaesthetics",
+  "volume": "61",
+  "issue": "3",
+  "pages": "263-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3179147"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)49303-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/61.3.263"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3179147"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3179147"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1988/09/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1988/09/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1988/09/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1988/09/01 00:00",
+  "sortfirstauthor": "Tiret L",
+  "vernaculartitle": ""
+}

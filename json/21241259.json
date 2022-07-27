@@ -1,0 +1,92 @@
+{
+  "uid": "21241259",
+  "pubdate": "2011 Feb",
+  "epubdate": "2010 Dec 7",
+  "source": "Acta Obstet Gynecol Scand",
+  "authors": [
+    {
+      "name": "Tikkanen M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tikkanen M",
+  "title": "Placental abruption: epidemiology, risk factors and consequences.",
+  "sorttitle": "placental abruption epidemiology risk factors and consequences",
+  "volume": "90",
+  "issue": "2",
+  "pages": "140-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370343",
+  "issn": "0001-6349",
+  "essn": "1600-0412",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21241259"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1600-0412.2010.01030.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21241259"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21241259"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/01/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/01/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/06/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 34,
+  "fulljournalname": "Acta obstetricia et gynecologica Scandinavica",
+  "elocationid": "doi: 10.1111/j.1600-0412.2010.01030.x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/02/01 00:00",
+  "sortfirstauthor": "Tikkanen M",
+  "vernaculartitle": ""
+}

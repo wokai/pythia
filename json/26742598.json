@@ -1,0 +1,109 @@
+{
+  "uid": "26742598",
+  "pubdate": "2016 Mar",
+  "epubdate": "2015 Dec 29",
+  "source": "Semin Perinatol",
+  "authors": [
+    {
+      "name": "Friedman AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "D'Alton ME",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "D'Alton ME",
+  "title": "Venous thromboembolism bundle: Risk assessment and prophylaxis for obstetric patients.",
+  "sorttitle": "venous thromboembolism bundle risk assessment and prophylaxis for obstetric patients",
+  "volume": "40",
+  "issue": "2",
+  "pages": "87-92",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7801132",
+  "issn": "0146-0005",
+  "essn": "1558-075X",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26742598"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0146-0005(15)00172-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1053/j.semperi.2015.11.012"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26742598"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26742598"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/01/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/01/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/12/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Semin Perinatol. 2016 Mar;40(2):93-5",
+      "reftype": "Comment in",
+      "pmid": 26740168,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Seminars in perinatology",
+  "elocationid": "doi: 10.1053/j.semperi.2015.11.012",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/03/01 00:00",
+  "sortfirstauthor": "Friedman AM",
+  "vernaculartitle": ""
+}

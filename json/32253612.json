@@ -1,0 +1,136 @@
+{
+  "uid": "32253612",
+  "pubdate": "2020 Aug",
+  "epubdate": "2020 Apr 6",
+  "source": "Tech Coloproctol",
+  "authors": [
+    {
+      "name": "Peltrini R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cantoni V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Green R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greco PA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Calabria M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bucci L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Corcione F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Corcione F",
+  "title": "Efficacy of transversus abdominis plane (TAP) block in colorectal surgery: a systematic review and meta-analysis.",
+  "sorttitle": "efficacy of transversus abdominis plane tap block in colorectal surgery a systematic review and meta analysis",
+  "volume": "24",
+  "issue": "8",
+  "pages": "787-802",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9613614",
+  "issn": "1123-6337",
+  "essn": "1128-045X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32253612"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s10151-020-02206-9"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s10151-020-02206-9"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32253612"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32253612"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/09/29 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/03/31 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/04/28 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Techniques in coloproctology",
+  "elocationid": "doi: 10.1007/s10151-020-02206-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/01 00:00",
+  "sortfirstauthor": "Peltrini R",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,89 @@
+{
+  "uid": "13915199",
+  "pubdate": "1962 May",
+  "epubdate": "",
+  "source": "Am J Physiol",
+  "authors": [
+    {
+      "name": "SONNENBLICK EH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "SONNENBLICK EH",
+  "title": "Force-velocity relations in mammalian heart muscle.",
+  "sorttitle": "force velocity relations in mammalian heart muscle",
+  "volume": "202",
+  "issue": "",
+  "pages": "931-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370511",
+  "issn": "0002-9513",
+  "essn": "2163-5773",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "13915199"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/ajplegacy.1962.202.5.931"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "13915199"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "13915199"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1962/05/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1962/05/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1962/05/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 63,
+  "fulljournalname": "The American journal of physiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1962/05/01 00:00",
+  "sortfirstauthor": "SONNENBLICK EH",
+  "vernaculartitle": ""
+}

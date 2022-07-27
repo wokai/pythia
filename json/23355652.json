@@ -1,0 +1,102 @@
+{
+  "uid": "23355652",
+  "pubdate": "2013 May",
+  "epubdate": "2013 Jan 25",
+  "source": "Eur Heart J",
+  "authors": [
+    {
+      "name": "Yu CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hayes DL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hayes DL",
+  "title": "Cardiac resynchronization therapy: state of the art 2013.",
+  "sorttitle": "cardiac resynchronization therapy state of the art 2013",
+  "volume": "34",
+  "issue": "19",
+  "pages": "1396-403",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8006263",
+  "issn": "0195-668X",
+  "essn": "1522-9645",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23355652"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ehs454"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/eurheartj/ehs454"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23355652"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23355652"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/01/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/01/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/01/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "European heart journal",
+  "elocationid": "doi: 10.1093/eurheartj/ehs454",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/05/01 00:00",
+  "sortfirstauthor": "Yu CM",
+  "vernaculartitle": ""
+}

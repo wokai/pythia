@@ -1,0 +1,228 @@
+{
+  "uid": "33221922",
+  "pubdate": "2021 Jan 8",
+  "epubdate": "",
+  "source": "Nucleic Acids Res",
+  "authors": [
+    {
+      "name": "Navarro Gonzalez J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zweig AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Speir ML",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmelter D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rosenbloom KR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Raney BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Powell CC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nassar LR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maulding ND",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee BT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hinrichs AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fyfe AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fernandes JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Diekhans M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clawson H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Casper J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benet-Pagès A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barber GP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haussler D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kuhn RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haeussler M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kent WJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kent WJ",
+  "title": "The UCSC Genome Browser database: 2021 update.",
+  "sorttitle": "ucsc genome browser database 2021 update",
+  "volume": "49",
+  "issue": "D1",
+  "pages": "D1046-D1057",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0411011",
+  "issn": "0305-1048",
+  "essn": "1362-4962",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33221922"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "5998393"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/nar/gkaa1070"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7779060"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33221922"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33221922"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7779060;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2020/11/18 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/10/19 00:00"
+    },
+    {
+      "pubstatus": "received",
+      "date": "2020/09/21 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/26 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/22 20:43"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Nucleic acids research",
+  "elocationid": "doi: 10.1093/nar/gkaa1070",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/08 00:00",
+  "sortfirstauthor": "Navarro Gonzalez J",
+  "vernaculartitle": ""
+}

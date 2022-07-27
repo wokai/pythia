@@ -1,0 +1,259 @@
+{
+  "uid": "33184509",
+  "pubdate": "2021 Jan",
+  "epubdate": "2020 Nov 12",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "Schulien I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kemming J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oberhardt V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wild K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seidel LM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Killmer S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sagar",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Daul F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Salvat Lago M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Decker A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Luxenburger H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Binder B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bettinger D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sogukpinar O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rieg S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Panning M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huzly D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwemmle M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kochs G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Waller CF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nieters A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Duerschmied D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Emmerich F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mei HE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schulz AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Llewellyn-Lacey S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Price DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boettler T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bengsch B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thimme R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hofmann M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neumann-Haefelin C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Neumann-Haefelin C",
+  "title": "Characterization of pre-existing and induced SARS-CoV-2-specific CD8<sup>+</sup> T cells.",
+  "sorttitle": "characterization of pre existing and induced sars cov 2 specific cd8 sup sup t cells",
+  "volume": "27",
+  "issue": "1",
+  "pages": "78-85",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33184509"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-020-01143-2"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-020-01143-2"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33184509"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33184509"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/09/04 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/10/22 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/23 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/13 05:51"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-020-01143-2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/01 00:00",
+  "sortfirstauthor": "Schulien I",
+  "vernaculartitle": ""
+}

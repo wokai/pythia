@@ -1,0 +1,389 @@
+{
+  "uid": "28098591",
+  "pubdate": "2017 Mar",
+  "epubdate": "",
+  "source": "Crit Care Med",
+  "authors": [
+    {
+      "name": "Rhodes A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Evans LE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alhazzani W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levy MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Antonelli M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferrer R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kumar A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sevransky JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sprung CL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nunnally ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rochwerg B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rubenfeld GD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Angus DC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Annane D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beale RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellinghan GJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bernard GR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chiche JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coopersmith C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Backer DP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "French CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fujishima S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gerlach H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hidalgo JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hollenberg SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jones AE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Karnad DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kleinpell RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koh Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lisboa TC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Machado FR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marini JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marshall JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mazuski JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McIntyre LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McLean AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mehta S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moreno RP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Myburgh J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Navalesi P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nishida O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Osborn TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perner A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Plunkett CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ranieri M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schorr CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seckel MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seymour CW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shieh L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shukri KA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Simpson SQ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thompson BT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Townsend SR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van der Poll T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vincent JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wiersinga WJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zimmerman JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dellinger RP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dellinger RP",
+  "title": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016.",
+  "sorttitle": "surviving sepsis campaign international guidelines for management of sepsis and septic shock 2016",
+  "volume": "45",
+  "issue": "3",
+  "pages": "486-552",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0355501",
+  "issn": "0090-3493",
+  "essn": "1530-0293",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28098591"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/CCM.0000000000002255"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28098591"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28098591"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/01/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/05/27 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/01/19 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Ann Intern Med. 2020 Jun 16;172(12):JC62",
+      "reftype": "Comment in",
+      "pmid": 32539521,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 548,
+  "fulljournalname": "Critical care medicine",
+  "elocationid": "doi: 10.1097/CCM.0000000000002255",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/03/01 00:00",
+  "sortfirstauthor": "Rhodes A",
+  "vernaculartitle": ""
+}

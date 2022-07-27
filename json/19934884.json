@@ -1,0 +1,97 @@
+{
+  "uid": "19934884",
+  "pubdate": "2009 Dec",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Gronert GA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gronert GA",
+  "title": "Succinylcholine-induced hyperkalemia and beyond. 1975.",
+  "sorttitle": "succinylcholine induced hyperkalemia and beyond 1975",
+  "volume": "111",
+  "issue": "6",
+  "pages": "1372-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Biography",
+    "Classical Article",
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19934884"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0b013e3181c0ad7c"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000542-200912000-00034"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19934884"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19934884"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/11/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/11/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/12/31 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 3,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0b013e3181c0ad7c",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/12/01 00:00",
+  "sortfirstauthor": "Gronert GA",
+  "vernaculartitle": ""
+}

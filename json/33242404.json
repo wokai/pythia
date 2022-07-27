@@ -1,0 +1,126 @@
+{
+  "uid": "33242404",
+  "pubdate": "2020 Dec 8",
+  "epubdate": "2020 Nov 25",
+  "source": "Cell Rep",
+  "authors": [
+    {
+      "name": "Scott RT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grigorev K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mackintosh G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gebre SG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mason CE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Del Alto ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Costes SV",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Costes SV",
+  "title": "Advancing the Integration of Biosciences Data Sharing to Further Enable Space Exploration.",
+  "sorttitle": "advancing the integration of biosciences data sharing to further enable space exploration",
+  "volume": "33",
+  "issue": "10",
+  "pages": "108441",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101573691",
+  "issn": "",
+  "essn": "2211-1247",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33242404"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2211-1247(20)31430-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.celrep.2020.108441"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33242404"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33242404"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/11/27 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/26 20:07"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Cell reports",
+  "elocationid": "doi: 10.1016/j.celrep.2020.108441",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/08 00:00",
+  "sortfirstauthor": "Scott RT",
+  "vernaculartitle": ""
+}

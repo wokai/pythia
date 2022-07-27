@@ -1,0 +1,122 @@
+{
+  "uid": "7772429",
+  "pubdate": "1995 May",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Dahan A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van den Elsen MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berkenbosch A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "DeGoede J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Olievier IC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Kleef JW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "van Kleef JW",
+  "title": "Halothane affects ventilatory afterdischarge in humans.",
+  "sorttitle": "halothane affects ventilatory afterdischarge in humans",
+  "volume": "74",
+  "issue": "5",
+  "pages": "544-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "7772429"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)40612-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/74.5.544"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "7772429"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "7772429"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1995/05/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1995/05/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1995/05/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1995/05/01 00:00",
+  "sortfirstauthor": "Dahan A",
+  "vernaculartitle": ""
+}

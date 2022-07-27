@@ -1,0 +1,169 @@
+{
+  "uid": "21901084",
+  "pubdate": "2011 Aug",
+  "epubdate": "2011 Aug 25",
+  "source": "PLoS Comput Biol",
+  "authors": [
+    {
+      "name": "Roque FS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jensen PB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmock H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dalgaard M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Andreatta M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hansen T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Søeby K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bredkjær S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Juul A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Werge T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jensen LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brunak S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Brunak S",
+  "title": "Using electronic patient records to discover disease correlations and stratify patient cohorts.",
+  "sorttitle": "using electronic patient records to discover disease correlations and stratify patient cohorts",
+  "volume": "7",
+  "issue": "8",
+  "pages": "e1002141",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101238922",
+  "issn": "1553-734X",
+  "essn": "1553-7358",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21901084"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pcbi.1002141"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PCOMPBIOL-D-11-00196"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3161904"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21901084"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21901084"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3161904;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2011/02/11 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2011/06/13 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2011/09/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/09/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/12/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 97,
+  "fulljournalname": "PLoS computational biology",
+  "elocationid": "doi: 10.1371/journal.pcbi.1002141",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/08/01 00:00",
+  "sortfirstauthor": "Roque FS",
+  "vernaculartitle": ""
+}

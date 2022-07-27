@@ -1,0 +1,90 @@
+{
+  "uid": "3124001",
+  "pubdate": "1988 Feb 18",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Stringer C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stringer C",
+  "title": "Palaeoanthropology. The dates of Eden.",
+  "sorttitle": "palaeoanthropology the dates of eden",
+  "volume": "331",
+  "issue": "6157",
+  "pages": "565-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3124001"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/331565a0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3124001"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3124001"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1988/02/18 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1988/02/18 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1988/02/18 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 5,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1988/02/18 00:00",
+  "sortfirstauthor": "Stringer C",
+  "vernaculartitle": ""
+}

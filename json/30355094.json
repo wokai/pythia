@@ -1,0 +1,241 @@
+{
+  "uid": "30355094",
+  "pubdate": "2018 Oct",
+  "epubdate": "",
+  "source": "Stroke",
+  "authors": [
+    {
+      "name": "Sarraj A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hassan A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Savitz SI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grotta JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cai C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parsha KN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Farrell CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Imam B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sitton CW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reddy ST",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kamal H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goyal N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Elijovich L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reishus K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krishnan R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sangha N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Costa R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Malik R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mir O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hasan R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Snodgrass LM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Requena M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Graybeal D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abraham M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCullough LD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ribo M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ribo M",
+  "title": "Endovascular Thrombectomy for Mild Strokes: How Low Should We Go?",
+  "sorttitle": "endovascular thrombectomy for mild strokes how low should we go",
+  "volume": "49",
+  "issue": "10",
+  "pages": "2398-2405",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0235266",
+  "issn": "0039-2499",
+  "essn": "1524-4628",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30355094"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/STROKEAHA.118.022114"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6209123"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1504020"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30355094"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30355094"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6209123;manuscript-id: NIHMS1504020;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/10/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/10/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/09/19 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Stroke",
+  "elocationid": "doi: 10.1161/STROKEAHA.118.022114",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "Sarraj A",
+  "vernaculartitle": ""
+}

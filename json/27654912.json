@@ -1,0 +1,517 @@
+{
+  "uid": "27654912",
+  "pubdate": "2016 Oct 13",
+  "epubdate": "2016 Sep 21",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Mallick S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipson M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mathieson I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gymrek M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Racimo F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhao M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chennagiri N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nordenfelt S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tandon A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Skoglund P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lazaridis I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sankararaman S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fu Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rohland N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Renaud G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Erlich Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Willems T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gallo C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spence JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Song YS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Poletti G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Balloux F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Driem G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Knijff P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Romero IG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jha AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Behar DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bravi CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Capelli C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hervig T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moreno-Estrada A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Posukh OL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Balanovska E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Balanovsky O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Karachanak-Yankova S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sahakyan H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Toncheva D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yepiskoposyan L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tyler-Smith C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xue Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abdullah MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ruiz-Linares A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beall CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Di Rienzo A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jeong C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Starikovskaya EB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Metspalu E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parik J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Villems R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Henn BM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hodoglugil U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mahley R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sajantila A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stamatoyannopoulos G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wee JT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khusainova R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khusnutdinova E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Litvinov S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ayodo G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Comas D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hammer MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kivisild T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klitz W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Winkler CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Labuda D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bamshad M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jorde LB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tishkoff SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watkins WS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Metspalu M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dryomov S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sukernik R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thangaraj K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pääbo S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kelso J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patterson N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reich D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Reich D",
+  "title": "The Simons Genome Diversity Project: 300 genomes from 142 diverse populations.",
+  "sorttitle": "simons genome diversity project 300 genomes from 142 diverse populations",
+  "volume": "538",
+  "issue": "7624",
+  "pages": "201-206",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27654912"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature18964"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature18964"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5161557"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS798259"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27654912"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27654912"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5161557;manuscript-id: NIHMS798259;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/09/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/06/23 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/09/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/03/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/09/23 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2016 Oct 13;538(7624):179-180",
+      "reftype": "Comment in",
+      "pmid": 27654916,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 284,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature18964",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/10/13 00:00",
+  "sortfirstauthor": "Mallick S",
+  "vernaculartitle": ""
+}

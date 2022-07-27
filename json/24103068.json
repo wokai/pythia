@@ -1,0 +1,105 @@
+{
+  "uid": "24103068",
+  "pubdate": "2014 Feb",
+  "epubdate": "2013 Sep 19",
+  "source": "Paediatr Anaesth",
+  "authors": [
+    {
+      "name": "Beringer RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greenwood R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kilpatrick N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kilpatrick N",
+  "title": "Development and validation of the Pediatric Anesthesia Behavior score--an objective measure of behavior during induction of anesthesia.",
+  "sorttitle": "development and validation of the pediatric anesthesia behavior score an objective measure of behavior during induction of anesthesia",
+  "volume": "24",
+  "issue": "2",
+  "pages": "196-200",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9206575",
+  "issn": "1155-5645",
+  "essn": "1460-9592",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24103068"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/pan.12259"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24103068"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24103068"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2013/08/11 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/10/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/10/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/08/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Paediatric anaesthesia",
+  "elocationid": "doi: 10.1111/pan.12259",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/02/01 00:00",
+  "sortfirstauthor": "Beringer RM",
+  "vernaculartitle": ""
+}

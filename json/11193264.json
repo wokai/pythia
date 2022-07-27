@@ -1,0 +1,98 @@
+{
+  "uid": "11193264",
+  "pubdate": "2000 Nov",
+  "epubdate": "",
+  "source": "Intensive Care Med",
+  "authors": [
+    {
+      "name": "Levine RL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Levine RL",
+  "title": "End-tidal CO2: physiology in pursuit of clinical applications.",
+  "sorttitle": "end tidal co2 physiology in pursuit of clinical applications",
+  "volume": "26",
+  "issue": "11",
+  "pages": "1595-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7704851",
+  "issn": "0342-4642",
+  "essn": "1432-1238",
+  "pubtype": [
+    "Comment",
+    "Editorial",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11193264"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s001340000699"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11193264"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11193264"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2001/02/24 12:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/03/27 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2001/02/24 12:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Intensive Care Med. 2000 Nov;26(11):1619-23",
+      "reftype": "Comment on",
+      "pmid": 11193267,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 3,
+  "fulljournalname": "Intensive care medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/11/01 00:00",
+  "sortfirstauthor": "Levine RL",
+  "vernaculartitle": ""
+}

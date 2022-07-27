@@ -1,0 +1,109 @@
+{
+  "uid": "13887664",
+  "pubdate": "1962 Apr 19",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "DOYLE JT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "DAWBER TR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "KANNEL WB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "HESLIN AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "KAHN HA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "KAHN HA",
+  "title": "Cigarette smoking and coronary heart disease. Combined experience of the Albany and Framingham studies.",
+  "sorttitle": "cigarette smoking and coronary heart disease combined experience of the albany and framingham studies",
+  "volume": "266",
+  "issue": "",
+  "pages": "796-801",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "13887664"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/nejm196204192661602"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "13887664"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "13887664"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1962/04/19 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1962/04/19 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1962/04/19 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 42,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1962/04/19 00:00",
+  "sortfirstauthor": "DOYLE JT",
+  "vernaculartitle": ""
+}

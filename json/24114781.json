@@ -1,0 +1,137 @@
+{
+  "uid": "24114781",
+  "pubdate": "2013 Oct 25",
+  "epubdate": "2013 Oct 10",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Bollongino R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nehlich O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Richards MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Orschiedt J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomas MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sell C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fajkosová Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Powell A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burger J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Burger J",
+  "title": "2000 years of parallel societies in Stone Age Central Europe.",
+  "sorttitle": "2000 years of parallel societies in stone age central europe",
+  "volume": "342",
+  "issue": "6157",
+  "pages": "479-81",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24114781"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "science.1245049"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.1245049"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24114781"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24114781"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/10/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/10/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/11/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 45,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "doi: 10.1126/science.1245049",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/10/25 00:00",
+  "sortfirstauthor": "Bollongino R",
+  "vernaculartitle": ""
+}

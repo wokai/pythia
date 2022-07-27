@@ -1,0 +1,455 @@
+{
+  "uid": "32227755",
+  "pubdate": "2020 Apr 9",
+  "epubdate": "2020 Mar 30",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Maron DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hochman JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reynolds HR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bangalore S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Brien SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boden WE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chaitman BR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Senior R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "López-Sendón J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alexander KP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lopes RD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shaw LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berger JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Newman JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sidhu MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goodman SG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ruzyllo W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gosselin G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maggioni AP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "White HD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bhargava B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Min JK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mancini GBJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berman DS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Picard MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kwong RY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ali ZA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mark DB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spertus JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krishnan MN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Elghamaz A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moorthy N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hueb WA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Demkow M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mavromatis K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bockeria O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peteiro J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miller TD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Szwed H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Doerr R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Keltai M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Selvanayagam JB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Steg PG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Held C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kohsaka S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mavromichalis S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kirby R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jeffries NO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harrell FE Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rockhold FW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Broderick S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferguson TB Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Williams DO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harrington RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stone GW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rosenberg Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "ISCHEMIA Research Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rosenberg Y",
+  "title": "Initial Invasive or Conservative Strategy for Stable Coronary Disease.",
+  "sorttitle": "initial invasive or conservative strategy for stable coronary disease",
+  "volume": "382",
+  "issue": "15",
+  "pages": "1395-1407",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32227755"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa1915922"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7263833"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1590454"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32227755"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32227755"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7263833;manuscript-id: NIHMS1590454;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/04/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/01 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2020 Apr 9;382(15):1468-1470",
+      "reftype": "Comment in",
+      "pmid": 32227752,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Rev Cardiol. 2020 Jun;17(6):319",
+      "reftype": "Comment in",
+      "pmid": 32273612,
+      "note": ""
+    },
+    {
+      "refsource": "Ann Intern Med. 2020 Aug 18;173(4):JC14",
+      "reftype": "Comment in",
+      "pmid": 32805178,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Sep 3;383(10):e66",
+      "reftype": "Comment in",
+      "pmid": 32877591,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Sep 3;383(10):e66",
+      "reftype": "Comment in",
+      "pmid": 32877592,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Sep 3;383(10):e66",
+      "reftype": "Comment in",
+      "pmid": 32877593,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Sep 3;383(10):e66",
+      "reftype": "Comment in",
+      "pmid": 32877594,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Sep 3;383(10):e66",
+      "reftype": "Comment in",
+      "pmid": 32877595,
+      "note": ""
+    },
+    {
+      "refsource": "Cardiol J. 2020;27(4):329-335",
+      "reftype": "Comment in",
+      "pmid": 32929700,
+      "note": ""
+    },
+    {
+      "refsource": "Cardiol J. 2020;27(4):336-341",
+      "reftype": "Comment in",
+      "pmid": 32929701,
+      "note": ""
+    },
+    {
+      "refsource": "Cardiol J. 2020;27(4):342-344",
+      "reftype": "Comment in",
+      "pmid": 32929702,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 72,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa1915922",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/04/09 00:00",
+  "sortfirstauthor": "Maron DJ",
+  "vernaculartitle": ""
+}

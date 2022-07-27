@@ -1,0 +1,153 @@
+{
+  "uid": "33125370",
+  "pubdate": "2020 Oct",
+  "epubdate": "2020 Oct 30",
+  "source": "PLoS Genet",
+  "authors": [
+    {
+      "name": "Evano B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gill D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hernando-Herraez I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Comai G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stubbs TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Commere PH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reik W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tajbakhsh S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tajbakhsh S",
+  "title": "Transcriptome and epigenome diversity and plasticity of muscle stem cells following transplantation.",
+  "sorttitle": "transcriptome and epigenome diversity and plasticity of muscle stem cells following transplantation",
+  "volume": "16",
+  "issue": "10",
+  "pages": "e1009022",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101239074",
+  "issn": "1553-7390",
+  "essn": "1553-7404",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33125370"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pgen.1009022"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PGENETICS-D-20-00788"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7657492"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33125370"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33125370"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7657492;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/05/17 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/08/02 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/11/11 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/31 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/30 17:13"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "PLoS genetics",
+  "elocationid": "doi: 10.1371/journal.pgen.1009022",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/30 00:00",
+  "sortfirstauthor": "Evano B",
+  "vernaculartitle": ""
+}

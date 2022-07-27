@@ -1,0 +1,108 @@
+{
+  "uid": "30762330",
+  "pubdate": "2019 Jul",
+  "epubdate": "2019 Feb 13",
+  "source": "Minerva Anestesiol",
+  "authors": [
+    {
+      "name": "Avidan A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Avidan A",
+  "title": "Fasting guidelines concerning intake of solids of the American Society of Anesthesiologists are not in concert with those of the European Society of Anaesthesiologists.",
+  "sorttitle": "fasting guidelines concerning intake of solids of the american society of anesthesiologists are not in concert with those of the european society of anaesthesiologists",
+  "volume": "85",
+  "issue": "7",
+  "pages": "799",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0375272",
+  "issn": "0375-9393",
+  "essn": "1827-1596",
+  "pubtype": [
+    "Comment",
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30762330"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0375-9393.19.13553-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.23736/S0375-9393.19.13553-5"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30762330"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30762330"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/02/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/01/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/02/15 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Minerva Anestesiol. 2018 Dec;84(12):1413-1419",
+      "reftype": "Comment on",
+      "pmid": 30394064,
+      "note": ""
+    },
+    {
+      "refsource": "Minerva Anestesiol. 2019 Jul;85(7):800-801",
+      "reftype": "Comment in",
+      "pmid": 30871310,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Minerva anestesiologica",
+  "elocationid": "doi: 10.23736/S0375-9393.19.13553-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/07/01 00:00",
+  "sortfirstauthor": "Avidan A",
+  "vernaculartitle": ""
+}

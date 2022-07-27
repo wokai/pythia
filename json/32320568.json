@@ -1,0 +1,99 @@
+{
+  "uid": "32320568",
+  "pubdate": "2020 Apr 23",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Pencina MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goldstein BA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "D'Agostino RB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "D'Agostino RB",
+  "title": "Prediction Models - Development, Evaluation, and Clinical Application.",
+  "sorttitle": "prediction models development evaluation and clinical application",
+  "volume": "382",
+  "issue": "17",
+  "pages": "1583-1586",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32320568"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMp2000589"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32320568"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32320568"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/04/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 6,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMp2000589",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/04/23 00:00",
+  "sortfirstauthor": "Pencina MJ",
+  "vernaculartitle": ""
+}

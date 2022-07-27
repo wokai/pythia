@@ -1,0 +1,125 @@
+{
+  "uid": "31745528",
+  "pubdate": "2019 Dec 1",
+  "epubdate": "2019 Oct 16",
+  "source": "J Endocr Soc",
+  "authors": [
+    {
+      "name": "Langouche L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jacobs A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van den Berghe G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Van den Berghe G",
+  "title": "Nonthyroidal Illness Syndrome Across the Ages.",
+  "sorttitle": "nonthyroidal illness syndrome across the ages",
+  "volume": "3",
+  "issue": "12",
+  "pages": "2313-2325",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101697997",
+  "issn": "",
+  "essn": "2472-1972",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31745528"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1210/js.2019-00325"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "201900325"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6853682"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31745528"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31745528"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6853682;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/08/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/09/17 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/11/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/11/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/11/21 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "Journal of the Endocrine Society",
+  "elocationid": "doi: 10.1210/js.2019-00325",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/10/16 00:00",
+  "sortfirstauthor": "Langouche L",
+  "vernaculartitle": ""
+}

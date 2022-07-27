@@ -1,0 +1,169 @@
+{
+  "uid": "29045418",
+  "pubdate": "2017",
+  "epubdate": "2017 Oct 18",
+  "source": "PLoS One",
+  "authors": [
+    {
+      "name": "Hallmann CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sorg M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jongejans E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Siepel H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hofland N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwan H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stenmans W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Müller A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sumser H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hörren T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goulson D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Kroon H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "de Kroon H",
+  "title": "More than 75 percent decline over 27 years in total flying insect biomass in protected areas.",
+  "sorttitle": "more than 75 percent decline over 27 years in total flying insect biomass in protected areas",
+  "volume": "12",
+  "issue": "10",
+  "pages": "e0185809",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101285081",
+  "issn": "",
+  "essn": "1932-6203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29045418"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pone.0185809"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PONE-D-17-28249"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5646769"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29045418"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29045418"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5646769;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/07/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/09/19 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/10/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/10/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/10/31 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 175,
+  "fulljournalname": "PloS one",
+  "elocationid": "doi: 10.1371/journal.pone.0185809",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/10/18 00:00",
+  "sortfirstauthor": "Hallmann CA",
+  "vernaculartitle": ""
+}

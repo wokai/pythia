@@ -1,0 +1,92 @@
+{
+  "uid": "8346840",
+  "pubdate": "1993 Aug",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Pantuck EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pantuck EJ",
+  "title": "Plasma cholinesterase: gene and variations.",
+  "sorttitle": "plasma cholinesterase gene and variations",
+  "volume": "77",
+  "issue": "2",
+  "pages": "380-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8346840"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/00000539-199377020-00027"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8346840"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8346840"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1993/08/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1993/08/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1993/08/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1993/08/01 00:00",
+  "sortfirstauthor": "Pantuck EJ",
+  "vernaculartitle": ""
+}

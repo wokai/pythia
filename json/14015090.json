@@ -1,0 +1,99 @@
+{
+  "uid": "14015090",
+  "pubdate": "1963 Feb",
+  "epubdate": "",
+  "source": "Am J Med",
+  "authors": [
+    {
+      "name": "BRAUNWALD E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "ROSS J Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "ROSS J Jr",
+  "title": "The ventricular end-diastolic pressure. Appraisal of its value in the recognition of ventricular failure in man.",
+  "sorttitle": "ventricular end diastolic pressure appraisal of its value in the recognition of ventricular failure in man",
+  "volume": "34",
+  "issue": "",
+  "pages": "147-50",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0267200",
+  "issn": "0002-9343",
+  "essn": "1555-7162",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14015090"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "0002-9343(63)90049-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/0002-9343(63)90049-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14015090"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14015090"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1963/02/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1963/02/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1963/02/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 15,
+  "fulljournalname": "The American journal of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1963/02/01 00:00",
+  "sortfirstauthor": "BRAUNWALD E",
+  "vernaculartitle": ""
+}

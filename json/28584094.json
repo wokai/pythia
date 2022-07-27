@@ -1,0 +1,131 @@
+{
+  "uid": "28584094",
+  "pubdate": "2017 Jun 6",
+  "epubdate": "",
+  "source": "Proc Natl Acad Sci U S A",
+  "authors": [
+    {
+      "name": "Hamey FK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nestorowa S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kinston SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kent DG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wilson NK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Göttgens B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Göttgens B",
+  "title": "Reconstructing blood stem cell regulatory network models from single-cell molecular profiles.",
+  "sorttitle": "reconstructing blood stem cell regulatory network models from single cell molecular profiles",
+  "volume": "114",
+  "issue": "23",
+  "pages": "5822-5829",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7505876",
+  "issn": "0027-8424",
+  "essn": "1091-6490",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28584094"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1610609114"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1073/pnas.1610609114"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5468644"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28584094"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28584094"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5468644;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/06/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/05/17 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/06/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 26,
+  "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+  "elocationid": "doi: 10.1073/pnas.1610609114",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/06/06 00:00",
+  "sortfirstauthor": "Hamey FK",
+  "vernaculartitle": ""
+}

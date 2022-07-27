@@ -1,0 +1,194 @@
+{
+  "uid": "22623717",
+  "pubdate": "2012 Jun 19",
+  "epubdate": "2012 May 23",
+  "source": "Circulation",
+  "authors": [
+    {
+      "name": "Idris AH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guffey D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aufderheide TP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brown S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morrison LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nichols P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Powell J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Daya M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bigham BL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Atkins DL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berg R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davis D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stiell I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sopko G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nichol G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Resuscitation Outcomes Consortium (ROC) Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Nichol G",
+  "title": "Relationship between chest compression rates and outcomes from cardiac arrest.",
+  "sorttitle": "relationship between chest compression rates and outcomes from cardiac arrest",
+  "volume": "125",
+  "issue": "24",
+  "pages": "3004-12",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0147763",
+  "issn": "0009-7322",
+  "essn": "1524-4539",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22623717"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "CIRCULATIONAHA.111.059535"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/CIRCULATIONAHA.111.059535"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3388797"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS386126"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22623717"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22623717"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3388797;manuscript-id: NIHMS386126;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/05/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/05/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/08/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Circulation. 2012 Jun 19;125(24):2968-70",
+      "reftype": "Comment in",
+      "pmid": 22623716,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 71,
+  "fulljournalname": "Circulation",
+  "elocationid": "doi: 10.1161/CIRCULATIONAHA.111.059535",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/06/19 00:00",
+  "sortfirstauthor": "Idris AH",
+  "vernaculartitle": ""
+}

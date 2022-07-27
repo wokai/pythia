@@ -1,0 +1,106 @@
+{
+  "uid": "871704",
+  "pubdate": "1977 Jun 25",
+  "epubdate": "",
+  "source": "Br Med J",
+  "authors": [
+    {
+      "name": "Fletcher C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peto R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Peto R",
+  "title": "The natural history of chronic airflow obstruction.",
+  "sorttitle": "natural history of chronic airflow obstruction",
+  "volume": "1",
+  "issue": "6077",
+  "pages": "1645-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372673",
+  "issn": "0007-1447",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "871704"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC1607732"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmj.1.6077.1645"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "871704"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "871704"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC1607732;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1977/06/25 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1977/06/25 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1977/06/25 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 557,
+  "fulljournalname": "British medical journal",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1977/06/25 00:00",
+  "sortfirstauthor": "Fletcher C",
+  "vernaculartitle": ""
+}

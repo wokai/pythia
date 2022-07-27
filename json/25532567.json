@@ -1,0 +1,146 @@
+{
+  "uid": "25532567",
+  "pubdate": "2014 Dec 23",
+  "epubdate": "2014 Dec 23",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Damiani E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Adrario E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Girardis M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Romano R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pelaia P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Donati A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Donati A",
+  "title": "Arterial hyperoxia and mortality in critically ill patients: a systematic review and meta-analysis.",
+  "sorttitle": "arterial hyperoxia and mortality in critically ill patients a systematic review and meta analysis",
+  "volume": "18",
+  "issue": "6",
+  "pages": "711",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25532567"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13054-014-0711-x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "s13054-014-0711-x"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4298955"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25532567"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25532567"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4298955;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/09/11 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/12/08 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/12/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/12/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/10/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 56,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/s13054-014-0711-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/12/23 00:00",
+  "sortfirstauthor": "Damiani E",
+  "vernaculartitle": ""
+}

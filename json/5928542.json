@@ -1,0 +1,104 @@
+{
+  "uid": "5928542",
+  "pubdate": "1966 Dec",
+  "epubdate": "",
+  "source": "Circ Res",
+  "authors": [
+    {
+      "name": "Guyton AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prather J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scheel K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McGehee J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "McGehee J",
+  "title": "Interstitial fluid pressure. IV. Its effect on fluid movement through the capillary wall.",
+  "sorttitle": "interstitial fluid pressure iv its effect on fluid movement through the capillary wall",
+  "volume": "19",
+  "issue": "6",
+  "pages": "1022-30",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0047103",
+  "issn": "0009-7330",
+  "essn": "1524-4571",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "5928542"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/01.res.19.6.1022"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "5928542"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "5928542"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1966/12/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1966/12/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1966/12/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 3,
+  "fulljournalname": "Circulation research",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1966/12/01 00:00",
+  "sortfirstauthor": "Guyton AC",
+  "vernaculartitle": ""
+}

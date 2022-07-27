@@ -1,0 +1,109 @@
+{
+  "uid": "34641601",
+  "pubdate": "2021 Oct 7",
+  "epubdate": "2021 Oct 7",
+  "source": "Molecules",
+  "authors": [
+    {
+      "name": "Christensen SB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Christensen SB",
+  "title": "Drugs That Changed Society: History and Current Status of the Early Antibiotics: Salvarsan, Sulfonamides, and β-Lactams.",
+  "sorttitle": "drugs that changed society history and current status of the early antibiotics salvarsan sulfonamides and lactams",
+  "volume": "26",
+  "issue": "19",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100964009",
+  "issn": "",
+  "essn": "1420-3049",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34641601"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "molecules26196057"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/molecules26196057"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34641601"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34641601"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/08/15 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/09/13 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/09/29 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/10/13 01:14"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/10/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/10/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Molecules (Basel, Switzerland)",
+  "elocationid": "pii: 6057. doi: 10.3390/molecules26196057",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/10/07 00:00",
+  "sortfirstauthor": "Christensen SB",
+  "vernaculartitle": ""
+}

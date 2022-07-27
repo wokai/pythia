@@ -1,0 +1,102 @@
+{
+  "uid": "23393253",
+  "pubdate": "2013 Feb 8",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Pälike H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pälike H",
+  "title": "Geochemistry. Impact and extinction.",
+  "sorttitle": "geochemistry impact and extinction",
+  "volume": "339",
+  "issue": "6120",
+  "pages": "655-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Comment",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23393253"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "339/6120/655"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.1233948"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23393253"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23393253"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/02/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/02/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/02/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Science. 2013 Feb 8;339(6120):684-7",
+      "reftype": "Comment on",
+      "pmid": 23393261,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "doi: 10.1126/science.1233948",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/02/08 00:00",
+  "sortfirstauthor": "Pälike H",
+  "vernaculartitle": ""
+}

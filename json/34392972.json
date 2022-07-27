@@ -1,0 +1,119 @@
+{
+  "uid": "34392972",
+  "pubdate": "2021 Dec",
+  "epubdate": "2021 Aug 12",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Meng L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Meng L",
+  "title": "Heterogeneous impact of hypotension on organ perfusion and outcomes: a narrative review.",
+  "sorttitle": "heterogeneous impact of hypotension on organ perfusion and outcomes a narrative review",
+  "volume": "127",
+  "issue": "6",
+  "pages": "845-861",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34392972"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(21)00458-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.bja.2021.06.048"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8978210"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34392972"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34392972"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8978210;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/04/07 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/06/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/06/25 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/08/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/12/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/08/16 05:32"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1016/j.bja.2021.06.048",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/12/01 00:00",
+  "sortfirstauthor": "Meng L",
+  "vernaculartitle": ""
+}

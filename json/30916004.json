@@ -1,0 +1,222 @@
+{
+  "uid": "30916004",
+  "pubdate": "2019 May",
+  "epubdate": "2019 Feb 27",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Sessler DI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bloomstone JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aronson S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berry C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gan TJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kellum JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Plumb J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mythen MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grocott MPW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Edwards MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miller TE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perioperative Quality Initiative-3 workgroup.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "POQI chairs.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Miller TE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mythen MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grocott MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Edwards MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Physiology group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Preoperative blood pressure group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Intraoperative blood pressure group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Postoperative blood pressure group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Edwards MR",
+  "title": "Perioperative Quality Initiative consensus statement on intraoperative blood pressure, risk and outcomes for elective surgery.",
+  "sorttitle": "perioperative quality initiative consensus statement on intraoperative blood pressure risk and outcomes for elective surgery",
+  "volume": "122",
+  "issue": "5",
+  "pages": "563-574",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Consensus Development Conference",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30916004"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(19)30050-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.bja.2019.01.013"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30916004"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30916004"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/03/22 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/12/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/01/09 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/03/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/04/23 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/03/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2019 Jun;122(6):719-722",
+      "reftype": "Comment in",
+      "pmid": 31006489,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2019 Sep;123(3):e466-e468",
+      "reftype": "Comment in",
+      "pmid": 31280889,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1016/j.bja.2019.01.013",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/05/01 00:00",
+  "sortfirstauthor": "Sessler DI",
+  "vernaculartitle": ""
+}

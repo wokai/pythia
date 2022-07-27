@@ -1,0 +1,156 @@
+{
+  "uid": "23774517",
+  "pubdate": "2013 Aug",
+  "epubdate": "",
+  "source": "Med Care",
+  "authors": [
+    {
+      "name": "Hersh WR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weiner MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Embi PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Logan JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Payne PR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bernstam EV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lehmann HP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hripcsak G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hartzog TH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cimino JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saltz JH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Saltz JH",
+  "title": "Caveats for the use of operational electronic health record data in comparative effectiveness research.",
+  "sorttitle": "caveats for the use of operational electronic health record data in comparative effectiveness research",
+  "volume": "51",
+  "issue": "8 Suppl 3",
+  "pages": "S30-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0230027",
+  "issn": "0025-7079",
+  "essn": "1537-1948",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23774517"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/MLR.0b013e31829b1dbd"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3748381"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS491343"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23774517"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23774517"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3748381;manuscript-id: NIHMS491343;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/06/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/06/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/09/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 182,
+  "fulljournalname": "Medical care",
+  "elocationid": "doi: 10.1097/MLR.0b013e31829b1dbd",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/08/01 00:00",
+  "sortfirstauthor": "Hersh WR",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,111 @@
+{
+  "uid": "27400899",
+  "pubdate": "2016 Jul 12",
+  "epubdate": "",
+  "source": "Circulation",
+  "authors": [
+    {
+      "name": "Kereiakes DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Onuma Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Serruys PW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stone GW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stone GW",
+  "title": "Bioresorbable Vascular Scaffolds for Coronary Revascularization.",
+  "sorttitle": "bioresorbable vascular scaffolds for coronary revascularization",
+  "volume": "134",
+  "issue": "2",
+  "pages": "168-82",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0147763",
+  "issn": "0009-7322",
+  "essn": "1524-4539",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27400899"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "CIRCULATIONAHA.116.021539"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/CIRCULATIONAHA.116.021539"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27400899"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27400899"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/07/13 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/07/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/12/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 19,
+  "fulljournalname": "Circulation",
+  "elocationid": "doi: 10.1161/CIRCULATIONAHA.116.021539",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/07/12 00:00",
+  "sortfirstauthor": "Kereiakes DJ",
+  "vernaculartitle": ""
+}

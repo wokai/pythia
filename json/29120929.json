@@ -1,0 +1,117 @@
+{
+  "uid": "29120929",
+  "pubdate": "2018 Feb",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Gupta K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prasad A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nagappa M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abrahamyan L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chung FF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chung FF",
+  "title": "Risk factors for opioid-induced respiratory depression and failure to rescue: a review.",
+  "sorttitle": "risk factors for opioid induced respiratory depression and failure to rescue a review",
+  "volume": "31",
+  "issue": "1",
+  "pages": "110-119",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29120929"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0000000000000541"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29120929"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29120929"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/11/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/08/17 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/11/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 14,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0000000000000541",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/02/01 00:00",
+  "sortfirstauthor": "Gupta K",
+  "vernaculartitle": ""
+}

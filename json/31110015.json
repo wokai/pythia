@@ -1,0 +1,126 @@
+{
+  "uid": "31110015",
+  "pubdate": "2019 Jun 4",
+  "epubdate": "2019 May 20",
+  "source": "Proc Natl Acad Sci U S A",
+  "authors": [
+    {
+      "name": "Bamber JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oppenheimer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kopp RE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aspinall WP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cooke RM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cooke RM",
+  "title": "Ice sheet contributions to future sea-level rise from structured expert judgment.",
+  "sorttitle": "ice sheet contributions to future sea level rise from structured expert judgment",
+  "volume": "116",
+  "issue": "23",
+  "pages": "11195-11200",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7505876",
+  "issn": "0027-8424",
+  "essn": "1091-6490",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31110015"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1817205116"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1073/pnas.1817205116"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6561295"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31110015"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31110015"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6561295;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/05/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/05/22 06:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/05/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+  "elocationid": "doi: 10.1073/pnas.1817205116",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/06/04 00:00",
+  "sortfirstauthor": "Bamber JL",
+  "vernaculartitle": ""
+}

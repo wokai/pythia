@@ -1,0 +1,95 @@
+{
+  "uid": "15031728",
+  "pubdate": "2004 Apr",
+  "epubdate": "",
+  "source": "Nat Rev Microbiol",
+  "authors": [
+    {
+      "name": "Drusano GL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Drusano GL",
+  "title": "Antimicrobial pharmacodynamics: critical interactions of 'bug and drug'.",
+  "sorttitle": "antimicrobial pharmacodynamics critical interactions of bug and drug",
+  "volume": "2",
+  "issue": "4",
+  "pages": "289-300",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101190261",
+  "issn": "1740-1526",
+  "essn": "1740-1534",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15031728"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrmicro862"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrmicro862"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15031728"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15031728"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/03/20 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/04/28 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/03/20 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 265,
+  "fulljournalname": "Nature reviews. Microbiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/04/01 00:00",
+  "sortfirstauthor": "Drusano GL",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,99 @@
+{
+  "uid": "27636568",
+  "pubdate": "2016 Oct",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Leffert L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Landau R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Landau R",
+  "title": "Integrating the New Thromboprophylaxis Guidelines Into Obstetric Anesthesia Practice.",
+  "sorttitle": "integrating the new thromboprophylaxis guidelines into obstetric anesthesia practice",
+  "volume": "123",
+  "issue": "4",
+  "pages": "809-11",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27636568"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000001567"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201610000-00003"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27636568"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27636568"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/09/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/09/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/01/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000001567",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/10/01 00:00",
+  "sortfirstauthor": "Leffert L",
+  "vernaculartitle": ""
+}

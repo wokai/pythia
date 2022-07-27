@@ -1,0 +1,126 @@
+{
+  "uid": "15141377",
+  "pubdate": "2004 Jun",
+  "epubdate": "",
+  "source": "J Pathol",
+  "authors": [
+    {
+      "name": "Hamming I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Timens W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bulthuis ML",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lely AT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Navis G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Goor H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "van Goor H",
+  "title": "Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis.",
+  "sorttitle": "tissue distribution of ace2 protein the functional receptor for sars coronavirus a first step in understanding sars pathogenesis",
+  "volume": "203",
+  "issue": "2",
+  "pages": "631-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0204634",
+  "issn": "0022-3417",
+  "essn": "1096-9896",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15141377"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/path.1570"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7167720"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15141377"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15141377"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7167720;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/05/14 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/07/20 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/05/14 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1471,
+  "fulljournalname": "The Journal of pathology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/06/01 00:00",
+  "sortfirstauthor": "Hamming I",
+  "vernaculartitle": ""
+}

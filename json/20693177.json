@@ -1,0 +1,116 @@
+{
+  "uid": "20693177",
+  "pubdate": "2010 Nov",
+  "epubdate": "2010 Aug 6",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Strang CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fredén F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maripuu E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hachenberg T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hedenstierna G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hedenstierna G",
+  "title": "Ventilation-perfusion distributions and gas exchange during carbon dioxide-pneumoperitoneum in a porcine model.",
+  "sorttitle": "ventilation perfusion distributions and gas exchange during carbon dioxide pneumoperitoneum in a porcine model",
+  "volume": "105",
+  "issue": "5",
+  "pages": "691-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20693177"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)33450-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aeq211"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20693177"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20693177"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/08/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/08/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/11/11 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aeq211",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/11/01 00:00",
+  "sortfirstauthor": "Strang CM",
+  "vernaculartitle": ""
+}

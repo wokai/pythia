@@ -1,0 +1,158 @@
+{
+  "uid": "28755903",
+  "pubdate": "2017 Dec",
+  "epubdate": "2017 May 8",
+  "source": "J Surg Res",
+  "authors": [
+    {
+      "name": "Moore HB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moore EE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huebner BR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stettler GR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nunns GR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Einersen PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Silliman CC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sauaia A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sauaia A",
+  "title": "Tranexamic acid is associated with increased mortality in patients with physiological fibrinolysis.",
+  "sorttitle": "tranexamic acid is associated with increased mortality in patients with physiological fibrinolysis",
+  "volume": "220",
+  "issue": "",
+  "pages": "438-443",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0376340",
+  "issn": "0022-4804",
+  "essn": "1095-8673",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28755903"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0022-4804(17)30247-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jss.2017.04.028"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5677580"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS874555"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28755903"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28755903"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5677580;manuscript-id: NIHMS874555;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/02/09 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/03/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/04/27 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/08/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/12/12 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/07/31 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "The Journal of surgical research",
+  "elocationid": "doi: 10.1016/j.jss.2017.04.028",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/12/01 00:00",
+  "sortfirstauthor": "Moore HB",
+  "vernaculartitle": ""
+}

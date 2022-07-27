@@ -1,0 +1,106 @@
+{
+  "uid": "12594918",
+  "pubdate": "2003 Jan 29",
+  "epubdate": "",
+  "source": "Philos Trans R Soc Lond B Biol Sci",
+  "authors": [
+    {
+      "name": "Martin W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Russell MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Russell MJ",
+  "title": "On the origins of cells: a hypothesis for the evolutionary transitions from abiotic geochemistry to chemoautotrophic prokaryotes, and from prokaryotes to nucleated cells.",
+  "sorttitle": "on the origins of cells a hypothesis for the evolutionary transitions from abiotic geochemistry to chemoautotrophic prokaryotes and from prokaryotes to nucleated cells",
+  "volume": "358",
+  "issue": "1429",
+  "pages": "59-83; discussion 83-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7503623",
+  "issn": "0962-8436",
+  "essn": "1471-2970",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12594918"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1098/rstb.2002.1183"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC1693102"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12594918"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12594918"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC1693102;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/02/22 04:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/04/24 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/02/22 04:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 152,
+  "fulljournalname": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/01/29 00:00",
+  "sortfirstauthor": "Martin W",
+  "vernaculartitle": ""
+}

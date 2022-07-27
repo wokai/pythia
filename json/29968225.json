@@ -1,0 +1,134 @@
+{
+  "uid": "29968225",
+  "pubdate": "2018 Oct",
+  "epubdate": "2018 Jul 2",
+  "source": "Endocrine",
+  "authors": [
+    {
+      "name": "Borg H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Siesjö P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kahlon B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fjalldal S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Erfurth EM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Erfurth EM",
+  "title": "Perioperative serum cortisol levels in ACTH sufficient and ACTH deficient patients during transsphenoidal surgery of pituitary adenoma.",
+  "sorttitle": "perioperative serum cortisol levels in acth sufficient and acth deficient patients during transsphenoidal surgery of pituitary adenoma",
+  "volume": "62",
+  "issue": "1",
+  "pages": "83-89",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9434444",
+  "issn": "1355-008X",
+  "essn": "1559-0100",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29968225"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s12020-018-1655-8"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s12020-018-1655-8"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6153577"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29968225"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29968225"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6153577;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/01/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/06/12 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/07/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/02/20 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/07/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Endocrine",
+  "elocationid": "doi: 10.1007/s12020-018-1655-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "Borg H",
+  "vernaculartitle": ""
+}

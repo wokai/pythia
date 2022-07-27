@@ -1,0 +1,92 @@
+{
+  "uid": "8403138",
+  "pubdate": "1993 Jul",
+  "epubdate": "",
+  "source": "Can J Anaesth",
+  "authors": [
+    {
+      "name": "Wong DH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wong DH",
+  "title": "Regional anaesthesia for intraocular surgery.",
+  "sorttitle": "regional anaesthesia for intraocular surgery",
+  "volume": "40",
+  "issue": "7",
+  "pages": "635-57",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8701709",
+  "issn": "0832-610X",
+  "essn": "1496-8975",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8403138"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/BF03009701"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8403138"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8403138"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1993/07/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1993/07/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1993/07/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1993/07/01 00:00",
+  "sortfirstauthor": "Wong DH",
+  "vernaculartitle": ""
+}

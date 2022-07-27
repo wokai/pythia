@@ -1,0 +1,151 @@
+{
+  "uid": "27720613",
+  "pubdate": "2017 Feb",
+  "epubdate": "2016 Aug 28",
+  "source": "Int J Obstet Anesth",
+  "authors": [
+    {
+      "name": "Vallejo MC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Attaallah AF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Elzamzamy OM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cifarelli DT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Phelps AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hobbs GR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shapiro RE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ranganathan P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ranganathan P",
+  "title": "An open-label randomized controlled clinical trial for comparison of continuous phenylephrine versus norepinephrine infusion in prevention of spinal hypotension during cesarean delivery.",
+  "sorttitle": "open label randomized controlled clinical trial for comparison of continuous phenylephrine versus norepinephrine infusion in prevention of spinal hypotension during cesarean delivery",
+  "volume": "29",
+  "issue": "",
+  "pages": "18-25",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9200430",
+  "issn": "0959-289X",
+  "essn": "1532-3374",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27720613"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0959-289X(16)30069-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijoa.2016.08.005"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27720613"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27720613"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/03/18 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/06/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/08/21 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/10/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/08/17 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/10/11 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Int J Obstet Anesth. 2017 May;31:108-109",
+      "reftype": "Comment in",
+      "pmid": 28623090,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "International journal of obstetric anesthesia",
+  "elocationid": "doi: 10.1016/j.ijoa.2016.08.005",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/02/01 00:00",
+  "sortfirstauthor": "Vallejo MC",
+  "vernaculartitle": ""
+}

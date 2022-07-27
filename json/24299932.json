@@ -1,0 +1,114 @@
+{
+  "uid": "24299932",
+  "pubdate": "2014 Mar",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Siddik-Sayyid SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taha SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kanazi GE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aouad MT",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Aouad MT",
+  "title": "A randomized controlled trial of variable rate phenylephrine infusion with rescue phenylephrine boluses versus rescue boluses alone on physician interventions during spinal anesthesia for elective cesarean delivery.",
+  "sorttitle": "randomized controlled trial of variable rate phenylephrine infusion with rescue phenylephrine boluses versus rescue boluses alone on physician interventions during spinal anesthesia for elective cesarean delivery",
+  "volume": "118",
+  "issue": "3",
+  "pages": "611-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24299932"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/01.ane.0000437731.60260.ce"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24299932"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24299932"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/12/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/12/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/04/15 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2014 Mar;118(3):496-8",
+      "reftype": "Comment in",
+      "pmid": 24557093,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/01.ane.0000437731.60260.ce",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/03/01 00:00",
+  "sortfirstauthor": "Siddik-Sayyid SM",
+  "vernaculartitle": ""
+}

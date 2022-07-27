@@ -1,0 +1,129 @@
+{
+  "uid": "26602764",
+  "pubdate": "2015 Dec",
+  "epubdate": "2015 Nov 18",
+  "source": "Trends Neurosci",
+  "authors": [
+    {
+      "name": "Kirszenblat L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Swinderen B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "van Swinderen B",
+  "title": "The Yin and Yang of Sleep and Attention.",
+  "sorttitle": "yin and yang of sleep and attention",
+  "volume": "38",
+  "issue": "12",
+  "pages": "776-786",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7808616",
+  "issn": "0166-2236",
+  "essn": "1878-108X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26602764"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0166-2236(15)00225-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.tins.2015.10.001"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4803435"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS733258"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26602764"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26602764"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4803435;manuscript-id: NIHMS733258;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/07/25 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2015/09/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/10/18 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/11/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/11/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/09/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Trends in neurosciences",
+  "elocationid": "doi: 10.1016/j.tins.2015.10.001",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/12/01 00:00",
+  "sortfirstauthor": "Kirszenblat L",
+  "vernaculartitle": ""
+}

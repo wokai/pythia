@@ -1,0 +1,117 @@
+{
+  "uid": "17762223",
+  "pubdate": "2007 Oct",
+  "epubdate": "",
+  "source": "Curr Opin Crit Care",
+  "authors": [
+    {
+      "name": "Embriaco N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Papazian L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kentish-Barnes N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pochard F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Azoulay E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Azoulay E",
+  "title": "Burnout syndrome among critical care healthcare workers.",
+  "sorttitle": "burnout syndrome among critical care healthcare workers",
+  "volume": "13",
+  "issue": "5",
+  "pages": "482-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9504454",
+  "issn": "1070-5295",
+  "essn": "1531-7072",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17762223"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/MCC.0b013e3282efd28a"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00075198-200710000-00004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17762223"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17762223"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/09/01 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/03/05 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/09/01 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 103,
+  "fulljournalname": "Current opinion in critical care",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/10/01 00:00",
+  "sortfirstauthor": "Embriaco N",
+  "vernaculartitle": ""
+}

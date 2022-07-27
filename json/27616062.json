@@ -1,0 +1,160 @@
+{
+  "uid": "27616062",
+  "pubdate": "2016 Sep 22",
+  "epubdate": "2016 Sep 8",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Tan CL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cooke EK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leib DE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lin YC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Daly GE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zimmerman CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Knight ZA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Knight ZA",
+  "title": "Warm-Sensitive Neurons that Control Body Temperature.",
+  "sorttitle": "warm sensitive neurons that control body temperature",
+  "volume": "167",
+  "issue": "1",
+  "pages": "47-59.e15",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27616062"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5062957"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(16)31079-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2016.08.028"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS815480"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27616062"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27616062"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5062957;manuscript-id: NIHMS815480;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/04/04 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/06/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/08/13 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/09/13 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/09/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/12/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cell. 2016 Sep 22;167(1):43-4",
+      "reftype": "Comment in",
+      "pmid": 27662082,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 86,
+  "fulljournalname": "Cell",
+  "elocationid": "doi: 10.1016/j.cell.2016.08.028",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/09/22 00:00",
+  "sortfirstauthor": "Tan CL",
+  "vernaculartitle": ""
+}

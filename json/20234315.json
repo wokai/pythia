@@ -1,0 +1,105 @@
+{
+  "uid": "20234315",
+  "pubdate": "2010 Apr",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Plaud B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Debaene B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Donati F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marty J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Marty J",
+  "title": "Residual paralysis after emergence from anesthesia.",
+  "sorttitle": "residual paralysis after emergence from anesthesia",
+  "volume": "112",
+  "issue": "4",
+  "pages": "1013-22",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20234315"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0b013e3181cded07"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20234315"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20234315"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/03/18 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/03/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/05/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 26,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0b013e3181cded07",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/04/01 00:00",
+  "sortfirstauthor": "Plaud B",
+  "vernaculartitle": ""
+}

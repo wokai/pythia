@@ -1,0 +1,164 @@
+{
+  "uid": "31209306",
+  "pubdate": "2019 Oct",
+  "epubdate": "2019 Jun 17",
+  "source": "Nat Microbiol",
+  "authors": [
+    {
+      "name": "Band VI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hufnagel DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jaggavarapu S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sherman EX",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wozniak JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Satola SW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Farley MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jacob JT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burd EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weiss DS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Weiss DS",
+  "title": "Antibiotic combinations that exploit heteroresistance to multiple drugs effectively control infection.",
+  "sorttitle": "antibiotic combinations that exploit heteroresistance to multiple drugs effectively control infection",
+  "volume": "4",
+  "issue": "10",
+  "pages": "1627-1635",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101674869",
+  "issn": "",
+  "essn": "2058-5276",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31209306"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41564-019-0480-z"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41564-019-0480-z"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7205309"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1041083"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31209306"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31209306"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7205309;manuscript-id: NIHMS1041083;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/11/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/05/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/06/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/01/21 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/06/19 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 22,
+  "fulljournalname": "Nature microbiology",
+  "elocationid": "doi: 10.1038/s41564-019-0480-z",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/10/01 00:00",
+  "sortfirstauthor": "Band VI",
+  "vernaculartitle": ""
+}

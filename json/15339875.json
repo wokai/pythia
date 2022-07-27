@@ -1,0 +1,115 @@
+{
+  "uid": "15339875",
+  "pubdate": "2004 Aug 31",
+  "epubdate": "",
+  "source": "Circulation",
+  "authors": [
+    {
+      "name": "McRae SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ginsberg JS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ginsberg JS",
+  "title": "Initial treatment of venous thromboembolism.",
+  "sorttitle": "initial treatment of venous thromboembolism",
+  "volume": "110",
+  "issue": "9 Suppl 1",
+  "pages": "I3-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0147763",
+  "issn": "0009-7322",
+  "essn": "1524-4539",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15339875"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/01.CIR.0000140904.52752.0c"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "110/9_suppl_1/I-3"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15339875"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15339875"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/09/02 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/10/20 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/09/02 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Circulation. 2004 Dec 14;110(24 Suppl 1):IV33",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Circulation. 2005 Jan 25;111(3):378",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 22,
+  "fulljournalname": "Circulation",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/08/31 00:00",
+  "sortfirstauthor": "McRae SJ",
+  "vernaculartitle": ""
+}

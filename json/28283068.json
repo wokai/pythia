@@ -1,0 +1,109 @@
+{
+  "uid": "28283068",
+  "pubdate": "2017 Mar 9",
+  "epubdate": "",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Martin WF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thauer RK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Thauer RK",
+  "title": "Energy in Ancient Metabolism.",
+  "sorttitle": "energy in ancient metabolism",
+  "volume": "168",
+  "issue": "6",
+  "pages": "953-955",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Comment",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28283068"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(17)30247-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2017.02.032"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28283068"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28283068"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/03/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/03/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/06/24 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cell. 2017 Mar 9;168(6):1126-1134.e9",
+      "reftype": "Comment on",
+      "pmid": 28262353,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "Cell",
+  "elocationid": "doi: 10.1016/j.cell.2017.02.032",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/03/09 00:00",
+  "sortfirstauthor": "Martin WF",
+  "vernaculartitle": ""
+}

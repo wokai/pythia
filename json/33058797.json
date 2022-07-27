@@ -1,0 +1,185 @@
+{
+  "uid": "33058797",
+  "pubdate": "2021 Jan",
+  "epubdate": "2020 Oct 12",
+  "source": "Lancet Infect Dis",
+  "authors": [
+    {
+      "name": "Tillett RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sevinsky JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hartley PD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kerwin H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crawford N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gorzalski A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laverdure C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Verma SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rossetto CC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jackson D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Farrell MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van Hooser S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pandori M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pandori M",
+  "title": "Genomic evidence for reinfection with SARS-CoV-2: a case study.",
+  "sorttitle": "genomic evidence for reinfection with sars cov 2 a case study",
+  "volume": "21",
+  "issue": "1",
+  "pages": "52-58",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101130150",
+  "issn": "1473-3099",
+  "essn": "1474-4457",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33058797"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1473-3099(20)30764-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S1473-3099(20)30764-7"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7550103"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33058797"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33058797"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7550103;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/08/25 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/09/09 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/09/18 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/14 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/15 20:09"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet Infect Dis. 2021 Jan;21(1):3-5",
+      "reftype": "Comment in",
+      "pmid": 33058796,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 76,
+  "fulljournalname": "The Lancet. Infectious diseases",
+  "elocationid": "doi: 10.1016/S1473-3099(20)30764-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/01 00:00",
+  "sortfirstauthor": "Tillett RL",
+  "vernaculartitle": ""
+}

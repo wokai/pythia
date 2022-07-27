@@ -1,0 +1,149 @@
+{
+  "uid": "32590548",
+  "pubdate": "2020 Dec",
+  "epubdate": "",
+  "source": "Eur J Anaesthesiol",
+  "authors": [
+    {
+      "name": "Redfern N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clyburn P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grigoras I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Calleja P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mellin-Olsen J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Novak-Jankovic V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bobek I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Hert S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zacharowski K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Robertis E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "De Robertis E",
+  "title": "Getting old.",
+  "sorttitle": "getting old",
+  "volume": "37",
+  "issue": "12",
+  "pages": "1081-1083",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8411711",
+  "issn": "0265-0215",
+  "essn": "1365-2346",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32590548"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/EJA.0000000000001266"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7752238"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00003643-202012000-00001"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32590548"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32590548"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7752238;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/06/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/06/27 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/06/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "European journal of anaesthesiology",
+  "elocationid": "doi: 10.1097/EJA.0000000000001266",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/01 00:00",
+  "sortfirstauthor": "Redfern N",
+  "vernaculartitle": ""
+}

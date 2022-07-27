@@ -1,0 +1,126 @@
+{
+  "uid": "25188000",
+  "pubdate": "2015 Jan",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Zhang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wen Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guan L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jiang P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gu T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhao J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lv X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wen T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wen T",
+  "title": "Extracellular histones play an inflammatory role in acid aspiration-induced acute respiratory distress syndrome.",
+  "sorttitle": "extracellular histones play an inflammatory role in acid aspiration induced acute respiratory distress syndrome",
+  "volume": "122",
+  "issue": "1",
+  "pages": "127-39",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25188000"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000000429"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25188000"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25188000"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/09/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/09/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/03/25 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000000429",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/01/01 00:00",
+  "sortfirstauthor": "Zhang Y",
+  "vernaculartitle": ""
+}

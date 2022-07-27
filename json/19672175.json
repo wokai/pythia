@@ -1,0 +1,137 @@
+{
+  "uid": "19672175",
+  "pubdate": "2009 Sep",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Ngan Kee WD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khaw KS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tan PE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ng FF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Karmakar MK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Karmakar MK",
+  "title": "Placental transfer and fetal metabolic effects of phenylephrine and ephedrine during spinal anesthesia for cesarean delivery.",
+  "sorttitle": "placental transfer and fetal metabolic effects of phenylephrine and ephedrine during spinal anesthesia for cesarean delivery",
+  "volume": "111",
+  "issue": "3",
+  "pages": "506-12",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19672175"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0b013e3181b160a3"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19672175"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19672175"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/08/13 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/08/13 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/09/18 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2009 Sep;111(3):470-2",
+      "reftype": "Comment in",
+      "pmid": 19672174,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2010 May;112(5):1285-7; author reply 1288-94",
+      "reftype": "Comment in",
+      "pmid": 20418707,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2010 May;112(5):1287-8; author reply 1288-94",
+      "reftype": "Comment in",
+      "pmid": 20418708,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2010 May;112(5):1287; author reply 1290-4",
+      "reftype": "Comment in",
+      "pmid": 20418709,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 39,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0b013e3181b160a3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/09/01 00:00",
+  "sortfirstauthor": "Ngan Kee WD",
+  "vernaculartitle": ""
+}

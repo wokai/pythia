@@ -1,0 +1,124 @@
+{
+  "uid": "29151020",
+  "pubdate": "2017 Nov 19",
+  "epubdate": "2017 Nov 19",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Schneider AG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Journois D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rimmelé T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rimmelé T",
+  "title": "Complications of regional citrate anticoagulation: accumulation or overload?",
+  "sorttitle": "complications of regional citrate anticoagulation accumulation or overload",
+  "volume": "21",
+  "issue": "1",
+  "pages": "281",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29151020"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13054-017-1880-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13054-017-1880-1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5694623"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29151020"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29151020"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5694623;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/07/31 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/10/31 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/11/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/11/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/10/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/s13054-017-1880-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/11/19 00:00",
+  "sortfirstauthor": "Schneider AG",
+  "vernaculartitle": ""
+}

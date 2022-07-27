@@ -1,0 +1,102 @@
+{
+  "uid": "20442260",
+  "pubdate": "2010 Jul",
+  "epubdate": "2010 May 4",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Murphy GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brull SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Brull SJ",
+  "title": "Residual neuromuscular block: lessons unlearned. Part I: definitions, incidence, and adverse physiologic effects of residual neuromuscular block.",
+  "sorttitle": "residual neuromuscular block lessons unlearned part i definitions incidence and adverse physiologic effects of residual neuromuscular block",
+  "volume": "111",
+  "issue": "1",
+  "pages": "120-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20442260"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ANE.0b013e3181da832d"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0b013e3181da832d"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20442260"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20442260"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/05/06 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/05/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/07/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 57,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0b013e3181da832d",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/07/01 00:00",
+  "sortfirstauthor": "Murphy GS",
+  "vernaculartitle": ""
+}

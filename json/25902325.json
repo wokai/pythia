@@ -1,0 +1,136 @@
+{
+  "uid": "25902325",
+  "pubdate": "2015 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Berroa F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lafuente A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Javaloyes G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cabrera-Freitag P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de la Borbolla JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moncada R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goikoetxea MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sanz ML",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferrer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gastaminza G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gastaminza G",
+  "title": "The incidence of perioperative hypersensitivity reactions: a single-center, prospective, cohort study.",
+  "sorttitle": "incidence of perioperative hypersensitivity reactions a single center prospective cohort study",
+  "volume": "121",
+  "issue": "1",
+  "pages": "117-23",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25902325"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000000776"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25902325"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25902325"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/04/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/04/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/08/25 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000000776",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/07/01 00:00",
+  "sortfirstauthor": "Berroa F",
+  "vernaculartitle": ""
+}

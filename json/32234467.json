@@ -1,0 +1,138 @@
+{
+  "uid": "32234467",
+  "pubdate": "2020 May",
+  "epubdate": "2020 Mar 29",
+  "source": "Int J Antimicrob Agents",
+  "authors": [
+    {
+      "name": "Zhang C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhao H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang GQ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wang GQ",
+  "title": "Cytokine release syndrome in severe COVID-19: interleukin-6 receptor antagonist tocilizumab may be the key to reduce mortality.",
+  "sorttitle": "cytokine release syndrome in severe covid 19 interleukin 6 receptor antagonist tocilizumab may be the key to reduce mortality",
+  "volume": "55",
+  "issue": "5",
+  "pages": "105954",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9111860",
+  "issn": "0924-8579",
+  "essn": "1872-7913",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32234467"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0924-8579(20)30104-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijantimicag.2020.105954"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7118634"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32234467"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32234467"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7118634;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/26 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/03/14 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/03/19 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/29 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 620,
+  "fulljournalname": "International journal of antimicrobial agents",
+  "elocationid": "doi: 10.1016/j.ijantimicag.2020.105954",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/05/01 00:00",
+  "sortfirstauthor": "Zhang C",
+  "vernaculartitle": ""
+}

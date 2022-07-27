@@ -1,0 +1,121 @@
+{
+  "uid": "31077932",
+  "pubdate": "2019 Dec",
+  "epubdate": "2019 May 8",
+  "source": "J Clin Anesth",
+  "authors": [
+    {
+      "name": "Akodjenou J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mewanou S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ahounou E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zoumenou E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zoumenou E",
+  "title": "Severe morbidity and death associated with drug errors while performing spinal anesthesia.",
+  "sorttitle": "severe morbidity and death associated with drug errors while performing spinal anesthesia",
+  "volume": "58",
+  "issue": "",
+  "pages": "48-49",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8812166",
+  "issn": "0952-8180",
+  "essn": "1873-4529",
+  "pubtype": [
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31077932"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0952-8180(19)30633-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jclinane.2019.05.008"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31077932"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31077932"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/04/23 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/04/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/05/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/05/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/10 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/05/12 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Journal of clinical anesthesia",
+  "elocationid": "doi: 10.1016/j.jclinane.2019.05.008",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/12/01 00:00",
+  "sortfirstauthor": "Akodjenou J",
+  "vernaculartitle": ""
+}

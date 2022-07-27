@@ -1,0 +1,102 @@
+{
+  "uid": "31553836",
+  "pubdate": "2019 Sep 26",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Agustí A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hogg JC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hogg JC",
+  "title": "Update on the Pathogenesis of Chronic Obstructive Pulmonary Disease.",
+  "sorttitle": "update on the pathogenesis of chronic obstructive pulmonary disease",
+  "volume": "381",
+  "issue": "13",
+  "pages": "1248-1256",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31553836"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMra1900475"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31553836"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31553836"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/09/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/09/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/10/08 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2019 Dec 19;381(25):2483-2484",
+      "reftype": "Comment in",
+      "pmid": 31851815,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 28,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMra1900475",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/09/26 00:00",
+  "sortfirstauthor": "Agustí A",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,119 @@
+{
+  "uid": "27984223",
+  "pubdate": "2017 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Cavalcante AN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sprung J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schroeder DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weingarten TN",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Weingarten TN",
+  "title": "Multimodal Analgesic Therapy With Gabapentin and Its Association With Postoperative Respiratory Depression.",
+  "sorttitle": "multimodal analgesic therapy with gabapentin and its association with postoperative respiratory depression",
+  "volume": "125",
+  "issue": "1",
+  "pages": "141-146",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27984223"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000001719"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27984223"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27984223"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/12/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/08/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/12/17 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2017 Jul;125(1):8-9",
+      "reftype": "Comment in",
+      "pmid": 28628572,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2019 Sep;129(3):e104-e105",
+      "reftype": "Comment in",
+      "pmid": 31425241,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 14,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000001719",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/07/01 00:00",
+  "sortfirstauthor": "Cavalcante AN",
+  "vernaculartitle": ""
+}

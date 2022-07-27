@@ -1,0 +1,111 @@
+{
+  "uid": "27140684",
+  "pubdate": "2016 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Naguib M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brewer L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "LaPierre C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kopman AF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnson KB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Johnson KB",
+  "title": "The Myth of Rescue Reversal in \"Can't Intubate, Can't Ventilate\" Scenarios.",
+  "sorttitle": "myth of rescue reversal in can t intubate can t ventilate scenarios",
+  "volume": "123",
+  "issue": "1",
+  "pages": "82-92",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27140684"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000001347"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27140684"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27140684"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/05/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/05/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/06/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000001347",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/07/01 00:00",
+  "sortfirstauthor": "Naguib M",
+  "vernaculartitle": ""
+}

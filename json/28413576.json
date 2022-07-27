@@ -1,0 +1,107 @@
+{
+  "uid": "28413576",
+  "pubdate": "2017 Jan-Mar",
+  "epubdate": "",
+  "source": "Methodist Debakey Cardiovasc J",
+  "authors": [
+    {
+      "name": "Nam D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reineke EL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Reineke EL",
+  "title": "Timing and Targeting of Treatment in Left Ventricular Hypertrophy.",
+  "sorttitle": "timing and targeting of treatment in left ventricular hypertrophy",
+  "volume": "13",
+  "issue": "1",
+  "pages": "9-14",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101508600",
+  "issn": "1947-6094",
+  "essn": "1947-6108",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28413576"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.14797/mdcj-13-1-9"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5385802"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28413576"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28413576"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5385802;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/04/18 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/04/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/09/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Methodist DeBakey cardiovascular journal",
+  "elocationid": "doi: 10.14797/mdcj-13-1-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/01 00:00",
+  "sortfirstauthor": "Nam D",
+  "vernaculartitle": ""
+}

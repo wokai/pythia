@@ -1,0 +1,333 @@
+{
+  "uid": "29490185",
+  "pubdate": "2018 Mar 1",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Annane D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Renault A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brun-Buisson C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Megarbane B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Quenot JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Siami S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cariou A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Forceville X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwebel C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Timsit JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Misset B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ali Benali M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Colin G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Souweine B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Asehnoune K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mercier E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chimot L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Charpentier C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "François B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boulain T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petitpas F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Constantin JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dhonneur G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baudin F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Combes A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bohé J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Loriferne JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Amathieu R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cook F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Slama M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leroy O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Capellier G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dargent A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hissem T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maxime V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellissant E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "CRICS-TRIGGERSEP Network.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bellissant E",
+  "title": "Hydrocortisone plus Fludrocortisone for Adults with Septic Shock.",
+  "sorttitle": "hydrocortisone plus fludrocortisone for adults with septic shock",
+  "volume": "378",
+  "issue": "9",
+  "pages": "809-818",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29490185"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa1705716"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29490185"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29490185"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/03/01 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/03/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/03/16 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Ann Intern Med. 2018 Jun 19;168(12):JC68",
+      "reftype": "Comment in",
+      "pmid": 29913493,
+      "note": ""
+    },
+    {
+      "refsource": "J Thorac Dis. 2018 Jun;10(Suppl 17):S1962-S1965",
+      "reftype": "Comment in",
+      "pmid": 30023091,
+      "note": ""
+    },
+    {
+      "refsource": "J Thorac Dis. 2018 Jul;10(7):E596-E597",
+      "reftype": "Comment in",
+      "pmid": 30174942,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2018 Aug 30;379(9):893",
+      "reftype": "Comment in",
+      "pmid": 30179382,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2018 Aug 30;379(9):893-4",
+      "reftype": "Comment in",
+      "pmid": 30179383,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2018 Aug 30;379(9):894",
+      "reftype": "Comment in",
+      "pmid": 30179384,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2018 Aug 30;379(9):894",
+      "reftype": "Comment in",
+      "pmid": 30179385,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2018 Aug 30;379(9):894-5",
+      "reftype": "Comment in",
+      "pmid": 30179386,
+      "note": ""
+    },
+    {
+      "refsource": "Am J Respir Crit Care Med. 2019 Aug 1;200(3):381-383",
+      "reftype": "Comment in",
+      "pmid": 30990750,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 142,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa1705716",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/03/01 00:00",
+  "sortfirstauthor": "Annane D",
+  "vernaculartitle": ""
+}

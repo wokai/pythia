@@ -1,0 +1,137 @@
+{
+  "uid": "26160951",
+  "pubdate": "2015 Jul 10",
+  "epubdate": "2015 Jul 9",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Dutton A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carlson AE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Long AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Milne GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clark PU",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "DeConto R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Horton BP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rahmstorf S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Raymo ME",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Raymo ME",
+  "title": "SEA-LEVEL RISE. Sea-level rise due to polar ice-sheet mass loss during past warm periods.",
+  "sorttitle": "sea level rise sea level rise due to polar ice sheet mass loss during past warm periods",
+  "volume": "349",
+  "issue": "6244",
+  "pages": "aaa4019",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26160951"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "349/6244/aaa4019"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.aaa4019"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26160951"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26160951"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/07/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/07/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/07/15 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 31,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "doi: 10.1126/science.aaa4019",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/07/10 00:00",
+  "sortfirstauthor": "Dutton A",
+  "vernaculartitle": ""
+}

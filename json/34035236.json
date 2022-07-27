@@ -1,0 +1,139 @@
+{
+  "uid": "34035236",
+  "pubdate": "2021 May 25",
+  "epubdate": "2021 May 25",
+  "source": "Nat Commun",
+  "authors": [
+    {
+      "name": "Pyrkov TV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Avchaciov K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tarkhov AE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Menshikov LI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gudkov AV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fedichev PO",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Fedichev PO",
+  "title": "Longitudinal analysis of blood markers reveals progressive loss of resilience and predicts human lifespan limit.",
+  "sorttitle": "longitudinal analysis of blood markers reveals progressive loss of resilience and predicts human lifespan limit",
+  "volume": "12",
+  "issue": "1",
+  "pages": "2765",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101528555",
+  "issn": "",
+  "essn": "2041-1723",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34035236"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41467-021-23014-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41467-021-23014-1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8149842"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34035236"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34035236"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8149842;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/07/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/03/12 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/05/26 06:07"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/05/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/06/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Nature communications",
+  "elocationid": "doi: 10.1038/s41467-021-23014-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/05/25 00:00",
+  "sortfirstauthor": "Pyrkov TV",
+  "vernaculartitle": ""
+}

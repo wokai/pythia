@@ -1,0 +1,105 @@
+{
+  "uid": "31435057",
+  "pubdate": "2019 Aug",
+  "epubdate": "2019 Aug 21",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Javaux EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Javaux EJ",
+  "title": "Challenges in evidencing the earliest traces of life.",
+  "sorttitle": "challenges in evidencing the earliest traces of life",
+  "volume": "572",
+  "issue": "7770",
+  "pages": "451-460",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31435057"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-019-1436-4"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-019-1436-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31435057"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31435057"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/07/06 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/06/21 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/08/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/08/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-019-1436-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/08/01 00:00",
+  "sortfirstauthor": "Javaux EJ",
+  "vernaculartitle": ""
+}

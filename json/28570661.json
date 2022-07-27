@@ -1,0 +1,144 @@
+{
+  "uid": "28570661",
+  "pubdate": "2017 Jun",
+  "epubdate": "2017 Jun 1",
+  "source": "PLoS Comput Biol",
+  "authors": [
+    {
+      "name": "Wollstadt P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sellers KK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rudelt L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Priesemann V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hutt A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fröhlich F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wibral M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wibral M",
+  "title": "Breakdown of local information processing may underlie isoflurane anesthesia effects.",
+  "sorttitle": "breakdown of local information processing may underlie isoflurane anesthesia effects",
+  "volume": "13",
+  "issue": "6",
+  "pages": "e1005511",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101238922",
+  "issn": "1553-734X",
+  "essn": "1553-7358",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28570661"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pcbi.1005511"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PCOMPBIOL-D-16-01388"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5453425"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28570661"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28570661"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5453425;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/08/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/04/11 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/06/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/06/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/06/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "PLoS computational biology",
+  "elocationid": "doi: 10.1371/journal.pcbi.1005511",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/06/01 00:00",
+  "sortfirstauthor": "Wollstadt P",
+  "vernaculartitle": ""
+}

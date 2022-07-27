@@ -1,0 +1,124 @@
+{
+  "uid": "32033322",
+  "pubdate": "2020 Feb 5",
+  "epubdate": "2020 Feb 5",
+  "source": "Antibiotics (Basel)",
+  "authors": [
+    {
+      "name": "Karaiskos I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giamarellou H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Giamarellou H",
+  "title": "Carbapenem-Sparing Strategies for ESBL Producers: When and How.",
+  "sorttitle": "carbapenem sparing strategies for esbl producers when and how",
+  "volume": "9",
+  "issue": "2",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101637404",
+  "issn": "",
+  "essn": "2079-6382",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32033322"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "antibiotics9020061"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/antibiotics9020061"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7167803"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32033322"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32033322"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7167803;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/12/29 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/01/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/02/03 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/02/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/02/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/09 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Antibiotics (Basel, Switzerland)",
+  "elocationid": "pii: E61. doi: 10.3390/antibiotics9020061",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/02/05 00:00",
+  "sortfirstauthor": "Karaiskos I",
+  "vernaculartitle": ""
+}

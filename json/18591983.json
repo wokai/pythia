@@ -1,0 +1,102 @@
+{
+  "uid": "18591983",
+  "pubdate": "2008 Aug",
+  "epubdate": "",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "Keeling PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Palmer JD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Palmer JD",
+  "title": "Horizontal gene transfer in eukaryotic evolution.",
+  "sorttitle": "horizontal gene transfer in eukaryotic evolution",
+  "volume": "9",
+  "issue": "8",
+  "pages": "605-18",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18591983"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrg2386"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrg2386"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18591983"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18591983"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/07/02 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/08/01 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/07/02 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 410,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "doi: 10.1038/nrg2386",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/08/01 00:00",
+  "sortfirstauthor": "Keeling PJ",
+  "vernaculartitle": ""
+}

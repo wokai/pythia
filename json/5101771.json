@@ -1,0 +1,104 @@
+{
+  "uid": "5101771",
+  "pubdate": "1971 Mar 10",
+  "epubdate": "",
+  "source": "J Biol Chem",
+  "authors": [
+    {
+      "name": "Oyer PE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cho S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peterson JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Steiner DF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Steiner DF",
+  "title": "Studies on human proinsulin. Isolation and amino acid sequence of the human pancreatic C-peptide.",
+  "sorttitle": "studies on human proinsulin isolation and amino acid sequence of the human pancreatic c peptide",
+  "volume": "246",
+  "issue": "5",
+  "pages": "1375-86",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985121R",
+  "issn": "0021-9258",
+  "essn": "1083-351X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "5101771"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0021-9258(19)76984-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "5101771"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "5101771"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1971/03/10 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1971/03/10 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1971/03/10 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 10,
+  "fulljournalname": "The Journal of biological chemistry",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1971/03/10 00:00",
+  "sortfirstauthor": "Oyer PE",
+  "vernaculartitle": ""
+}

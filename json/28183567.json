@@ -1,0 +1,137 @@
+{
+  "uid": "28183567",
+  "pubdate": "2017 Feb",
+  "epubdate": "2016 Oct 31",
+  "source": "J Clin Anesth",
+  "authors": [
+    {
+      "name": "Selvi O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kahraman T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Senturk O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tulgar S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Serifsoy E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ozer Z",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ozer Z",
+  "title": "Evaluation of the reliability of preoperative descriptive airway assessment tests in prediction of the Cormack-Lehane score: A prospective randomized clinical study.",
+  "sorttitle": "evaluation of the reliability of preoperative descriptive airway assessment tests in prediction of the cormack lehane score a prospective randomized clinical study",
+  "volume": "36",
+  "issue": "",
+  "pages": "21-26",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8812166",
+  "issn": "0952-8180",
+  "essn": "1873-4529",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28183567"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0952-8180(16)30652-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jclinane.2016.08.006"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28183567"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28183567"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/02/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/08/14 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/02/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/02/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/08/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Clin Anesth. 2017 May;38:172",
+      "reftype": "Comment in",
+      "pmid": 28372662,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "Journal of clinical anesthesia",
+  "elocationid": "doi: 10.1016/j.jclinane.2016.08.006",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/02/01 00:00",
+  "sortfirstauthor": "Selvi O",
+  "vernaculartitle": ""
+}

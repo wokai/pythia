@@ -1,0 +1,111 @@
+{
+  "uid": "33074293",
+  "pubdate": "2020 Nov 24",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Omer SB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yildirim I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Forman HP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Forman HP",
+  "title": "Herd Immunity and Implications for SARS-CoV-2 Control.",
+  "sorttitle": "herd immunity and implications for sars cov 2 control",
+  "volume": "324",
+  "issue": "20",
+  "pages": "2095-2096",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33074293"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2772167"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2020.20892"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33074293"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33074293"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/19 12:23"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Int J Public Health. 2020 Dec;65(9):1815-1817",
+      "reftype": "Comment in",
+      "pmid": 33216153,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 7,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2020.20892",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/11/24 00:00",
+  "sortfirstauthor": "Omer SB",
+  "vernaculartitle": ""
+}

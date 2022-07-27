@@ -1,0 +1,144 @@
+{
+  "uid": "29951531",
+  "pubdate": "2018",
+  "epubdate": "2018 May 23",
+  "source": "Biomed Res Int",
+  "authors": [
+    {
+      "name": "Chen D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Qi X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huang X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Qiu F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yan Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li Y",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Li Y",
+  "title": "Efficacy and Safety of Different Norepinephrine Regimens for Prevention of Spinal Hypotension in Cesarean Section: A Randomized Trial.",
+  "sorttitle": "efficacy and safety of different norepinephrine regimens for prevention of spinal hypotension in cesarean section a randomized trial",
+  "volume": "2018",
+  "issue": "",
+  "pages": "2708175",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101600173",
+  "issn": "2314-6133",
+  "essn": "2314-6141",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29951531"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1155/2018/2708175"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5989297"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29951531"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29951531"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5989297;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/01/10 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/03/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/04/22 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/06/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/06/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "BioMed research international",
+  "elocationid": "doi: 10.1155/2018/2708175",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/05/23 00:00",
+  "sortfirstauthor": "Chen D",
+  "vernaculartitle": ""
+}

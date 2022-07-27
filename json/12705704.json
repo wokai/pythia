@@ -1,0 +1,107 @@
+{
+  "uid": "12705704",
+  "pubdate": "2003 Apr",
+  "epubdate": "",
+  "source": "Int J Qual Health Care",
+  "authors": [
+    {
+      "name": "Scott T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mannion R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davies HT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marshall MN",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Marshall MN",
+  "title": "Implementing culture change in health care: theory and practice.",
+  "sorttitle": "implementing culture change in health care theory and practice",
+  "volume": "15",
+  "issue": "2",
+  "pages": "111-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9434628",
+  "issn": "1353-4505",
+  "essn": "1464-3677",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12705704"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/intqhc/mzg021"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12705704"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12705704"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/04/23 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/08/06 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/04/23 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 54,
+  "fulljournalname": "International journal for quality in health care : journal of the International Society for Quality in Health Care",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/04/01 00:00",
+  "sortfirstauthor": "Scott T",
+  "vernaculartitle": ""
+}

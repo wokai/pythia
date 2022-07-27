@@ -1,0 +1,119 @@
+{
+  "uid": "17377115",
+  "pubdate": "2007 Apr",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Brull R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCartney CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chan VW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "El-Beheiry H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "El-Beheiry H",
+  "title": "Neurological complications after regional anesthesia: contemporary estimates of risk.",
+  "sorttitle": "neurological complications after regional anesthesia contemporary estimates of risk",
+  "volume": "104",
+  "issue": "4",
+  "pages": "965-74",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17377115"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "104/4/965"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/01.ane.0000258740.17193.ec"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17377115"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17377115"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/03/23 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/04/14 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/03/23 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2007 Sep;105(3):880-1; author reply 881",
+      "reftype": "Comment in",
+      "pmid": 17717260,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 71,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/04/01 00:00",
+  "sortfirstauthor": "Brull R",
+  "vernaculartitle": ""
+}

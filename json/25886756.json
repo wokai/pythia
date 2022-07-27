@@ -1,0 +1,117 @@
+{
+  "uid": "25886756",
+  "pubdate": "2015 Mar 16",
+  "epubdate": "2015 Mar 16",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Ghassemi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Celi LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stone DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stone DJ",
+  "title": "State of the art review: the data revolution in critical care.",
+  "sorttitle": "state of the art review the data revolution in critical care",
+  "volume": "19",
+  "issue": "",
+  "pages": "118",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25886756"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13054-015-0801-4"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13054-015-0801-4"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4361206"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25886756"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25886756"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4361206;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/04/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/04/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/01/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/s13054-015-0801-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/03/16 00:00",
+  "sortfirstauthor": "Ghassemi M",
+  "vernaculartitle": ""
+}

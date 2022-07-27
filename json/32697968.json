@@ -1,0 +1,245 @@
+{
+  "uid": "32697968",
+  "pubdate": "2020 Aug 20",
+  "epubdate": "2020 Jul 3",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Korber B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fischer WM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gnanakaran S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yoon H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Theiler J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abfalterer W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hengartner N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giorgi EE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bhattacharya T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Foley B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hastie KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parker MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Partridge DG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Evans CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Freeman TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Silva TI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sheffield COVID-19 Genomics Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "McDanal C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perez LG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tang H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moon-Walker A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Whelan SP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "LaBranche CC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saphire EO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Montefiori DC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Montefiori DC",
+  "title": "Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus.",
+  "sorttitle": "tracking changes in sars cov 2 spike evidence that d614g increases infectivity of the covid 19 virus",
+  "volume": "182",
+  "issue": "4",
+  "pages": "812-827.e19",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32697968"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(20)30820-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2020.06.043"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7332439"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32697968"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32697968"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7332439;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/04/29 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/06/10 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/06/26 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/07/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/08/28 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/07/23 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cell. 2020 Aug 20;182(4):794-795",
+      "reftype": "Comment in",
+      "pmid": 32697970,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 471,
+  "fulljournalname": "Cell",
+  "elocationid": "doi: 10.1016/j.cell.2020.06.043",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/20 00:00",
+  "sortfirstauthor": "Korber B",
+  "vernaculartitle": ""
+}

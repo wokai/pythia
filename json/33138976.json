@@ -1,0 +1,158 @@
+{
+  "uid": "33138976",
+  "pubdate": "2021 Jan - Feb",
+  "epubdate": "2020 Oct 14",
+  "source": "Heart Lung",
+  "authors": [
+    {
+      "name": "Wang XH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Duan J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Han X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhu L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mou H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guo S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Guo S",
+  "title": "High incidence and mortality of pneumothorax in critically Ill patients with COVID-19.",
+  "sorttitle": "high incidence and mortality of pneumothorax in critically ill patients with covid 19",
+  "volume": "50",
+  "issue": "1",
+  "pages": "37-43",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0330057",
+  "issn": "0147-9563",
+  "essn": "1527-3288",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33138976"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0147-9563(20)30397-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.hrtlng.2020.10.002"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7556825"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33138976"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33138976"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7556825;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/06/15 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/09/09 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/10/06 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/22 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/03 05:35"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Heart & lung : the journal of critical care",
+  "elocationid": "doi: 10.1016/j.hrtlng.2020.10.002",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/01 00:00",
+  "sortfirstauthor": "Wang XH",
+  "vernaculartitle": ""
+}

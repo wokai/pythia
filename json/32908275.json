@@ -1,0 +1,169 @@
+{
+  "uid": "32908275",
+  "pubdate": "2020 Sep",
+  "epubdate": "",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "Norgeot B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Quer G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beaulieu-Jones BK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Torkamani A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dias R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gianfrancesco M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arnaout R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kohane IS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saria S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Topol E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Obermeyer Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yu B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Butte AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Butte AJ",
+  "title": "Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist.",
+  "sorttitle": "minimum information about clinical artificial intelligence modeling the mi claim checklist",
+  "volume": "26",
+  "issue": "9",
+  "pages": "1320-1324",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32908275"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-020-1041-y"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-020-1041-y"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7538196"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1632780"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32908275"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32908275"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7538196;manuscript-id: NIHMS1632780;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/10 05:33"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 3,
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-020-1041-y",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/01 00:00",
+  "sortfirstauthor": "Norgeot B",
+  "vernaculartitle": ""
+}

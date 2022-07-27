@@ -1,0 +1,138 @@
+{
+  "uid": "29264378",
+  "pubdate": "2018 Feb",
+  "epubdate": "2017 Nov 21",
+  "source": "Data Brief",
+  "authors": [
+    {
+      "name": "Ghosh E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eshelman L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yang L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carlson E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lord B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lord B",
+  "title": "Description of vital signs data measurement frequency in a medical/surgical unit at a community hospital in United States.",
+  "sorttitle": "description of vital signs data measurement frequency in a medical surgical unit at a community hospital in united states",
+  "volume": "16",
+  "issue": "",
+  "pages": "612-616",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101654995",
+  "issn": "",
+  "essn": "2352-3409",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29264378"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.dib.2017.11.053"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2352-3409(17)30649-2"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5726752"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29264378"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29264378"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5726752;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/11/08 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/11/10 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/11/15 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/12/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/12/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/12/22 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Data in brief",
+  "elocationid": "doi: 10.1016/j.dib.2017.11.053",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/11/21 00:00",
+  "sortfirstauthor": "Ghosh E",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,101 @@
+{
+  "uid": "22034350",
+  "pubdate": "2011 Dec",
+  "epubdate": "",
+  "source": "IEEE Trans Vis Comput Graph",
+  "authors": [
+    {
+      "name": "Bostock M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ogievetsky V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heer J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Heer J",
+  "title": "D³: Data-Driven Documents.",
+  "sorttitle": "d data driven documents",
+  "volume": "17",
+  "issue": "12",
+  "pages": "2301-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9891704",
+  "issn": "1077-2626",
+  "essn": "1941-0506",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22034350"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1109/TVCG.2011.185"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22034350"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22034350"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/10/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/10/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/10/29 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 275,
+  "fulljournalname": "IEEE transactions on visualization and computer graphics",
+  "elocationid": "doi: 10.1109/TVCG.2011.185",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/12/01 00:00",
+  "sortfirstauthor": "Bostock M",
+  "vernaculartitle": ""
+}

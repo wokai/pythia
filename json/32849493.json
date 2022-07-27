@@ -1,0 +1,115 @@
+{
+  "uid": "32849493",
+  "pubdate": "2020",
+  "epubdate": "2020 Jul 21",
+  "source": "Front Immunol",
+  "authors": [
+    {
+      "name": "Vandewalle J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Libert C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Libert C",
+  "title": "Glucocorticoids in Sepsis: To Be or Not to Be.",
+  "sorttitle": "glucocorticoids in sepsis to be or not to be",
+  "volume": "11",
+  "issue": "",
+  "pages": "1318",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101560960",
+  "issn": "",
+  "essn": "1664-3224",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32849493"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fimmu.2020.01318"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7396579"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32849493"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32849493"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7396579;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/04/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/05/26 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/08/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Frontiers in immunology",
+  "elocationid": "doi: 10.3389/fimmu.2020.01318",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/21 00:00",
+  "sortfirstauthor": "Vandewalle J",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,129 @@
+{
+  "uid": "31013779",
+  "pubdate": "2019 Apr 12",
+  "epubdate": "2019 Apr 12",
+  "source": "Int J Mol Sci",
+  "authors": [
+    {
+      "name": "Cao Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jia Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhu B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zhu B",
+  "title": "BNP and NT-proBNP as Diagnostic Biomarkers for Cardiac Dysfunction in Both Clinical and Forensic Medicine.",
+  "sorttitle": "bnp and nt probnp as diagnostic biomarkers for cardiac dysfunction in both clinical and forensic medicine",
+  "volume": "20",
+  "issue": "8",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101092791",
+  "issn": "",
+  "essn": "1422-0067",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31013779"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ijms20081820"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/ijms20081820"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6515513"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31013779"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31013779"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6515513;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/03/14 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/04/09 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/04/11 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/04/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/04/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/08/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "International journal of molecular sciences",
+  "elocationid": "pii: E1820. doi: 10.3390/ijms20081820",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/04/12 00:00",
+  "sortfirstauthor": "Cao Z",
+  "vernaculartitle": ""
+}

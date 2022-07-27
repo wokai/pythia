@@ -1,0 +1,138 @@
+{
+  "uid": "30130260",
+  "pubdate": "2018 Nov",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Murphy GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Szokol JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Avram MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greenberg SB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shear TD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deshur M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benson J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Newmark RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maher CE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Maher CE",
+  "title": "Comparison of the TOFscan and the TOF-Watch SX during Recovery of Neuromuscular Function.",
+  "sorttitle": "comparison of the tofscan and the tof watch sx during recovery of neuromuscular function",
+  "volume": "129",
+  "issue": "5",
+  "pages": "880-888",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30130260"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000002400"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30130260"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30130260"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/08/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/09/10 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/08/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2018 Nov;129(5):864-866",
+      "reftype": "Comment in",
+      "pmid": 30204595,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000002400",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/11/01 00:00",
+  "sortfirstauthor": "Murphy GS",
+  "vernaculartitle": ""
+}

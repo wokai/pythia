@@ -1,0 +1,121 @@
+{
+  "uid": "12697800",
+  "pubdate": "2003 Apr 16",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Berwick DM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Berwick DM",
+  "title": "Disseminating innovations in health care.",
+  "sorttitle": "disseminating innovations in health care",
+  "volume": "289",
+  "issue": "15",
+  "pages": "1969-75",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12697800"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.289.15.1969"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "289/15/1969"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12697800"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12697800"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/04/17 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/04/25 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/04/17 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA. 2003 Sep 17;290(11):1454-5; author reply 1456",
+      "reftype": "Comment in",
+      "pmid": 13129979,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2003 Sep 17;290(11):1455; author reply 1456",
+      "reftype": "Comment in",
+      "pmid": 13129981,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2003 Sep 17;290(11):1455-6; author reply 1456",
+      "reftype": "Comment in",
+      "pmid": 13129982,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2003 Sep 17;290(11):1456; author reply 1456",
+      "reftype": "Comment in",
+      "pmid": 13129984,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 336,
+  "fulljournalname": "JAMA",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/04/16 00:00",
+  "sortfirstauthor": "Berwick DM",
+  "vernaculartitle": ""
+}

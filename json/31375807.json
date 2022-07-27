@@ -1,0 +1,139 @@
+{
+  "uid": "31375807",
+  "pubdate": "2019 Aug",
+  "epubdate": "2019 Aug 2",
+  "source": "Nat Biotechnol",
+  "authors": [
+    {
+      "name": "Kim D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paggi JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Park C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bennett C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Salzberg SL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Salzberg SL",
+  "title": "Graph-based genome alignment and genotyping with HISAT2 and HISAT-genotype.",
+  "sorttitle": "graph based genome alignment and genotyping with hisat2 and hisat genotype",
+  "volume": "37",
+  "issue": "8",
+  "pages": "907-915",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9604648",
+  "issn": "1087-0156",
+  "essn": "1546-1696",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31375807"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41587-019-0201-4"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41587-019-0201-4"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7605509"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1635086"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31375807"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31375807"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7605509;manuscript-id: NIHMS1635086;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/04/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/06/27 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/08/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/08/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/11/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 267,
+  "fulljournalname": "Nature biotechnology",
+  "elocationid": "doi: 10.1038/s41587-019-0201-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/08/01 00:00",
+  "sortfirstauthor": "Kim D",
+  "vernaculartitle": ""
+}

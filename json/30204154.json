@@ -1,0 +1,140 @@
+{
+  "uid": "30204154",
+  "pubdate": "2018 Sep 11",
+  "epubdate": "2018 Sep 11",
+  "source": "Sci Data",
+  "authors": [
+    {
+      "name": "Pollard TJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnson AEW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Raffa JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Celi LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mark RG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Badawi O",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Badawi O",
+  "title": "The eICU Collaborative Research Database, a freely available multi-center database for critical care research.",
+  "sorttitle": "eicu collaborative research database a freely available multi center database for critical care research",
+  "volume": "5",
+  "issue": "",
+  "pages": "180178",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101640192",
+  "issn": "",
+  "essn": "2052-4463",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30204154"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "sdata2018178"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/sdata.2018.178"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6132188"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30204154"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30204154"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6132188;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/01/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/06/21 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/09/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/09/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/04/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 67,
+  "fulljournalname": "Scientific data",
+  "elocationid": "doi: 10.1038/sdata.2018.178",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/09/11 00:00",
+  "sortfirstauthor": "Pollard TJ",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,96 @@
+{
+  "uid": "1148076",
+  "pubdate": "1975 Jan",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Harrison GG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Harrison GG",
+  "title": "Control of the malignant hyperpyrexic syndrome in MHS swine by dantrolene sodium.",
+  "sorttitle": "control of the malignant hyperpyrexic syndrome in mhs swine by dantrolene sodium",
+  "volume": "47",
+  "issue": "1",
+  "pages": "62-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "1148076"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)47725-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/47.1.62"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "1148076"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "1148076"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1975/01/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1975/01/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1975/01/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1975/01/01 00:00",
+  "sortfirstauthor": "Harrison GG",
+  "vernaculartitle": ""
+}

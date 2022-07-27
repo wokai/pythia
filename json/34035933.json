@@ -1,0 +1,121 @@
+{
+  "uid": "34035933",
+  "pubdate": "2021 Mar 31",
+  "epubdate": "2021 Mar 31",
+  "source": "R Soc Open Sci",
+  "authors": [
+    {
+      "name": "Devezer B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Navarro DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vandekerckhove J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ozge Buzbas E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ozge Buzbas E",
+  "title": "The case for formal methodology in scientific reform.",
+  "sorttitle": "case for formal methodology in scientific reform",
+  "volume": "8",
+  "issue": "3",
+  "pages": "200805",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101647528",
+  "issn": "",
+  "essn": "2054-5703",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34035933"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1098/rsos.200805"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "rsos200805"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8101540"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34035933"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34035933"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8101540;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2021/05/26 06:55"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/05/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/05/27 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Royal Society open science",
+  "elocationid": "doi: 10.1098/rsos.200805",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/31 00:00",
+  "sortfirstauthor": "Devezer B",
+  "vernaculartitle": ""
+}

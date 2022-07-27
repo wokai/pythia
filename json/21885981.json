@@ -1,0 +1,148 @@
+{
+  "uid": "21885981",
+  "pubdate": "2011 Oct",
+  "epubdate": "",
+  "source": "Eur J Anaesthesiol",
+  "authors": [
+    {
+      "name": "De Hert S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Imberger G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carlisle J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Diemunsch P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fritsch G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moppett I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Solca M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Staender S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wappler F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Task Force on Preoperative Evaluation of the Adult Noncardiac Surgery Patient of the European Society of Anaesthesiology.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Smith A",
+  "title": "Preoperative evaluation of the adult patient undergoing non-cardiac surgery: guidelines from the European Society of Anaesthesiology.",
+  "sorttitle": "preoperative evaluation of the adult patient undergoing non cardiac surgery guidelines from the european society of anaesthesiology",
+  "volume": "28",
+  "issue": "10",
+  "pages": "684-722",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8411711",
+  "issn": "0265-0215",
+  "essn": "1365-2346",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21885981"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/EJA.0b013e3283499e3b"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21885981"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21885981"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/09/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/09/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/01/06 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur J Anaesthesiol. 2012 Jun;29(6):298; author reply 298-9",
+      "reftype": "Comment in",
+      "pmid": 22450532,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "European journal of anaesthesiology",
+  "elocationid": "doi: 10.1097/EJA.0b013e3283499e3b",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/10/01 00:00",
+  "sortfirstauthor": "De Hert S",
+  "vernaculartitle": ""
+}

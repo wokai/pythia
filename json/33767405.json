@@ -1,0 +1,369 @@
+{
+  "uid": "33767405",
+  "pubdate": "2021 Mar 25",
+  "epubdate": "2021 Mar 25",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "Huang N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pérez P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kato T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mikami Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Okuda K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gilmore RC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Conde CD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gasmi B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stein S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beach M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pelayo E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maldonado JO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lafont BA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jang SI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nasir N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Padilla RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murrah VA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maile R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lovell W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wallet SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bowman NM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meinig SL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wolfgang MC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Choudhury SN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Novotny M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aevermann BD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scheuermann RH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cannon G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anderson CW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee RE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marchesan JT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bush M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Freire M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kimple AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herr DL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rabin J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grazioli A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Das S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "French BN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pranzatelli T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chiorini JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kleiner DE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pittaluga S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hewitt SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burbelo PD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chertow D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "NIH COVID-19 Autopsy Consortium.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "HCA Oral and Craniofacial Biological Network.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Frank K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boucher RC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Teichmann SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Warner BM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Byrd KM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Byrd KM",
+  "title": "SARS-CoV-2 infection of the oral cavity and saliva.",
+  "sorttitle": "sars cov 2 infection of the oral cavity and saliva",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33767405"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-021-01296-8"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-021-01296-8"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33767405"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33767405"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/10/20 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/02/26 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/03/26 06:49"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/03/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-021-01296-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/25 00:00",
+  "sortfirstauthor": "Huang N",
+  "vernaculartitle": ""
+}

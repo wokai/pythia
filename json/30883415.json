@@ -1,0 +1,97 @@
+{
+  "uid": "30883415",
+  "pubdate": "2019 Apr",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Hindman BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hindman BJ",
+  "title": "Anesthetic Management of Emergency Endovascular Thrombectomy for Acute Ischemic Stroke, Part 1: Patient Characteristics, Determinants of Effectiveness, and Effect of Blood Pressure on Outcome.",
+  "sorttitle": "anesthetic management of emergency endovascular thrombectomy for acute ischemic stroke part 1 patient characteristics determinants of effectiveness and effect of blood pressure on outcome",
+  "volume": "128",
+  "issue": "4",
+  "pages": "695-705",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30883415"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000004044"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201904000-00015"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30883415"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30883415"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/03/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/03/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/12/31 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000004044",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/04/01 00:00",
+  "sortfirstauthor": "Hindman BJ",
+  "vernaculartitle": ""
+}

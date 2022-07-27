@@ -1,0 +1,415 @@
+{
+  "uid": "31986264",
+  "pubdate": "2020 Feb 15",
+  "epubdate": "2020 Jan 24",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Huang C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ren L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhao J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fan G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xu J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gu X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cheng Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yu T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xia J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wei Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xie X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yin W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xiao Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gao H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guo L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xie J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jiang R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gao Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jin Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cao B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cao B",
+  "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.",
+  "sorttitle": "clinical features of patients infected with 2019 novel coronavirus in wuhan china",
+  "volume": "395",
+  "issue": "10223",
+  "pages": "497-506",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31986264"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(20)30183-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(20)30183-5"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7159299"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31986264"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31986264"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7159299;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/01/21 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/01/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/01/23 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/01/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/14 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/01/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2020 Feb 15;395(10223):470-473",
+      "reftype": "Comment in",
+      "pmid": 31986257,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2020 Jan 24;:null",
+      "reftype": "Comment in",
+      "pmid": 31986258,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2020 Jan 30;:",
+      "reftype": "Erratum in",
+      "pmid": 32007144,
+      "note": ""
+    },
+    {
+      "refsource": "J Hosp Infect. 2020 Mar;104(3):252-253",
+      "reftype": "Comment in",
+      "pmid": 32032614,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2020 Feb 22;395(10224):e39",
+      "reftype": "Comment in",
+      "pmid": 32035510,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet Respir Med. 2020 Mar;8(3):e11-e12",
+      "reftype": "Comment in",
+      "pmid": 32061335,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2020 Mar 21;395(10228):947-948",
+      "reftype": "Comment in",
+      "pmid": 32066525,
+      "note": ""
+    },
+    {
+      "refsource": "Transbound Emerg Dis. 2020 Mar;67(2):469-470",
+      "reftype": "Comment in",
+      "pmid": 32077206,
+      "note": ""
+    },
+    {
+      "refsource": "J Gen Intern Med. 2020 May;35(5):1545-1549",
+      "reftype": "Comment in",
+      "pmid": 32133578,
+      "note": ""
+    },
+    {
+      "refsource": "Herz. 2020 May;45(3):230-232",
+      "reftype": "Comment in",
+      "pmid": 32140732,
+      "note": ""
+    },
+    {
+      "refsource": "Cell Mol Immunol. 2020 May;17(5):541-543",
+      "reftype": "Comment in",
+      "pmid": 32203186,
+      "note": ""
+    },
+    {
+      "refsource": "Ann Emerg Med. 2020 Apr;75(4):556",
+      "reftype": "Comment in",
+      "pmid": 32216893,
+      "note": ""
+    },
+    {
+      "refsource": "Singapore Med J. 2020 Jul;61(7):373-374",
+      "reftype": "Comment in",
+      "pmid": 32227794,
+      "note": ""
+    },
+    {
+      "refsource": "Vox Sang. 2020 Nov;115(8):601-602",
+      "reftype": "Comment in",
+      "pmid": 32240537,
+      "note": ""
+    },
+    {
+      "refsource": "Influenza Other Respir Viruses. 2020 Jul;14(4):474-475",
+      "reftype": "Comment in",
+      "pmid": 32246886,
+      "note": ""
+    },
+    {
+      "refsource": "J Urol. 2020 Jul;204(1):5-6",
+      "reftype": "Comment in",
+      "pmid": 32249713,
+      "note": ""
+    },
+    {
+      "refsource": "Gac Sanit. 2020 May - Jun;34(3):217-219",
+      "reftype": "Comment in",
+      "pmid": 32265049,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA Otolaryngol Head Neck Surg. 2020 Jul 1;146(7):674-675",
+      "reftype": "Comment in",
+      "pmid": 32267483,
+      "note": ""
+    },
+    {
+      "refsource": "Acad Radiol. 2020 May;27(5):752",
+      "reftype": "Comment in",
+      "pmid": 32273135,
+      "note": ""
+    },
+    {
+      "refsource": "J Oral Pathol Med. 2020 May;49(5):450-451",
+      "reftype": "Comment in",
+      "pmid": 32281674,
+      "note": ""
+    },
+    {
+      "refsource": "J Infect. 2020 Apr 23;:null",
+      "reftype": "Comment in",
+      "pmid": 32333918,
+      "note": ""
+    },
+    {
+      "refsource": "Intensive Care Med. 2020 Jul;46(7):1475-1476",
+      "reftype": "Comment in",
+      "pmid": 32385523,
+      "note": ""
+    },
+    {
+      "refsource": "Euro Surveill. 2020 Jun;25(23):",
+      "reftype": "Comment in",
+      "pmid": 32553062,
+      "note": ""
+    },
+    {
+      "refsource": "Eur Respir J. 2020 Sep 3;56(3):",
+      "reftype": "Comment in",
+      "pmid": 32616599,
+      "note": ""
+    },
+    {
+      "refsource": "Prehosp Disaster Med. 2020 Dec;35(6):698-699",
+      "reftype": "Comment in",
+      "pmid": 32829719,
+      "note": ""
+    },
+    {
+      "refsource": "Thromb Res. 2020 Dec;196:375-378",
+      "reftype": "Comment in",
+      "pmid": 32980620,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10406,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(20)30183-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/02/15 00:00",
+  "sortfirstauthor": "Huang C",
+  "vernaculartitle": ""
+}

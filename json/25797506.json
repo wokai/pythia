@@ -1,0 +1,124 @@
+{
+  "uid": "25797506",
+  "pubdate": "2015 Feb 27",
+  "epubdate": "",
+  "source": "Dtsch Arztebl Int",
+  "authors": [
+    {
+      "name": "Binder H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Blettner M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Blettner M",
+  "title": "Big data in medical science--a biostatistical view.",
+  "sorttitle": "big data in medical science a biostatistical view",
+  "volume": "112",
+  "issue": "9",
+  "pages": "137-42",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101475967",
+  "issn": "",
+  "essn": "1866-0452",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25797506"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "arztebl.2015.0137"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3238/arztebl.2015.0137"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4381554"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25797506"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25797506"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4381554;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/05/08 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2014/11/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/11/18 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/03/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/03/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/01/26 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Deutsches Arzteblatt international",
+  "elocationid": "doi: 10.3238/arztebl.2015.0137",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/02/27 00:00",
+  "sortfirstauthor": "Binder H",
+  "vernaculartitle": ""
+}

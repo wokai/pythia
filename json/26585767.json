@@ -1,0 +1,143 @@
+{
+  "uid": "26585767",
+  "pubdate": "2016 Apr",
+  "epubdate": "2015 Nov 19",
+  "source": "J Anesth",
+  "authors": [
+    {
+      "name": "Sumikura H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Niwa H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sato M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nakamoto T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Asai T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hagihira S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hagihira S",
+  "title": "Rethinking general anesthesia for cesarean section.",
+  "sorttitle": "rethinking general anesthesia for cesarean section",
+  "volume": "30",
+  "issue": "2",
+  "pages": "268-73",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8905667",
+  "issn": "0913-8668",
+  "essn": "1438-8359",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26585767"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00540-015-2099-4"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00540-015-2099-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26585767"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26585767"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/09/09 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/10/30 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/11/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/11/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/11/10 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Anesth. 2016 Aug;30(4):737",
+      "reftype": "Comment in",
+      "pmid": 27193324,
+      "note": ""
+    },
+    {
+      "refsource": "J Anesth. 2016 Dec;30(6):1096",
+      "reftype": "Comment in",
+      "pmid": 27665285,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Journal of anesthesia",
+  "elocationid": "doi: 10.1007/s00540-015-2099-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/04/01 00:00",
+  "sortfirstauthor": "Sumikura H",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,91 @@
+{
+  "uid": "6837992",
+  "pubdate": "1983 May",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Benumof JL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Benumof JL",
+  "title": "Intermittent hypoxia increases lobar hypoxic pulmonary vasoconstriction.",
+  "sorttitle": "intermittent hypoxia increases lobar hypoxic pulmonary vasoconstriction",
+  "volume": "58",
+  "issue": "5",
+  "pages": "399-404",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "6837992"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-198305000-00001"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "6837992"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "6837992"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1983/05/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1983/05/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1983/05/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1983/05/01 00:00",
+  "sortfirstauthor": "Benumof JL",
+  "vernaculartitle": ""
+}

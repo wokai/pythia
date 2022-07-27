@@ -1,0 +1,123 @@
+{
+  "uid": "27009417",
+  "pubdate": "2016 Apr",
+  "epubdate": "",
+  "source": "Circ Arrhythm Electrophysiol",
+  "authors": [
+    {
+      "name": "Aro AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chugh SS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chugh SS",
+  "title": "Clinical Diagnosis of Electrical Versus Anatomic Left Ventricular Hypertrophy: Prognostic and Therapeutic Implications.",
+  "sorttitle": "clinical diagnosis of electrical versus anatomic left ventricular hypertrophy prognostic and therapeutic implications",
+  "volume": "9",
+  "issue": "4",
+  "pages": "e003629",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101474365",
+  "issn": "1941-3149",
+  "essn": "1941-3084",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27009417"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "CIRCEP.115.003629"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/CIRCEP.115.003629"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4807859"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS744966"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27009417"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27009417"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4807859;manuscript-id: NIHMS744966;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/09/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/11/24 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/03/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/03/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/08/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 10,
+  "fulljournalname": "Circulation. Arrhythmia and electrophysiology",
+  "elocationid": "doi: 10.1161/CIRCEP.115.003629",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/04/01 00:00",
+  "sortfirstauthor": "Aro AL",
+  "vernaculartitle": ""
+}

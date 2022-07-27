@@ -1,0 +1,143 @@
+{
+  "uid": "32296502",
+  "pubdate": "2020 Mar",
+  "epubdate": "2019 Feb 27",
+  "source": "Eur J Hosp Pharm",
+  "authors": [
+    {
+      "name": "Schoenenberger-Arnaiz JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ahmad-Diaz F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miralbes-Torner M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aragones-Eroles A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cano-Marron M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Palomar-Martinez M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Palomar-Martinez M",
+  "title": "Usefulness of therapeutic drug monitoring of piperacillin and meropenem in routine clinical practice: a prospective cohort study in critically ill patients.",
+  "sorttitle": "usefulness of therapeutic drug monitoring of piperacillin and meropenem in routine clinical practice a prospective cohort study in critically ill patients",
+  "volume": "27",
+  "issue": "e1",
+  "pages": "e30-e35",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101578294",
+  "issn": "2047-9956",
+  "essn": "2047-9964",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32296502"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/ejhpharm-2018-001713"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ejhpharm-2018-001713"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7147564"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32296502"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32296502"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7147564;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/08/04 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/12/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/02/05 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/08/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "European journal of hospital pharmacy : science and practice",
+  "elocationid": "doi: 10.1136/ejhpharm-2018-001713",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/03/01 00:00",
+  "sortfirstauthor": "Schoenenberger-Arnaiz JA",
+  "vernaculartitle": ""
+}

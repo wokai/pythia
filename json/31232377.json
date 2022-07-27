@@ -1,0 +1,106 @@
+{
+  "uid": "31232377",
+  "pubdate": "2019 Jun 22",
+  "epubdate": "",
+  "source": "Lancet",
+  "authors": [],
+  "lastauthor": "",
+  "title": "Department of Error.",
+  "sorttitle": "department of error",
+  "volume": "393",
+  "issue": "10190",
+  "pages": "e44",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article",
+    "Published Erratum"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31232377"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(19)31047-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(19)31047-5"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6598849"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31232377"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31232377"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6598849;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/06/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/06/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/06/25 06:01"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2018 Nov 10;392(10159):1789-1858",
+      "reftype": "Erratum for",
+      "pmid": 30496104,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(19)31047-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/06/22 00:00",
+  "sortfirstauthor": "",
+  "vernaculartitle": ""
+}

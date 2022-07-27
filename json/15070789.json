@@ -1,0 +1,130 @@
+{
+  "uid": "15070789",
+  "pubdate": "2004 Apr 1",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Hviid A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stellfeld M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wohlfahrt J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Melbye M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Melbye M",
+  "title": "Childhood vaccination and type 1 diabetes.",
+  "sorttitle": "childhood vaccination and type 1 diabetes",
+  "volume": "350",
+  "issue": "14",
+  "pages": "1398-404",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15070789"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa032665"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "350/14/1398"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15070789"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15070789"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/04/09 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/04/20 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/04/09 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2004 Apr 1;350(14):1380-2",
+      "reftype": "Comment in",
+      "pmid": 15070785,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2004 Jul 15;351(3):298",
+      "reftype": "Comment in",
+      "pmid": 15254291,
+      "note": ""
+    },
+    {
+      "refsource": "Evid Based Nurs. 2004 Oct;7(4):121",
+      "reftype": "Comment in",
+      "pmid": 15487099,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 24,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/04/01 00:00",
+  "sortfirstauthor": "Hviid A",
+  "vernaculartitle": ""
+}

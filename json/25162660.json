@@ -1,0 +1,106 @@
+{
+  "uid": "25162660",
+  "pubdate": "2014 Oct 3",
+  "epubdate": "2014 Sep 5",
+  "source": "J Proteome Res",
+  "authors": [
+    {
+      "name": "Reinartz M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Raupach A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaisers W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gödecke A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gödecke A",
+  "title": "AKT1 and AKT2 induce distinct phosphorylation patterns in HL-1 cardiac myocytes.",
+  "sorttitle": "akt1 and akt2 induce distinct phosphorylation patterns in hl 1 cardiac myocytes",
+  "volume": "13",
+  "issue": "10",
+  "pages": "4232-45",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101128775",
+  "issn": "1535-3893",
+  "essn": "1535-3907",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25162660"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1021/pr500131g"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25162660"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25162660"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/08/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/08/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/06/13 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Journal of proteome research",
+  "elocationid": "doi: 10.1021/pr500131g",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/10/03 00:00",
+  "sortfirstauthor": "Reinartz M",
+  "vernaculartitle": ""
+}

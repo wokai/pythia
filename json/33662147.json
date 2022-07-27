@@ -1,0 +1,112 @@
+{
+  "uid": "33662147",
+  "pubdate": "2021 Mar 4",
+  "epubdate": "2021 Mar 4",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Hemmingsen B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Metzendorf MI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Richter B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Richter B",
+  "title": "(Ultra-)long-acting insulin analogues for people with type 1 diabetes mellitus.",
+  "sorttitle": "ultra long acting insulin analogues for people with type 1 diabetes mellitus",
+  "volume": "3",
+  "issue": "",
+  "pages": "CD013498",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33662147"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD013498.pub2"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8094220"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33662147"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33662147"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8094220;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2021/03/04 17:15"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/03/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/04/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD013498.pub2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/04 00:00",
+  "sortfirstauthor": "Hemmingsen B",
+  "vernaculartitle": ""
+}

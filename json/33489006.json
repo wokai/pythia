@@ -1,0 +1,154 @@
+{
+  "uid": "33489006",
+  "pubdate": "2021",
+  "epubdate": "2020 Dec 24",
+  "source": "Comput Struct Biotechnol J",
+  "authors": [
+    {
+      "name": "Mabwi HA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Song DG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yoon HS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pan CH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Komba EVG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ko G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cha KH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cha KH",
+  "title": "Synthetic gut microbiome: Advances and challenges.",
+  "sorttitle": "synthetic gut microbiome advances and challenges",
+  "volume": "19",
+  "issue": "",
+  "pages": "363-371",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101585369",
+  "issn": "",
+  "essn": "2001-0370",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33489006"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.csbj.2020.12.029"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2001-0370(20)30554-7"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7787941"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33489006"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33489006"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7787941;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/09/30 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/12/19 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/12/20 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/25 05:40"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/26 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Computational and structural biotechnology journal",
+  "elocationid": "doi: 10.1016/j.csbj.2020.12.029",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/24 00:00",
+  "sortfirstauthor": "Mabwi HA",
+  "vernaculartitle": ""
+}

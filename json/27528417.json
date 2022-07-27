@@ -1,0 +1,97 @@
+{
+  "uid": "27528417",
+  "pubdate": "2016 Aug 16",
+  "epubdate": "",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "Ashley EA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ashley EA",
+  "title": "Towards precision medicine.",
+  "sorttitle": "towards precision medicine",
+  "volume": "17",
+  "issue": "9",
+  "pages": "507-22",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27528417"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrg.2016.86"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrg.2016.86"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27528417"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27528417"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/08/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/08/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/05/13 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 127,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "doi: 10.1038/nrg.2016.86",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/08/16 00:00",
+  "sortfirstauthor": "Ashley EA",
+  "vernaculartitle": ""
+}

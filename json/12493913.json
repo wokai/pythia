@@ -1,0 +1,145 @@
+{
+  "uid": "12493913",
+  "pubdate": "2002 Dec 20",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Rosenberg NA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pritchard JK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weber JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cann HM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kidd KK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhivotovsky LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feldman MW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Feldman MW",
+  "title": "Genetic structure of human populations.",
+  "sorttitle": "genetic structure of human populations",
+  "volume": "298",
+  "issue": "5602",
+  "pages": "2381-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12493913"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.1078311"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "298/5602/2381"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12493913"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12493913"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2002/12/21 04:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/01/17 04:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2002/12/21 04:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Science. 2002 Dec 20;298(5602):2342-3",
+      "reftype": "Comment in",
+      "pmid": 12493903,
+      "note": ""
+    },
+    {
+      "refsource": "Science. 2003 May 2;300(5620):739-40",
+      "reftype": "Comment in",
+      "pmid": 12730580,
+      "note": ""
+    },
+    {
+      "refsource": "Science. 2003 Jun 20;300(5627):1877; author reply 1877",
+      "reftype": "Comment in",
+      "pmid": 12817127,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 720,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2002/12/20 00:00",
+  "sortfirstauthor": "Rosenberg NA",
+  "vernaculartitle": ""
+}

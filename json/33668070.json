@@ -1,0 +1,250 @@
+{
+  "uid": "33668070",
+  "pubdate": "2021 Mar 1",
+  "epubdate": "2021 Mar 1",
+  "source": "J Infect Dis",
+  "authors": [
+    {
+      "name": "Choreño-Parra JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jiménez-Álvarez LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramírez-Martínez G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cruz-Lagunas A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thapa M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fernández-López LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carnalla-Cortés M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Choreño-Parra EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mena-Hernández L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sandoval-Vega M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hernández-Montiel EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hernández-García DL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramírez-Noyola JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reyes-López CE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Domínguez-Faure A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zamudio-López GY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Márquez-García E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moncada-Morales A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mendoza-Milla C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cervántes-Rosete D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muñoz-Torrico M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Luna-Rivero C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "García-Latorre EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guadarrama-Ortíz P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ávila-Moreno F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Domínguez-Cherit G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rodríguez-Reyna TS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mudd PA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hernández-Cárdenas CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khader SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zúñiga J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zúñiga J",
+  "title": "Expression of Surfactant protein D (SP-D) distinguishes severe pandemic influenza A(H1N1) from COVID-19.",
+  "sorttitle": "expression of surfactant protein d sp d distinguishes severe pandemic influenza a h1n1 from covid 19",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413675",
+  "issn": "0022-1899",
+  "essn": "1537-6613",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33668070"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "6154795"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/infdis/jiab113"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33668070"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33668070"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/10/11 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/03/05 20:20"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/03/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "The Journal of infectious diseases",
+  "elocationid": "pii: jiab113. doi: 10.1093/infdis/jiab113",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/01 00:00",
+  "sortfirstauthor": "Choreño-Parra JA",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,102 @@
+{
+  "uid": "33293710",
+  "pubdate": "2020 Dec",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Ledford H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ledford H",
+  "title": "Oxford COVID-vaccine paper highlights lingering unknowns about results.",
+  "sorttitle": "oxford covid vaccine paper highlights lingering unknowns about results",
+  "volume": "588",
+  "issue": "7838",
+  "pages": "378-379",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Comment",
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33293710"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/d41586-020-03504-w"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/d41586-020-03504-w"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33293710"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33293710"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/19 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/09 06:11"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2020 Dec 8;:null",
+      "reftype": "Comment on",
+      "pmid": 33306989,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/d41586-020-03504-w",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/01 00:00",
+  "sortfirstauthor": "Ledford H",
+  "vernaculartitle": ""
+}

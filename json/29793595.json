@@ -1,0 +1,149 @@
+{
+  "uid": "29793595",
+  "pubdate": "2018 Jun",
+  "epubdate": "2018 Mar 28",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Rasmussen M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Espelund US",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Juul N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yoo AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sørensen LH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sørensen KE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnsen SP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Andersen G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Simonsen CZ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Simonsen CZ",
+  "title": "The influence of blood pressure management on neurological outcome in endovascular therapy for acute ischaemic stroke.",
+  "sorttitle": "influence of blood pressure management on neurological outcome in endovascular therapy for acute ischaemic stroke",
+  "volume": "120",
+  "issue": "6",
+  "pages": "1287-1294",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29793595"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(18)30140-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.bja.2018.01.039"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29793595"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29793595"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/12/25 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/01/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/02/20 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/05/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/05/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1016/j.bja.2018.01.039",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/06/01 00:00",
+  "sortfirstauthor": "Rasmussen M",
+  "vernaculartitle": ""
+}

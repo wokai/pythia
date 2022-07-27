@@ -1,0 +1,106 @@
+{
+  "uid": "31724044",
+  "pubdate": "2019 Nov 13",
+  "epubdate": "",
+  "source": "Clin Infect Dis",
+  "authors": [
+    {
+      "name": "Page MGP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Page MGP",
+  "title": "The Role of Iron and Siderophores in Infection, and the Development of Siderophore Antibiotics.",
+  "sorttitle": "role of iron and siderophores in infection and the development of siderophore antibiotics",
+  "volume": "69",
+  "issue": "Suppl 7",
+  "pages": "S529-S537",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9203213",
+  "issn": "1058-4838",
+  "essn": "1537-6591",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31724044"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "5623999"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/cid/ciz825"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6853763"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31724044"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31724044"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6853763;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/11/15 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/11/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+  "elocationid": "doi: 10.1093/cid/ciz825",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/11/13 00:00",
+  "sortfirstauthor": "Page MGP",
+  "vernaculartitle": ""
+}

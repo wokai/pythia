@@ -1,0 +1,352 @@
+{
+  "uid": "29263006",
+  "pubdate": "2018 Jan",
+  "epubdate": "2017 Dec 16",
+  "source": "Lancet Neurol",
+  "authors": [
+    {
+      "name": "Campbell BCV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Zwam WH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goyal M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Menon BK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dippel DWJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Demchuk AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bracard S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "White P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dávalos A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Majoie CBLM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van der Lugt A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ford GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de la Ossa NP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kelly M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bourcier R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Donnan GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roos YBWEM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bang OY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nogueira RG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Devlin TG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van den Berg LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clarençon F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burns P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carpenter J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berkhemer OA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yavagal DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pereira VM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ducrocq X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dixit A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Quesada H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Epstein J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davis SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jansen O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rubiera M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Urra X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Micard E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lingsma HF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Naggara O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brown S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guillemin F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muir KW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Oostenbrugge RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saver JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jovin TG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hill MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mitchell PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "HERMES collaborators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mitchell PJ",
+  "title": "Effect of general anaesthesia on functional outcome in patients with anterior circulation ischaemic stroke having endovascular thrombectomy versus standard care: a meta-analysis of individual patient data.",
+  "sorttitle": "effect of general anaesthesia on functional outcome in patients with anterior circulation ischaemic stroke having endovascular thrombectomy versus standard care a meta analysis of individual patient data",
+  "volume": "17",
+  "issue": "1",
+  "pages": "47-53",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101139309",
+  "issn": "1474-4422",
+  "essn": "1474-4465",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29263006"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1474-4422(17)30407-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S1474-4422(17)30407-6"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29263006"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29263006"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/08/01 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/10/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/10/11 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/12/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/12/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/12/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet Neurol. 2018 Jan;17(1):21-23",
+      "reftype": "Comment in",
+      "pmid": 29262998,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet Neurol. 2019 Mar;18(3):e2",
+      "reftype": "Erratum in",
+      "pmid": 30784559,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "The Lancet. Neurology",
+  "elocationid": "doi: 10.1016/S1474-4422(17)30407-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/01 00:00",
+  "sortfirstauthor": "Campbell BCV",
+  "vernaculartitle": ""
+}

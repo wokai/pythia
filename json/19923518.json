@@ -1,0 +1,126 @@
+{
+  "uid": "19923518",
+  "pubdate": "2009 Dec",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Yoshida T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rinka H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaji A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yoshimoto A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arimoto H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miyaichi T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kan M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kan M",
+  "title": "The impact of spontaneous ventilation on distribution of lung aeration in patients with acute respiratory distress syndrome: airway pressure release ventilation versus pressure support ventilation.",
+  "sorttitle": "impact of spontaneous ventilation on distribution of lung aeration in patients with acute respiratory distress syndrome airway pressure release ventilation versus pressure support ventilation",
+  "volume": "109",
+  "issue": "6",
+  "pages": "1892-900",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19923518"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "109/6/1892"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0b013e3181bbd918"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19923518"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19923518"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/11/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/11/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/12/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0b013e3181bbd918",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/12/01 00:00",
+  "sortfirstauthor": "Yoshida T",
+  "vernaculartitle": ""
+}

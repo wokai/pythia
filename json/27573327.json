@@ -1,0 +1,138 @@
+{
+  "uid": "27573327",
+  "pubdate": "2016 Oct",
+  "epubdate": "2016 Jul 16",
+  "source": "Int J Med Inform",
+  "authors": [
+    {
+      "name": "Brown B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Balatsoukas P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Williams R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sperrin M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Buchan I",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Buchan I",
+  "title": "Interface design recommendations for computerised clinical audit and feedback: Hybrid usability evidence from a research-led system.",
+  "sorttitle": "interface design recommendations for computerised clinical audit and feedback hybrid usability evidence from a research led system",
+  "volume": "94",
+  "issue": "",
+  "pages": "191-206",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9711057",
+  "issn": "1386-5056",
+  "essn": "1872-8243",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27573327"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1386-5056(16)30171-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijmedinf.2016.07.010"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5015594"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27573327"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27573327"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5015594;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/04/02 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/07/09 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/07/14 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/08/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/08/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/02/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "International journal of medical informatics",
+  "elocationid": "doi: 10.1016/j.ijmedinf.2016.07.010",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/10/01 00:00",
+  "sortfirstauthor": "Brown B",
+  "vernaculartitle": ""
+}

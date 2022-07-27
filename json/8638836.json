@@ -1,0 +1,125 @@
+{
+  "uid": "8638836",
+  "pubdate": "1996 Apr",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Egan TD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Minto CF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hermann DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barr J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muir KT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shafer SL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Shafer SL",
+  "title": "Remifentanil versus alfentanil: comparative pharmacokinetics and pharmacodynamics in healthy adult male volunteers.",
+  "sorttitle": "remifentanil versus alfentanil comparative pharmacokinetics and pharmacodynamics in healthy adult male volunteers",
+  "volume": "84",
+  "issue": "4",
+  "pages": "821-33",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8638836"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-199604000-00009"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8638836"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8638836"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1996/04/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1996/04/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1996/04/01 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology 1996 Sep;85(3):695",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 35,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1996/04/01 00:00",
+  "sortfirstauthor": "Egan TD",
+  "vernaculartitle": ""
+}

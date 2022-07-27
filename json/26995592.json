@@ -1,0 +1,239 @@
+{
+  "uid": "26995592",
+  "pubdate": "2016 Mar",
+  "epubdate": "",
+  "source": "Eur J Heart Fail",
+  "authors": [
+    {
+      "name": "Harjola VP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mebazaa A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Čelutkienė J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bettex D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bueno H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chioncel O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crespo-Leiro MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Falk V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Filippatos G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gibbs S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leite-Moreira A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lassus J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Masip J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mueller C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mullens W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Naeije R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nordegraaf AV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parissis J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Riley JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ristic A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rosano G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rudiger A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ruschitzka F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seferovic P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sztrymf B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vieillard-Baron A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yilmaz MB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Konstantinides S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Konstantinides S",
+  "title": "Contemporary management of acute right ventricular failure: a statement from the Heart Failure Association and the Working Group on Pulmonary Circulation and Right Ventricular Function of the European Society of Cardiology.",
+  "sorttitle": "contemporary management of acute right ventricular failure a statement from the heart failure association and the working group on pulmonary circulation and right ventricular function of the european society of cardiology",
+  "volume": "18",
+  "issue": "3",
+  "pages": "226-41",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100887595",
+  "issn": "1388-9842",
+  "essn": "1879-0844",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26995592"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/ejhf.478"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26995592"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26995592"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/09/11 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2015/11/11 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/12/02 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/03/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/03/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/12/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 57,
+  "fulljournalname": "European journal of heart failure",
+  "elocationid": "doi: 10.1002/ejhf.478",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/03/01 00:00",
+  "sortfirstauthor": "Harjola VP",
+  "vernaculartitle": ""
+}

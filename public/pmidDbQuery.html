@@ -1,0 +1,19 @@
+<!--- .form-control : Expands input size to full input-group size           --->
+<div ng-form="pmidDbQueryForm" novalidate>
+<div class="input-group  mb-3">
+   <span class="input-group-text" style="width:10%">PMID query</span>
+   <input list="pmidlist" ng-model="$ctrl.qry" autocomplete="off" 
+      placeholder="Pubmed ID" class="form-control"/>
+    <datalist id="pmidlist">
+      <option ng-repeat="p in $ctrl.dbPubMed.pmids" value="{{p}}">{{p}}</option>
+    </datalist>
+    <button class="btn btn-outline-secondary" ng-click="$ctrl.clear()"
+      data-toggle="tooltip", data-placement="bottom" 
+      title="Clear input">
+      <img src="/icons/x.svg" alt="Clear">
+    </button>
+    <button class="btn btn-success" ng-click="$ctrl.submit()">
+      Send
+    </button>
+</div>
+</div>

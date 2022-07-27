@@ -1,0 +1,129 @@
+{
+  "uid": "28040687",
+  "pubdate": "2017 May 1",
+  "epubdate": "",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Dernoncourt F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee JY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Uzuner O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Szolovits P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Szolovits P",
+  "title": "De-identification of patient notes with recurrent neural networks.",
+  "sorttitle": "de identification of patient notes with recurrent neural networks",
+  "volume": "24",
+  "issue": "3",
+  "pages": "596-606",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28040687"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ocw156"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/jamia/ocw156"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7787254"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28040687"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28040687"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7787254;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/06/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/10/06 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/01/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/12/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/01/02 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 52,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1093/jamia/ocw156",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/05/01 00:00",
+  "sortfirstauthor": "Dernoncourt F",
+  "vernaculartitle": ""
+}

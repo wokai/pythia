@@ -1,0 +1,90 @@
+{
+  "uid": "15292",
+  "pubdate": "1977 Apr",
+  "epubdate": "",
+  "source": "Physiol Rev",
+  "authors": [
+    {
+      "name": "Wagner PD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wagner PD",
+  "title": "Diffusion and chemical reaction in pulmonary gas exchange.",
+  "sorttitle": "diffusion and chemical reaction in pulmonary gas exchange",
+  "volume": "57",
+  "issue": "2",
+  "pages": "257-312",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0231714",
+  "issn": "0031-9333",
+  "essn": "1522-1210",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15292"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/physrev.1977.57.2.257"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15292"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15292"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1977/04/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1977/04/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1977/04/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 13,
+  "fulljournalname": "Physiological reviews",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1977/04/01 00:00",
+  "sortfirstauthor": "Wagner PD",
+  "vernaculartitle": ""
+}

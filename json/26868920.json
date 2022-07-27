@@ -1,0 +1,114 @@
+{
+  "uid": "26868920",
+  "pubdate": "2017 Jan",
+  "epubdate": "2016 Feb 11",
+  "source": "Intensive Care Med",
+  "authors": [
+    {
+      "name": "Teboul JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scheeren T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Scheeren T",
+  "title": "Understanding the Haldane effect.",
+  "sorttitle": "understanding the haldane effect",
+  "volume": "43",
+  "issue": "1",
+  "pages": "91-93",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7704851",
+  "issn": "0342-4642",
+  "essn": "1432-1238",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26868920"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00134-016-4261-3"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00134-016-4261-3"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26868920"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26868920"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/12/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/02/04 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/02/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/11/29 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/02/13 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Intensive Care Med. 2017 Apr;43(4):597",
+      "reftype": "Comment in",
+      "pmid": 28210772,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 13,
+  "fulljournalname": "Intensive care medicine",
+  "elocationid": "doi: 10.1007/s00134-016-4261-3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/01 00:00",
+  "sortfirstauthor": "Teboul JL",
+  "vernaculartitle": ""
+}

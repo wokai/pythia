@@ -1,0 +1,128 @@
+{
+  "uid": "28817421",
+  "pubdate": "2017 Oct",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Nagappa M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patra J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Subramani Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ho G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong DT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chung F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chung F",
+  "title": "Association of STOP-Bang Questionnaire as a Screening Tool for Sleep Apnea and Postoperative Complications: A Systematic Review and Bayesian Meta-analysis of Prospective and Retrospective Cohort Studies.",
+  "sorttitle": "association of stop bang questionnaire as a screening tool for sleep apnea and postoperative complications a systematic review and bayesian meta analysis of prospective and retrospective cohort studies",
+  "volume": "125",
+  "issue": "4",
+  "pages": "1301-1308",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28817421"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000002344"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28817421"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28817421"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/08/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/10/05 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/08/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000002344",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/10/01 00:00",
+  "sortfirstauthor": "Nagappa M",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,191 @@
+{
+  "uid": "24429437",
+  "pubdate": "2014 Apr",
+  "epubdate": "2014 Jan 14",
+  "source": "Clin Infect Dis",
+  "authors": [
+    {
+      "name": "Roberts JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paul SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Akova M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bassetti M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Waele JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dimopoulos G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaukonen KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koulenti D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Montravers P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rello J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rhodes A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Starr T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wallis SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipman J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "DALI Study.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lipman J",
+  "title": "DALI: defining antibiotic levels in intensive care unit patients: are current β-lactam antibiotic doses sufficient for critically ill patients?",
+  "sorttitle": "dali defining antibiotic levels in intensive care unit patients are current lactam antibiotic doses sufficient for critically ill patients",
+  "volume": "58",
+  "issue": "8",
+  "pages": "1072-83",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9203213",
+  "issn": "1058-4838",
+  "essn": "1537-6591",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24429437"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ciu027"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/cid/ciu027"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24429437"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24429437"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/01/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/01/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/05/13 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Clin Infect Dis. 2014 Apr;58(8):1084-5",
+      "reftype": "Comment in",
+      "pmid": 24470275,
+      "note": ""
+    },
+    {
+      "refsource": "Clin Infect Dis. 2014 Sep 15;59(6):907-8",
+      "reftype": "Comment in",
+      "pmid": 24867785,
+      "note": ""
+    },
+    {
+      "refsource": "Clin Infect Dis. 2014 Sep 15;59(6):905-7",
+      "reftype": "Comment in",
+      "pmid": 24867788,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 206,
+  "fulljournalname": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+  "elocationid": "doi: 10.1093/cid/ciu027",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/04/01 00:00",
+  "sortfirstauthor": "Roberts JA",
+  "vernaculartitle": ""
+}

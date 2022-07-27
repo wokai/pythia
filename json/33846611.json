@@ -1,0 +1,120 @@
+{
+  "uid": "33846611",
+  "pubdate": "2021 Apr",
+  "epubdate": "2021 Apr 12",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "Excler JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saville M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berkley S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim JH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kim JH",
+  "title": "Vaccine development for emerging infectious diseases.",
+  "sorttitle": "vaccine development for emerging infectious diseases",
+  "volume": "27",
+  "issue": "4",
+  "pages": "591-600",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33846611"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-021-01301-0"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-021-01301-0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33846611"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33846611"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/01/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/03/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/04/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/04/29 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/04/13 06:25"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-021-01301-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/04/01 00:00",
+  "sortfirstauthor": "Excler JL",
+  "vernaculartitle": ""
+}

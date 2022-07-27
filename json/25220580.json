@@ -1,0 +1,139 @@
+{
+  "uid": "25220580",
+  "pubdate": "2015 Jun",
+  "epubdate": "2014 Jul 31",
+  "source": "Sleep Med Rev",
+  "authors": [
+    {
+      "name": "Jullian-Desayes I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Joyeux-Faure M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tamisier R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Launois S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Borel AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levy P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pepin JL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pepin JL",
+  "title": "Impact of obstructive sleep apnea treatment by continuous positive airway pressure on cardiometabolic biomarkers: a systematic review from sham CPAP randomized controlled trials.",
+  "sorttitle": "impact of obstructive sleep apnea treatment by continuous positive airway pressure on cardiometabolic biomarkers a systematic review from sham cpap randomized controlled trials",
+  "volume": "21",
+  "issue": "",
+  "pages": "23-38",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9804678",
+  "issn": "1087-0792",
+  "essn": "1532-2955",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25220580"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1087-0792(14)00078-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.smrv.2014.07.004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25220580"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25220580"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/05/21 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2014/07/09 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/07/12 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/09/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/09/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/04/09 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 41,
+  "fulljournalname": "Sleep medicine reviews",
+  "elocationid": "doi: 10.1016/j.smrv.2014.07.004",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/06/01 00:00",
+  "sortfirstauthor": "Jullian-Desayes I",
+  "vernaculartitle": ""
+}

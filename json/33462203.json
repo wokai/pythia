@@ -1,0 +1,183 @@
+{
+  "uid": "33462203",
+  "pubdate": "2021 Jan 18",
+  "epubdate": "2021 Jan 18",
+  "source": "Transl Psychiatry",
+  "authors": [
+    {
+      "name": "Knight JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Costanzo ES",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yin Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Szabo A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pawar DS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hillard CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rizzo JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "D'Souza A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pasquini M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coe CL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Irwin MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Raison CL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Drobyski WR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Drobyski WR",
+  "title": "The IL-6 antagonist tocilizumab is associated with worse depression and related symptoms in the medically ill.",
+  "sorttitle": "il 6 antagonist tocilizumab is associated with worse depression and related symptoms in the medically ill",
+  "volume": "11",
+  "issue": "1",
+  "pages": "58",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101562664",
+  "issn": "",
+  "essn": "2158-3188",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33462203"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41398-020-01164-y"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41398-020-01164-y"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7812704"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33462203"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33462203"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7812704;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/06/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/12/07 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/12/02 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/19 05:50"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Translational psychiatry",
+  "elocationid": "doi: 10.1038/s41398-020-01164-y",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/18 00:00",
+  "sortfirstauthor": "Knight JM",
+  "vernaculartitle": ""
+}

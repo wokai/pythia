@@ -1,0 +1,209 @@
+{
+  "uid": "33347610",
+  "pubdate": "2021 Feb",
+  "epubdate": "2021 Jan 4",
+  "source": "J Physiol",
+  "authors": [
+    {
+      "name": "Simonson TS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baker TL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Banzett RB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bishop T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dempsey JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feldman JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyenet PG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hodson EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mitchell GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moya EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nokes BT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Orr JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Owens RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Poulin M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rawling JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmickl CN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watters JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Younes M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Malhotra A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Malhotra A",
+  "title": "Silent hypoxaemia in COVID-19 patients.",
+  "sorttitle": "silent hypoxaemia in covid 19 patients",
+  "volume": "599",
+  "issue": "4",
+  "pages": "1057-1065",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0266262",
+  "issn": "0022-3751",
+  "essn": "1469-7793",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33347610"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1113/JP280769"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7902403"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1657770"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33347610"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33347610"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7902403;manuscript-id: NIHMS1657770;embargo-date: 2021/08/01;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/09/16 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/12/07 00:00"
+    },
+    {
+      "pubstatus": "pmc-release",
+      "date": "2021/08/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/25 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/21 17:12"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "The Journal of physiology",
+  "elocationid": "doi: 10.1113/JP280769",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/01 00:00",
+  "sortfirstauthor": "Simonson TS",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,137 @@
+{
+  "uid": "29481427",
+  "pubdate": "2018 Oct",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Markley JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Farber MK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perlman NC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carusi DA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Carusi DA",
+  "title": "Neuraxial Anesthesia During Cesarean Delivery for Placenta Previa With Suspected Morbidly Adherent Placenta: A Retrospective Analysis.",
+  "sorttitle": "neuraxial anesthesia during cesarean delivery for placenta previa with suspected morbidly adherent placenta a retrospective analysis",
+  "volume": "127",
+  "issue": "4",
+  "pages": "930-938",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29481427"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000003314"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29481427"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29481427"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/02/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/08/20 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/02/27 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2018 Nov;127(5):e81",
+      "reftype": "Comment in",
+      "pmid": 29782400,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2018 Nov;127(5):e80-e81",
+      "reftype": "Comment in",
+      "pmid": 29782401,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2018 Oct;127(4):805-807",
+      "reftype": "Comment in",
+      "pmid": 30216280,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2019 Apr;128(4):e56-e57",
+      "reftype": "Comment in",
+      "pmid": 30883425,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2019 Apr;128(4):e57-e58",
+      "reftype": "Comment in",
+      "pmid": 30883426,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000003314",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "Markley JC",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,302 @@
+{
+  "uid": "34758478",
+  "pubdate": "2022 Jan",
+  "epubdate": "2021 Nov 10",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Swadling L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Diniz MO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmidt NM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Amin OE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chandran A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shaw E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pade C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gibbons JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Le Bert N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tan AT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jeffery-Smith A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tan CCS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tham CYL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kucykowicz S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aidoo-Micah G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rosenheim J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davies J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnson M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jensen MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Joy G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCoy LE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Valdes AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chain BM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goldblatt D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Altmann DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boyton RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Manisty C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Treibel TA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moon JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "COVIDsortium Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "van Dorp L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Balloux F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McKnight Á",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Noursadeghi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bertoletti A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maini MK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Maini MK",
+  "title": "Pre-existing polymerase-specific T cells expand in abortive seronegative SARS-CoV-2.",
+  "sorttitle": "pre existing polymerase specific t cells expand in abortive seronegative sars cov 2",
+  "volume": "601",
+  "issue": "7891",
+  "pages": "110-117",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34758478"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-021-04186-8"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-021-04186-8"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8732273"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34758478"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34758478"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8732273;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/06/17 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/10/27 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/11/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2022/01/12 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/11/10 20:13"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2021 Nov;599(7886):543",
+      "reftype": "Comment in",
+      "pmid": 34773110,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Rev Immunol. 2022 Jan;22(1):5",
+      "reftype": "Comment in",
+      "pmid": 34873280,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 25,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-021-04186-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2022/01/01 00:00",
+  "sortfirstauthor": "Swadling L",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,123 @@
+{
+  "uid": "28373535",
+  "pubdate": "2017 May 2",
+  "epubdate": "2017 Apr 3",
+  "source": "Proc Natl Acad Sci U S A",
+  "authors": [
+    {
+      "name": "Choi RH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koenig X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Launikonis BS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Launikonis BS",
+  "title": "Dantrolene requires Mg<sup>2+</sup> to arrest malignant hyperthermia.",
+  "sorttitle": "dantrolene requires mg sup 2 sup to arrest malignant hyperthermia",
+  "volume": "114",
+  "issue": "18",
+  "pages": "4811-4815",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7505876",
+  "issn": "0027-8424",
+  "essn": "1091-6490",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28373535"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1619835114"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1073/pnas.1619835114"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5422773"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28373535"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28373535"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5422773;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/04/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/04/24 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/04/05 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Proc Natl Acad Sci U S A. 2017 May 2;114(18):4576-4578",
+      "reftype": "Comment in",
+      "pmid": 28442565,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+  "elocationid": "doi: 10.1073/pnas.1619835114",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/05/02 00:00",
+  "sortfirstauthor": "Choi RH",
+  "vernaculartitle": ""
+}

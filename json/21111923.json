@@ -1,0 +1,142 @@
+{
+  "uid": "21111923",
+  "pubdate": "2010 Dec",
+  "epubdate": "",
+  "source": "J Am Soc Echocardiogr",
+  "authors": [
+    {
+      "name": "Labovitz AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Noble VE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bierig M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goldstein SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jones R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kort S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Porter TR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spencer KT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tayal VS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wei K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wei K",
+  "title": "Focused cardiac ultrasound in the emergent setting: a consensus statement of the American Society of Echocardiography and American College of Emergency Physicians.",
+  "sorttitle": "focused cardiac ultrasound in the emergent setting a consensus statement of the american society of echocardiography and american college of emergency physicians",
+  "volume": "23",
+  "issue": "12",
+  "pages": "1225-30",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8801388",
+  "issn": "0894-7317",
+  "essn": "1097-6795",
+  "pubtype": [
+    "Consensus Development Conference",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21111923"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0894-7317(10)00871-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.echo.2010.10.005"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21111923"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21111923"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/11/30 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/11/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/04/26 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 86,
+  "fulljournalname": "Journal of the American Society of Echocardiography : official publication of the American Society of Echocardiography",
+  "elocationid": "doi: 10.1016/j.echo.2010.10.005",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/12/01 00:00",
+  "sortfirstauthor": "Labovitz AJ",
+  "vernaculartitle": ""
+}

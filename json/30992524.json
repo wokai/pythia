@@ -1,0 +1,112 @@
+{
+  "uid": "30992524",
+  "pubdate": "2019 Aug",
+  "epubdate": "",
+  "source": "Nat Rev Immunol",
+  "authors": [
+    {
+      "name": "Drummond GR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vinh A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guzik TJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sobey CG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sobey CG",
+  "title": "Immune mechanisms of hypertension.",
+  "sorttitle": "immune mechanisms of hypertension",
+  "volume": "19",
+  "issue": "8",
+  "pages": "517-532",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101124169",
+  "issn": "1474-1733",
+  "essn": "1474-1741",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30992524"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41577-019-0160-5"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41577-019-0160-5"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30992524"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30992524"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/04/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/05 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/04/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 30,
+  "fulljournalname": "Nature reviews. Immunology",
+  "elocationid": "doi: 10.1038/s41577-019-0160-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/08/01 00:00",
+  "sortfirstauthor": "Drummond GR",
+  "vernaculartitle": ""
+}

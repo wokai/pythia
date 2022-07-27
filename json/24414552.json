@@ -1,0 +1,135 @@
+{
+  "uid": "24414552",
+  "pubdate": "2014 Jan 10",
+  "epubdate": "2014 Jan 10",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Bjelakovic G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gluud LL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nikolova D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Whitfield K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wetterslev J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Simonetti RG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bjelakovic M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gluud C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gluud C",
+  "title": "Vitamin D supplementation for prevention of mortality in adults.",
+  "sorttitle": "vitamin d supplementation for prevention of mortality in adults",
+  "volume": "",
+  "issue": "1",
+  "pages": "CD007470",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24414552"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD007470.pub3"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24414552"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24414552"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/01/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/01/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/07/02 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cochrane Database Syst Rev. 2011;(7):CD007470",
+      "reftype": "Update of",
+      "pmid": 21735411,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 151,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD007470.pub3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/01/10 00:00",
+  "sortfirstauthor": "Bjelakovic G",
+  "vernaculartitle": ""
+}

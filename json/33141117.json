@@ -1,0 +1,218 @@
+{
+  "uid": "33141117",
+  "pubdate": "2020 Dec 1",
+  "epubdate": "",
+  "source": "J Clin Invest",
+  "authors": [
+    {
+      "name": "Liu J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dong X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xu Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feng H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cai J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huang S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guo J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhu W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Du H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wen Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Annane D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Qu J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chen D",
+  "title": "Corticosteroid treatment in severe COVID-19 patients with acute respiratory distress syndrome.",
+  "sorttitle": "corticosteroid treatment in severe covid 19 patients with acute respiratory distress syndrome",
+  "volume": "130",
+  "issue": "12",
+  "pages": "6417-6428",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7802877",
+  "issn": "0021-9738",
+  "essn": "1558-8238",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33141117"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "140617"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1172/JCI140617"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7685724"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33141117"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33141117"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7685724;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/05/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/08/13 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/03 12:48"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Clin Invest. 2020 Dec 1;130(12):6218-6221",
+      "reftype": "Comment in",
+      "pmid": 32976118,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "The Journal of clinical investigation",
+  "elocationid": "doi: 10.1172/JCI140617",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/01 00:00",
+  "sortfirstauthor": "Liu J",
+  "vernaculartitle": ""
+}

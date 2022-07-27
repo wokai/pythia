@@ -1,0 +1,117 @@
+{
+  "uid": "28069712",
+  "pubdate": "2017 Jan 10",
+  "epubdate": "",
+  "source": "Circulation",
+  "authors": [
+    {
+      "name": "Makam AN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nguyen OK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Nguyen OK",
+  "title": "An Evidence-Based Medicine Approach to Antihyperglycemic Therapy in Diabetes Mellitus to Overcome Overtreatment.",
+  "sorttitle": "evidence based medicine approach to antihyperglycemic therapy in diabetes mellitus to overcome overtreatment",
+  "volume": "135",
+  "issue": "2",
+  "pages": "180-195",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0147763",
+  "issn": "0009-7322",
+  "essn": "1524-4539",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28069712"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "CIRCULATIONAHA.116.022622"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/CIRCULATIONAHA.116.022622"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5502688"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS833536"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28069712"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28069712"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5502688;manuscript-id: NIHMS833536;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/01/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/01/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/05/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Circulation",
+  "elocationid": "doi: 10.1161/CIRCULATIONAHA.116.022622",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/10 00:00",
+  "sortfirstauthor": "Makam AN",
+  "vernaculartitle": ""
+}

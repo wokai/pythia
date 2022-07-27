@@ -1,0 +1,173 @@
+{
+  "uid": "30620956",
+  "pubdate": "2019 Jan",
+  "epubdate": "2019 Jan 8",
+  "source": "Anasthesiol Intensivmed Notfallmed Schmerzther",
+  "authors": [
+    {
+      "name": "Elke G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hartl WH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kreymann KG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Adolph M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Felbinger TW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Graf T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Heer G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heller AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kampa U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mayer K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muhl E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Niemann B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rümelin A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Steiner S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stoppe C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weimann A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bischoff SC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bischoff SC",
+  "title": "[DGEM Guideline \"Clinical Nutrition in Critical Care Medicine\" - short version].",
+  "sorttitle": "dgem guideline clinical nutrition in critical care medicine short version",
+  "volume": "54",
+  "issue": "1",
+  "pages": "63-73",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "9109478",
+  "issn": "0939-2661",
+  "essn": "1439-1074",
+  "pubtype": [
+    "Guideline",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30620956"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1055/a-0805-4118"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30620956"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30620956"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/01/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/01/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/06/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Anasthesiologie, Intensivmedizin, Notfallmedizin, Schmerztherapie : AINS",
+  "elocationid": "doi: 10.1055/a-0805-4118",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/01/01 00:00",
+  "sortfirstauthor": "Elke G",
+  "vernaculartitle": "DGEM-Leitlinie: Klinische Ernährung in der Intensivmedizin – Kurzversion."
+}

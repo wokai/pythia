@@ -1,0 +1,193 @@
+{
+  "uid": "30707226",
+  "pubdate": "2019 Feb 1",
+  "epubdate": "2019 Feb 1",
+  "source": "JAMA Netw Open",
+  "authors": [
+    {
+      "name": "Daskivich TJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Houman J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lopez M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Luu M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fleshner P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zaghiyan K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cunneen S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burch M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walsh C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paiement G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kremen T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Soukiasian H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spitzer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jackson T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim HL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spiegel B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Spiegel B",
+  "title": "Association of Wearable Activity Monitors With Assessment of Daily Ambulation and Length of Stay Among Patients Undergoing Major Surgery.",
+  "sorttitle": "association of wearable activity monitors with assessment of daily ambulation and length of stay among patients undergoing major surgery",
+  "volume": "2",
+  "issue": "2",
+  "pages": "e187673",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101729235",
+  "issn": "",
+  "essn": "2574-3805",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30707226"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2723408"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jamanetworkopen.2018.7673"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6484591"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30707226"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30707226"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6484591;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/02/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/02/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/12/04 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA Netw Open. 2019 Feb 1;2(2):e187672",
+      "reftype": "Comment in",
+      "pmid": 30707223,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 14,
+  "fulljournalname": "JAMA network open",
+  "elocationid": "doi: 10.1001/jamanetworkopen.2018.7673",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/02/01 00:00",
+  "sortfirstauthor": "Daskivich TJ",
+  "vernaculartitle": ""
+}

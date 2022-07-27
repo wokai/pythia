@@ -1,0 +1,88 @@
+{
+  "uid": "29589090",
+  "pubdate": "2018 Apr",
+  "epubdate": "",
+  "source": "Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz",
+  "authors": [],
+  "lastauthor": "",
+  "title": "Prävention postoperativer Wundinfektionen : Empfehlung der Kommission für Krankenhaushygiene und Infektionsprävention (KRINKO) beim Robert Koch-Institut.",
+  "sorttitle": "pr vention postoperativer wundinfektionen empfehlung der kommission f r krankenhaushygiene und infektionspr vention krinko beim robert koch institut",
+  "volume": "61",
+  "issue": "4",
+  "pages": "448-473",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "101181368",
+  "issn": "1436-9990",
+  "essn": "1437-1588",
+  "pubtype": [
+    "News"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29589090"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00103-018-2706-2"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00103-018-2706-2"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29589090"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29589090"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/03/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/03/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/03/29 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 13,
+  "fulljournalname": "Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz",
+  "elocationid": "doi: 10.1007/s00103-018-2706-2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/04/01 00:00",
+  "sortfirstauthor": "",
+  "vernaculartitle": "Prävention postoperativer Wundinfektionen : Empfehlung der Kommission für Krankenhaushygiene und Infektionsprävention (KRINKO) beim Robert Koch-Institut."
+}

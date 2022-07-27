@@ -1,0 +1,159 @@
+{
+  "uid": "30355602",
+  "pubdate": "2018 Dec",
+  "epubdate": "2018 Oct 24",
+  "source": "Genome Res",
+  "authors": [
+    {
+      "name": "Erkelenz S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Theiss S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaisers W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ptok J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walotka L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Müller L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hillebrand F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brillen AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sladek M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schaal H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schaal H",
+  "title": "Ranking noncanonical 5' splice site usage by genome-wide RNA-seq analysis and splicing reporter assays.",
+  "sorttitle": "ranking noncanonical 5 splice site usage by genome wide rna seq analysis and splicing reporter assays",
+  "volume": "28",
+  "issue": "12",
+  "pages": "1826-1840",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9518021",
+  "issn": "1088-9051",
+  "essn": "1549-5469",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30355602"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "gr.235861.118"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1101/gr.235861.118"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6280755"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30355602"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30355602"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6280755;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/02/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/10/20 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/10/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/04/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/10/26 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Genome research",
+  "elocationid": "doi: 10.1101/gr.235861.118",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/12/01 00:00",
+  "sortfirstauthor": "Erkelenz S",
+  "vernaculartitle": ""
+}

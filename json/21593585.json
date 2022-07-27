@@ -1,0 +1,127 @@
+{
+  "uid": "21593585",
+  "pubdate": "2011 Mar-Apr",
+  "epubdate": "2011 Mar 1",
+  "source": "RNA Biol",
+  "authors": [
+    {
+      "name": "Denison MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Graham RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Donaldson EF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eckerle LD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baric RS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Baric RS",
+  "title": "Coronaviruses: an RNA proofreading machine regulates replication fidelity and diversity.",
+  "sorttitle": "coronaviruses an rna proofreading machine regulates replication fidelity and diversity",
+  "volume": "8",
+  "issue": "2",
+  "pages": "270-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101235328",
+  "issn": "1547-6286",
+  "essn": "1555-8584",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21593585"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "15013"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3127101"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.4161/rna.8.2.15013"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21593585"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21593585"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3127101;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/05/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/05/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/12/13 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 142,
+  "fulljournalname": "RNA biology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/03/01 00:00",
+  "sortfirstauthor": "Denison MR",
+  "vernaculartitle": ""
+}

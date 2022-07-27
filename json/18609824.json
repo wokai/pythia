@@ -1,0 +1,99 @@
+{
+  "uid": "18609824",
+  "pubdate": "1939 Oct",
+  "epubdate": "",
+  "source": "Br Heart J",
+  "authors": [
+    {
+      "name": "Thomson WA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Thomson WA",
+  "title": "THE EFFECT OF POTASSIUM ON THE HEART IN MAN.",
+  "sorttitle": "effect of potassium on the heart in man",
+  "volume": "1",
+  "issue": "4",
+  "pages": "269-82",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370634",
+  "issn": "0007-0769",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18609824"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/hrt.1.4.269"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC503410"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18609824"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18609824"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC503410;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1939/10/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1939/10/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1939/10/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 6,
+  "fulljournalname": "British heart journal",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1939/10/01 00:00",
+  "sortfirstauthor": "Thomson WA",
+  "vernaculartitle": ""
+}

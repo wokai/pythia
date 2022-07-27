@@ -1,0 +1,139 @@
+{
+  "uid": "32724171",
+  "pubdate": "2020 Nov",
+  "epubdate": "2020 Jul 28",
+  "source": "Nat Microbiol",
+  "authors": [
+    {
+      "name": "Boni MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lemey P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jiang X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lam TT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perry BW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Castoe TA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rambaut A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Robertson DL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Robertson DL",
+  "title": "Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic.",
+  "sorttitle": "evolutionary origins of the sars cov 2 sarbecovirus lineage responsible for the covid 19 pandemic",
+  "volume": "5",
+  "issue": "11",
+  "pages": "1408-1417",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101674869",
+  "issn": "",
+  "essn": "2058-5276",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32724171"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41564-020-0771-4"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41564-020-0771-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32724171"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32724171"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/04/13 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/07/10 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/07/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/11/05 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/07/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 116,
+  "fulljournalname": "Nature microbiology",
+  "elocationid": "doi: 10.1038/s41564-020-0771-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/11/01 00:00",
+  "sortfirstauthor": "Boni MF",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,120 @@
+{
+  "uid": "27855725",
+  "pubdate": "2016 Nov 17",
+  "epubdate": "2016 Nov 17",
+  "source": "Acta Neuropathol Commun",
+  "authors": [
+    {
+      "name": "Witherspoon JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meilleur KG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Meilleur KG",
+  "title": "Review of RyR1 pathway and associated pathomechanisms.",
+  "sorttitle": "review of ryr1 pathway and associated pathomechanisms",
+  "volume": "4",
+  "issue": "1",
+  "pages": "121",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101610673",
+  "issn": "",
+  "essn": "2051-5960",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27855725"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s40478-016-0392-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s40478-016-0392-6"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5114830"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27855725"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27855725"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5114830;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/09/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/11/02 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/11/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/11/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/06/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "Acta neuropathologica communications",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/11/17 00:00",
+  "sortfirstauthor": "Witherspoon JW",
+  "vernaculartitle": ""
+}

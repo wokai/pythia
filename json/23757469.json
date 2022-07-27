@@ -1,0 +1,118 @@
+{
+  "uid": "23757469",
+  "pubdate": "2013 Aug",
+  "epubdate": "2013 Jun 11",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Mihara T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tojo K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Uchimoto K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morita S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goto T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Goto T",
+  "title": "Reevaluation of the effectiveness of ramosetron for preventing postoperative nausea and vomiting: a systematic review and meta-analysis.",
+  "sorttitle": "reevaluation of the effectiveness of ramosetron for preventing postoperative nausea and vomiting a systematic review and meta analysis",
+  "volume": "117",
+  "issue": "2",
+  "pages": "329-39",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23757469"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ANE.0b013e31829847a1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0b013e31829847a1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23757469"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23757469"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/06/13 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/06/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/09/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0b013e31829847a1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/08/01 00:00",
+  "sortfirstauthor": "Mihara T",
+  "vernaculartitle": ""
+}

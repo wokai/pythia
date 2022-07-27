@@ -1,0 +1,140 @@
+{
+  "uid": "21712716",
+  "pubdate": "2011 Aug",
+  "epubdate": "",
+  "source": "Eur J Anaesthesiol",
+  "authors": [
+    {
+      "name": "Smith I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kranke P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murat I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Sullivan G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Søreide E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spies C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "in't Veld B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "European Society of Anaesthesiology.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "in't Veld B",
+  "title": "Perioperative fasting in adults and children: guidelines from the European Society of Anaesthesiology.",
+  "sorttitle": "perioperative fasting in adults and children guidelines from the european society of anaesthesiology",
+  "volume": "28",
+  "issue": "8",
+  "pages": "556-69",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8411711",
+  "issn": "0265-0215",
+  "essn": "1365-2346",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21712716"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/EJA.0b013e3283495ba1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21712716"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21712716"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/06/30 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/06/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/10/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur J Anaesthesiol. 2021 Feb 1;38(2):200",
+      "reftype": "Comment in",
+      "pmid": 33394799,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 81,
+  "fulljournalname": "European journal of anaesthesiology",
+  "elocationid": "doi: 10.1097/EJA.0b013e3283495ba1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/08/01 00:00",
+  "sortfirstauthor": "Smith I",
+  "vernaculartitle": ""
+}

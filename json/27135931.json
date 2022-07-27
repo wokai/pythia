@@ -1,0 +1,435 @@
+{
+  "uid": "27135931",
+  "pubdate": "2016 Jun 9",
+  "epubdate": "2016 May 2",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Fu Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Posth C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hajdinjak M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petr M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mallick S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fernandes D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Furtwängler A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haak W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mittnik A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nickel B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peltzer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rohland N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Slon V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Talamo S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lazaridis I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipson M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mathieson I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schiffels S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Skoglund P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Derevianko AP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Drozdov N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Slavinsky V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tsybankov A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cremonesi RG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mallegni F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gély B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vacca E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morales MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Straus LG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neugebauer-Maresch C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Teschler-Nicola M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Constantin S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moldovan OT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benazzi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peresani M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coppola D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lari M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ricci S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ronchitelli A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Valentin F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thevenet C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wehrberger K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grigorescu D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rougier H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crevecoeur I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Flas D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Semal P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mannino MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cupillard C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bocherens H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Conard NJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harvati K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moiseyev V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Drucker DG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Svoboda J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Richards MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Caramelli D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pinhasi R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kelso J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patterson N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krause J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pääbo S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reich D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Reich D",
+  "title": "The genetic history of Ice Age Europe.",
+  "sorttitle": "genetic history of ice age europe",
+  "volume": "534",
+  "issue": "7606",
+  "pages": "200-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27135931"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature17993"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature17993"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4943878"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS777742"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27135931"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27135931"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4943878;manuscript-id: NIHMS777742;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/12/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/04/12 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/05/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/05/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/07/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 162,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature17993",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/06/09 00:00",
+  "sortfirstauthor": "Fu Q",
+  "vernaculartitle": ""
+}

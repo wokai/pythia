@@ -1,0 +1,100 @@
+{
+  "uid": "12029399",
+  "pubdate": "2002 May",
+  "epubdate": "2002 Apr 12",
+  "source": "Intensive Care Med",
+  "authors": [
+    {
+      "name": "Epstein SK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Epstein SK",
+  "title": "Decision to extubate.",
+  "sorttitle": "decision to extubate",
+  "volume": "28",
+  "issue": "5",
+  "pages": "535-46",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7704851",
+  "issn": "0342-4642",
+  "essn": "1432-1238",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12029399"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00134-002-1268-8"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12029399"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12029399"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2001/11/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2002/01/25 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2002/05/25 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/10/03 04:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2002/05/25 10:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 37,
+  "fulljournalname": "Intensive care medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2002/05/01 00:00",
+  "sortfirstauthor": "Epstein SK",
+  "vernaculartitle": ""
+}

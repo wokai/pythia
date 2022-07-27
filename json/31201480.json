@@ -1,0 +1,124 @@
+{
+  "uid": "31201480",
+  "pubdate": "2019 Oct",
+  "epubdate": "",
+  "source": "Anaesthesist",
+  "authors": [
+    {
+      "name": "Janßen H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dehne S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giannitsis E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weigand MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Larmann J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Larmann J",
+  "title": "[Perioperative cardiovasular morbidity and mortality in noncardiac surgical interventions : Measures for optimal anesthesiological care].",
+  "sorttitle": "perioperative cardiovasular morbidity and mortality in noncardiac surgical interventions measures for optimal anesthesiological care",
+  "volume": "68",
+  "issue": "10",
+  "pages": "653-664",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "0370525",
+  "issn": "0003-2417",
+  "essn": "1432-055X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31201480"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00101-019-0616-9"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00101-019-0616-9"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31201480"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31201480"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/06/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/21 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/06/16 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anaesthesist. 2019 Oct;68(10):651-652",
+      "reftype": "Comment in",
+      "pmid": 31637497,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Der Anaesthesist",
+  "elocationid": "doi: 10.1007/s00101-019-0616-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/10/01 00:00",
+  "sortfirstauthor": "Janßen H",
+  "vernaculartitle": "Perioperative kardiovaskuläre Morbidität und Letalität bei nichtherzchirurgischen Eingriffen : Maßnahmen der optimalen anästhesiologischen Betreuung."
+}

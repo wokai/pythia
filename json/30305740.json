@@ -1,0 +1,167 @@
+{
+  "uid": "30305740",
+  "pubdate": "2018 Oct",
+  "epubdate": "2018 Oct 10",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Elliott LT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sharp K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alfaro-Almagro F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miller KL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Douaud G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marchini J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith SM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Smith SM",
+  "title": "Genome-wide association studies of brain imaging phenotypes in UK Biobank.",
+  "sorttitle": "genome wide association studies of brain imaging phenotypes in uk biobank",
+  "volume": "562",
+  "issue": "7726",
+  "pages": "210-216",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30305740"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-018-0571-7"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-018-0571-7"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6786974"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "EMS84518"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30305740"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30305740"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6786974;manuscript-id: EMS84518;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/11/03 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/09/04 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/10/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/10/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/05/10 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2018 Oct;562(7726):194-195",
+      "reftype": "Comment in",
+      "pmid": 30305754,
+      "note": ""
+    },
+    {
+      "refsource": "Nature. 2018 Oct;562(7726):163-164",
+      "reftype": "Comment in",
+      "pmid": 30365879,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 83,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-018-0571-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "Elliott LT",
+  "vernaculartitle": ""
+}

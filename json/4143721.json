@@ -1,0 +1,116 @@
+{
+  "uid": "4143721",
+  "pubdate": "1967 Aug 12",
+  "epubdate": "",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Ashbaugh DG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bigelow DB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petty TL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levine BE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Levine BE",
+  "title": "Acute respiratory distress in adults.",
+  "sorttitle": "acute respiratory distress in adults",
+  "volume": "2",
+  "issue": "7511",
+  "pages": "319-23",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "4143721"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(67)90168-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/s0140-6736(67)90168-7"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "4143721"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "4143721"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1967/08/12 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1967/08/12 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1967/08/12 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Air Med J. 2016 Mar-Apr;35(2):59-62",
+      "reftype": "Comment in",
+      "pmid": 27021667,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 626,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1967/08/12 00:00",
+  "sortfirstauthor": "Ashbaugh DG",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,129 @@
+{
+  "uid": "26455774",
+  "pubdate": "2015 Nov",
+  "epubdate": "2015 Oct 8",
+  "source": "Trends Ecol Evol",
+  "authors": [
+    {
+      "name": "López-García P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moreira D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Moreira D",
+  "title": "Open Questions on the Origin of Eukaryotes.",
+  "sorttitle": "open questions on the origin of eukaryotes",
+  "volume": "30",
+  "issue": "11",
+  "pages": "697-708",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8805125",
+  "issn": "0169-5347",
+  "essn": "1872-8383",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26455774"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0169-5347(15)00238-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.tree.2015.09.005"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4640172"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "EMS65865"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26455774"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26455774"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4640172;manuscript-id: EMS65865;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/07/09 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2015/09/03 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/09/04 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/10/13 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/10/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/06/24 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "Trends in ecology & evolution",
+  "elocationid": "doi: 10.1016/j.tree.2015.09.005",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/11/01 00:00",
+  "sortfirstauthor": "López-García P",
+  "vernaculartitle": ""
+}

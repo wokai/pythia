@@ -1,0 +1,258 @@
+{
+  "uid": "18184957",
+  "pubdate": "2008 Jan 10",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Sprung CL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Annane D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Keh D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moreno R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Freivogel K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weiss YG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benbenishty J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kalenka A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Forst H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laterre PF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reinhart K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cuthbertson BH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Payen D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Briegel J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "CORTICUS Study Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Briegel J",
+  "title": "Hydrocortisone therapy for patients with septic shock.",
+  "sorttitle": "hydrocortisone therapy for patients with septic shock",
+  "volume": "358",
+  "issue": "2",
+  "pages": "111-24",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18184957"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "358/2/111"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa071366"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18184957"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18184957"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/01/11 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/01/16 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/01/11 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2008 Jan 10;358(2):188-90",
+      "reftype": "Comment in",
+      "pmid": 18184965,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Clin Pract Endocrinol Metab. 2008 Jul;4(7):368-9",
+      "reftype": "Comment in",
+      "pmid": 18461064,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2008 May 8;358(19):2068; author reply 2070-1",
+      "reftype": "Comment in",
+      "pmid": 18463386,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2008 May 8;358(19):2068-9; author reply 2070-1",
+      "reftype": "Comment in",
+      "pmid": 18467974,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2008 May 8;358(19):2069; author reply 2070-1",
+      "reftype": "Comment in",
+      "pmid": 18467975,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2008 May 8;358(19):2069-70; author reply 2070-1",
+      "reftype": "Comment in",
+      "pmid": 18467976,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2008 May 8;358(19):2069; author reply 2070-1",
+      "reftype": "Comment in",
+      "pmid": 18467977,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2008 May 8;358(19):2070; author reply 2070-1",
+      "reftype": "Comment in",
+      "pmid": 18467978,
+      "note": ""
+    },
+    {
+      "refsource": "ACP J Club. 2008 Jun 17;148(4):6",
+      "reftype": "Comment in",
+      "pmid": 18588257,
+      "note": ""
+    },
+    {
+      "refsource": "Curr Infect Dis Rep. 2008 Sep;10(5):352",
+      "reftype": "Comment in",
+      "pmid": 18687197,
+      "note": ""
+    },
+    {
+      "refsource": "Natl Med J India. 2008 May-Jun;21(3):128-9",
+      "reftype": "Comment in",
+      "pmid": 19004144,
+      "note": ""
+    },
+    {
+      "refsource": "Crit Care. 2009;13(4):309",
+      "reftype": "Comment in",
+      "pmid": 19691813,
+      "note": ""
+    },
+    {
+      "refsource": "Can J Surg. 2010 Dec;53(6):415-7",
+      "reftype": "Comment in",
+      "pmid": 21092435,
+      "note": ""
+    },
+    {
+      "refsource": "CJEM. 2011 Jul;13(4):273-6",
+      "reftype": "Comment in",
+      "pmid": 21722557,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 431,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa071366",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/01/10 00:00",
+  "sortfirstauthor": "Sprung CL",
+  "vernaculartitle": ""
+}

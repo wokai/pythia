@@ -1,0 +1,95 @@
+{
+  "uid": "9563765",
+  "pubdate": "1998 Apr",
+  "epubdate": "",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "West JB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wagner PD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wagner PD",
+  "title": "Pulmonary gas exchange.",
+  "sorttitle": "pulmonary gas exchange",
+  "volume": "157",
+  "issue": "4 Pt 2",
+  "pages": "S82-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9563765"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/ajrccm.157.4.nhlbi-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9563765"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9563765"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1998/05/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1998/05/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1998/05/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 4,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1998/04/01 00:00",
+  "sortfirstauthor": "West JB",
+  "vernaculartitle": ""
+}

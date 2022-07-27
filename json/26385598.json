@@ -1,0 +1,210 @@
+{
+  "uid": "26385598",
+  "pubdate": "2015 Sep 18",
+  "epubdate": "2015 Sep 18",
+  "source": "JMIR Med Inform",
+  "authors": [
+    {
+      "name": "Slight SP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berner ES",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Galanter W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huff S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lambert BL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lannon C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lehmann CU",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCourt BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McNamara M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Menachemi N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Payne TH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spooner SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schiff GD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang TY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Akincigil A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crystal S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fortmann SP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bates DW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bates DW",
+  "title": "Meaningful Use of Electronic Health Records: Experiences From the Field and Future Opportunities.",
+  "sorttitle": "meaningful use of electronic health records experiences from the field and future opportunities",
+  "volume": "3",
+  "issue": "3",
+  "pages": "e30",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101645109",
+  "issn": "",
+  "essn": "2291-9694",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26385598"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "v3i3e30"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.2196/medinform.4457"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4704893"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26385598"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26385598"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4704893;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/04/19 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/07/24 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2015/06/02 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/09/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/09/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/09/20 06:01"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JMIR Med Inform. 2015 Sep 25;3(3):e32",
+      "reftype": "Erratum in",
+      "pmid": 26407141,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "JMIR medical informatics",
+  "elocationid": "doi: 10.2196/medinform.4457",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/09/18 00:00",
+  "sortfirstauthor": "Slight SP",
+  "vernaculartitle": ""
+}

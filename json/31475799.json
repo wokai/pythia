@@ -1,0 +1,352 @@
+{
+  "uid": "31475799",
+  "pubdate": "2019 Oct 17",
+  "epubdate": "2019 Sep 1",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Schüpke S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neumann FJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Menichelli M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mayer K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bernlochner I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wöhrle J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Richardt G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liebetrau C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Witzenbichler B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Antoniucci D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Akin I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bott-Flügel L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fischer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Landmesser U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Katus HA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sibbing D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seyfarth M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Janisch M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boncompagni D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hilz R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rottbauer W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Okrojek R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Möllmann H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hochholzer W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Migliorini A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cassese S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mollo P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xhepa E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kufner S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Strehle A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leggewie S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Allali A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ndrepepa G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schühlen H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Angiolillo DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hamm CW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hapfelmeier A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tölg R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Trenk D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schunkert H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laugwitz KL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kastrati A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "ISAR-REACT 5 Trial Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kastrati A",
+  "title": "Ticagrelor or Prasugrel in Patients with Acute Coronary Syndromes.",
+  "sorttitle": "ticagrelor or prasugrel in patients with acute coronary syndromes",
+  "volume": "381",
+  "issue": "16",
+  "pages": "1524-1534",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31475799"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa1908973"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31475799"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31475799"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/09/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/11/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/09/03 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2019 Oct 17;381(16):1582-1585",
+      "reftype": "Comment in",
+      "pmid": 31618546,
+      "note": ""
+    },
+    {
+      "refsource": "MMW Fortschr Med. 2019 Nov;161(20):36",
+      "reftype": "Comment in",
+      "pmid": 31773609,
+      "note": ""
+    },
+    {
+      "refsource": "Ann Intern Med. 2020 Jan 21;172(2):JC5",
+      "reftype": "Comment in",
+      "pmid": 31958819,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Jan 30;382(5):486",
+      "reftype": "Comment in",
+      "pmid": 31995700,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Jan 30;382(5):487",
+      "reftype": "Comment in",
+      "pmid": 31995701,
+      "note": ""
+    },
+    {
+      "refsource": "Internist (Berl). 2020 Feb;61(2):223-225",
+      "reftype": "Comment in",
+      "pmid": 32016492,
+      "note": ""
+    },
+    {
+      "refsource": "Cardiovasc Drugs Ther. 2020 Jun;34(3):439-441",
+      "reftype": "Comment in",
+      "pmid": 32215776,
+      "note": ""
+    },
+    {
+      "refsource": "J Am Heart Assoc. 2021 Nov 16;10(22):e023673",
+      "reftype": "Comment in",
+      "pmid": 34779247,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 93,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa1908973",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/10/17 00:00",
+  "sortfirstauthor": "Schüpke S",
+  "vernaculartitle": ""
+}

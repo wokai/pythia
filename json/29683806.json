@@ -1,0 +1,112 @@
+{
+  "uid": "29683806",
+  "pubdate": "2018 Nov",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Lee U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mashour GA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mashour GA",
+  "title": "Role of Network Science in the Study of Anesthetic State Transitions.",
+  "sorttitle": "role of network science in the study of anesthetic state transitions",
+  "volume": "129",
+  "issue": "5",
+  "pages": "1029-1044",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29683806"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000002228"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6191341"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS954030"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29683806"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29683806"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6191341;manuscript-id: NIHMS954030;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/04/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/09/10 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/04/24 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000002228",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/11/01 00:00",
+  "sortfirstauthor": "Lee U",
+  "vernaculartitle": ""
+}

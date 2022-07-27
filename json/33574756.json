@@ -1,0 +1,130 @@
+{
+  "uid": "33574756",
+  "pubdate": "2020",
+  "epubdate": "2021 Jan 26",
+  "source": "Front Pharmacol",
+  "authors": [
+    {
+      "name": "Yuan C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pan Y",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pan Y",
+  "title": "Potential of Immune-Related Therapy in COVID-19.",
+  "sorttitle": "potential of immune related therapy in covid 19",
+  "volume": "11",
+  "issue": "",
+  "pages": "609212",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101548923",
+  "issn": "",
+  "essn": "1663-9812",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33574756"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fphar.2020.609212"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "609212"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7870867"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33574756"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33574756"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7870867;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/09/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/12/17 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/02/12 06:07"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/02/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/13 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Frontiers in pharmacology",
+  "elocationid": "doi: 10.3389/fphar.2020.609212",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/26 00:00",
+  "sortfirstauthor": "Yuan C",
+  "vernaculartitle": ""
+}

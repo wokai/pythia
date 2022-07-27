@@ -1,0 +1,115 @@
+{
+  "uid": "22546966",
+  "pubdate": "2012 Jun",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Blaudszun G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lysakowski C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Elia N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tramèr MR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tramèr MR",
+  "title": "Effect of perioperative systemic α2 agonists on postoperative morphine consumption and pain intensity: systematic review and meta-analysis of randomized controlled trials.",
+  "sorttitle": "effect of perioperative systemic 2 agonists on postoperative morphine consumption and pain intensity systematic review and meta analysis of randomized controlled trials",
+  "volume": "116",
+  "issue": "6",
+  "pages": "1312-22",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22546966"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0b013e31825681cb"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22546966"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22546966"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/05/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/05/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/07/19 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2012 Jun;116(6):1192-4",
+      "reftype": "Comment in",
+      "pmid": 22487866,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 88,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0b013e31825681cb",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/06/01 00:00",
+  "sortfirstauthor": "Blaudszun G",
+  "vernaculartitle": ""
+}

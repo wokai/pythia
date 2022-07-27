@@ -1,0 +1,137 @@
+{
+  "uid": "32096567",
+  "pubdate": "2020 Jun",
+  "epubdate": "2020 Mar 5",
+  "source": "J Med Virol",
+  "authors": [
+    {
+      "name": "Sun P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lu X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xu C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sun W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pan B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pan B",
+  "title": "Understanding of COVID-19 based on current evidence.",
+  "sorttitle": "understanding of covid 19 based on current evidence",
+  "volume": "92",
+  "issue": "6",
+  "pages": "548-551",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7705876",
+  "issn": "0146-6615",
+  "essn": "1096-9071",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32096567"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/jmv.25722"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7228250"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32096567"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32096567"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7228250;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/02/22 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/02/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/07/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/02/26 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Med Virol. 2020 Jun;92(6):533-535",
+      "reftype": "Comment in",
+      "pmid": 32196703,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 208,
+  "fulljournalname": "Journal of medical virology",
+  "elocationid": "doi: 10.1002/jmv.25722",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/06/01 00:00",
+  "sortfirstauthor": "Sun P",
+  "vernaculartitle": ""
+}

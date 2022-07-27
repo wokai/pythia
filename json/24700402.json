@@ -1,0 +1,99 @@
+{
+  "uid": "24700402",
+  "pubdate": "2014 May",
+  "epubdate": "2014 Apr 4",
+  "source": "Can J Anaesth",
+  "authors": [
+    {
+      "name": "Lesage S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lesage S",
+  "title": "Cesarean delivery under general anesthesia: Continuing Professional Development.",
+  "sorttitle": "cesarean delivery under general anesthesia continuing professional development",
+  "volume": "61",
+  "issue": "5",
+  "pages": "489-503",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8701709",
+  "issn": "0832-610X",
+  "essn": "1496-8975",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24700402"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s12630-014-0125-x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24700402"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24700402"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/12/03 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/02/13 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/04/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/04/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/09/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+  "elocationid": "doi: 10.1007/s12630-014-0125-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/05/01 00:00",
+  "sortfirstauthor": "Lesage S",
+  "vernaculartitle": ""
+}

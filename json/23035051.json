@@ -1,0 +1,131 @@
+{
+  "uid": "23035051",
+  "pubdate": "2012 Nov",
+  "epubdate": "2012 Oct 3",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Apfel CC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heidrich FM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jukar-Rao S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jalota L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hornuss C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Whelan RP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cakmakkaya OS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cakmakkaya OS",
+  "title": "Evidence-based analysis of risk factors for postoperative nausea and vomiting.",
+  "sorttitle": "evidence based analysis of risk factors for postoperative nausea and vomiting",
+  "volume": "109",
+  "issue": "5",
+  "pages": "742-53",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23035051"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)31636-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aes276"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23035051"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23035051"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/10/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/10/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/01/12 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 76,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aes276",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/11/01 00:00",
+  "sortfirstauthor": "Apfel CC",
+  "vernaculartitle": ""
+}

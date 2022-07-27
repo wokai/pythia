@@ -1,0 +1,146 @@
+{
+  "uid": "14586462",
+  "pubdate": "2003 Oct 30",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Genzel R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schödel R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ott T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eckart A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alexander T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lacombe F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rouan D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aschenbach B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Aschenbach B",
+  "title": "Near-infrared flares from accreting gas around the supermassive black hole at the Galactic Centre.",
+  "sorttitle": "near infrared flares from accreting gas around the supermassive black hole at the galactic centre",
+  "volume": "425",
+  "issue": "6961",
+  "pages": "934-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14586462"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature02065"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature02065"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14586462"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14586462"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2003/07/13 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2003/09/23 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/10/31 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/10/31 05:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/10/31 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2003 Oct 30;425(6961):908-9",
+      "reftype": "Comment in",
+      "pmid": 14586450,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/10/30 00:00",
+  "sortfirstauthor": "Genzel R",
+  "vernaculartitle": ""
+}

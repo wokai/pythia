@@ -1,0 +1,138 @@
+{
+  "uid": "27523469",
+  "pubdate": "2016 Oct",
+  "epubdate": "2016 Aug 11",
+  "source": "J Biomed Inform",
+  "authors": [
+    {
+      "name": "Meehan RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mon DT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kelly KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rocca M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dickinson G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ritter J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnson CM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Johnson CM",
+  "title": "Increasing EHR system usability through standards: Conformance criteria in the HL7 EHR-system functional model.",
+  "sorttitle": "increasing ehr system usability through standards conformance criteria in the hl7 ehr system functional model",
+  "volume": "63",
+  "issue": "",
+  "pages": "169-173",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100970413",
+  "issn": "1532-0464",
+  "essn": "1532-0480",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27523469"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1532-0464(16)30097-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jbi.2016.08.015"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27523469"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27523469"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/05/17 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/07/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/08/10 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/10/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/02/17 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/08/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Journal of biomedical informatics",
+  "elocationid": "doi: 10.1016/j.jbi.2016.08.015",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/10/01 00:00",
+  "sortfirstauthor": "Meehan RA",
+  "vernaculartitle": ""
+}

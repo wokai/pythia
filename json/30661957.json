@@ -1,0 +1,104 @@
+{
+  "uid": "30661957",
+  "pubdate": "2019 Oct",
+  "epubdate": "2019 Jan 4",
+  "source": "J Cardiothorac Vasc Anesth",
+  "authors": [
+    {
+      "name": "Stawiarski K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramakrishna H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ramakrishna H",
+  "title": "Heart Failure Risk Stratification and the Evolution of the INTERMACS System.",
+  "sorttitle": "heart failure risk stratification and the evolution of the intermacs system",
+  "volume": "33",
+  "issue": "10",
+  "pages": "2861-2865",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9110208",
+  "issn": "1053-0770",
+  "essn": "1532-8422",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30661957"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1053-0770(19)30009-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1053/j.jvca.2019.01.009"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30661957"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30661957"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/12/24 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/01/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/06/23 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/01/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Journal of cardiothoracic and vascular anesthesia",
+  "elocationid": "doi: 10.1053/j.jvca.2019.01.009",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/10/01 00:00",
+  "sortfirstauthor": "Stawiarski K",
+  "vernaculartitle": ""
+}

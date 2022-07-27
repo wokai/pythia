@@ -1,0 +1,124 @@
+{
+  "uid": "27919378",
+  "pubdate": "2017 Jan",
+  "epubdate": "2016 Oct 15",
+  "source": "Int J Med Inform",
+  "authors": [
+    {
+      "name": "Eslami Andargoli A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scheepers H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rajendran D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sohal A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sohal A",
+  "title": "Health information systems evaluation frameworks: A systematic review.",
+  "sorttitle": "health information systems evaluation frameworks a systematic review",
+  "volume": "97",
+  "issue": "",
+  "pages": "195-209",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9711057",
+  "issn": "1386-5056",
+  "essn": "1872-8243",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27919378"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1386-5056(16)30223-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijmedinf.2016.10.008"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27919378"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27919378"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/05/28 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/10/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/10/09 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/12/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/12/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/12/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "International journal of medical informatics",
+  "elocationid": "doi: 10.1016/j.ijmedinf.2016.10.008",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/01 00:00",
+  "sortfirstauthor": "Eslami Andargoli A",
+  "vernaculartitle": ""
+}

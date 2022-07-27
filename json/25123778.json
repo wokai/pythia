@@ -1,0 +1,120 @@
+{
+  "uid": "25123778",
+  "pubdate": "2015 Mar 7",
+  "epubdate": "2014 Aug 11",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Postma DS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bush A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van den Berge M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "van den Berge M",
+  "title": "Risk factors and early origins of chronic obstructive pulmonary disease.",
+  "sorttitle": "risk factors and early origins of chronic obstructive pulmonary disease",
+  "volume": "385",
+  "issue": "9971",
+  "pages": "899-909",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25123778"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(14)60446-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(14)60446-3"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25123778"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25123778"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/08/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/08/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/04/08 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2015 Mar 7;385(9971):830",
+      "reftype": "Comment in",
+      "pmid": 25773073,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2015 May 2;385(9979):1723-4",
+      "reftype": "Comment in",
+      "pmid": 25943930,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 91,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(14)60446-3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/03/07 00:00",
+  "sortfirstauthor": "Postma DS",
+  "vernaculartitle": ""
+}

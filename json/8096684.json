@@ -1,0 +1,102 @@
+{
+  "uid": "8096684",
+  "pubdate": "1993 Apr",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Eriksson LI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sato M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Severinghaus JW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Severinghaus JW",
+  "title": "Effect of a vecuronium-induced partial neuromuscular block on hypoxic ventilatory response.",
+  "sorttitle": "effect of a vecuronium induced partial neuromuscular block on hypoxic ventilatory response",
+  "volume": "78",
+  "issue": "4",
+  "pages": "693-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8096684"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-199304000-00012"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8096684"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8096684"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1993/04/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1993/04/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1993/04/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1993/04/01 00:00",
+  "sortfirstauthor": "Eriksson LI",
+  "vernaculartitle": ""
+}

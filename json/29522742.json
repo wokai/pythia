@@ -1,0 +1,107 @@
+{
+  "uid": "29522742",
+  "pubdate": "2018 Mar 8",
+  "epubdate": "",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Schmidt TSB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Raes J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bork P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bork P",
+  "title": "The Human Gut Microbiome: From Association to Modulation.",
+  "sorttitle": "human gut microbiome from association to modulation",
+  "volume": "172",
+  "issue": "6",
+  "pages": "1198-1215",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29522742"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(18)30221-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2018.02.044"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29522742"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29522742"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/03/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/03/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 103,
+  "fulljournalname": "Cell",
+  "elocationid": "doi: 10.1016/j.cell.2018.02.044",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/03/08 00:00",
+  "sortfirstauthor": "Schmidt TSB",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,97 @@
+{
+  "uid": "3913749",
+  "pubdate": "1985 Jul",
+  "epubdate": "",
+  "source": "J Clin Monit",
+  "authors": [
+    {
+      "name": "Severinghaus JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Astrup PB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Astrup PB",
+  "title": "History of blood gas analysis. I. The development of electrochemistry.",
+  "sorttitle": "history of blood gas analysis i the development of electrochemistry",
+  "volume": "1",
+  "issue": "3",
+  "pages": "180-92",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8506707",
+  "issn": "0748-1977",
+  "essn": "",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3913749"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/BF02832259"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3913749"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3913749"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1985/07/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1985/07/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1985/07/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Journal of clinical monitoring",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1985/07/01 00:00",
+  "sortfirstauthor": "Severinghaus JW",
+  "vernaculartitle": ""
+}

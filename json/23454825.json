@@ -1,0 +1,121 @@
+{
+  "uid": "23454825",
+  "pubdate": "2013 Jun",
+  "epubdate": "2013 Mar 1",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Griffiths JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Le NV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grant S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bjorksten A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hebbard P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Royse C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Royse C",
+  "title": "Symptomatic local anaesthetic toxicity and plasma ropivacaine concentrations after transversus abdominis plane block for Caesarean section.",
+  "sorttitle": "symptomatic local anaesthetic toxicity and plasma ropivacaine concentrations after transversus abdominis plane block for caesarean section",
+  "volume": "110",
+  "issue": "6",
+  "pages": "996-1000",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23454825"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)53861-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aet015"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23454825"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23454825"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/03/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/03/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/07/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 19,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aet015",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/06/01 00:00",
+  "sortfirstauthor": "Griffiths JD",
+  "vernaculartitle": ""
+}

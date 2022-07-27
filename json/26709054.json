@@ -1,0 +1,135 @@
+{
+  "uid": "26709054",
+  "pubdate": "2016 Feb-Mar",
+  "epubdate": "2015 Dec 18",
+  "source": "Mol Aspects Med",
+  "authors": [
+    {
+      "name": "López-Barneo J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ortega-Sáenz P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "González-Rodríguez P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fernández-Agüera MC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Macías D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pardal R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gao L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gao L",
+  "title": "Oxygen-sensing by arterial chemoreceptors: Mechanisms and medical translation.",
+  "sorttitle": "oxygen sensing by arterial chemoreceptors mechanisms and medical translation",
+  "volume": "47-48",
+  "issue": "",
+  "pages": "90-108",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7603128",
+  "issn": "0098-2997",
+  "essn": "1872-9452",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26709054"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0098-2997(15)30012-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.mam.2015.12.002"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26709054"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26709054"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/10/09 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/12/01 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/12/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/12/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/11/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "Molecular aspects of medicine",
+  "elocationid": "doi: 10.1016/j.mam.2015.12.002",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/02/01 00:00",
+  "sortfirstauthor": "López-Barneo J",
+  "vernaculartitle": ""
+}

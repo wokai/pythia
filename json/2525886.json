@@ -1,0 +1,116 @@
+{
+  "uid": "2525886",
+  "pubdate": "1989 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Goldberg ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Larijani GE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Azad SS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sosis M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seltzer JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ascher J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weakly JN",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Weakly JN",
+  "title": "Comparison of tracheal intubating conditions and neuromuscular blocking profiles after intubating doses of mivacurium chloride or succinylcholine in surgical outpatients.",
+  "sorttitle": "comparison of tracheal intubating conditions and neuromuscular blocking profiles after intubating doses of mivacurium chloride or succinylcholine in surgical outpatients",
+  "volume": "69",
+  "issue": "1",
+  "pages": "93-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "2525886"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "2525886"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "2525886"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1989/07/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1989/07/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1989/07/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1989/07/01 00:00",
+  "sortfirstauthor": "Goldberg ME",
+  "vernaculartitle": ""
+}

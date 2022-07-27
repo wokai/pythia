@@ -1,0 +1,101 @@
+{
+  "uid": "11711191",
+  "pubdate": "2001 Dec",
+  "epubdate": "",
+  "source": "Trends Biotechnol",
+  "authors": [
+    {
+      "name": "Ginsburg GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCarthy JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "McCarthy JJ",
+  "title": "Personalized medicine: revolutionizing drug discovery and patient care.",
+  "sorttitle": "personalized medicine revolutionizing drug discovery and patient care",
+  "volume": "19",
+  "issue": "12",
+  "pages": "491-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8310903",
+  "issn": "0167-7799",
+  "essn": "1879-3096",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11711191"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0167-7799(01)01814-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/s0167-7799(01)01814-5"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11711191"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11711191"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2001/11/17 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/02/16 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2001/11/17 10:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 61,
+  "fulljournalname": "Trends in biotechnology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2001/12/01 00:00",
+  "sortfirstauthor": "Ginsburg GS",
+  "vernaculartitle": ""
+}

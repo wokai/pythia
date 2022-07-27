@@ -1,0 +1,121 @@
+{
+  "uid": "33105278",
+  "pubdate": "2021 Mar 1",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Chang CY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu MY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chien YJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Su IM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kao MC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kao MC",
+  "title": "Anesthesia and Long-term Oncological Outcomes: A Systematic Review and Meta-analysis.",
+  "sorttitle": "anesthesia and long term oncological outcomes a systematic review and meta analysis",
+  "volume": "132",
+  "issue": "3",
+  "pages": "623-634",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33105278"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-202103000-00006"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000005237"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33105278"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33105278"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/27 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/26 20:17"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000005237",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/01 00:00",
+  "sortfirstauthor": "Chang CY",
+  "vernaculartitle": ""
+}

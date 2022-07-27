@@ -1,0 +1,124 @@
+{
+  "uid": "26540148",
+  "pubdate": "2016 Jan",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "van Waes JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Klei WA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wijeysundera DN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Wolfswinkel L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lindsay TF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beattie WS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Beattie WS",
+  "title": "Association between Intraoperative Hypotension and Myocardial Injury after Vascular Surgery.",
+  "sorttitle": "association between intraoperative hypotension and myocardial injury after vascular surgery",
+  "volume": "124",
+  "issue": "1",
+  "pages": "35-44",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26540148"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000000922"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26540148"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26540148"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/11/06 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/11/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/04/20 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2016 Jan;124(1):4-6",
+      "reftype": "Comment in",
+      "pmid": 26540150,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 35,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000000922",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/01/01 00:00",
+  "sortfirstauthor": "van Waes JA",
+  "vernaculartitle": ""
+}

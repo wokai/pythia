@@ -1,0 +1,161 @@
+{
+  "uid": "30039249",
+  "pubdate": "2018 Oct",
+  "epubdate": "2018 Jul 23",
+  "source": "Diabetes Ther",
+  "authors": [
+    {
+      "name": "Wilding J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fernando K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Milne N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Evans M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ali A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bain S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hicks D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "James J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Newland-Jones P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patel D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Viljoen A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Viljoen A",
+  "title": "SGLT2 Inhibitors in Type 2 Diabetes Management: Key Evidence and Implications for Clinical Practice.",
+  "sorttitle": "sglt2 inhibitors in type 2 diabetes management key evidence and implications for clinical practice",
+  "volume": "9",
+  "issue": "5",
+  "pages": "1757-1773",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101539025",
+  "issn": "1869-6953",
+  "essn": "1869-6961",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30039249"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s13300-018-0471-8"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s13300-018-0471-8"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6167302"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30039249"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30039249"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6167302;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/05/23 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/07/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/07/25 06:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/07/25 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Diabetes therapy : research, treatment and education of diabetes and related disorders",
+  "elocationid": "doi: 10.1007/s13300-018-0471-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "Wilding J",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,216 @@
+{
+  "uid": "24356162",
+  "pubdate": "2014 Jan",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Gan TJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Diemunsch P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Habib AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kovac A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kranke P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyer TA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watcha M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chung F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Angus S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Apfel CC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bergese SD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Candiotti KA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chan MT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davis PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hooper VD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lagoo-Deenadayalan S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Myles P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nezat G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Philip BK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tramèr MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Society for Ambulatory Anesthesia.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tramèr MR",
+  "title": "Consensus guidelines for the management of postoperative nausea and vomiting.",
+  "sorttitle": "consensus guidelines for the management of postoperative nausea and vomiting",
+  "volume": "118",
+  "issue": "1",
+  "pages": "85-113",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24356162"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000000002"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201401000-00013"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24356162"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24356162"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/12/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/12/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/02/25 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2014 Mar;118(3):689",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2015 Feb;120(2):494",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2014 Jun;118(6):1154-6",
+      "reftype": "Comment in",
+      "pmid": 24842169,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 214,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000000002",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/01/01 00:00",
+  "sortfirstauthor": "Gan TJ",
+  "vernaculartitle": ""
+}

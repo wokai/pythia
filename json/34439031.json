@@ -1,0 +1,159 @@
+{
+  "uid": "34439031",
+  "pubdate": "2021 Aug 14",
+  "epubdate": "2021 Aug 14",
+  "source": "Antibiotics (Basel)",
+  "authors": [
+    {
+      "name": "Nainu F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Permana AD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Djide NJN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anjani QK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Utami RN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rumata NR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Emran TB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Simal-Gandara J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Simal-Gandara J",
+  "title": "Pharmaceutical Approaches on Antimicrobial Resistance: Prospects and Challenges.",
+  "sorttitle": "pharmaceutical approaches on antimicrobial resistance prospects and challenges",
+  "volume": "10",
+  "issue": "8",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101637404",
+  "issn": "",
+  "essn": "2079-6382",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34439031"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "antibiotics10080981"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/antibiotics10080981"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8388863"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34439031"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34439031"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8388863;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/07/24 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/08/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/08/12 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/08/27 01:02"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/08/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/08/28 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Antibiotics (Basel, Switzerland)",
+  "elocationid": "pii: 981. doi: 10.3390/antibiotics10080981",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/08/14 00:00",
+  "sortfirstauthor": "Nainu F",
+  "vernaculartitle": ""
+}

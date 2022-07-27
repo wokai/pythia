@@ -1,0 +1,111 @@
+{
+  "uid": "31690828",
+  "pubdate": "2020 Feb",
+  "epubdate": "2019 Nov 5",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "Melzer D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pilling LC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferrucci L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ferrucci L",
+  "title": "The genetics of human ageing.",
+  "sorttitle": "genetics of human ageing",
+  "volume": "21",
+  "issue": "2",
+  "pages": "88-101",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31690828"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41576-019-0183-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41576-019-0183-6"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31690828"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31690828"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2019/10/02 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/11/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/06 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/11/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "doi: 10.1038/s41576-019-0183-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/02/01 00:00",
+  "sortfirstauthor": "Melzer D",
+  "vernaculartitle": ""
+}

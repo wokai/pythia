@@ -1,0 +1,197 @@
+{
+  "uid": "30046076",
+  "pubdate": "2018 Jul",
+  "epubdate": "2018 Jul 25",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Yokoyama Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Esat TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thompson WG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomas AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Webster JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miyairi Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sawada C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aze T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Matsuzaki H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Okuno J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fallon S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Braga JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Humblet M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iryu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Potts DC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fujita K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Suzuki A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kan H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kan H",
+  "title": "Rapid glaciation and a two-step sea level plunge into the Last Glacial Maximum.",
+  "sorttitle": "rapid glaciation and a two step sea level plunge into the last glacial maximum",
+  "volume": "559",
+  "issue": "7715",
+  "pages": "603-607",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30046076"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-018-0335-4"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-018-0335-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30046076"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30046076"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/04/06 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/06/05 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/07/27 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/07/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2018 Jul;559(7715):487-488",
+      "reftype": "Comment in",
+      "pmid": 30042538,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-018-0335-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/07/01 00:00",
+  "sortfirstauthor": "Yokoyama Y",
+  "vernaculartitle": ""
+}

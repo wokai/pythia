@@ -1,0 +1,216 @@
+{
+  "uid": "33821923",
+  "pubdate": "2021 Apr 6",
+  "epubdate": "2021 Apr 6",
+  "source": "JAMA Pediatr",
+  "authors": [
+    {
+      "name": "Belay ED",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abrams J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oster ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giovanni J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pierce T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meng L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prezzato E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Balachandran N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Openshaw JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rosen HE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Richardson G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hand J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tobin-D'Angelo M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wilson S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hartley A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jones C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kolsin J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mohamed H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Colles Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hammett T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patel P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stierman B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Campbell AP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Godfred-Cato S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Godfred-Cato S",
+  "title": "Trends in Geographic and Temporal Distribution of US Children With Multisystem Inflammatory Syndrome During the COVID-19 Pandemic.",
+  "sorttitle": "trends in geographic and temporal distribution of us children with multisystem inflammatory syndrome during the covid 19 pandemic",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101589544",
+  "issn": "2168-6203",
+  "essn": "2168-6211",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33821923"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2778429"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jamapediatrics.2021.0630"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33821923"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33821923"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2021/04/06 12:28"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/04/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/04/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "JAMA pediatrics",
+  "elocationid": "doi: 10.1001/jamapediatrics.2021.0630",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/04/06 00:00",
+  "sortfirstauthor": "Belay ED",
+  "vernaculartitle": ""
+}

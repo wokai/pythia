@@ -1,0 +1,91 @@
+{
+  "uid": "1798888",
+  "pubdate": "1991 Dec",
+  "epubdate": "",
+  "source": "Sleep",
+  "authors": [
+    {
+      "name": "Johns MW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Johns MW",
+  "title": "A new method for measuring daytime sleepiness: the Epworth sleepiness scale.",
+  "sorttitle": "new method for measuring daytime sleepiness the epworth sleepiness scale",
+  "volume": "14",
+  "issue": "6",
+  "pages": "540-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7809084",
+  "issn": "0161-8105",
+  "essn": "1550-9109",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "1798888"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/sleep/14.6.540"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "1798888"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "1798888"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1991/12/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1991/12/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1991/12/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2843,
+  "fulljournalname": "Sleep",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1991/12/01 00:00",
+  "sortfirstauthor": "Johns MW",
+  "vernaculartitle": ""
+}

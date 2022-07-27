@@ -1,0 +1,149 @@
+{
+  "uid": "32284615",
+  "pubdate": "2020 Apr",
+  "epubdate": "",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "Andersen KG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rambaut A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipkin WI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Holmes EC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Garry RF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Garry RF",
+  "title": "The proximal origin of SARS-CoV-2.",
+  "sorttitle": "proximal origin of sars cov 2",
+  "volume": "26",
+  "issue": "4",
+  "pages": "450-452",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32284615"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-020-0820-9"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-020-0820-9"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7095063"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32284615"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32284615"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7095063;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/15 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/04/17 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Immunity. 2020 May 19;52(5):734-736",
+      "reftype": "Comment in",
+      "pmid": 32392464,
+      "note": ""
+    },
+    {
+      "refsource": "J R Coll Physicians Edinb. 2020 Jun;50(2):110-111",
+      "reftype": "Comment in",
+      "pmid": 32568277,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Med. 2021 Jan;27(1):9",
+      "reftype": "Comment in",
+      "pmid": 33442004,
+      "note": ""
+    },
+    {
+      "refsource": "J Paediatr Child Health. 2021 Jan;57(1):168",
+      "reftype": "Comment in",
+      "pmid": 33493372,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 930,
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-020-0820-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/04/01 00:00",
+  "sortfirstauthor": "Andersen KG",
+  "vernaculartitle": ""
+}

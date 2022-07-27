@@ -1,0 +1,206 @@
+{
+  "uid": "20371350",
+  "pubdate": "2010 Apr 2",
+  "epubdate": "",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Hafner M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Landthaler M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burger L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khorshid M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hausser J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berninger P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rothballer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ascano M Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jungkamp AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Munschauer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ulrich A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wardle GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dewell S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zavolan M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tuschl T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tuschl T",
+  "title": "Transcriptome-wide identification of RNA-binding protein and microRNA target sites by PAR-CLIP.",
+  "sorttitle": "transcriptome wide identification of rna binding protein and microrna target sites by par clip",
+  "volume": "141",
+  "issue": "1",
+  "pages": "129-41",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20371350"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(10)00245-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2010.03.009"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2861495"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS195398"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20371350"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20371350"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2861495;manuscript-id: NIHMS195398;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2009/06/23 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2010/01/11 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2010/02/27 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2010/04/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/04/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/04/23 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Chem Biol. 2010 Apr 23;17(4):316-8",
+      "reftype": "Comment in",
+      "pmid": 20416501,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Methods. 2010 Jun;7(6):422-3",
+      "reftype": "Comment in",
+      "pmid": 20524217,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1276,
+  "fulljournalname": "Cell",
+  "elocationid": "doi: 10.1016/j.cell.2010.03.009",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/04/02 00:00",
+  "sortfirstauthor": "Hafner M",
+  "vernaculartitle": ""
+}

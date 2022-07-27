@@ -1,0 +1,98 @@
+{
+  "uid": "16341074",
+  "pubdate": "2005 Dec",
+  "epubdate": "",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "Crow JF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Crow JF",
+  "title": "Timeline: Hermann Joseph Muller, evolutionist.",
+  "sorttitle": "timeline hermann joseph muller evolutionist",
+  "volume": "6",
+  "issue": "12",
+  "pages": "941-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Biography",
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16341074"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrg1728"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrg1728"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16341074"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16341074"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/12/13 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/05/24 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/12/13 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "doi: 10.1038/nrg1728",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/12/01 00:00",
+  "sortfirstauthor": "Crow JF",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,97 @@
+{
+  "uid": "8868525",
+  "pubdate": "1996 Feb",
+  "epubdate": "",
+  "source": "Anasthesiol Intensivmed Notfallmed Schmerzther",
+  "authors": [
+    {
+      "name": "Diefenbach C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Buzello W",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Buzello W",
+  "title": "[New muscle relaxants].",
+  "sorttitle": "new muscle relaxants",
+  "volume": "31",
+  "issue": "1",
+  "pages": "2-8",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "9109478",
+  "issn": "0939-2661",
+  "essn": "1439-1074",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8868525"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1055/s-2007-995859"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8868525"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8868525"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1996/02/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1996/02/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1996/02/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Anasthesiologie, Intensivmedizin, Notfallmedizin, Schmerztherapie : AINS",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1996/02/01 00:00",
+  "sortfirstauthor": "Diefenbach C",
+  "vernaculartitle": "Neue Muskelrelaxanzien."
+}

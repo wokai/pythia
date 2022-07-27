@@ -1,0 +1,118 @@
+{
+  "uid": "28452806",
+  "pubdate": "2017 Jul",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Liu MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reidy AB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saatee S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Collard CD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Collard CD",
+  "title": "Perioperative Steroid Management: Approaches Based on Current Evidence.",
+  "sorttitle": "perioperative steroid management approaches based on current evidence",
+  "volume": "127",
+  "issue": "1",
+  "pages": "166-172",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28452806"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000001659"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28452806"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28452806"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/04/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/01/03 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/04/29 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2018 Mar;128(3):680-681",
+      "reftype": "Comment in",
+      "pmid": 29438249,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2018 Mar;128(3):681",
+      "reftype": "Comment in",
+      "pmid": 29438250,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 20,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000001659",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/07/01 00:00",
+  "sortfirstauthor": "Liu MM",
+  "vernaculartitle": ""
+}

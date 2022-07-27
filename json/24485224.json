@@ -1,0 +1,142 @@
+{
+  "uid": "24485224",
+  "pubdate": "2014 Mar 15",
+  "epubdate": "2014 Jan 8",
+  "source": "Int J Cardiol",
+  "authors": [
+    {
+      "name": "Tyberg JV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bouwmeester JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parker KH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shrive NG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wang JJ",
+  "title": "The case for the reservoir-wave approach.",
+  "sorttitle": "case for the reservoir wave approach",
+  "volume": "172",
+  "issue": "2",
+  "pages": "299-306",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8200291",
+  "issn": "0167-5273",
+  "essn": "1874-1754",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24485224"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0167-5273(14)00038-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijcard.2013.12.178"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24485224"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24485224"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/10/03 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2013/12/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2013/12/31 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/02/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/02/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/01/13 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Int J Cardiol. 2014 Oct 20;176(3):1009-12",
+      "reftype": "Comment in",
+      "pmid": 25109888,
+      "note": ""
+    },
+    {
+      "refsource": "Int J Cardiol. 2014 Oct 20;176(3):1391",
+      "reftype": "Comment in",
+      "pmid": 25131907,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "International journal of cardiology",
+  "elocationid": "doi: 10.1016/j.ijcard.2013.12.178",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/03/15 00:00",
+  "sortfirstauthor": "Tyberg JV",
+  "vernaculartitle": ""
+}

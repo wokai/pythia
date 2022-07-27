@@ -1,0 +1,143 @@
+{
+  "uid": "26001751",
+  "pubdate": "2015 Aug",
+  "epubdate": "2015 May 22",
+  "source": "Can J Anaesth",
+  "authors": [
+    {
+      "name": "Liu FL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cherng YG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen SY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Su YH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huang SY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lo PH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee YY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tam KW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tam KW",
+  "title": "Postoperative recovery after anesthesia in morbidly obese patients: a systematic review and meta-analysis of randomized controlled trials.",
+  "sorttitle": "postoperative recovery after anesthesia in morbidly obese patients a systematic review and meta analysis of randomized controlled trials",
+  "volume": "62",
+  "issue": "8",
+  "pages": "907-17",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8701709",
+  "issn": "0832-610X",
+  "essn": "1496-8975",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26001751"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s12630-015-0405-0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26001751"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26001751"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/10/06 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/05/15 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/05/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/05/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/04/05 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Can J Anaesth. 2015 Aug;62(8):847-51",
+      "reftype": "Comment in",
+      "pmid": 26041690,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+  "elocationid": "doi: 10.1007/s12630-015-0405-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/08/01 00:00",
+  "sortfirstauthor": "Liu FL",
+  "vernaculartitle": ""
+}

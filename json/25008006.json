@@ -1,0 +1,141 @@
+{
+  "uid": "25008006",
+  "pubdate": "2014 Nov-Dec",
+  "epubdate": "2014 Jul 9",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Margolis R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Derr L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dunn M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huerta M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Larkin J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sheehan J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Green ED",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Green ED",
+  "title": "The National Institutes of Health's Big Data to Knowledge (BD2K) initiative: capitalizing on biomedical big data.",
+  "sorttitle": "national institutes of health s big data to knowledge bd2k initiative capitalizing on biomedical big data",
+  "volume": "21",
+  "issue": "6",
+  "pages": "957-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25008006"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "amiajnl-2014-002974"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/amiajnl-2014-002974"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4215061"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25008006"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25008006"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4215061;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/07/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/07/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/05/12 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 96,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1136/amiajnl-2014-002974",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/11/01 00:00",
+  "sortfirstauthor": "Margolis R",
+  "vernaculartitle": ""
+}

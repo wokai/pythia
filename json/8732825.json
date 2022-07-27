@@ -1,0 +1,89 @@
+{
+  "uid": "8732825",
+  "pubdate": "1996 Jan",
+  "epubdate": "",
+  "source": "J Clin Monit",
+  "authors": [
+    {
+      "name": "Weinger MB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Weinger MB",
+  "title": "OR reading debate continues in my opinion: lack of outcome data makes reading a personal decision, states OR investigator.",
+  "sorttitle": "or reading debate continues in my opinion lack of outcome data makes reading a personal decision states or investigator",
+  "volume": "12",
+  "issue": "1",
+  "pages": "109-10",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8506707",
+  "issn": "0748-1977",
+  "essn": "",
+  "pubtype": [
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8732825"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/BF02025322"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8732825"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8732825"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1996/01/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1996/01/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1996/01/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Journal of clinical monitoring",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1996/01/01 00:00",
+  "sortfirstauthor": "Weinger MB",
+  "vernaculartitle": ""
+}

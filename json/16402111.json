@@ -1,0 +1,117 @@
+{
+  "uid": "16402111",
+  "pubdate": "2006 Jan",
+  "epubdate": "",
+  "source": "Br J Pharmacol",
+  "authors": [
+    {
+      "name": "Boswell-Smith V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spina D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Page CP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Page CP",
+  "title": "Phosphodiesterase inhibitors.",
+  "sorttitle": "phosphodiesterase inhibitors",
+  "volume": "147 Suppl 1",
+  "issue": "",
+  "pages": "S252-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7502536",
+  "issn": "0007-1188",
+  "essn": "1476-5381",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16402111"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "0706495"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/sj.bjp.0706495"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC1760738"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16402111"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16402111"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC1760738;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2006/01/13 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/12/28 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2006/01/13 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 82,
+  "fulljournalname": "British journal of pharmacology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2006/01/01 00:00",
+  "sortfirstauthor": "Boswell-Smith V",
+  "vernaculartitle": ""
+}

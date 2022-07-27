@@ -1,0 +1,116 @@
+{
+  "uid": "444998",
+  "pubdate": "1979 May 5",
+  "epubdate": "",
+  "source": "Br Med J",
+  "authors": [
+    {
+      "name": "Daggett P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deanfield J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moss F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reynolds D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Reynolds D",
+  "title": "Severe hypernatraemia in adults.",
+  "sorttitle": "severe hypernatraemia in adults",
+  "volume": "1",
+  "issue": "6172",
+  "pages": "1177-80",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372673",
+  "issn": "0007-1447",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "444998"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC1599344"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmj.1.6172.1177"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "444998"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "444998"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC1599344;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1979/05/05 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1979/05/05 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1979/05/05 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "British medical journal",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1979/05/05 00:00",
+  "sortfirstauthor": "Daggett P",
+  "vernaculartitle": ""
+}

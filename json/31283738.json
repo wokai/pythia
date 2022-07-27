@@ -1,0 +1,120 @@
+{
+  "uid": "31283738",
+  "pubdate": "2019 Nov",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Tran DQ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bravo D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leurcharusmee P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neal JM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Neal JM",
+  "title": "Transversus Abdominis Plane Block: A Narrative Review.",
+  "sorttitle": "transversus abdominis plane block a narrative review",
+  "volume": "131",
+  "issue": "5",
+  "pages": "1166-1190",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31283738"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000002842"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31283738"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31283738"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/07/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/31 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/07/09 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2020 Jun;132(6):1599",
+      "reftype": "Comment in",
+      "pmid": 32167980,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2020 Jun;132(6):1598-1599",
+      "reftype": "Comment in",
+      "pmid": 32167981,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000002842",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/11/01 00:00",
+  "sortfirstauthor": "Tran DQ",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,104 @@
+{
+  "uid": "17312211",
+  "pubdate": "2007 Mar",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Naguib M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Naguib M",
+  "title": "Sugammadex: another milestone in clinical neuromuscular pharmacology.",
+  "sorttitle": "sugammadex another milestone in clinical neuromuscular pharmacology",
+  "volume": "104",
+  "issue": "3",
+  "pages": "575-81",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17312211"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "104/3/575"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/01.ane.0000244594.63318.fc"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17312211"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17312211"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/02/22 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/03/28 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/02/22 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2007 Nov;105(5):1506; author reply 1506-7",
+      "reftype": "Comment in",
+      "pmid": 17959991,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 48,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/03/01 00:00",
+  "sortfirstauthor": "Naguib M",
+  "vernaculartitle": ""
+}

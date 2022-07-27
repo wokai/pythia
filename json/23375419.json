@@ -1,0 +1,144 @@
+{
+  "uid": "23375419",
+  "pubdate": "2013 May",
+  "epubdate": "2013 Feb 1",
+  "source": "Lancet Infect Dis",
+  "authors": [
+    {
+      "name": "Wacker C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prkno A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brunkhorst FM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schlattmann P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schlattmann P",
+  "title": "Procalcitonin as a diagnostic marker for sepsis: a systematic review and meta-analysis.",
+  "sorttitle": "procalcitonin as a diagnostic marker for sepsis a systematic review and meta analysis",
+  "volume": "13",
+  "issue": "5",
+  "pages": "426-35",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101130150",
+  "issn": "1473-3099",
+  "essn": "1474-4457",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23375419"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1473-3099(12)70323-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S1473-3099(12)70323-7"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23375419"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23375419"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/02/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/02/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/06/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet Infect Dis. 2013 May;13(5):382-4",
+      "reftype": "Comment in",
+      "pmid": 23375418,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet Infect Dis. 2013 Dec;13(12):1012-3",
+      "reftype": "Comment in",
+      "pmid": 24262295,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet Infect Dis. 2013 Dec;13(12):1013-4",
+      "reftype": "Comment in",
+      "pmid": 24262296,
+      "note": ""
+    },
+    {
+      "refsource": "Ann Emerg Med. 2014 May;63(5):631-2",
+      "reftype": "Comment in",
+      "pmid": 24439716,
+      "note": ""
+    },
+    {
+      "refsource": "Eur Urol. 2014 Jul;66(1):178",
+      "reftype": "Comment in",
+      "pmid": 24929082,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 279,
+  "fulljournalname": "The Lancet. Infectious diseases",
+  "elocationid": "doi: 10.1016/S1473-3099(12)70323-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/05/01 00:00",
+  "sortfirstauthor": "Wacker C",
+  "vernaculartitle": ""
+}

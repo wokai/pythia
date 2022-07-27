@@ -1,0 +1,243 @@
+{
+  "uid": "27442772",
+  "pubdate": "2016 Aug",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Chung F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Memtsoudis SG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramachandran SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nagappa M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Opperer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cozowicz C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patrawala S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lam D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kumar A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Joshi GP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fleetham J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ayas N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Collop N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Doufas AG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eikermann M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Englesakis M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gali B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gay P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hernandez AV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaw R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kezirian EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Malhotra A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mokhlesi B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parthasarathy S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stierer T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wappler F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hillman DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Auckley D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Auckley D",
+  "title": "Society of Anesthesia and Sleep Medicine Guidelines on Preoperative Screening and Assessment of Adult Patients With Obstructive Sleep Apnea.",
+  "sorttitle": "society of anesthesia and sleep medicine guidelines on preoperative screening and assessment of adult patients with obstructive sleep apnea",
+  "volume": "123",
+  "issue": "2",
+  "pages": "452-73",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27442772"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000001416"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201608000-00022"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4956681"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27442772"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27442772"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4956681;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/07/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/07/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/06/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000001416",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/08/01 00:00",
+  "sortfirstauthor": "Chung F",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,102 @@
+{
+  "uid": "29696409",
+  "pubdate": "2018 Apr 26",
+  "epubdate": "2018 Apr 26",
+  "source": "Curr Treat Options Cardiovasc Med",
+  "authors": [
+    {
+      "name": "Lau ES",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scott NS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Scott NS",
+  "title": "Valvular Heart Disease and Pregnancy.",
+  "sorttitle": "valvular heart disease and pregnancy",
+  "volume": "20",
+  "issue": "6",
+  "pages": "46",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9815942",
+  "issn": "1092-8464",
+  "essn": "1534-3189",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29696409"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s11936-018-0643-x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s11936-018-0643-x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29696409"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29696409"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/04/27 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/04/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/04/27 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Current treatment options in cardiovascular medicine",
+  "elocationid": "doi: 10.1007/s11936-018-0643-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/04/26 00:00",
+  "sortfirstauthor": "Lau ES",
+  "vernaculartitle": ""
+}

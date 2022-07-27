@@ -1,0 +1,124 @@
+{
+  "uid": "30469355",
+  "pubdate": "2018 Nov 21",
+  "epubdate": "2018 Nov 21",
+  "source": "Int J Mol Sci",
+  "authors": [
+    {
+      "name": "Kaisers W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwender H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schaal H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schaal H",
+  "title": "Hierarchical Clustering of DNA k-mer Counts in RNAseq Fastq Files Identifies Sample Heterogeneities.",
+  "sorttitle": "hierarchical clustering of dna k mer counts in rnaseq fastq files identifies sample heterogeneities",
+  "volume": "19",
+  "issue": "11",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101092791",
+  "issn": "",
+  "essn": "1422-0067",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30469355"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ijms19113687"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/ijms19113687"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6274891"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30469355"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30469355"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6274891;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/11/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/11/15 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/11/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/11/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/02/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "International journal of molecular sciences",
+  "elocationid": "pii: E3687. doi: 10.3390/ijms19113687",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/11/21 00:00",
+  "sortfirstauthor": "Kaisers W",
+  "vernaculartitle": ""
+}

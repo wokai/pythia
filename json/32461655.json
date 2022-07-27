@@ -1,0 +1,218 @@
+{
+  "uid": "32461655",
+  "pubdate": "2020 May",
+  "epubdate": "2020 May 27",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Cummings BB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Karczewski KJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kosmicki JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seaby EG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watts NA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singer-Berk M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mudge JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Karjalainen J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Satterstrom FK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Donnell-Luria AH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Poterba T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seed C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Solomonson M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alföldi J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Genome Aggregation Database Production Team.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Genome Aggregation Database Consortium.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Daly MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "MacArthur DG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "MacArthur DG",
+  "title": "Transcript expression-aware annotation improves rare variant interpretation.",
+  "sorttitle": "transcript expression aware annotation improves rare variant interpretation",
+  "volume": "581",
+  "issue": "7809",
+  "pages": "452-458",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32461655"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-020-2329-2"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-020-2329-2"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7334198"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32461655"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32461655"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7334198;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/02/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/04/23 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/05/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/05/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/01 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2020 May;581(7809):385-386",
+      "reftype": "Comment in",
+      "pmid": 32461645,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Rev Genet. 2020 Aug;21(8):448",
+      "reftype": "Comment in",
+      "pmid": 32488197,
+      "note": ""
+    },
+    {
+      "refsource": "Nature. 2021 Feb;590(7846):E54",
+      "reftype": "Erratum in",
+      "pmid": 33536626,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-020-2329-2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/05/01 00:00",
+  "sortfirstauthor": "Cummings BB",
+  "vernaculartitle": ""
+}

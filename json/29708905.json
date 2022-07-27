@@ -1,0 +1,214 @@
+{
+  "uid": "29708905",
+  "pubdate": "2018 Jun",
+  "epubdate": "",
+  "source": "Eur J Anaesthesiol",
+  "authors": [
+    {
+      "name": "De Hert S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Staender S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fritsch G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hinkelbein J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Afshari A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bettelli G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bock M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chew MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coburn M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Robertis E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Drinhaus H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feldheiser A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Geldner G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lahner D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Macas A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neuhaus C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rauch S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Santos-Ampuero MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Solca M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tanha N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Traskaite V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wagner G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wappler F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wappler F",
+  "title": "Pre-operative evaluation of adults undergoing elective noncardiac surgery: Updated guideline from the European Society of Anaesthesiology.",
+  "sorttitle": "pre operative evaluation of adults undergoing elective noncardiac surgery updated guideline from the european society of anaesthesiology",
+  "volume": "35",
+  "issue": "6",
+  "pages": "407-465",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8411711",
+  "issn": "0265-0215",
+  "essn": "1365-2346",
+  "pubtype": [
+    "Guideline",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29708905"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/EJA.0000000000000817"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00003643-201806000-00002"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29708905"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29708905"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/05/01 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/05/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/10/03 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur J Anaesthesiol. 2018 Jun;35(6):405-406",
+      "reftype": "Comment in",
+      "pmid": 29708904,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "European journal of anaesthesiology",
+  "elocationid": "doi: 10.1097/EJA.0000000000000817",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/06/01 00:00",
+  "sortfirstauthor": "De Hert S",
+  "vernaculartitle": ""
+}

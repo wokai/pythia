@@ -1,0 +1,103 @@
+{
+  "uid": "8191563",
+  "pubdate": "1994 May",
+  "epubdate": "",
+  "source": "Transfusion",
+  "authors": [
+    {
+      "name": "Viele MK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weiskopf RB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Weiskopf RB",
+  "title": "What can we learn about the need for transfusion from patients who refuse blood? The experience with Jehovah's Witnesses.",
+  "sorttitle": "what can we learn about the need for transfusion from patients who refuse blood the experience with jehovah s witnesses",
+  "volume": "34",
+  "issue": "5",
+  "pages": "396-401",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0417360",
+  "issn": "0041-1132",
+  "essn": "1537-2995",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8191563"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1046/j.1537-2995.1994.34594249050.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8191563"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8191563"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1994/05/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1994/05/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1994/05/01 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Transfusion. 1995 Jan;35(1):79",
+      "reftype": "Comment in",
+      "pmid": 7998077,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "Transfusion",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1994/05/01 00:00",
+  "sortfirstauthor": "Viele MK",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,111 @@
+{
+  "uid": "19299796",
+  "pubdate": "2009 Apr",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Stepaniak PS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mannaerts GH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Quelerij M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Vries G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "de Vries G",
+  "title": "The effect of the Operating Room Coordinator's risk appreciation on operating room efficiency.",
+  "sorttitle": "effect of the operating room coordinator s risk appreciation on operating room efficiency",
+  "volume": "108",
+  "issue": "4",
+  "pages": "1249-56",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19299796"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "108/4/1249"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ane.0b013e318195e109"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19299796"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19299796"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/03/21 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/03/21 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/04/09 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ane.0b013e318195e109",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/04/01 00:00",
+  "sortfirstauthor": "Stepaniak PS",
+  "vernaculartitle": ""
+}

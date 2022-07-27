@@ -1,0 +1,135 @@
+{
+  "uid": "24548354",
+  "pubdate": "2014 Mar",
+  "epubdate": "",
+  "source": "Anaesthesia",
+  "authors": [
+    {
+      "name": "Marson BA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anderson E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wilkes AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hodzovic I",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hodzovic I",
+  "title": "Bougie-related airway trauma: dangers of the hold-up sign.",
+  "sorttitle": "bougie related airway trauma dangers of the hold up sign",
+  "volume": "69",
+  "issue": "3",
+  "pages": "219-23",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370524",
+  "issn": "0003-2409",
+  "essn": "1365-2044",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24548354"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/anae.12534"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24548354"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24548354"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2013/11/03 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/02/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/02/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/04/09 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anaesthesia. 2014 Mar;69(3):199-203",
+      "reftype": "Comment in",
+      "pmid": 24548350,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesia. 2014 May;69(5):515",
+      "reftype": "Comment in",
+      "pmid": 24738810,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesia. 2014 May;69(5):515-6",
+      "reftype": "Comment in",
+      "pmid": 24738811,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesia. 2014 May;69(5):516-7",
+      "reftype": "Comment in",
+      "pmid": 24738812,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Anaesthesia",
+  "elocationid": "doi: 10.1111/anae.12534",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/03/01 00:00",
+  "sortfirstauthor": "Marson BA",
+  "vernaculartitle": ""
+}

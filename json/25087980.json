@@ -1,0 +1,129 @@
+{
+  "uid": "25087980",
+  "pubdate": "2014 Sep",
+  "epubdate": "2014 Aug 1",
+  "source": "Trends Neurosci",
+  "authors": [
+    {
+      "name": "Frank MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cantera R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cantera R",
+  "title": "Sleep, clocks, and synaptic plasticity.",
+  "sorttitle": "sleep clocks and synaptic plasticity",
+  "volume": "37",
+  "issue": "9",
+  "pages": "491-501",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7808616",
+  "issn": "0166-2236",
+  "essn": "1878-108X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25087980"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.tins.2014.06.005"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4152403"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS618625"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0166-2236(14)00105-2"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25087980"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25087980"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4152403;manuscript-id: NIHMS618625;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/04/16 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2014/06/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/06/30 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/08/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/08/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/11/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 34,
+  "fulljournalname": "Trends in neurosciences",
+  "elocationid": "doi: 10.1016/j.tins.2014.06.005",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/09/01 00:00",
+  "sortfirstauthor": "Frank MG",
+  "vernaculartitle": ""
+}

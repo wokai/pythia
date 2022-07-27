@@ -1,0 +1,159 @@
+{
+  "uid": "30257967",
+  "pubdate": "2019 Jan",
+  "epubdate": "2018 Sep 26",
+  "source": "J Neurol Neurosurg Psychiatry",
+  "authors": [
+    {
+      "name": "Gravel G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boulouis G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benhassen W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rodriguez-Regent C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Trystram D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Edjlali-Goujon M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meder JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oppenheim C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bracard S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brinjikji W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Naggara ON",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Naggara ON",
+  "title": "Anaesthetic management during intracranial mechanical thrombectomy: systematic review and meta-analysis of current data.",
+  "sorttitle": "anaesthetic management during intracranial mechanical thrombectomy systematic review and meta analysis of current data",
+  "volume": "90",
+  "issue": "1",
+  "pages": "68-74",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985191R",
+  "issn": "0022-3050",
+  "essn": "1468-330X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30257967"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "jnnp-2018-318549"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/jnnp-2018-318549"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30257967"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30257967"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/04/03 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/06/03 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/07/11 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/09/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/12/18 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/09/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Journal of neurology, neurosurgery, and psychiatry",
+  "elocationid": "doi: 10.1136/jnnp-2018-318549",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/01/01 00:00",
+  "sortfirstauthor": "Gravel G",
+  "vernaculartitle": ""
+}

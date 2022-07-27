@@ -1,0 +1,102 @@
+{
+  "uid": "18545136",
+  "pubdate": "2008 Jun",
+  "epubdate": "",
+  "source": "J Trauma",
+  "authors": [
+    {
+      "name": "Gonzalez SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Helling TS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Helling TS",
+  "title": "Effect of the final rule on the conduct of emergency clinical research.",
+  "sorttitle": "effect of the final rule on the conduct of emergency clinical research",
+  "volume": "64",
+  "issue": "6",
+  "pages": "1665-72",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0376373",
+  "issn": "0022-5282",
+  "essn": "1529-8809",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18545136"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/TA.0b013e31817156ce"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00005373-200806000-00043"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18545136"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18545136"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/06/12 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/07/17 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/06/12 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "The Journal of trauma",
+  "elocationid": "doi: 10.1097/TA.0b013e31817156ce",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/06/01 00:00",
+  "sortfirstauthor": "Gonzalez SK",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,102 @@
+{
+  "uid": "7817908",
+  "pubdate": "1995 Jan",
+  "epubdate": "",
+  "source": "Am Heart J",
+  "authors": [
+    {
+      "name": "Mueller RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sanborn TA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sanborn TA",
+  "title": "The history of interventional cardiology: cardiac catheterization, angioplasty, and related interventions.",
+  "sorttitle": "history of interventional cardiology cardiac catheterization angioplasty and related interventions",
+  "volume": "129",
+  "issue": "1",
+  "pages": "146-72",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370465",
+  "issn": "0002-8703",
+  "essn": "1097-6744",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "7817908"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "0002-8703(95)90055-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/0002-8703(95)90055-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "7817908"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "7817908"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1995/01/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1995/01/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1995/01/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 26,
+  "fulljournalname": "American heart journal",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1995/01/01 00:00",
+  "sortfirstauthor": "Mueller RL",
+  "vernaculartitle": ""
+}

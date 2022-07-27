@@ -1,0 +1,143 @@
+{
+  "uid": "15699287",
+  "pubdate": "2005 Feb 8",
+  "epubdate": "",
+  "source": "Circulation",
+  "authors": [
+    {
+      "name": "Pickering TG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hall JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Appel LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Falkner BE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Graves J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hill MN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jones DW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kurtz T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sheps SG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roccella EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Roccella EJ",
+  "title": "Recommendations for blood pressure measurement in humans and experimental animals: part 1: blood pressure measurement in humans: a statement for professionals from the Subcommittee of Professional and Public Education of the American Heart Association Council on High Blood Pressure Research.",
+  "sorttitle": "recommendations for blood pressure measurement in humans and experimental animals part 1 blood pressure measurement in humans a statement for professionals from the subcommittee of professional and public education of the american heart association council on high blood pressure research",
+  "volume": "111",
+  "issue": "5",
+  "pages": "697-716",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0147763",
+  "issn": "0009-7322",
+  "essn": "1524-4539",
+  "pubtype": [
+    "Guideline",
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15699287"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "111/5/697"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/01.CIR.0000154900.76284.F6"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15699287"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15699287"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/02/09 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/11/15 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/02/09 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 506,
+  "fulljournalname": "Circulation",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/02/08 00:00",
+  "sortfirstauthor": "Pickering TG",
+  "vernaculartitle": ""
+}

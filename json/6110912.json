@@ -1,0 +1,87 @@
+{
+  "uid": "6110912",
+  "pubdate": "1981 Mar 28",
+  "epubdate": "",
+  "source": "Lancet",
+  "authors": [],
+  "lastauthor": "",
+  "title": "Long term domiciliary oxygen therapy in chronic hypoxic cor pulmonale complicating chronic bronchitis and emphysema. Report of the Medical Research Council Working Party.",
+  "sorttitle": "long term domiciliary oxygen therapy in chronic hypoxic cor pulmonale complicating chronic bronchitis and emphysema report of the medical research council working party",
+  "volume": "1",
+  "issue": "8222",
+  "pages": "681-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "6110912"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(81)91970-X"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "6110912"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "6110912"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1981/03/28 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1981/03/28 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1981/03/28 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 258,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1981/03/28 00:00",
+  "sortfirstauthor": "",
+  "vernaculartitle": ""
+}

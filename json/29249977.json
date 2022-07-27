@@ -1,0 +1,124 @@
+{
+  "uid": "29249977",
+  "pubdate": "2017",
+  "epubdate": "2017 Nov 30",
+  "source": "Front Physiol",
+  "authors": [
+    {
+      "name": "Reed KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mendoza KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Strasburg GM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Velleman SG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Velleman SG",
+  "title": "Response of Turkey Muscle Satellite Cells to Thermal Challenge. II. Transcriptome Effects in Differentiating Cells.",
+  "sorttitle": "response of turkey muscle satellite cells to thermal challenge ii transcriptome effects in differentiating cells",
+  "volume": "8",
+  "issue": "",
+  "pages": "948",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101549006",
+  "issn": "",
+  "essn": "1664-042X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29249977"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fphys.2017.00948"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5714890"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29249977"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29249977"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5714890;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/09/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/11/08 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/12/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/12/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/12/19 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Frontiers in physiology",
+  "elocationid": "doi: 10.3389/fphys.2017.00948",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/11/30 00:00",
+  "sortfirstauthor": "Reed KM",
+  "vernaculartitle": ""
+}

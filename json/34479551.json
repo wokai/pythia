@@ -1,0 +1,135 @@
+{
+  "uid": "34479551",
+  "pubdate": "2021 Sep 3",
+  "epubdate": "2021 Sep 3",
+  "source": "Ann Clin Microbiol Antimicrob",
+  "authors": [
+    {
+      "name": "Benamri I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Azzouzi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sanak K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moussa A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Radouani F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Radouani F",
+  "title": "An overview of genes and mutations associated with Chlamydiae species' resistance to antibiotics.",
+  "sorttitle": "overview of genes and mutations associated with chlamydiae species resistance to antibiotics",
+  "volume": "20",
+  "issue": "1",
+  "pages": "59",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101152152",
+  "issn": "",
+  "essn": "1476-0711",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34479551"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s12941-021-00465-4"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s12941-021-00465-4"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8414684"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34479551"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34479551"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8414684;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/01/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/08/23 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/09/04 05:26"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/09/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2022/01/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Annals of clinical microbiology and antimicrobials",
+  "elocationid": "doi: 10.1186/s12941-021-00465-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/09/03 00:00",
+  "sortfirstauthor": "Benamri I",
+  "vernaculartitle": ""
+}

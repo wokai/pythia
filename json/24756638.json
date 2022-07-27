@@ -1,0 +1,121 @@
+{
+  "uid": "24756638",
+  "pubdate": "2014 Jul 15",
+  "epubdate": "2014 Apr 22",
+  "source": "J Physiol",
+  "authors": [
+    {
+      "name": "Bouwmeester JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Belenkie I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shrive NG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tyberg JV",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tyberg JV",
+  "title": "Wave reflections in the pulmonary arteries analysed with the reservoir-wave model.",
+  "sorttitle": "wave reflections in the pulmonary arteries analysed with the reservoir wave model",
+  "volume": "592",
+  "issue": "14",
+  "pages": "3053-62",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0266262",
+  "issn": "0022-3751",
+  "essn": "1469-7793",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24756638"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "jphysiol.2014.273094"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1113/jphysiol.2014.273094"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4214659"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24756638"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24756638"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4214659;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/04/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/04/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/04/24 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "The Journal of physiology",
+  "elocationid": "doi: 10.1113/jphysiol.2014.273094",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/07/15 00:00",
+  "sortfirstauthor": "Bouwmeester JC",
+  "vernaculartitle": ""
+}

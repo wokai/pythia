@@ -1,0 +1,169 @@
+{
+  "uid": "28039323",
+  "pubdate": "2017 Apr 20",
+  "epubdate": "",
+  "source": "Nucleic Acids Res",
+  "authors": [
+    {
+      "name": "Brillen AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schöneweis K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walotka L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hartmann L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Müller L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ptok J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaisers W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Poschmann G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stühler K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Buratti E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Theiss S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schaal H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schaal H",
+  "title": "Succession of splicing regulatory elements determines cryptic 5΄ss functionality.",
+  "sorttitle": "succession of splicing regulatory elements determines cryptic 5 ss functionality",
+  "volume": "45",
+  "issue": "7",
+  "pages": "4202-4216",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0411011",
+  "issn": "0305-1048",
+  "essn": "1362-4962",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28039323"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "gkw1317"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/nar/gkw1317"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5397162"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28039323"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28039323"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5397162;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/07/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/12/19 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/01/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/08/26 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/01/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Nucleic acids research",
+  "elocationid": "doi: 10.1093/nar/gkw1317",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/04/20 00:00",
+  "sortfirstauthor": "Brillen AL",
+  "vernaculartitle": ""
+}

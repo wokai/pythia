@@ -1,0 +1,112 @@
+{
+  "uid": "34548137",
+  "pubdate": "2021 Oct",
+  "epubdate": "2021 May 27",
+  "source": "Crit Care Clin",
+  "authors": [
+    {
+      "name": "Coleman MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aldrich JM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Aldrich JM",
+  "title": "Acute Respiratory Distress Syndrome: Ventilator Management and Rescue Therapies.",
+  "sorttitle": "acute respiratory distress syndrome ventilator management and rescue therapies",
+  "volume": "37",
+  "issue": "4",
+  "pages": "851-866",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8507720",
+  "issn": "0749-0704",
+  "essn": "1557-8232",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34548137"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0749-0704(21)00046-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ccc.2021.05.008"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8157117"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34548137"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34548137"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8157117;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2021/09/22 05:46"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/09/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/09/24 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Critical care clinics",
+  "elocationid": "doi: 10.1016/j.ccc.2021.05.008",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/10/01 00:00",
+  "sortfirstauthor": "Coleman MH",
+  "vernaculartitle": ""
+}

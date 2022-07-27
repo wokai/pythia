@@ -1,0 +1,111 @@
+{
+  "uid": "6805532",
+  "pubdate": "1982 Jun",
+  "epubdate": "",
+  "source": "Blood",
+  "authors": [
+    {
+      "name": "Ruggeri ZM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mannucci PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lombardi R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Federici AB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zimmerman TS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zimmerman TS",
+  "title": "Multimeric composition of factor VIII/von Willebrand factor following administration of DDAVP: implications for pathophysiology and therapy of von Willebrand's disease subtypes.",
+  "sorttitle": "multimeric composition of factor viii von willebrand factor following administration of ddavp implications for pathophysiology and therapy of von willebrand s disease subtypes",
+  "volume": "59",
+  "issue": "6",
+  "pages": "1272-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7603509",
+  "issn": "0006-4971",
+  "essn": "1528-0020",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "6805532"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0006-4971(20)76043-X"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "6805532"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "6805532"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1982/06/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1982/06/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1982/06/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 30,
+  "fulljournalname": "Blood",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1982/06/01 00:00",
+  "sortfirstauthor": "Ruggeri ZM",
+  "vernaculartitle": ""
+}

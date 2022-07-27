@@ -1,0 +1,97 @@
+{
+  "uid": "29794853",
+  "pubdate": "2018 Aug",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Wang A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abramowicz AE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Abramowicz AE",
+  "title": "Endovascular thrombectomy in acute ischemic stroke: new treatment guide.",
+  "sorttitle": "endovascular thrombectomy in acute ischemic stroke new treatment guide",
+  "volume": "31",
+  "issue": "4",
+  "pages": "473-480",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29794853"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0000000000000621"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29794853"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29794853"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/05/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/10/26 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/05/26 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0000000000000621",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/08/01 00:00",
+  "sortfirstauthor": "Wang A",
+  "vernaculartitle": ""
+}

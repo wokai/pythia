@@ -1,0 +1,231 @@
+{
+  "uid": "33280561",
+  "pubdate": "2021 Jan 25",
+  "epubdate": "2020 Dec 7",
+  "source": "Philos Trans A Math Phys Eng Sci",
+  "authors": [
+    {
+      "name": "Campbell EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sangster TC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goncharov VN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zuegel JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morse SFB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sorce C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Collins GW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wei MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Betti R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Regan SP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Froula DH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dorrer C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harding DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gopalaswamy V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Knauer JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shah R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mannion OM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marozas JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Radha PB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rosenberg MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Collins TJB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Christopherson AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Solodov AA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cao D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Palastro JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Follett RK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Farrell M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Farrell M",
+  "title": "Direct-drive laser fusion: status, plans and future.",
+  "sorttitle": "direct drive laser fusion status plans and future",
+  "volume": "379",
+  "issue": "2189",
+  "pages": "20200011",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101133385",
+  "issn": "1364-503X",
+  "essn": "1471-2962",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33280561"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1098/rsta.2020.0011"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7741011"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33280561"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33280561"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7741011;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/07 05:23"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/08 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Philosophical transactions. Series A, Mathematical, physical, and engineering sciences",
+  "elocationid": "doi: 10.1098/rsta.2020.0011",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/25 00:00",
+  "sortfirstauthor": "Campbell EM",
+  "vernaculartitle": ""
+}

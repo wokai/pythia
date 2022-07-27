@@ -1,0 +1,121 @@
+{
+  "uid": "10889882",
+  "pubdate": "2000 Apr",
+  "epubdate": "",
+  "source": "Br J Neurosurg",
+  "authors": [
+    {
+      "name": "Servadei F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nasi MT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giuliani G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cremonini AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cenni P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zappi D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taylor GS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Taylor GS",
+  "title": "CT prognostic factors in acute subdural haematomas: the value of the 'worst' CT scan.",
+  "sorttitle": "ct prognostic factors in acute subdural haematomas the value of the worst ct scan",
+  "volume": "14",
+  "issue": "2",
+  "pages": "110-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8800054",
+  "issn": "0268-8697",
+  "essn": "1360-046X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "10889882"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1080/02688690050004525"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "10889882"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "10889882"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2000/07/13 11:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2000/08/06 11:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2000/07/13 11:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 28,
+  "fulljournalname": "British journal of neurosurgery",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/04/01 00:00",
+  "sortfirstauthor": "Servadei F",
+  "vernaculartitle": ""
+}

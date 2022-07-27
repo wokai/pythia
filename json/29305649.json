@@ -1,0 +1,124 @@
+{
+  "uid": "29305649",
+  "pubdate": "2018 May",
+  "epubdate": "2018 Jan 5",
+  "source": "Pflugers Arch",
+  "authors": [
+    {
+      "name": "Vriens J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Voets T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Voets T",
+  "title": "Sensing the heat with TRPM3.",
+  "sorttitle": "sensing the heat with trpm3",
+  "volume": "470",
+  "issue": "5",
+  "pages": "799-807",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0154720",
+  "issn": "0031-6768",
+  "essn": "1432-2013",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29305649"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00424-017-2100-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00424-017-2100-1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5942355"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29305649"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29305649"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5942355;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/10/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/12/19 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/12/18 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/01/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/05/06 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/01/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Pflugers Archiv : European journal of physiology",
+  "elocationid": "doi: 10.1007/s00424-017-2100-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/05/01 00:00",
+  "sortfirstauthor": "Vriens J",
+  "vernaculartitle": ""
+}

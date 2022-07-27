@@ -1,0 +1,101 @@
+{
+  "uid": "26679396",
+  "pubdate": "2015 Dec",
+  "epubdate": "",
+  "source": "Eur J Haematol",
+  "authors": [
+    {
+      "name": "Kessler CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Knöbl P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Knöbl P",
+  "title": "Acquired haemophilia: an overview for clinical practice.",
+  "sorttitle": "acquired haemophilia an overview for clinical practice",
+  "volume": "95 Suppl 81",
+  "issue": "",
+  "pages": "36-44",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8703985",
+  "issn": "0902-4441",
+  "essn": "1600-0609",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26679396"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/ejh.12689"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26679396"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26679396"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2015/04/23 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/12/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/12/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/09/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 19,
+  "fulljournalname": "European journal of haematology",
+  "elocationid": "doi: 10.1111/ejh.12689",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/12/01 00:00",
+  "sortfirstauthor": "Kessler CM",
+  "vernaculartitle": ""
+}

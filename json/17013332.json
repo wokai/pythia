@@ -1,0 +1,96 @@
+{
+  "uid": "17013332",
+  "pubdate": "1999 Jun",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Coté CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Coté CJ",
+  "title": "'Off-label' use of drugs in pediatric anesthesia: legal, clinical and policy considerations.",
+  "sorttitle": "off label use of drugs in pediatric anesthesia legal clinical and policy considerations",
+  "volume": "12",
+  "issue": "3",
+  "pages": "325-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17013332"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00001503-199906000-00012"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00001503-199906000-00012"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17013332"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17013332"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2006/10/03 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/10/03 09:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2006/10/03 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1999/06/01 00:00",
+  "sortfirstauthor": "Coté CJ",
+  "vernaculartitle": ""
+}

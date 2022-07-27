@@ -1,0 +1,139 @@
+{
+  "uid": "27334713",
+  "pubdate": "2016 Jun 22",
+  "epubdate": "2016 Jun 22",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Six S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jaffal K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ledoux G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jaillette E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wallet F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nseir S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Nseir S",
+  "title": "Hyperoxemia as a risk factor for ventilator-associated pneumonia.",
+  "sorttitle": "hyperoxemia as a risk factor for ventilator associated pneumonia",
+  "volume": "20",
+  "issue": "1",
+  "pages": "195",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27334713"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13054-016-1368-4"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13054-016-1368-4"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4917974"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27334713"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27334713"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4917974;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/01/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/06/01 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/06/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/06/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/03/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/s13054-016-1368-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/06/22 00:00",
+  "sortfirstauthor": "Six S",
+  "vernaculartitle": ""
+}

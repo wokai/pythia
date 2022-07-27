@@ -1,0 +1,149 @@
+{
+  "uid": "1959406",
+  "pubdate": "1991 Dec",
+  "epubdate": "",
+  "source": "Chest",
+  "authors": [
+    {
+      "name": "Knaus WA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wagner DP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Draper EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zimmerman JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bergner M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bastos PG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sirio CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murphy DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lotring T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Damiano A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Damiano A",
+  "title": "The APACHE III prognostic system. Risk prediction of hospital mortality for critically ill hospitalized adults.",
+  "sorttitle": "apache iii prognostic system risk prediction of hospital mortality for critically ill hospitalized adults",
+  "volume": "100",
+  "issue": "6",
+  "pages": "1619-36",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0231335",
+  "issn": "0012-3692",
+  "essn": "1931-3543",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "1959406"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0012-3692(16)52804-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1378/chest.100.6.1619"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "1959406"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "1959406"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1991/12/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1991/12/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1991/12/01 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Chest. 1992 Dec;102(6):1919-20",
+      "reftype": "Comment in",
+      "pmid": 1446536,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract",
+    "Author List Incomplete"
+  ],
+  "pmcrefcount": 663,
+  "fulljournalname": "Chest",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1991/12/01 00:00",
+  "sortfirstauthor": "Knaus WA",
+  "vernaculartitle": ""
+}

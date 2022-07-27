@@ -1,0 +1,97 @@
+{
+  "uid": "27697442",
+  "pubdate": "2016 Nov",
+  "epubdate": "2016 Sep 29",
+  "source": "Am J Emerg Med",
+  "authors": [
+    {
+      "name": "Levy JH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Levy JH",
+  "title": "Discontinuation and management of direct-acting anticoagulants for emergency procedures.",
+  "sorttitle": "discontinuation and management of direct acting anticoagulants for emergency procedures",
+  "volume": "34",
+  "issue": "11S",
+  "pages": "14-18",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8309942",
+  "issn": "0735-6757",
+  "essn": "1532-8171",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27697442"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0735-6757(16)30649-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ajem.2016.09.048"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27697442"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27697442"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/10/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/03/21 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/10/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "The American journal of emergency medicine",
+  "elocationid": "doi: 10.1016/j.ajem.2016.09.048",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/11/01 00:00",
+  "sortfirstauthor": "Levy JH",
+  "vernaculartitle": ""
+}

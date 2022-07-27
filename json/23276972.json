@@ -1,0 +1,117 @@
+{
+  "uid": "23276972",
+  "pubdate": "2013 Jan 1",
+  "epubdate": "2013 Jan 1",
+  "source": "Front Biosci (Elite Ed)",
+  "authors": [
+    {
+      "name": "Bhogal HK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sanyal AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sanyal AJ",
+  "title": "The molecular pathogenesis of cholestasis in sepsis.",
+  "sorttitle": "molecular pathogenesis of cholestasis in sepsis",
+  "volume": "5",
+  "issue": "",
+  "pages": "87-96",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101485240",
+  "issn": "1945-0494",
+  "essn": "1945-0508",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23276972"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "E598"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4944118"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS789481"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.2741/e598"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23276972"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23276972"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4944118;manuscript-id: NIHMS789481;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/01/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/01/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/06/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Frontiers in bioscience (Elite edition)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/01/01 00:00",
+  "sortfirstauthor": "Bhogal HK",
+  "vernaculartitle": ""
+}

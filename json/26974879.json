@@ -1,0 +1,140 @@
+{
+  "uid": "26974879",
+  "pubdate": "2016 Sep 15",
+  "epubdate": "",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "Roberts JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abdul-Aziz MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davis JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dulhunty JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cotta MO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Myburgh J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellomo R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipman J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lipman J",
+  "title": "Continuous versus Intermittent β-Lactam Infusion in Severe Sepsis. A Meta-analysis of Individual Patient Data from Randomized Trials.",
+  "sorttitle": "continuous versus intermittent lactam infusion in severe sepsis a meta analysis of individual patient data from randomized trials",
+  "volume": "194",
+  "issue": "6",
+  "pages": "681-91",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26974879"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/rccm.201601-0024OC"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26974879"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26974879"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/03/15 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/03/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/07/14 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Ann Intern Med. 2017 Feb 21;166(4):JC19",
+      "reftype": "Comment in",
+      "pmid": 28241292,
+      "note": ""
+    },
+    {
+      "refsource": "Am J Respir Crit Care Med. 2017 Apr 15;195(8):1077-1078",
+      "reftype": "Comment in",
+      "pmid": 28409679,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 57,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "doi: 10.1164/rccm.201601-0024OC",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/09/15 00:00",
+  "sortfirstauthor": "Roberts JA",
+  "vernaculartitle": ""
+}

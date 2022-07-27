@@ -1,0 +1,112 @@
+{
+  "uid": "32066552",
+  "pubdate": "2020 Feb 6",
+  "epubdate": "2020 Feb 6",
+  "source": "Dis Model Mech",
+  "authors": [
+    {
+      "name": "Morgan J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Partridge T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Partridge T",
+  "title": "Skeletal muscle in health and disease.",
+  "sorttitle": "skeletal muscle in health and disease",
+  "volume": "13",
+  "issue": "2",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101483332",
+  "issn": "1754-8403",
+  "essn": "1754-8411",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32066552"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "13/2/dmm042192"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1242/dmm.042192"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7044447"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32066552"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32066552"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7044447;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/02/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/02/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Disease models & mechanisms",
+  "elocationid": "pii: dmm042192. doi: 10.1242/dmm.042192",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/02/06 00:00",
+  "sortfirstauthor": "Morgan J",
+  "vernaculartitle": ""
+}

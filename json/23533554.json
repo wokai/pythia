@@ -1,0 +1,130 @@
+{
+  "uid": "23533554",
+  "pubdate": "2013 Mar",
+  "epubdate": "2013 Mar 1",
+  "source": "Dtsch Arztebl Int",
+  "authors": [
+    {
+      "name": "Thömke F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Thömke F",
+  "title": "Assessing prognosis following cardiopulmonary resuscitation and therapeutic hypothermia-a critical discussion of recent studies.",
+  "sorttitle": "assessing prognosis following cardiopulmonary resuscitation and therapeutic hypothermia a critical discussion of recent studies",
+  "volume": "110",
+  "issue": "9",
+  "pages": "137-43",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101475967",
+  "issn": "",
+  "essn": "1866-0452",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23533554"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3238/arztebl.2013.0137"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3601284"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23533554"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23533554"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3601284;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2012/06/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2012/11/06 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/03/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/03/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/12/16 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Dtsch Arztebl Int. 2013 Jun;110(23-24):421",
+      "reftype": "Comment in",
+      "pmid": 23837089,
+      "note": ""
+    },
+    {
+      "refsource": "Dtsch Arztebl Int. 2013 Jun;110(23-24):421-2",
+      "reftype": "Comment in",
+      "pmid": 23837090,
+      "note": ""
+    },
+    {
+      "refsource": "Dtsch Arztebl Int. 2013 Jun;110(23-24):422",
+      "reftype": "Comment in",
+      "pmid": 23837091,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Deutsches Arzteblatt international",
+  "elocationid": "doi: 10.3238/arztebl.2013.0137",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/03/01 00:00",
+  "sortfirstauthor": "Thömke F",
+  "vernaculartitle": ""
+}

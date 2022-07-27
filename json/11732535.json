@@ -1,0 +1,130 @@
+{
+  "uid": "11732535",
+  "pubdate": "2000 Dec",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Marples IL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heap MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Suvarna SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mills GH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mills GH",
+  "title": "Acute right-to-left inter-atrial shunt; an important cause of profound hypoxia.",
+  "sorttitle": "acute right to left inter atrial shunt an important cause of profound hypoxia",
+  "volume": "85",
+  "issue": "6",
+  "pages": "921-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11732535"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)36804-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/85.6.921"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11732535"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11732535"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2001/12/06 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/01/05 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2001/12/06 10:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2001 Apr;86(4):596-7",
+      "reftype": "Comment in",
+      "pmid": 11573644,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2001 Apr;86(4):597",
+      "reftype": "Comment in",
+      "pmid": 11573645,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2001 Apr;86(4):597-8",
+      "reftype": "Comment in",
+      "pmid": 11573646,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/12/01 00:00",
+  "sortfirstauthor": "Marples IL",
+  "vernaculartitle": ""
+}

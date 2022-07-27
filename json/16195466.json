@@ -1,0 +1,134 @@
+{
+  "uid": "16195466",
+  "pubdate": "2005 Sep 30",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Massimini M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferrarelli F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huber R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Esser SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tononi G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tononi G",
+  "title": "Breakdown of cortical effective connectivity during sleep.",
+  "sorttitle": "breakdown of cortical effective connectivity during sleep",
+  "volume": "309",
+  "issue": "5744",
+  "pages": "2228-32",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16195466"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "309/5744/2228"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.1117256"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16195466"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16195466"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/10/01 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/10/08 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/10/01 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Science. 2005 Sep 30;309(5744):2148-9",
+      "reftype": "Comment in",
+      "pmid": 16195435,
+      "note": ""
+    },
+    {
+      "refsource": "Science. 2005 Dec 16;310(5755):1768-9; author reply 1768-9",
+      "reftype": "Comment in",
+      "pmid": 16357245,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 366,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/09/30 00:00",
+  "sortfirstauthor": "Massimini M",
+  "vernaculartitle": ""
+}

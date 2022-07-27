@@ -1,0 +1,144 @@
+{
+  "uid": "33125914",
+  "pubdate": "2021 Feb",
+  "epubdate": "2020 Oct 27",
+  "source": "Lancet Infect Dis",
+  "authors": [
+    {
+      "name": "Hodgson SH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mansatta K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mallett G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harris V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Emary KRW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pollard AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pollard AJ",
+  "title": "What defines an efficacious COVID-19 vaccine? A review of the challenges assessing the clinical efficacy of vaccines against SARS-CoV-2.",
+  "sorttitle": "what defines an efficacious covid 19 vaccine a review of the challenges assessing the clinical efficacy of vaccines against sars cov 2",
+  "volume": "21",
+  "issue": "2",
+  "pages": "e26-e35",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101130150",
+  "issn": "1473-3099",
+  "essn": "1474-4457",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33125914"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1473-3099(20)30773-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S1473-3099(20)30773-8"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7837315"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33125914"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33125914"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7837315;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/08/11 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/09/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/09/14 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/16 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/30 20:08"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 28,
+  "fulljournalname": "The Lancet. Infectious diseases",
+  "elocationid": "doi: 10.1016/S1473-3099(20)30773-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/01 00:00",
+  "sortfirstauthor": "Hodgson SH",
+  "vernaculartitle": ""
+}

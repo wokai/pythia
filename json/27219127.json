@@ -1,0 +1,159 @@
+{
+  "uid": "27219127",
+  "pubdate": "2016 May 24",
+  "epubdate": "2016 May 24",
+  "source": "Sci Data",
+  "authors": [
+    {
+      "name": "Johnson AE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pollard TJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shen L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lehman LW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feng M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ghassemi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moody B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Szolovits P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Celi LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mark RG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mark RG",
+  "title": "MIMIC-III, a freely accessible critical care database.",
+  "sorttitle": "mimic iii a freely accessible critical care database",
+  "volume": "3",
+  "issue": "",
+  "pages": "160035",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101640192",
+  "issn": "",
+  "essn": "2052-4463",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27219127"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "sdata201635"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/sdata.2016.35"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4878278"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27219127"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27219127"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4878278;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/02/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/04/25 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/05/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/05/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/12/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 504,
+  "fulljournalname": "Scientific data",
+  "elocationid": "doi: 10.1038/sdata.2016.35",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/05/24 00:00",
+  "sortfirstauthor": "Johnson AE",
+  "vernaculartitle": ""
+}

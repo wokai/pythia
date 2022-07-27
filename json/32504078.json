@@ -1,0 +1,130 @@
+{
+  "uid": "32504078",
+  "pubdate": "2020 Oct",
+  "epubdate": "2020 Jun 5",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "Logsdon GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vollger MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eichler EE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Eichler EE",
+  "title": "Long-read human genome sequencing and its applications.",
+  "sorttitle": "long read human genome sequencing and its applications",
+  "volume": "21",
+  "issue": "10",
+  "pages": "597-614",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32504078"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41576-020-0236-x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41576-020-0236-x"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7877196"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1665491"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32504078"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32504078"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7877196;manuscript-id: NIHMS1665491;embargo-date: 2021/04/01;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2020/03/31 00:00"
+    },
+    {
+      "pubstatus": "pmc-release",
+      "date": "2021/04/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/06/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/06/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "doi: 10.1038/s41576-020-0236-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/01 00:00",
+  "sortfirstauthor": "Logsdon GA",
+  "vernaculartitle": ""
+}

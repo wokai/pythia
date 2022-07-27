@@ -1,0 +1,129 @@
+{
+  "uid": "26811484",
+  "pubdate": "2016 Feb 9",
+  "epubdate": "2016 Jan 25",
+  "source": "Proc Natl Acad Sci U S A",
+  "authors": [
+    {
+      "name": "Lane N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin WF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Martin WF",
+  "title": "Mitochondria, complexity, and evolutionary deficit spending.",
+  "sorttitle": "mitochondria complexity and evolutionary deficit spending",
+  "volume": "113",
+  "issue": "6",
+  "pages": "E666",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7505876",
+  "issn": "0027-8424",
+  "essn": "1091-6490",
+  "pubtype": [
+    "Comment",
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26811484"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1522213113"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1073/pnas.1522213113"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4760804"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26811484"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26811484"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4760804;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/01/27 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/01/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/06/17 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2010 Oct 21;467(7318):929-34",
+      "reftype": "Comment on",
+      "pmid": 20962839,
+      "note": ""
+    },
+    {
+      "refsource": "Proc Natl Acad Sci U S A. 2015 Dec 22;112(51):15690-5",
+      "reftype": "Comment on",
+      "pmid": 26575626,
+      "note": ""
+    },
+    {
+      "refsource": "Proc Natl Acad Sci U S A. 2016 Feb 9;113(6):E667-8",
+      "reftype": "Comment in",
+      "pmid": 26811483,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 10,
+  "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+  "elocationid": "doi: 10.1073/pnas.1522213113",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/02/09 00:00",
+  "sortfirstauthor": "Lane N",
+  "vernaculartitle": ""
+}

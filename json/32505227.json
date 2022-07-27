@@ -1,0 +1,269 @@
+{
+  "uid": "32505227",
+  "pubdate": "2020 Jun 16",
+  "epubdate": "2020 May 6",
+  "source": "Immunity",
+  "authors": [
+    {
+      "name": "Vabret N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Britton GJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gruber C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hegde S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kuksin M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levantovsky R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Malle L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moreira A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Park MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pia L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Risson E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saffern M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Salomé B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Esai Selvan M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spindler MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tan J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van der Heide V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gregory JK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alexandropoulos K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bhardwaj N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brown BD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greenbaum B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gümüş ZH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Homann D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Horowitz A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kamphorst AO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Curotto de Lafaille MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mehandru S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Merad M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Samstein RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sinai Immunology Review Project.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Samstein RM",
+  "title": "Immunology of COVID-19: Current State of the Science.",
+  "sorttitle": "immunology of covid 19 current state of the science",
+  "volume": "52",
+  "issue": "6",
+  "pages": "910-941",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9432918",
+  "issn": "1074-7613",
+  "essn": "1097-4180",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32505227"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1074-7613(20)30183-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.immuni.2020.05.002"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7200337"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32505227"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32505227"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7200337;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/06/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/06/26 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/06/08 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Exp Med. 2020 Sep 7;217(9):",
+      "reftype": "Comment in",
+      "pmid": 32678432,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 277,
+  "fulljournalname": "Immunity",
+  "elocationid": "doi: 10.1016/j.immuni.2020.05.002",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/06/16 00:00",
+  "sortfirstauthor": "Vabret N",
+  "vernaculartitle": ""
+}

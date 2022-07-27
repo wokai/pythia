@@ -1,0 +1,108 @@
+{
+  "uid": "20647212",
+  "pubdate": "2010 Jul 8",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Manolio TA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Manolio TA",
+  "title": "Genomewide association studies and assessment of the risk of disease.",
+  "sorttitle": "genomewide association studies and assessment of the risk of disease",
+  "volume": "363",
+  "issue": "2",
+  "pages": "166-76",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20647212"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "363/2/166"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMra0905980"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20647212"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20647212"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/07/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/07/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/07/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2010 Nov 18;363(21):2077; author reply 2077",
+      "reftype": "Comment in",
+      "pmid": 21083405,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2010 Nov 18;363(21):2076-7; author reply 2077",
+      "reftype": "Comment in",
+      "pmid": 21083406,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 472,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMra0905980",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/07/08 00:00",
+  "sortfirstauthor": "Manolio TA",
+  "vernaculartitle": ""
+}

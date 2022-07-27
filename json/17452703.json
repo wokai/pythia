@@ -1,0 +1,130 @@
+{
+  "uid": "17452703",
+  "pubdate": "2007 May",
+  "epubdate": "",
+  "source": "Emerg Med J",
+  "authors": [
+    {
+      "name": "Bailey B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gaudreault P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thivierge RL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Thivierge RL",
+  "title": "Cardiac monitoring of high-risk patients after an electrical injury: a prospective multicentre study.",
+  "sorttitle": "cardiac monitoring of high risk patients after an electrical injury a prospective multicentre study",
+  "volume": "24",
+  "issue": "5",
+  "pages": "348-52",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100963089",
+  "issn": "1472-0205",
+  "essn": "1472-0213",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17452703"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "24/5/348"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/emj.2006.044677"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2658483"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17452703"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17452703"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2658483;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/04/25 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/06/06 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/04/25 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Emerg Med J. 2007 Aug;24(8):605",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Emerg Med J. 2007 Oct;24(10):743",
+      "reftype": "Comment in",
+      "pmid": 17901293,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Emergency medicine journal : EMJ",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/05/01 00:00",
+  "sortfirstauthor": "Bailey B",
+  "vernaculartitle": ""
+}

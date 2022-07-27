@@ -1,0 +1,160 @@
+{
+  "uid": "30728287",
+  "pubdate": "2019 Feb 6",
+  "epubdate": "",
+  "source": "Sci Transl Med",
+  "authors": [
+    {
+      "name": "Rosen DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seki SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fernández-Castañeda A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beiter RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eccles JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Woodfolk JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gaultier A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gaultier A",
+  "title": "Modulation of the sigma-1 receptor-IRE1 pathway is beneficial in preclinical models of inflammation and sepsis.",
+  "sorttitle": "modulation of the sigma 1 receptor ire1 pathway is beneficial in preclinical models of inflammation and sepsis",
+  "volume": "11",
+  "issue": "478",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101505086",
+  "issn": "1946-6234",
+  "essn": "1946-6242",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30728287"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "11/478/eaau5266"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/scitranslmed.aau5266"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6936250"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1059945"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30728287"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30728287"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6936250;manuscript-id: NIHMS1059945;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/06/19 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/10/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/01/15 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/02/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/02/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/23 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Sci Transl Med. 2019 Mar 27;11(485):",
+      "reftype": "Erratum in",
+      "pmid": 30918112,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "Science translational medicine",
+  "elocationid": "pii: eaau5266. doi: 10.1126/scitranslmed.aau5266",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/02/06 00:00",
+  "sortfirstauthor": "Rosen DA",
+  "vernaculartitle": ""
+}

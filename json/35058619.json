@@ -1,0 +1,120 @@
+{
+  "uid": "35058619",
+  "pubdate": "2022 Jan",
+  "epubdate": "2022 Jan 20",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "Rajpurkar P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Banerjee O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Topol EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Topol EJ",
+  "title": "AI in health and medicine.",
+  "sorttitle": "ai in health and medicine",
+  "volume": "28",
+  "issue": "1",
+  "pages": "31-38",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "35058619"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-021-01614-0"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-021-01614-0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "35058619"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "35058619"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/07/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/11/05 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2022/01/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2022/01/22 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2022/01/21 06:14"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-021-01614-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2022/01/01 00:00",
+  "sortfirstauthor": "Rajpurkar P",
+  "vernaculartitle": ""
+}

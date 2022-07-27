@@ -1,0 +1,97 @@
+{
+  "uid": "30036900",
+  "pubdate": "2018 Jul",
+  "epubdate": "2018 Jul 23",
+  "source": "Anasthesiol Intensivmed Notfallmed Schmerzther",
+  "authors": [
+    {
+      "name": "Nowak H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Unterberg M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Unterberg M",
+  "title": "[Oral Anticoagulants: Management of Elective and Emergency Surgery].",
+  "sorttitle": "oral anticoagulants management of elective and emergency surgery",
+  "volume": "53",
+  "issue": "7-08",
+  "pages": "543-550",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "9109478",
+  "issn": "0939-2661",
+  "essn": "1439-1074",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30036900"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1055/s-0043-111006"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30036900"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30036900"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/07/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/07/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/02/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anasthesiologie, Intensivmedizin, Notfallmedizin, Schmerztherapie : AINS",
+  "elocationid": "doi: 10.1055/s-0043-111006",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/07/01 00:00",
+  "sortfirstauthor": "Nowak H",
+  "vernaculartitle": "Orale Antikoagulanzien: Management von elektiven und Notfalleingriffen."
+}

@@ -1,0 +1,145 @@
+{
+  "uid": "28513831",
+  "pubdate": "2017 May 17",
+  "epubdate": "2017 May 17",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Lundstrøm LH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Duez CH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nørskov AK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rosenstock CV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomsen JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Møller AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Strande S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wetterslev J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wetterslev J",
+  "title": "Avoidance versus use of neuromuscular blocking agents for improving conditions during tracheal intubation or direct laryngoscopy in adults and adolescents.",
+  "sorttitle": "avoidance versus use of neuromuscular blocking agents for improving conditions during tracheal intubation or direct laryngoscopy in adults and adolescents",
+  "volume": "5",
+  "issue": "",
+  "pages": "CD009237",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28513831"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD009237.pub2"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6481744"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28513831"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28513831"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6481744;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/05/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/08/16 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/05/18 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2018 Jun;120(6):1150-1153",
+      "reftype": "Comment in",
+      "pmid": 29793579,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD009237.pub2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/05/17 00:00",
+  "sortfirstauthor": "Lundstrøm LH",
+  "vernaculartitle": ""
+}

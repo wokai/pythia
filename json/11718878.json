@@ -1,0 +1,107 @@
+{
+  "uid": "11718878",
+  "pubdate": "2001 Dec",
+  "epubdate": "",
+  "source": "Trends Neurosci",
+  "authors": [
+    {
+      "name": "Saper CB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chou TC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scammell TE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Scammell TE",
+  "title": "The sleep switch: hypothalamic control of sleep and wakefulness.",
+  "sorttitle": "sleep switch hypothalamic control of sleep and wakefulness",
+  "volume": "24",
+  "issue": "12",
+  "pages": "726-31",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7808616",
+  "issn": "0166-2236",
+  "essn": "1878-108X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11718878"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0166-2236(00)02002-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/s0166-2236(00)02002-6"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11718878"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11718878"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2001/11/24 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/01/11 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2001/11/24 10:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 318,
+  "fulljournalname": "Trends in neurosciences",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2001/12/01 00:00",
+  "sortfirstauthor": "Saper CB",
+  "vernaculartitle": ""
+}

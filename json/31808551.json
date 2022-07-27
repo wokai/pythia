@@ -1,0 +1,150 @@
+{
+  "uid": "31808551",
+  "pubdate": "2019 Dec 6",
+  "epubdate": "2019 Dec 6",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Annane D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellissant E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bollaert PE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Briegel J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Keh D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kupfer Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pirracchio R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rochwerg B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rochwerg B",
+  "title": "Corticosteroids for treating sepsis in children and adults.",
+  "sorttitle": "corticosteroids for treating sepsis in children and adults",
+  "volume": "12",
+  "issue": "",
+  "pages": "CD002243",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31808551"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD002243.pub4"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6953403"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31808551"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31808551"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6953403;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/12/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/12/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/12 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cochrane Database Syst Rev. 2015 Dec 03;(12):CD002243",
+      "reftype": "Update of",
+      "pmid": 26633262,
+      "note": ""
+    },
+    {
+      "refsource": "J Pediatr. 2020 May;220:264-267",
+      "reftype": "Comment in",
+      "pmid": 32334669,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD002243.pub4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/12/06 00:00",
+  "sortfirstauthor": "Annane D",
+  "vernaculartitle": ""
+}

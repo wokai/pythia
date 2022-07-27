@@ -1,0 +1,112 @@
+{
+  "uid": "28481621",
+  "pubdate": "2017 Nov 1",
+  "epubdate": "",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "Reilly JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Christie JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyer NJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Meyer NJ",
+  "title": "Fifty Years of Research in ARDS. Genomic Contributions and Opportunities.",
+  "sorttitle": "fifty years of research in ards genomic contributions and opportunities",
+  "volume": "196",
+  "issue": "9",
+  "pages": "1113-1121",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28481621"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/rccm.201702-0405CP"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5694838"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28481621"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28481621"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5694838;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/05/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/11/29 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/05/09 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "doi: 10.1164/rccm.201702-0405CP",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/11/01 00:00",
+  "sortfirstauthor": "Reilly JP",
+  "vernaculartitle": ""
+}

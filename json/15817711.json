@@ -1,0 +1,102 @@
+{
+  "uid": "15817711",
+  "pubdate": "2005 Jun",
+  "epubdate": "2005 Apr 7",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Leedal JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith AF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Smith AF",
+  "title": "Methodological approaches to anaesthetists' workload in the operating theatre.",
+  "sorttitle": "methodological approaches to anaesthetists workload in the operating theatre",
+  "volume": "94",
+  "issue": "6",
+  "pages": "702-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15817711"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)36019-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aei131"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15817711"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15817711"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/04/09 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/06/23 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/04/09 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/06/01 00:00",
+  "sortfirstauthor": "Leedal JM",
+  "vernaculartitle": ""
+}

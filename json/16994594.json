@@ -1,0 +1,99 @@
+{
+  "uid": "16994594",
+  "pubdate": "1934 Nov 12",
+  "epubdate": "",
+  "source": "J Physiol",
+  "authors": [
+    {
+      "name": "D'Silva JL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "D'Silva JL",
+  "title": "The action of adrenaline on serum potassium.",
+  "sorttitle": "action of adrenaline on serum potassium",
+  "volume": "82",
+  "issue": "4",
+  "pages": "393-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0266262",
+  "issn": "0022-3751",
+  "essn": "1469-7793",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16994594"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC1394283"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1113/jphysiol.1934.sp003190"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16994594"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16994594"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC1394283;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1934/11/12 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1934/11/12 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1934/11/12 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 25,
+  "fulljournalname": "The Journal of physiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1934/11/12 00:00",
+  "sortfirstauthor": "D'Silva JL",
+  "vernaculartitle": ""
+}

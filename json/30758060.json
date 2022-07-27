@@ -1,0 +1,138 @@
+{
+  "uid": "30758060",
+  "pubdate": "2019 Apr",
+  "epubdate": "2019 Mar 15",
+  "source": "Lett Appl Microbiol",
+  "authors": [
+    {
+      "name": "Costa DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johani K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Melo DS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lopes LKO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lopes Lima LKO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tipple AFV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hu H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vickery K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Vickery K",
+  "title": "Biofilm contamination of high-touched surfaces in intensive care units: epidemiology and potential impacts.",
+  "sorttitle": "biofilm contamination of high touched surfaces in intensive care units epidemiology and potential impacts",
+  "volume": "68",
+  "issue": "4",
+  "pages": "269-276",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8510094",
+  "issn": "0266-8254",
+  "essn": "1472-765X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30758060"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/lam.13127"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30758060"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30758060"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/10/26 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/01/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/01/22 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/02/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/05/14 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/02/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "Letters in applied microbiology",
+  "elocationid": "doi: 10.1111/lam.13127",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/04/01 00:00",
+  "sortfirstauthor": "Costa DM",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,118 @@
+{
+  "uid": "23543562",
+  "pubdate": "2013 Mar 28",
+  "epubdate": "2013 Mar 28",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Barrera LM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perel P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ker K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cirocchi R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Farinella E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morales Uribe CH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Morales Uribe CH",
+  "title": "Thromboprophylaxis for trauma patients.",
+  "sorttitle": "thromboprophylaxis for trauma patients",
+  "volume": "",
+  "issue": "3",
+  "pages": "CD008303",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23543562"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD008303.pub2"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23543562"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23543562"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/04/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/04/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/07/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 28,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD008303.pub2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/03/28 00:00",
+  "sortfirstauthor": "Barrera LM",
+  "vernaculartitle": ""
+}

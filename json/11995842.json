@@ -1,0 +1,96 @@
+{
+  "uid": "11995842",
+  "pubdate": "2002",
+  "epubdate": "",
+  "source": "Tex Heart Inst J",
+  "authors": [
+    {
+      "name": "Connolly JE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Connolly JE",
+  "title": "The development of coronary artery surgery: personal recollections.",
+  "sorttitle": "development of coronary artery surgery personal recollections",
+  "volume": "29",
+  "issue": "1",
+  "pages": "10-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8214622",
+  "issn": "0730-2347",
+  "essn": "1526-6702",
+  "pubtype": [
+    "Biography",
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11995842"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC101261"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11995842"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11995842"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC101261;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2002/05/09 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/10/17 04:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2002/05/09 10:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "Texas Heart Institute journal",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2002/01/01 00:00",
+  "sortfirstauthor": "Connolly JE",
+  "vernaculartitle": ""
+}

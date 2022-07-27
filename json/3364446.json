@@ -1,0 +1,111 @@
+{
+  "uid": "3364446",
+  "pubdate": "1988 May",
+  "epubdate": "",
+  "source": "Am J Med",
+  "authors": [
+    {
+      "name": "Gravelyn TR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brophy N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Siegert C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peters-Golden M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Peters-Golden M",
+  "title": "Hypophosphatemia-associated respiratory muscle weakness in a general inpatient population.",
+  "sorttitle": "hypophosphatemia associated respiratory muscle weakness in a general inpatient population",
+  "volume": "84",
+  "issue": "5",
+  "pages": "870-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0267200",
+  "issn": "0002-9343",
+  "essn": "1555-7162",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3364446"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "0002-9343(88)90065-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/0002-9343(88)90065-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3364446"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3364446"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1988/05/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1988/05/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1988/05/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "The American journal of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1988/05/01 00:00",
+  "sortfirstauthor": "Gravelyn TR",
+  "vernaculartitle": ""
+}

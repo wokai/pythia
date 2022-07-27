@@ -1,0 +1,158 @@
+{
+  "uid": "29753321",
+  "pubdate": "2018 May 13",
+  "epubdate": "2018 May 13",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Thomas-Rüddel DO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Poidinger B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kott M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weiss M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reinhart K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bloos F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "MEDUSA study group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bloos F",
+  "title": "Influence of pathogen and focus of infection on procalcitonin values in sepsis patients with bacteremia or candidemia.",
+  "sorttitle": "influence of pathogen and focus of infection on procalcitonin values in sepsis patients with bacteremia or candidemia",
+  "volume": "22",
+  "issue": "1",
+  "pages": "128",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29753321"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13054-018-2050-9"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13054-018-2050-9"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5949148"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29753321"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29753321"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5949148;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/10/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/04/23 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/05/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/05/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/10/03 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Crit Care. 2018 Jul 23;22(1):178",
+      "reftype": "Comment in",
+      "pmid": 30037337,
+      "note": ""
+    },
+    {
+      "refsource": "Crit Care. 2019 Jun 13;23(1):215",
+      "reftype": "Comment in",
+      "pmid": 31196167,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/s13054-018-2050-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/05/13 00:00",
+  "sortfirstauthor": "Thomas-Rüddel DO",
+  "vernaculartitle": ""
+}

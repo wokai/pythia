@@ -1,0 +1,163 @@
+{
+  "uid": "17392779",
+  "pubdate": "2007 Mar 29",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Bininda-Emonds OR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cardillo M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jones KE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "MacPhee RD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beck RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grenyer R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Price SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vos RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gittleman JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Purvis A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Purvis A",
+  "title": "The delayed rise of present-day mammals.",
+  "sorttitle": "delayed rise of present day mammals",
+  "volume": "446",
+  "issue": "7135",
+  "pages": "507-12",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17392779"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature05634"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature05634"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17392779"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17392779"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2006/10/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2007/01/31 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/03/30 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/04/19 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/03/30 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2008 Nov 13;456(7219):274",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Nature. 2007 Mar 29;446(7135):501-2",
+      "reftype": "Comment in",
+      "pmid": 17392773,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 604,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/03/29 00:00",
+  "sortfirstauthor": "Bininda-Emonds OR",
+  "vernaculartitle": ""
+}

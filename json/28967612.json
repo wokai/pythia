@@ -1,0 +1,110 @@
+{
+  "uid": "28967612",
+  "pubdate": "2018 Apr - Jun",
+  "epubdate": "2017 Sep 22",
+  "source": "Diabetes Metab Syndr",
+  "authors": [
+    {
+      "name": "Olczuk D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Priefer R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Priefer R",
+  "title": "A history of continuous glucose monitors (CGMs) in self-monitoring of diabetes mellitus.",
+  "sorttitle": "history of continuous glucose monitors cgms in self monitoring of diabetes mellitus",
+  "volume": "12",
+  "issue": "2",
+  "pages": "181-187",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101462250",
+  "issn": "1871-4021",
+  "essn": "1878-0334",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28967612"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1871-4021(17)30303-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.dsx.2017.09.005"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28967612"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28967612"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/08/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/09/20 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/10/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/09/25 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/10/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "Diabetes & metabolic syndrome",
+  "elocationid": "doi: 10.1016/j.dsx.2017.09.005",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/01 00:00",
+  "sortfirstauthor": "Olczuk D",
+  "vernaculartitle": ""
+}

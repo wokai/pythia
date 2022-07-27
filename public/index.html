@@ -1,0 +1,242 @@
+<html>
+
+<head>
+  <title>Entrez</title>
+  <link rel="stylesheet" href="/stylesheets/style.css">
+  <!--- See: app.js 'app.use' entries -->    
+  <link rel="stylesheet" href="/css/bootstrap.min.css"/>
+  <script src="/feather/feather.min.js"></script>
+  <script src="/jquery/jquery.min.js"></script>
+  <script src="/bootstrap/js/bootstrap.min.js"></script>
+  <script src="/angular/angular.min.js"></script>
+  <script type="text/javascript" src="ngClickCopy.js"></script>
+  <script>
+    var app = angular.module('globalModule', ['ngClickCopy']);
+    
+    app.controller('globalCtrl', function($scope, $http, EntrezService, SessionService) {
+      $scope.entrez = '';
+      
+      //----------------------------------------------------------------------//
+      $scope.queryEntrez = EntrezService.queryEntrez;
+      $scope.pmids = EntrezService.pubMed.uids;
+      $scope.elements = EntrezService.pubMed.refs;
+
+      //----------------------------------------------------------------------//
+      $scope.localfiles = EntrezService.localPubMed.filenames;
+      $scope.localPubMed = EntrezService.localPubMed;      
+
+      $scope.getLocalRef = EntrezService.getLocalRef;
+      $scope.getFileRef = EntrezService.getFileRef;
+      $scope.clearFileRef = EntrezService.clearFileRef;
+      
+      $scope.postDatabase = EntrezService.postDatabase;
+      $scope.transfer = EntrezService.transferRecord;
+      $scope.qryResult = EntrezService.qryResult;
+      
+      $scope.global = SessionService.global;
+
+
+
+    })
+
+  </script>
+  <script src="session.service.js"></script>
+  <script src="entrez.service.js"></script>
+  <script src="entrez.components.js"></script>
+</head>
+<body ng-app="globalModule" ng-controller='globalCtrl as global'>
+  
+<!--- container-fluid = full size --->
+<div class="container-fluid bg-ncbi">
+  
+<nav id="topbar" class="navbar navbar-expand-sm">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="https://www.ncbi.nlm.nih.gov/">NCBI</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://pubmed.ncbi.nlm.nih.gov/">Pubmed</a>
+    </li>
+  </ul>
+  <ul class="nav mx-auto">
+    <li class="navbar-brand text-white">NCBI PubMed Reference Manager</li>
+  </ul>
+</nav>
+
+</div><!--- container --->
+
+<!--- container-fluid = full size --->
+<div class="container-fluid">
+<div class="row">
+  <div class="col-2 bg-ncbi rounded-bottom" id="sidebar">
+    <!-- Sidebar  -->
+    <nav>
+      <div class="sidebar-header">
+        <h5>Local Repository</h5>
+      </div>
+      
+      <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+        
+        <button class="nav-link active" id="v-pills-entrez-online-tab" 
+          data-bs-toggle="pill" data-bs-target="#v-pills-entrez-online" 
+          type="button" role="tab" aria-controls="v-pills-entrez-online"
+          aria-selected="true">
+          Entrez online
+        </button>
+        
+        <button class="nav-link" id="v-pills-local-json-tab" 
+          data-bs-toggle="pill" data-bs-target="#v-pills-local-json" 
+          type="button" role="tab" aria-controls="v-pills-local-json" 
+          aria-selected="false">
+          Pubmed Local JSON Files
+        </button>
+        
+        <button class="nav-link" id="v-pills-local-mongo-tab" 
+          data-bs-toggle="pill" data-bs-target="#v-pills-local-mongo" 
+          type="button" role="tab" aria-controls="v-pills-local-mongo" 
+          aria-selected="false">
+          Local Mongo DB
+        </button>
+        
+        <button class="nav-link" id="v-pills-config-tab" 
+          data-bs-toggle="pill" data-bs-target="#v-pills-config" 
+          type="button" role="tab" aria-controls="v-pills-config" 
+          aria-selected="false">
+          Config
+        </button>
+        
+        <button class="nav-link" id="v-pills-chart-tab" 
+          data-bs-toggle="pill" data-bs-target="#v-pills-chart" 
+          type="button" role="tab" aria-controls="v-pills-chart" 
+          aria-selected="false">
+          Chart
+        </button>
+        
+      </div>      
+
+      <ul class="list-unstyled CTAs">
+        <li>
+          <a href="#" class="download" ng-click="postDatabase({id: 3})">Post Database</a>
+        </li>
+        <li>
+          <a href="#" class="article" ng-click="transfer([10066724])">Transfer</a>
+        </li>
+      </ul>
+      
+    </nav>
+    
+    
+  </div><!--- col-2 --->
+
+  <!--- Main display area ----------------------------------------------------->
+  <div class="col-10">
+    
+    <div class="tab-content p-1" id="v-pills-tabContent">
+      
+      <!--- Panel entrez online --->
+      <div class="tab-pane fade show active" id="v-pills-entrez-online" role="tabpanel" aria-labelledby="v-pills-entrez-online-tab">
+        
+        <div class="card shadow-sm">
+          <div class="card-header">
+            <pmid-query out="queryEntrez(message)"></pmid-query>
+          </div>
+          <div class="card-body">
+            <div class="text-secondary ml-1" style="font-size:small;">Number of articles: {{elements.length}}</div>
+            <span ng-if="elements.length == 0" class="text-secondary">
+              (Empty result)
+            </span>
+            <pmid-detail data="p" ng-repeat="p in elements"></pmid-detail>
+          </div>                
+          
+        </div><!--- card  --->
+        
+      </div>
+      
+      <!--- Panel Pubmed local JSON --->
+      <div class="tab-pane fade" id="v-pills-local-json" role="tabpanel" aria-labelledby="v-pills-local-json-tab">
+        
+        <div class="card shadow-sm">
+          <div class="card-header">
+            Pubmed Local JSON Files
+          </div>
+          <div class="card-body">
+            Local files
+            <button class="btn btn-outline-success btn-sm ml-2" ng-click="getLocalRef()">Get Filenames</button>
+            <button class="btn btn-outline-secondary btn-sm ml-2" ng-click="clearFileRef()">Clear FileRef</button>
+          </div>
+
+          <div class="card-body overflow-auto" style="height: 200px;">
+            <table class="table table-bordered table-sm">
+              <thead>
+                <tr>
+                  <th scope="col">Filename</th>
+                  <th scope="col">#</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr ng-repeat="f in localfiles">
+                  <td>{{ f }}</td>
+                  <td><button class="btn btn-outline-primary btn-sm" ng-click="getFileRef(f)">Get</button></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        
+          <div class="card-body border-top">
+            <pmid-detail data="f" ng-repeat="f in localPubMed.refs"></pmid-detail>
+          </div>
+        </div><!--- card --->
+        
+      </div>
+      
+      <!--- Panel Local Mongo DB --->
+      <div class="tab-pane fade" id="v-pills-local-mongo" role="tabpanel" aria-labelledby="v-pills-local-mongo-tab">
+        
+        <div class="card shadow-sm">
+          <div class="card-header">
+            <div id="panel3Header">Local Mongo DB</div>
+          </div>      
+          
+          <div class="card-body" >
+            <title-query></title-query>
+            <pmid-db-query></pmid-db-query>
+            <author-db-query></author-db-query>
+          </div>
+
+          <div class="card-body border-top">
+            <span class="text-secondary" style="font-size:small;">
+              Number of articles {{ qryResult.documents.length }}
+            </span>
+            <div class="text-secondary" ng-if="!qryResult.documents.length">
+              (Empty result)
+            </div>
+            <pmid-detail data="f" ng-repeat="f in qryResult.documents"></pmid-detail>
+          </div>
+        </div><!--- card --->
+        
+      </div>
+      
+      <!--- Panel Config --->
+      <div class="tab-pane fade" id="v-pills-config" role="tabpanel" aria-labelledby="v-pills-config-tab">
+        <session-config></session-config>
+      </div>
+
+      <!--- Panel charts --->
+      <div class="tab-pane fade" id="v-pills-chart" role="tabpanel" aria-labelledby="v-pills-chart-tab">
+        <div >
+          Canvas
+        </div>
+      </div>
+
+    </div> 
+    
+ 
+
+  </div>  <!--- col-10 --->
+</div> <!--- row --->
+</div>
+
+
+
+</body>
+</html>

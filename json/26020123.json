@@ -1,0 +1,144 @@
+{
+  "uid": "26020123",
+  "pubdate": "2015 Jul",
+  "epubdate": "",
+  "source": "Eur J Anaesthesiol",
+  "authors": [
+    {
+      "name": "Canet J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sabaté S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mazo V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gallart L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Abreu MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Belda J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Langeron O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoeft A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pelosi P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "PERISCOPE group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pelosi P",
+  "title": "Development and validation of a score to predict postoperative respiratory failure in a multicentre European cohort: A prospective, observational study.",
+  "sorttitle": "development and validation of a score to predict postoperative respiratory failure in a multicentre european cohort a prospective observational study",
+  "volume": "32",
+  "issue": "7",
+  "pages": "458-70",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8411711",
+  "issn": "0265-0215",
+  "essn": "1365-2346",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26020123"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/EJA.0000000000000223"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26020123"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26020123"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/05/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/05/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/06/30 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur J Anaesthesiol. 2015 Jul;32(7):455-7",
+      "reftype": "Comment in",
+      "pmid": 26389546,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 23,
+  "fulljournalname": "European journal of anaesthesiology",
+  "elocationid": "doi: 10.1097/EJA.0000000000000223",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/07/01 00:00",
+  "sortfirstauthor": "Canet J",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,97 @@
+{
+  "uid": "17876321",
+  "pubdate": "2007 Oct",
+  "epubdate": "",
+  "source": "Nat Chem Biol",
+  "authors": [
+    {
+      "name": "Blasco MA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Blasco MA",
+  "title": "Telomere length, stem cells and aging.",
+  "sorttitle": "telomere length stem cells and aging",
+  "volume": "3",
+  "issue": "10",
+  "pages": "640-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101231976",
+  "issn": "1552-4450",
+  "essn": "1552-4469",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17876321"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nchembio.2007.38"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nchembio.2007.38"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17876321"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17876321"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/09/19 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/12/06 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/09/19 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 224,
+  "fulljournalname": "Nature chemical biology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/10/01 00:00",
+  "sortfirstauthor": "Blasco MA",
+  "vernaculartitle": ""
+}

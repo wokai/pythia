@@ -1,0 +1,122 @@
+{
+  "uid": "32115186",
+  "pubdate": "2020 May",
+  "epubdate": "2020 Feb 27",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Peng PWH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ho PL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hota SS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hota SS",
+  "title": "Outbreak of a new coronavirus: what anaesthetists should know.",
+  "sorttitle": "outbreak of a new coronavirus what anaesthetists should know",
+  "volume": "124",
+  "issue": "5",
+  "pages": "497-501",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32115186"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(20)30098-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.bja.2020.02.008"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7124191"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32115186"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32115186"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7124191;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/11 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/02/12 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/03/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/04/24 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/03/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 136,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1016/j.bja.2020.02.008",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/05/01 00:00",
+  "sortfirstauthor": "Peng PWH",
+  "vernaculartitle": ""
+}

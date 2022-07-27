@@ -1,0 +1,89 @@
+{
+  "uid": "5690807",
+  "pubdate": "1968 Jul-Aug",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Schweizer O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Howland WS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Howland WS",
+  "title": "Prognostic significance of high lactate levels.",
+  "sorttitle": "prognostic significance of high lactate levels",
+  "volume": "47",
+  "issue": "4",
+  "pages": "383-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "5690807"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "5690807"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "5690807"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1968/07/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1968/07/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1968/07/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1968/07/01 00:00",
+  "sortfirstauthor": "Schweizer O",
+  "vernaculartitle": ""
+}

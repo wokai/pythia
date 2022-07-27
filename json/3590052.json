@@ -1,0 +1,99 @@
+{
+  "uid": "3590052",
+  "pubdate": "1986 Dec",
+  "epubdate": "",
+  "source": "Thorax",
+  "authors": [
+    {
+      "name": "Stradling JR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stradling JR",
+  "title": "Hypercapnia during oxygen therapy in airways obstruction: a reappraisal.",
+  "sorttitle": "hypercapnia during oxygen therapy in airways obstruction a reappraisal",
+  "volume": "41",
+  "issue": "12",
+  "pages": "897-902",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0417353",
+  "issn": "0040-6376",
+  "essn": "1468-3296",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3590052"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC460535"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/thx.41.12.897"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3590052"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3590052"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC460535;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1986/12/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1986/12/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1986/12/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 4,
+  "fulljournalname": "Thorax",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1986/12/01 00:00",
+  "sortfirstauthor": "Stradling JR",
+  "vernaculartitle": ""
+}

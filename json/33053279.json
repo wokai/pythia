@@ -1,0 +1,229 @@
+{
+  "uid": "33053279",
+  "pubdate": "2020 Dec 17",
+  "epubdate": "2020 Oct 14",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Walsh EE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Frenck RW Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Falsey AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kitchin N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Absalon J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gurtman A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lockhart S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neuzil K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mulligan MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bailey R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Swanson KA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koury K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kalina W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cooper D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fontes-Garfias C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shi PY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Türeci Ö",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tompkins KR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lyke KE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Raabe V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dormitzer PR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jansen KU",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Şahin U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gruber WC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gruber WC",
+  "title": "Safety and Immunogenicity of Two RNA-Based Covid-19 Vaccine Candidates.",
+  "sorttitle": "safety and immunogenicity of two rna based covid 19 vaccine candidates",
+  "volume": "383",
+  "issue": "25",
+  "pages": "2439-2450",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33053279"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa2027906"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7583697"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33053279"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33053279"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7583697;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/29 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/14 18:01"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "medRxiv. 2020 Aug 20;:",
+      "reftype": "Update of",
+      "pmid": 32839784,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 79,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa2027906",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/17 00:00",
+  "sortfirstauthor": "Walsh EE",
+  "vernaculartitle": ""
+}

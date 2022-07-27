@@ -1,0 +1,97 @@
+{
+  "uid": "29244647",
+  "pubdate": "2017 Dec",
+  "epubdate": "",
+  "source": "Cleve Clin J Med",
+  "authors": [
+    {
+      "name": "Palmer BF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clegg DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Clegg DJ",
+  "title": "Diagnosis and treatment of hyperkalemia.",
+  "sorttitle": "diagnosis and treatment of hyperkalemia",
+  "volume": "84",
+  "issue": "12",
+  "pages": "934-942",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8703441",
+  "issn": "0891-1150",
+  "essn": "1939-2869",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29244647"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3949/ccjm.84a.17056"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29244647"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29244647"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/12/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/12/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/09/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Cleveland Clinic journal of medicine",
+  "elocationid": "doi: 10.3949/ccjm.84a.17056",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/12/01 00:00",
+  "sortfirstauthor": "Palmer BF",
+  "vernaculartitle": ""
+}

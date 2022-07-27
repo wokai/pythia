@@ -1,0 +1,119 @@
+{
+  "uid": "11094503",
+  "pubdate": "2000",
+  "epubdate": "2000 Jul 12",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Anderson CT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Breen PH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Breen PH",
+  "title": "Carbon dioxide kinetics and capnography during critical care.",
+  "sorttitle": "carbon dioxide kinetics and capnography during critical care",
+  "volume": "4",
+  "issue": "4",
+  "pages": "207-15",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11094503"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC150038"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/cc696"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11094503"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11094503"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC150038;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "1999/11/18 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2000/05/17 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2000/05/26 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2000/11/30 11:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/03/17 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2000/11/30 11:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 17,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/01/01 00:00",
+  "sortfirstauthor": "Anderson CT",
+  "vernaculartitle": ""
+}

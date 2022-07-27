@@ -1,0 +1,137 @@
+{
+  "uid": "17485435",
+  "pubdate": "2007 Jun",
+  "epubdate": "2007 May 7",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Coburn M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baumert JH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roertgen D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thiel V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fries M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hein M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kunitz O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fimm B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rossaint R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rossaint R",
+  "title": "Emergence and early cognitive function in the elderly after xenon or desflurane anaesthesia: a double-blinded randomized controlled trial.",
+  "sorttitle": "emergence and early cognitive function in the elderly after xenon or desflurane anaesthesia a double blinded randomized controlled trial",
+  "volume": "98",
+  "issue": "6",
+  "pages": "756-62",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17485435"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)34814-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aem103"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17485435"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17485435"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/05/09 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/07/10 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/05/09 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/06/01 00:00",
+  "sortfirstauthor": "Coburn M",
+  "vernaculartitle": ""
+}

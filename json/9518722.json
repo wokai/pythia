@@ -1,0 +1,112 @@
+{
+  "uid": "9518722",
+  "pubdate": "1998 May 1",
+  "epubdate": "",
+  "source": "J Physiol",
+  "authors": [
+    {
+      "name": "Marban E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yamagishi T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tomaselli GF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tomaselli GF",
+  "title": "Structure and function of voltage-gated sodium channels.",
+  "sorttitle": "structure and function of voltage gated sodium channels",
+  "volume": "508 ( Pt 3)",
+  "issue": "",
+  "pages": "647-57",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0266262",
+  "issn": "0022-3751",
+  "essn": "1469-7793",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9518722"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2230911"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1469-7793.1998.647bp.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9518722"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9518722"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2230911;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1998/06/20 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1998/06/20 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1998/06/20 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 61,
+  "fulljournalname": "The Journal of physiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1998/05/01 00:00",
+  "sortfirstauthor": "Marban E",
+  "vernaculartitle": ""
+}

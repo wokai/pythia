@@ -1,0 +1,107 @@
+{
+  "uid": "27195632",
+  "pubdate": "2016 Jun",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Bartels K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Esper SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thiele RH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Thiele RH",
+  "title": "Blood Pressure Monitoring for the Anesthesiologist: A Practical Review.",
+  "sorttitle": "blood pressure monitoring for the anesthesiologist a practical review",
+  "volume": "122",
+  "issue": "6",
+  "pages": "1866-79",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27195632"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000001340"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201606000-00024"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27195632"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27195632"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/05/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/05/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/07/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000001340",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/06/01 00:00",
+  "sortfirstauthor": "Bartels K",
+  "vernaculartitle": ""
+}

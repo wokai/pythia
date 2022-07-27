@@ -1,0 +1,215 @@
+{
+  "uid": "31794604",
+  "pubdate": "2019 Dec 10",
+  "epubdate": "",
+  "source": "Blood Adv",
+  "authors": [
+    {
+      "name": "Neunert C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Terrell DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arnold DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Buchanan G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cines DB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cooper N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cuker A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Despotovic JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "George JN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grace RF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kühne T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kuter DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lim W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCrae KR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pruitt B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shimanek H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vesely SK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Vesely SK",
+  "title": "American Society of Hematology 2019 guidelines for immune thrombocytopenia.",
+  "sorttitle": "american society of hematology 2019 guidelines for immune thrombocytopenia",
+  "volume": "3",
+  "issue": "23",
+  "pages": "3829-3866",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101698425",
+  "issn": "2473-9529",
+  "essn": "2473-9537",
+  "pubtype": [
+    "Guideline",
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31794604"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "429213"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1182/bloodadvances.2019000966"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6963252"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31794604"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31794604"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6963252;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/09/13 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/10/21 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/12/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/12/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/23 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Blood Adv. 2020 Jan 28;4(2):252",
+      "reftype": "Erratum in",
+      "pmid": 31945156,
+      "note": ""
+    },
+    {
+      "refsource": "Blood Adv. 2020 May 26;4(10):2136-2138",
+      "reftype": "Comment in",
+      "pmid": 32421809,
+      "note": ""
+    },
+    {
+      "refsource": "Eur J Intern Med. 2021 Apr;86:121-123",
+      "reftype": "Comment in",
+      "pmid": 33568328,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 67,
+  "fulljournalname": "Blood advances",
+  "elocationid": "doi: 10.1182/bloodadvances.2019000966",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/12/10 00:00",
+  "sortfirstauthor": "Neunert C",
+  "vernaculartitle": ""
+}

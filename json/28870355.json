@@ -1,0 +1,119 @@
+{
+  "uid": "28870355",
+  "pubdate": "2017 Sep",
+  "epubdate": "",
+  "source": "Mayo Clin Proc",
+  "authors": [
+    {
+      "name": "Pham T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brochard LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Slutsky AS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Slutsky AS",
+  "title": "Mechanical Ventilation: State of the Art.",
+  "sorttitle": "mechanical ventilation state of the art",
+  "volume": "92",
+  "issue": "9",
+  "pages": "1382-1400",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0405543",
+  "issn": "0025-6196",
+  "essn": "1942-5546",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28870355"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0025-6196(17)30324-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.mayocp.2017.05.004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28870355"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28870355"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/01/12 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/04/03 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/05/01 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/09/06 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/09/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/09/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 27,
+  "fulljournalname": "Mayo Clinic proceedings",
+  "elocationid": "doi: 10.1016/j.mayocp.2017.05.004",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/09/01 00:00",
+  "sortfirstauthor": "Pham T",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,96 @@
+{
+  "uid": "982039",
+  "pubdate": "1976 Nov 12",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Allison T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cicchetti DV",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cicchetti DV",
+  "title": "Sleep in mammals: ecological and constitutional correlates.",
+  "sorttitle": "sleep in mammals ecological and constitutional correlates",
+  "volume": "194",
+  "issue": "4266",
+  "pages": "732-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "982039"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.982039"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "982039"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "982039"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1976/11/12 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1976/11/12 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1976/11/12 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 25,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1976/11/12 00:00",
+  "sortfirstauthor": "Allison T",
+  "vernaculartitle": ""
+}

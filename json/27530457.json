@@ -1,0 +1,130 @@
+{
+  "uid": "27530457",
+  "pubdate": "2017 Oct",
+  "epubdate": "2016 Aug 16",
+  "source": "J Clin Monit Comput",
+  "authors": [
+    {
+      "name": "Simpao AF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tan JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lingappan AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gálvez JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morgan SE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krall MA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Krall MA",
+  "title": "A systematic review of near real-time and point-of-care clinical decision support in anesthesia information management systems.",
+  "sorttitle": "systematic review of near real time and point of care clinical decision support in anesthesia information management systems",
+  "volume": "31",
+  "issue": "5",
+  "pages": "885-894",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9806357",
+  "issn": "1387-1307",
+  "essn": "1573-2614",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27530457"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s10877-016-9921-x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s10877-016-9921-x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27530457"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27530457"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/04/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/08/09 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/08/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/09/27 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/08/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Journal of clinical monitoring and computing",
+  "elocationid": "doi: 10.1007/s10877-016-9921-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/10/01 00:00",
+  "sortfirstauthor": "Simpao AF",
+  "vernaculartitle": ""
+}

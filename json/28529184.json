@@ -1,0 +1,214 @@
+{
+  "uid": "28529184",
+  "pubdate": "2017 Jul",
+  "epubdate": "2017 May 18",
+  "source": "J Clin Epidemiol",
+  "authors": [
+    {
+      "name": "Hultcrantz M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rind D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Akl EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Treweek S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mustafa RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iorio A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alper BS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meerpohl JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murad MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ansari MT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Katikireddi SV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Östlund P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tranæus S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Christensen R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gartlehner G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brozek J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Izcovich A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schünemann H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyatt G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Guyatt G",
+  "title": "The GRADE Working Group clarifies the construct of certainty of evidence.",
+  "sorttitle": "grade working group clarifies the construct of certainty of evidence",
+  "volume": "87",
+  "issue": "",
+  "pages": "4-13",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8801383",
+  "issn": "0895-4356",
+  "essn": "1878-5921",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28529184"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0895-4356(16)30703-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jclinepi.2017.05.006"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6542664"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "EMS83123"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28529184"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28529184"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6542664;manuscript-id: EMS83123;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/11/18 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/04/11 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/05/02 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/05/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/09/14 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/05/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 59,
+  "fulljournalname": "Journal of clinical epidemiology",
+  "elocationid": "doi: 10.1016/j.jclinepi.2017.05.006",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/07/01 00:00",
+  "sortfirstauthor": "Hultcrantz M",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,117 @@
+{
+  "uid": "27529318",
+  "pubdate": "2017 Jan",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Bickler PE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feiner JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipnick MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Batchelder P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "MacLeod DB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Severinghaus JW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Severinghaus JW",
+  "title": "Effects of Acute, Profound Hypoxia on Healthy Humans: Implications for Safety of Tests Evaluating Pulse Oximetry or Tissue Oximetry Performance.",
+  "sorttitle": "effects of acute profound hypoxia on healthy humans implications for safety of tests evaluating pulse oximetry or tissue oximetry performance",
+  "volume": "124",
+  "issue": "1",
+  "pages": "146-153",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27529318"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000001421"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27529318"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27529318"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/08/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/07/14 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/08/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/01 00:00",
+  "sortfirstauthor": "Bickler PE",
+  "vernaculartitle": ""
+}

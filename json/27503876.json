@@ -1,0 +1,121 @@
+{
+  "uid": "27503876",
+  "pubdate": "2016 Sep 6",
+  "epubdate": "2016 Aug 8",
+  "source": "Proc Natl Acad Sci U S A",
+  "authors": [
+    {
+      "name": "Adachi N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Robinson M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goolsbee A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shubin NH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Shubin NH",
+  "title": "Regulatory evolution of Tbx5 and the origin of paired appendages.",
+  "sorttitle": "regulatory evolution of tbx5 and the origin of paired appendages",
+  "volume": "113",
+  "issue": "36",
+  "pages": "10115-20",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7505876",
+  "issn": "0027-8424",
+  "essn": "1091-6490",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27503876"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1609997113"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1073/pnas.1609997113"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5018757"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27503876"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27503876"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5018757;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/08/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/08/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/01/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+  "elocationid": "doi: 10.1073/pnas.1609997113",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/09/06 00:00",
+  "sortfirstauthor": "Adachi N",
+  "vernaculartitle": ""
+}

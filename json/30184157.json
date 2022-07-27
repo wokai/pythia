@@ -1,0 +1,104 @@
+{
+  "uid": "30184157",
+  "pubdate": "2018 Sep 1",
+  "epubdate": "",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Ohno-Machado L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ohno-Machado L",
+  "title": "Sharing data from electronic health records within, across, and beyond healthcare institutions: Current trends and perspectives.",
+  "sorttitle": "sharing data from electronic health records within across and beyond healthcare institutions current trends and perspectives",
+  "volume": "25",
+  "issue": "9",
+  "pages": "1113",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30184157"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "5088873"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/jamia/ocy116"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7646901"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30184157"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30184157"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7646901;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/09/06 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/09/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/12/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1093/jamia/ocy116",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/09/01 00:00",
+  "sortfirstauthor": "Ohno-Machado L",
+  "vernaculartitle": ""
+}

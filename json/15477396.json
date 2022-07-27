@@ -1,0 +1,140 @@
+{
+  "uid": "15477396",
+  "pubdate": "2004 Oct 19",
+  "epubdate": "2004 Oct 11",
+  "source": "Circulation",
+  "authors": [
+    {
+      "name": "Gage BF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Walraven C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pearce L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hart RG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koudstaal PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boode BS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petersen P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Petersen P",
+  "title": "Selecting patients with atrial fibrillation for anticoagulation: stroke risk stratification in patients taking aspirin.",
+  "sorttitle": "selecting patients with atrial fibrillation for anticoagulation stroke risk stratification in patients taking aspirin",
+  "volume": "110",
+  "issue": "16",
+  "pages": "2287-92",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0147763",
+  "issn": "0009-7322",
+  "essn": "1524-4539",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15477396"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "01.CIR.0000145172.55640.93"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/01.CIR.0000145172.55640.93"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15477396"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15477396"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/10/13 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/07/07 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/10/13 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Fam Pract. 2005 Apr;54(4):309",
+      "reftype": "Comment in",
+      "pmid": 15833220,
+      "note": ""
+    },
+    {
+      "refsource": "Circulation. 2005 Jun 28;111(25):e455-6; author reply e455-6",
+      "reftype": "Comment in",
+      "pmid": 15983256,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 154,
+  "fulljournalname": "Circulation",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/10/19 00:00",
+  "sortfirstauthor": "Gage BF",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,107 @@
+{
+  "uid": "19535325",
+  "pubdate": "2009 Jul",
+  "epubdate": "",
+  "source": "Biostatistics",
+  "authors": [
+    {
+      "name": "Peng RD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Peng RD",
+  "title": "Reproducible research and Biostatistics.",
+  "sorttitle": "reproducible research and biostatistics",
+  "volume": "10",
+  "issue": "3",
+  "pages": "405-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100897327",
+  "issn": "1465-4644",
+  "essn": "1468-4357",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19535325"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "kxp014"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/biostatistics/kxp014"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19535325"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19535325"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/06/19 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/06/19 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/09/15 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Biostatistics. 2010 Jul;11(3):376-8",
+      "reftype": "Comment in",
+      "pmid": 20498225,
+      "note": ""
+    },
+    {
+      "refsource": "Biostatistics. 2010 Jul;11(3):375",
+      "reftype": "Comment in",
+      "pmid": 20538869,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 55,
+  "fulljournalname": "Biostatistics (Oxford, England)",
+  "elocationid": "doi: 10.1093/biostatistics/kxp014",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/07/01 00:00",
+  "sortfirstauthor": "Peng RD",
+  "vernaculartitle": ""
+}

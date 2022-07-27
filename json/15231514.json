@@ -1,0 +1,117 @@
+{
+  "uid": "15231514",
+  "pubdate": "2004 Sep",
+  "epubdate": "2004 Jul 1",
+  "source": "Arterioscler Thromb Vasc Biol",
+  "authors": [
+    {
+      "name": "Muñoz EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Linhardt RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Linhardt RJ",
+  "title": "Heparin-binding domains in vascular biology.",
+  "sorttitle": "heparin binding domains in vascular biology",
+  "volume": "24",
+  "issue": "9",
+  "pages": "1549-57",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9505803",
+  "issn": "1079-5642",
+  "essn": "1524-4636",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15231514"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/01.ATV.0000137189.22999.3f"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "01.ATV.0000137189.22999.3f"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4114236"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS75619"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15231514"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15231514"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4114236;manuscript-id: NIHMS75619;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/07/03 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/04/06 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/07/03 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 56,
+  "fulljournalname": "Arteriosclerosis, thrombosis, and vascular biology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/09/01 00:00",
+  "sortfirstauthor": "Muñoz EM",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,128 @@
+{
+  "uid": "17667564",
+  "pubdate": "2007 Aug",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Bijker JB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Klei WA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kappen TH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Wolfswinkel L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moons KG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kalkman CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kalkman CJ",
+  "title": "Incidence of intraoperative hypotension as a function of the chosen definition: literature definitions applied to a retrospective cohort using automated data collection.",
+  "sorttitle": "incidence of intraoperative hypotension as a function of the chosen definition literature definitions applied to a retrospective cohort using automated data collection",
+  "volume": "107",
+  "issue": "2",
+  "pages": "213-20",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17667564"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/01.anes.0000270724.40897.8e"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000542-200708000-00007"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17667564"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17667564"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/08/02 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/09/22 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/08/02 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2007 Aug;107(2):198-9",
+      "reftype": "Comment in",
+      "pmid": 17667561,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 83,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/08/01 00:00",
+  "sortfirstauthor": "Bijker JB",
+  "vernaculartitle": ""
+}

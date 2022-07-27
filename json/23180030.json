@@ -1,0 +1,109 @@
+{
+  "uid": "23180030",
+  "pubdate": "2013 Mar",
+  "epubdate": "2012 Nov 21",
+  "source": "Ann Biomed Eng",
+  "authors": [
+    {
+      "name": "Liu J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hahn JO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mukkamala R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mukkamala R",
+  "title": "Error mechanisms of the oscillometric fixed-ratio blood pressure measurement method.",
+  "sorttitle": "error mechanisms of the oscillometric fixed ratio blood pressure measurement method",
+  "volume": "41",
+  "issue": "3",
+  "pages": "587-97",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0361512",
+  "issn": "0090-6964",
+  "essn": "1573-9686",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23180030"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s10439-012-0700-7"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23180030"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23180030"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2012/07/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2012/11/08 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2012/11/27 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/11/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/09/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "Annals of biomedical engineering",
+  "elocationid": "doi: 10.1007/s10439-012-0700-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/03/01 00:00",
+  "sortfirstauthor": "Liu J",
+  "vernaculartitle": ""
+}

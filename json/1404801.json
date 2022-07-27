@@ -1,0 +1,126 @@
+{
+  "uid": "1404801",
+  "pubdate": "1992 Nov 4",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Evidence-Based Medicine Working Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Evidence-Based Medicine Working Group.",
+  "title": "Evidence-based medicine. A new approach to teaching the practice of medicine.",
+  "sorttitle": "evidence based medicine a new approach to teaching the practice of medicine",
+  "volume": "268",
+  "issue": "17",
+  "pages": "2420-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "1404801"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.1992.03490170092032"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "1404801"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "1404801"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1992/11/04 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1992/11/04 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1992/11/04 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA. 1993 Mar 10;269(10):1253; author reply 1254",
+      "reftype": "Comment in",
+      "pmid": 8437299,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 1993 Mar 10;269(10):1253; author reply 1254",
+      "reftype": "Comment in",
+      "pmid": 8437300,
+      "note": ""
+    },
+    {
+      "refsource": "Can J Surg. 2007 Dec;50(6):482-4",
+      "reftype": "Comment in",
+      "pmid": 18053378,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2008 Oct 15;300(15):1814-6",
+      "reftype": "Comment in",
+      "pmid": 18854545,
+      "note": ""
+    },
+    {
+      "refsource": "J Am Coll Surg. 2011 Jun;212(6):1094-6",
+      "reftype": "Comment in",
+      "pmid": 21620290,
+      "note": ""
+    },
+    {
+      "refsource": "Can J Surg. 2013 Oct;56(5):353-5",
+      "reftype": "Comment in",
+      "pmid": 24067521,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 478,
+  "fulljournalname": "JAMA",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1992/11/04 00:00",
+  "sortfirstauthor": "Evidence-Based Medicine Working Group.",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,103 @@
+{
+  "uid": "32163699",
+  "pubdate": "2020 Apr 30",
+  "epubdate": "2020 Mar 12",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Jones DS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Jones DS",
+  "title": "History in a Crisis - Lessons for Covid-19.",
+  "sorttitle": "history in a crisis lessons for covid 19",
+  "volume": "382",
+  "issue": "18",
+  "pages": "1681-1683",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32163699"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMp2004361"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32163699"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32163699"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/03/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/06 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/03/13 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Public Health (Oxf). 2020 Aug 18;42(3):480-482",
+      "reftype": "Comment in",
+      "pmid": 32478853,
+      "note": ""
+    },
+    {
+      "refsource": "J Am Med Dir Assoc. 2020 Jul;21(7):990-991",
+      "reftype": "Comment in",
+      "pmid": 32499181,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 70,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMp2004361",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/04/30 00:00",
+  "sortfirstauthor": "Jones DS",
+  "vernaculartitle": ""
+}

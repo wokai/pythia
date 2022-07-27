@@ -1,0 +1,112 @@
+{
+  "uid": "28904326",
+  "pubdate": "2017",
+  "epubdate": "",
+  "source": "Biosci Trends",
+  "authors": [
+    {
+      "name": "Yu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fei A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gao C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pan S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pan S",
+  "title": "Intravenous polymyxins: Revival with puzzle.",
+  "sorttitle": "intravenous polymyxins revival with puzzle",
+  "volume": "11",
+  "issue": "4",
+  "pages": "370-382",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101502754",
+  "issn": "1881-7815",
+  "essn": "1881-7823",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28904326"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.5582/bst.2017.01188"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28904326"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28904326"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/09/15 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/09/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/05/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Bioscience trends",
+  "elocationid": "doi: 10.5582/bst.2017.01188",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/01 00:00",
+  "sortfirstauthor": "Yu Y",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,112 @@
+{
+  "uid": "19299793",
+  "pubdate": "2009 Apr",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Mhyre JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greenfield ML",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tsen LC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Polley LS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Polley LS",
+  "title": "A systematic review of randomized controlled trials that evaluate strategies to avoid epidural vein cannulation during obstetric epidural catheter placement.",
+  "sorttitle": "systematic review of randomized controlled trials that evaluate strategies to avoid epidural vein cannulation during obstetric epidural catheter placement",
+  "volume": "108",
+  "issue": "4",
+  "pages": "1232-42",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19299793"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "108/4/1232"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ane.0b013e318198f85e"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19299793"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19299793"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/03/21 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/03/21 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/04/09 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ane.0b013e318198f85e",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/04/01 00:00",
+  "sortfirstauthor": "Mhyre JM",
+  "vernaculartitle": ""
+}

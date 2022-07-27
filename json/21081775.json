@@ -1,0 +1,126 @@
+{
+  "uid": "21081775",
+  "pubdate": "2011 Jan",
+  "epubdate": "2010 Nov 16",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Memtsoudis S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu SS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ma Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chiu YL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walz JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gaber-Baylis LK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mazumdar M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mazumdar M",
+  "title": "Perioperative pulmonary outcomes in patients with sleep apnea after noncardiac surgery.",
+  "sorttitle": "perioperative pulmonary outcomes in patients with sleep apnea after noncardiac surgery",
+  "volume": "112",
+  "issue": "1",
+  "pages": "113-21",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21081775"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ANE.0b013e3182009abf"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0b013e3182009abf"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21081775"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21081775"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/11/18 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/11/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/01/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 56,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0b013e3182009abf",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/01/01 00:00",
+  "sortfirstauthor": "Memtsoudis S",
+  "vernaculartitle": ""
+}

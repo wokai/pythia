@@ -1,0 +1,139 @@
+{
+  "uid": "19717480",
+  "pubdate": "2010 Apr",
+  "epubdate": "2009 Aug 28",
+  "source": "Eur Respir J",
+  "authors": [
+    {
+      "name": "Hemnes AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Newman AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rosenbaum B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barrett TW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rice TW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Newman JH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Newman JH",
+  "title": "Bedside end-tidal CO2 tension as a screening tool to exclude pulmonary embolism.",
+  "sorttitle": "bedside end tidal co2 tension as a screening tool to exclude pulmonary embolism",
+  "volume": "35",
+  "issue": "4",
+  "pages": "735-41",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8803460",
+  "issn": "0903-1936",
+  "essn": "1399-3003",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19717480"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "09031936.00084709"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1183/09031936.00084709"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19717480"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19717480"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/09/01 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/09/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/06/19 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur Respir J. 2010 Apr;35(4):723-4",
+      "reftype": "Comment in",
+      "pmid": 20356983,
+      "note": ""
+    },
+    {
+      "refsource": "Am J Respir Crit Care Med. 2011 Feb 1;183(3):411-412",
+      "reftype": "Comment in",
+      "pmid": 21757427,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "The European respiratory journal",
+  "elocationid": "doi: 10.1183/09031936.00084709",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/04/01 00:00",
+  "sortfirstauthor": "Hemnes AR",
+  "vernaculartitle": ""
+}

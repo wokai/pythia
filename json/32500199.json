@@ -1,0 +1,191 @@
+{
+  "uid": "32500199",
+  "pubdate": "2020 Jul",
+  "epubdate": "2020 Jun 4",
+  "source": "Int J Legal Med",
+  "authors": [
+    {
+      "name": "Edler C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schröder AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aepfelbacher M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fitzek A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heinemann A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heinrich F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klein A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Langenwalder F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lütgehetmann M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meißner K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Püschel K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schädler J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Steurer S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mushumba H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sperhake JP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sperhake JP",
+  "title": "Dying with SARS-CoV-2 infection-an autopsy study of the first consecutive 80 cases in Hamburg, Germany.",
+  "sorttitle": "dying with sars cov 2 infection an autopsy study of the first consecutive 80 cases in hamburg germany",
+  "volume": "134",
+  "issue": "4",
+  "pages": "1275-1284",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9101456",
+  "issn": "0937-9827",
+  "essn": "1437-1596",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32500199"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00414-020-02317-w"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00414-020-02317-w"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7271136"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32500199"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32500199"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7271136;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/05/01 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/05/15 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/06/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/07/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/06/06 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Int J Legal Med. 2020 Sep;134(5):1977",
+      "reftype": "Erratum in",
+      "pmid": 32562038,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 182,
+  "fulljournalname": "International journal of legal medicine",
+  "elocationid": "doi: 10.1007/s00414-020-02317-w",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/01 00:00",
+  "sortfirstauthor": "Edler C",
+  "vernaculartitle": ""
+}

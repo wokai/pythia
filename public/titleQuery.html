@@ -1,0 +1,19 @@
+<!--- .form-control : Expands input size to full input-group size           --->
+<div ng-form="titleQueryForm" novalidate>
+<div class="input-group mb-3">
+  <span class="input-group-text" style="width:10%">Title query</span>
+  <input type="text" ng-ref="titleQueryInput"
+    placeholder="Suchbegriff für Überschriften" class="form-control"
+    data-toggle="tooltip" data-placement="bottom"
+    title="Bitte Suchbegriff eintragen"
+    ng-enter="$ctrl.submit()"
+    ng-model="$ctrl.qry"/>
+    <button class="btn btn-outline-secondary" ng-click="$ctrl.clear()"
+      data-toggle="tooltip", data-placement="bottom"
+      title="Clear input">
+      <img src="/icons/x.svg" alt="Clear">
+    </button>
+    <button class="btn btn-success" ng-click="$ctrl.submit()">Send</button>
+</div>
+</div>
+

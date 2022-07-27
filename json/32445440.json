@@ -1,0 +1,345 @@
+{
+  "uid": "32445440",
+  "pubdate": "2020 Nov 5",
+  "epubdate": "2020 Oct 8",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Beigel JH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tomashek KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dodd LE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mehta AK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zingman BS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kalil AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hohmann E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chu HY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Luetkemeyer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kline S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lopez de Castilla D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Finberg RW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dierberg K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tapson V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hsieh L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patterson TF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paredes R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sweeney DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Short WR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Touloumi G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lye DC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ohmagari N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oh MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ruiz-Palacios GM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benfield T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fätkenheuer G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kortepeter MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Atmar RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Creech CB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lundgren J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Babiker AG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pett S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neaton JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burgess TH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bonnett T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Green M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Makowski M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Osinusi A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nayak S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lane HC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "ACTT-1 Study Group Members.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lane HC",
+  "title": "Remdesivir for the Treatment of Covid-19 - Final Report.",
+  "sorttitle": "remdesivir for the treatment of covid 19 final report",
+  "volume": "383",
+  "issue": "19",
+  "pages": "1813-1826",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32445440"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa2007764"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7262788"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32445440"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32445440"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7262788;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/05/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/05/24 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2020 Nov 5;383(19):1886-1887",
+      "reftype": "Comment in",
+      "pmid": 32459913,
+      "note": ""
+    },
+    {
+      "refsource": "Ugeskr Laeger. 2020 Jun 8;182(24):",
+      "reftype": "Comment in",
+      "pmid": 32515337,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Sep 3;383(10):992",
+      "reftype": "Comment in",
+      "pmid": 32649074,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Sep 3;383(10):992-993",
+      "reftype": "Comment in",
+      "pmid": 32649075,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Sep 3;383(10):993",
+      "reftype": "Comment in",
+      "pmid": 32649076,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Sep 3;383(10):993-994",
+      "reftype": "Comment in",
+      "pmid": 32649077,
+      "note": ""
+    },
+    {
+      "refsource": "Crit Care. 2020 Dec 7;24(1):677",
+      "reftype": "Comment in",
+      "pmid": 33287853,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 833,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa2007764",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/11/05 00:00",
+  "sortfirstauthor": "Beigel JH",
+  "vernaculartitle": ""
+}

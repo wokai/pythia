@@ -1,0 +1,293 @@
+{
+  "uid": "26903338",
+  "pubdate": "2016 Feb 23",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Singer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deutschman CS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seymour CW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shankar-Hari M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Annane D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bauer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellomo R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bernard GR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chiche JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coopersmith CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hotchkiss RS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levy MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marshall JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Opal SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rubenfeld GD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van der Poll T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vincent JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Angus DC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Angus DC",
+  "title": "The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3).",
+  "sorttitle": "third international consensus definitions for sepsis and septic shock sepsis 3",
+  "volume": "315",
+  "issue": "8",
+  "pages": "801-10",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Consensus Development Conference",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26903338"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2492881"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2016.0287"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4968574"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS794087"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26903338"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26903338"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4968574;manuscript-id: NIHMS794087;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/02/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/02/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/03/02 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Med Intensiva. 2017 Jan - Feb;41(1):38-40",
+      "reftype": "Comment in",
+      "pmid": 27255771,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesist. 2016 Jul;65(7):532-52",
+      "reftype": "Comment in",
+      "pmid": 27324154,
+      "note": ""
+    },
+    {
+      "refsource": "Med Intensiva. 2017 Jan - Feb;41(1):60-61",
+      "reftype": "Comment in",
+      "pmid": 27370312,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2016 Jul 26;316(4):456-7",
+      "reftype": "Comment in",
+      "pmid": 27458957,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2016 Jul 26;316(4):457-8",
+      "reftype": "Comment in",
+      "pmid": 27458959,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2016 Jul 26;316(4):457",
+      "reftype": "Comment in",
+      "pmid": 27458960,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2016 Jul 26;316(4):458",
+      "reftype": "Comment in",
+      "pmid": 27458961,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2016 Jul 26;316(4):458-9",
+      "reftype": "Comment in",
+      "pmid": 27458962,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2016 Jul 26;316(4):459-60",
+      "reftype": "Comment in",
+      "pmid": 27458963,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2016 Jul 26;316(4):460",
+      "reftype": "Comment in",
+      "pmid": 27458964,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2016 Jul 26;316(4):460-1",
+      "reftype": "Comment in",
+      "pmid": 27458965,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2016 Jul 26;316(4):461-2",
+      "reftype": "Comment in",
+      "pmid": 27458966,
+      "note": ""
+    },
+    {
+      "refsource": "Med Intensiva. 2017 Jan - Feb;41(1):41-43",
+      "reftype": "Comment in",
+      "pmid": 28108131,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2017 Feb 28;317(8):847-848",
+      "reftype": "Comment in",
+      "pmid": 28114603,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesist. 2017 Sep;66(9):690-713",
+      "reftype": "Comment in",
+      "pmid": 28667421,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3391,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2016.0287",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/02/23 00:00",
+  "sortfirstauthor": "Singer M",
+  "vernaculartitle": ""
+}

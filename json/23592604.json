@@ -1,0 +1,97 @@
+{
+  "uid": "23592604",
+  "pubdate": "2013 Oct",
+  "epubdate": "2013 Apr 16",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Mik EG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mik EG",
+  "title": "Special article: measuring mitochondrial oxygen tension: from basic principles to application in humans.",
+  "sorttitle": "special article measuring mitochondrial oxygen tension from basic principles to application in humans",
+  "volume": "117",
+  "issue": "4",
+  "pages": "834-46",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23592604"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ANE.0b013e31828f29da"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0b013e31828f29da"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23592604"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23592604"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/04/18 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/04/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/12/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 18,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0b013e31828f29da",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/10/01 00:00",
+  "sortfirstauthor": "Mik EG",
+  "vernaculartitle": ""
+}

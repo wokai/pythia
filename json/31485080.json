@@ -1,0 +1,186 @@
+{
+  "uid": "31485080",
+  "pubdate": "2019 Sep",
+  "epubdate": "2019 Sep 4",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Li X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Issaian A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hill RC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Espinosa S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cui Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kappel K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Das R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hansen KC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou ZH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhao R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zhao R",
+  "title": "A unified mechanism for intron and exon definition and back-splicing.",
+  "sorttitle": "unified mechanism for intron and exon definition and back splicing",
+  "volume": "573",
+  "issue": "7774",
+  "pages": "375-380",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31485080"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-019-1523-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-019-1523-6"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6939996"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1536398"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31485080"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31485080"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6939996;manuscript-id: NIHMS1536398;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/03/31 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/08/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/09/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/18 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/09/06 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Rev Mol Cell Biol. 2019 Nov;20(11):661",
+      "reftype": "Comment in",
+      "pmid": 31548713,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-019-1523-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/09/01 00:00",
+  "sortfirstauthor": "Li X",
+  "vernaculartitle": ""
+}

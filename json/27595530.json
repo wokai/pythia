@@ -1,0 +1,133 @@
+{
+  "uid": "27595530",
+  "pubdate": "2017 Apr",
+  "epubdate": "2016 May 20",
+  "source": "J Cardiothorac Vasc Anesth",
+  "authors": [
+    {
+      "name": "Falzon D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alston RP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coley E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Montgomery K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Montgomery K",
+  "title": "Lung Isolation for Thoracic Surgery: From Inception to Evidence-Based.",
+  "sorttitle": "lung isolation for thoracic surgery from inception to evidence based",
+  "volume": "31",
+  "issue": "2",
+  "pages": "678-693",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9110208",
+  "issn": "1053-0770",
+  "essn": "1532-8422",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27595530"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1053-0770(16)30154-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1053/j.jvca.2016.05.032"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27595530"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27595530"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/02/05 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/09/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/07/10 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/09/06 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Cardiothorac Vasc Anesth. 2018 Feb;32(1):e13",
+      "reftype": "Comment in",
+      "pmid": 29126679,
+      "note": ""
+    },
+    {
+      "refsource": "J Cardiothorac Vasc Anesth. 2018 Feb;32(1):e14-e15",
+      "reftype": "Comment in",
+      "pmid": 29128488,
+      "note": ""
+    },
+    {
+      "refsource": "J Cardiothorac Vasc Anesth. 2018 Feb;32(1):e15-e16",
+      "reftype": "Comment in",
+      "pmid": 29146171,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 6,
+  "fulljournalname": "Journal of cardiothoracic and vascular anesthesia",
+  "elocationid": "doi: 10.1053/j.jvca.2016.05.032",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/04/01 00:00",
+  "sortfirstauthor": "Falzon D",
+  "vernaculartitle": ""
+}

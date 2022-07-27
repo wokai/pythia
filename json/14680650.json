@@ -1,0 +1,110 @@
+{
+  "uid": "14680650",
+  "pubdate": "2003 Dec 16",
+  "epubdate": "",
+  "source": "Curr Biol",
+  "authors": [
+    {
+      "name": "Cole NJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tanaka M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prescott A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tickle C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tickle C",
+  "title": "Expression of limb initiation genes and clues to the morphological diversification of threespine stickleback.",
+  "sorttitle": "expression of limb initiation genes and clues to the morphological diversification of threespine stickleback",
+  "volume": "13",
+  "issue": "24",
+  "pages": "R951-2",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9107782",
+  "issn": "0960-9822",
+  "essn": "1879-0445",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14680650"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0960-9822(03)00881-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cub.2003.11.039"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14680650"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14680650"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/12/19 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/03/20 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/12/19 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 18,
+  "fulljournalname": "Current biology : CB",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/12/16 00:00",
+  "sortfirstauthor": "Cole NJ",
+  "vernaculartitle": ""
+}

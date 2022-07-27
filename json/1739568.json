@@ -1,0 +1,120 @@
+{
+  "uid": "1739568",
+  "pubdate": "1992 Jan",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Robson SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boys RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rodeck C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morgan B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Morgan B",
+  "title": "Maternal and fetal haemodynamic effects of spinal and extradural anaesthesia for elective caesarean section.",
+  "sorttitle": "maternal and fetal haemodynamic effects of spinal and extradural anaesthesia for elective caesarean section",
+  "volume": "68",
+  "issue": "1",
+  "pages": "54-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "1739568"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)46780-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/68.1.54"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "1739568"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "1739568"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1992/01/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1992/01/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1992/01/01 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 1992 Jun;68(6):635-6",
+      "reftype": "Comment in",
+      "pmid": 1610645,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 17,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1992/01/01 00:00",
+  "sortfirstauthor": "Robson SC",
+  "vernaculartitle": ""
+}

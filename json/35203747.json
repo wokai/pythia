@@ -1,0 +1,129 @@
+{
+  "uid": "35203747",
+  "pubdate": "2022 Jan 24",
+  "epubdate": "2022 Jan 24",
+  "source": "Antibiotics (Basel)",
+  "authors": [
+    {
+      "name": "Timsit JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wicky PH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Montmollin E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "de Montmollin E",
+  "title": "Treatment of Severe Infections Due to Metallo-Betalactamases <i>Enterobacterales</i> in Critically Ill Patients.",
+  "sorttitle": "treatment of severe infections due to metallo betalactamases i enterobacterales i in critically ill patients",
+  "volume": "11",
+  "issue": "2",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101637404",
+  "issn": "",
+  "essn": "2079-6382",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "35203747"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "antibiotics11020144"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/antibiotics11020144"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8868391"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "35203747"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "35203747"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8868391;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2022/01/04 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2022/01/19 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2022/01/21 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2022/02/25 01:02"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2022/02/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2022/02/26 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Antibiotics (Basel, Switzerland)",
+  "elocationid": "pii: 144. doi: 10.3390/antibiotics11020144",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2022/01/24 00:00",
+  "sortfirstauthor": "Timsit JF",
+  "vernaculartitle": ""
+}

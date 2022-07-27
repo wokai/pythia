@@ -1,0 +1,134 @@
+{
+  "uid": "30857601",
+  "pubdate": "2019 Apr",
+  "epubdate": "2019 Feb 6",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Hemphill S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McMenamin L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellamy MC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hopkins PM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hopkins PM",
+  "title": "Propofol infusion syndrome: a structured literature review and analysis of published case reports.",
+  "sorttitle": "propofol infusion syndrome a structured literature review and analysis of published case reports",
+  "volume": "122",
+  "issue": "4",
+  "pages": "448-459",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30857601"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(19)30010-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.bja.2018.12.025"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6435842"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30857601"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30857601"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6435842;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/10/01 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/11/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/12/20 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/03/13 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/03/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/04/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1016/j.bja.2018.12.025",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/04/01 00:00",
+  "sortfirstauthor": "Hemphill S",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,97 @@
+{
+  "uid": "20736986",
+  "pubdate": "2010 Nov",
+  "epubdate": "2010 Aug 25",
+  "source": "Kidney Int",
+  "authors": [
+    {
+      "name": "Stockand JD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stockand JD",
+  "title": "Vasopressin regulation of renal sodium excretion.",
+  "sorttitle": "vasopressin regulation of renal sodium excretion",
+  "volume": "78",
+  "issue": "9",
+  "pages": "849-56",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0323470",
+  "issn": "0085-2538",
+  "essn": "1523-1755",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20736986"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0085-2538(15)54663-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/ki.2010.276"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20736986"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20736986"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/08/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/08/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/02/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 32,
+  "fulljournalname": "Kidney international",
+  "elocationid": "doi: 10.1038/ki.2010.276",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/11/01 00:00",
+  "sortfirstauthor": "Stockand JD",
+  "vernaculartitle": ""
+}

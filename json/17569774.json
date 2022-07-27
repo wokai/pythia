@@ -1,0 +1,143 @@
+{
+  "uid": "17569774",
+  "pubdate": "2007 Sep",
+  "epubdate": "2007 Jun 14",
+  "source": "J Appl Physiol (1985)",
+  "authors": [
+    {
+      "name": "Moriondo A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pelosi P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Passi A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Viola M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marcozzi C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Severgnini P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ottani V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Quaranta M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Negrini D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Negrini D",
+  "title": "Proteoglycan fragmentation and respiratory mechanics in mechanically ventilated healthy rats.",
+  "sorttitle": "proteoglycan fragmentation and respiratory mechanics in mechanically ventilated healthy rats",
+  "volume": "103",
+  "issue": "3",
+  "pages": "747-56",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8502536",
+  "issn": "8750-7587",
+  "essn": "1522-1601",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17569774"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00056.2007"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/japplphysiol.00056.2007"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17569774"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17569774"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/06/16 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/12/21 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/06/16 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Appl Physiol (1985). 2007 Sep;103(3):735-6",
+      "reftype": "Comment in",
+      "pmid": 17641216,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Journal of applied physiology (Bethesda, Md. : 1985)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/09/01 00:00",
+  "sortfirstauthor": "Moriondo A",
+  "vernaculartitle": ""
+}

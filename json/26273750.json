@@ -1,0 +1,110 @@
+{
+  "uid": "26273750",
+  "pubdate": "2016 Mar",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Law LS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lo EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gan TJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gan TJ",
+  "title": "Xenon Anesthesia: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+  "sorttitle": "xenon anesthesia a systematic review and meta analysis of randomized controlled trials",
+  "volume": "122",
+  "issue": "3",
+  "pages": "678-97",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26273750"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000000914"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26273750"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26273750"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/08/15 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/08/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/07/07 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2016 Mar;122(3):593-6",
+      "reftype": "Comment in",
+      "pmid": 26891385,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000000914",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/03/01 00:00",
+  "sortfirstauthor": "Law LS",
+  "vernaculartitle": ""
+}

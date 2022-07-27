@@ -1,0 +1,184 @@
+{
+  "uid": "29099429",
+  "pubdate": "2018 Mar",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Leffert L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Butwick A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carvalho B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arendt K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bates SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Friedman A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Horlocker T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Houle T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Landau R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dubois H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fernando R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Houle T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kopp S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Montgomery D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pellegrini J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smiley R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Toledo P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "members of the SOAP VTE Taskforce.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Toledo P",
+  "title": "The Society for Obstetric Anesthesia and Perinatology Consensus Statement on the Anesthetic Management of Pregnant and Postpartum Women Receiving Thromboprophylaxis or Higher Dose Anticoagulants.",
+  "sorttitle": "society for obstetric anesthesia and perinatology consensus statement on the anesthetic management of pregnant and postpartum women receiving thromboprophylaxis or higher dose anticoagulants",
+  "volume": "126",
+  "issue": "3",
+  "pages": "928-944",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Consensus Development Conference",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29099429"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000002530"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29099429"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29099429"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/11/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/11/04 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2018 Mar;126(3):754-756",
+      "reftype": "Comment in",
+      "pmid": 29461326,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000002530",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/03/01 00:00",
+  "sortfirstauthor": "Leffert L",
+  "vernaculartitle": ""
+}

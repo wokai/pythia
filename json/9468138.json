@@ -1,0 +1,124 @@
+{
+  "uid": "9468138",
+  "pubdate": "1998 Feb 5",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Zhu T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Korber BT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nahmias AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hooper E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sharp PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ho DD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ho DD",
+  "title": "An African HIV-1 sequence from 1959 and implications for the origin of the epidemic.",
+  "sorttitle": "african hiv 1 sequence from 1959 and implications for the origin of the epidemic",
+  "volume": "391",
+  "issue": "6667",
+  "pages": "594-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9468138"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/35400"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9468138"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9468138"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1998/02/19 04:54"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/03/23 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1998/02/19 04:54"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 1998 Feb 5;391(6667):531-2",
+      "reftype": "Comment in",
+      "pmid": 9468129,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 85,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1998/02/05 00:00",
+  "sortfirstauthor": "Zhu T",
+  "vernaculartitle": ""
+}

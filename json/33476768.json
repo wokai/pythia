@@ -1,0 +1,203 @@
+{
+  "uid": "33476768",
+  "pubdate": "2021 Jan 18",
+  "epubdate": "2021 Jan 18",
+  "source": "J Clin Epidemiol",
+  "authors": [
+    {
+      "name": "Hilton Boon M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomson H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shaw B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Akl EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lhachimi SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "López-Alcalde J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klugar M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Choi L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saz-Parkinson Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mustafa RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Langendam MW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crane O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morgan RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rehfuess E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnston BC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chong LY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyatt GH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schünemann HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Katikireddi SV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "GRADE Working Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Katikireddi SV",
+  "title": "Challenges in applying the GRADE approach in public health guidelines and systematic reviews: a concept article from the GRADE Public Health Group.",
+  "sorttitle": "challenges in applying the grade approach in public health guidelines and systematic reviews a concept article from the grade public health group",
+  "volume": "135",
+  "issue": "",
+  "pages": "42-53",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8801383",
+  "issn": "0895-4356",
+  "essn": "1878-5921",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33476768"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0895-4356(21)00003-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jclinepi.2021.01.001"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33476768"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33476768"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/19 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/12/29 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/01/12 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/22 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/21 20:11"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Journal of clinical epidemiology",
+  "elocationid": "doi: 10.1016/j.jclinepi.2021.01.001",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/18 00:00",
+  "sortfirstauthor": "Hilton Boon M",
+  "vernaculartitle": ""
+}

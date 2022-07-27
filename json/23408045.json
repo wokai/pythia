@@ -1,0 +1,105 @@
+{
+  "uid": "23408045",
+  "pubdate": "2013 Aug",
+  "epubdate": "2013 Feb 14",
+  "source": "J Anesth",
+  "authors": [
+    {
+      "name": "Klein NJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Misseldine S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Misseldine S",
+  "title": "Anesthetic considerations in pediatric mastocytosis: a review.",
+  "sorttitle": "anesthetic considerations in pediatric mastocytosis a review",
+  "volume": "27",
+  "issue": "4",
+  "pages": "588-98",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8905667",
+  "issn": "0913-8668",
+  "essn": "1438-8359",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23408045"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00540-013-1563-2"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23408045"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23408045"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2012/10/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2013/01/21 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/02/15 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/02/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/05/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Journal of anesthesia",
+  "elocationid": "doi: 10.1007/s00540-013-1563-2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/08/01 00:00",
+  "sortfirstauthor": "Klein NJ",
+  "vernaculartitle": ""
+}

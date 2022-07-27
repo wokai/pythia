@@ -1,0 +1,126 @@
+{
+  "uid": "21903743",
+  "pubdate": "2011 Dec",
+  "epubdate": "2011 Sep 8",
+  "source": "Genome Res",
+  "authors": [
+    {
+      "name": "Tarazona S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "García-Alcalde F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dopazo J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferrer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Conesa A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Conesa A",
+  "title": "Differential expression in RNA-seq: a matter of depth.",
+  "sorttitle": "differential expression in rna seq a matter of depth",
+  "volume": "21",
+  "issue": "12",
+  "pages": "2213-23",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9518021",
+  "issn": "1088-9051",
+  "essn": "1549-5469",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21903743"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "gr.124321.111"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1101/gr.124321.111"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3227109"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21903743"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21903743"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3227109;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/09/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/09/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/03/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 593,
+  "fulljournalname": "Genome research",
+  "elocationid": "doi: 10.1101/gr.124321.111",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/12/01 00:00",
+  "sortfirstauthor": "Tarazona S",
+  "vernaculartitle": ""
+}

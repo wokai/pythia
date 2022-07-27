@@ -1,0 +1,135 @@
+{
+  "uid": "34019629",
+  "pubdate": "2021 Aug 1",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Warner MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyerhoff KL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Warner ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Posner KL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stephens L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Domino KB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Domino KB",
+  "title": "Pulmonary Aspiration of Gastric Contents: A Closed Claims Analysis.",
+  "sorttitle": "pulmonary aspiration of gastric contents a closed claims analysis",
+  "volume": "135",
+  "issue": "2",
+  "pages": "284-291",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Comment",
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34019629"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "115820"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000003831"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34019629"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34019629"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/05/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/05/22 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/05/21 17:21"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2021 Aug 1;135(2):209-211",
+      "reftype": "Comment in",
+      "pmid": 34197572,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2021 Jul 01;:",
+      "reftype": "Comment on",
+      "pmid": 34197572,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000003831",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/08/01 00:00",
+  "sortfirstauthor": "Warner MA",
+  "vernaculartitle": ""
+}

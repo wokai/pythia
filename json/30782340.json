@@ -1,0 +1,175 @@
+{
+  "uid": "30782340",
+  "pubdate": "2019 Feb 16",
+  "epubdate": "2019 Feb 14",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Evans JT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Evans JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walker RW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Blom AW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Whitehouse MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sayers A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sayers A",
+  "title": "How long does a hip replacement last? A systematic review and meta-analysis of case series and national registry reports with more than 15 years of follow-up.",
+  "sorttitle": "how long does a hip replacement last a systematic review and meta analysis of case series and national registry reports with more than 15 years of follow up",
+  "volume": "393",
+  "issue": "10172",
+  "pages": "647-654",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30782340"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(18)31665-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(18)31665-9"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6376618"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30782340"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30782340"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6376618;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/05/10 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/07/13 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/07/17 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/02/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/02/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/04/10 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2019 Feb 16;393(10172):613",
+      "reftype": "Comment in",
+      "pmid": 30782330,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Aug 31;394(10200):e28",
+      "reftype": "Comment in",
+      "pmid": 31478504,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Aug 31;394(10200):e29",
+      "reftype": "Comment in",
+      "pmid": 31478505,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Aug 31;394(10200):e30",
+      "reftype": "Comment in",
+      "pmid": 31478506,
+      "note": ""
+    },
+    {
+      "refsource": "BMJ. 2019 Dec 31;367:l5681",
+      "reftype": "Comment in",
+      "pmid": 31892513,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 73,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(18)31665-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/02/16 00:00",
+  "sortfirstauthor": "Evans JT",
+  "vernaculartitle": ""
+}

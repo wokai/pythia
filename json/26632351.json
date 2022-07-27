@@ -1,0 +1,127 @@
+{
+  "uid": "26632351",
+  "pubdate": "2015 Sep",
+  "epubdate": "",
+  "source": "Breathe (Sheff)",
+  "authors": [
+    {
+      "name": "Collins JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rudenski A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gibson J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Howard L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Driscoll R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "O'Driscoll R",
+  "title": "Relating oxygen partial pressure, saturation and content: the haemoglobin-oxygen dissociation curve.",
+  "sorttitle": "relating oxygen partial pressure saturation and content the haemoglobin oxygen dissociation curve",
+  "volume": "11",
+  "issue": "3",
+  "pages": "194-201",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101231007",
+  "issn": "1810-6838",
+  "essn": "2073-4735",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26632351"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1183/20734735.001415"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "EDU-0014-2015"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4666443"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26632351"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26632351"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4666443;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/12/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/12/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/12/04 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 42,
+  "fulljournalname": "Breathe (Sheffield, England)",
+  "elocationid": "doi: 10.1183/20734735.001415",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/09/01 00:00",
+  "sortfirstauthor": "Collins JA",
+  "vernaculartitle": ""
+}

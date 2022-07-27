@@ -1,0 +1,217 @@
+{
+  "uid": "32313080",
+  "pubdate": "2020 Apr 20",
+  "epubdate": "2020 Apr 20",
+  "source": "Nat Commun",
+  "authors": [
+    {
+      "name": "Furtwängler A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rohrlach AB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lamnidis TC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Papac L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neumann GU",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Siebke I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reiter E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Steuri N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hald J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Denaire A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schnitzler B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wahl J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramstein M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schuenemann VJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stockhammer PW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hafner A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lösch S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haak W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schiffels S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krause J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Krause J",
+  "title": "Ancient genomes reveal social and genetic structure of Late Neolithic Switzerland.",
+  "sorttitle": "ancient genomes reveal social and genetic structure of late neolithic switzerland",
+  "volume": "11",
+  "issue": "1",
+  "pages": "1915",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101528555",
+  "issn": "",
+  "essn": "2041-1723",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32313080"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41467-020-15560-x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41467-020-15560-x"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7171184"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32313080"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32313080"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7171184;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/08/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/03/13 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/08/05 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Commun. 2020 Sep 16;11(1):4759",
+      "reftype": "Erratum in",
+      "pmid": 32938921,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Nature communications",
+  "elocationid": "doi: 10.1038/s41467-020-15560-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/04/20 00:00",
+  "sortfirstauthor": "Furtwängler A",
+  "vernaculartitle": ""
+}

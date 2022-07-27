@@ -1,0 +1,118 @@
+{
+  "uid": "28353066",
+  "pubdate": "2017 May",
+  "epubdate": "",
+  "source": "Anaesthesist",
+  "authors": [
+    {
+      "name": "Coburn M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van Aken H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rossaint R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rossaint R",
+  "title": "[Comment on: What is the appropriate anesthesia for thrombectomy?]",
+  "sorttitle": "comment on what is the appropriate anesthesia for thrombectomy",
+  "volume": "66",
+  "issue": "5",
+  "pages": "363-365",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "0370525",
+  "issn": "0003-2417",
+  "essn": "1432-055X",
+  "pubtype": [
+    "Comment",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28353066"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00101-017-0302-8"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00101-017-0302-8"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28353066"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28353066"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/03/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/10/20 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/03/30 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA. 2016 Nov 15;316(19):1986-1996",
+      "reftype": "Comment on",
+      "pmid": 27785516,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesist. 2017 Sep;66(9):714-716",
+      "reftype": "Comment in",
+      "pmid": 28681071,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Der Anaesthesist",
+  "elocationid": "doi: 10.1007/s00101-017-0302-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/05/01 00:00",
+  "sortfirstauthor": "Coburn M",
+  "vernaculartitle": "Kommentar zu: Welches ist die geeignete Anästhesie zur Thrombektomie?"
+}

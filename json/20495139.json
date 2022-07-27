@@ -1,0 +1,130 @@
+{
+  "uid": "20495139",
+  "pubdate": "2010 Nov",
+  "epubdate": "2010 May 21",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Allen TK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "George RB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "White WD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muir HA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Habib AS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Habib AS",
+  "title": "A double-blind, placebo-controlled trial of four fixed rate infusion regimens of phenylephrine for hemodynamic support during spinal anesthesia for cesarean delivery.",
+  "sorttitle": "double blind placebo controlled trial of four fixed rate infusion regimens of phenylephrine for hemodynamic support during spinal anesthesia for cesarean delivery",
+  "volume": "111",
+  "issue": "5",
+  "pages": "1221-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20495139"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ANE.0b013e3181e1db21"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0b013e3181e1db21"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20495139"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20495139"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/05/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/05/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/11/17 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2011 Oct;113(4):800",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2010 Nov;111(5):1093-5",
+      "reftype": "Comment in",
+      "pmid": 20971959,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 22,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0b013e3181e1db21",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/11/01 00:00",
+  "sortfirstauthor": "Allen TK",
+  "vernaculartitle": ""
+}

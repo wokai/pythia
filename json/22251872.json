@@ -1,0 +1,119 @@
+{
+  "uid": "22251872",
+  "pubdate": "2012 Jan 18",
+  "epubdate": "2012 Jan 18",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "König J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zarnack K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Luscombe NM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ule J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ule J",
+  "title": "Protein-RNA interactions: new genomic technologies and perspectives.",
+  "sorttitle": "protein rna interactions new genomic technologies and perspectives",
+  "volume": "13",
+  "issue": "2",
+  "pages": "77-83",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22251872"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrg3141"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrg3141"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22251872"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22251872"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/01/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/01/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/03/23 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Rev Genet. 2012 Mar;13(3):220",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 163,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "doi: 10.1038/nrg3141",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/01/18 00:00",
+  "sortfirstauthor": "König J",
+  "vernaculartitle": ""
+}

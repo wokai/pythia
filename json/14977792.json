@@ -1,0 +1,115 @@
+{
+  "uid": "14977792",
+  "pubdate": "2004 Apr",
+  "epubdate": "2004 Feb 20",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Ngan Kee WD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khaw KS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ng FF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ng FF",
+  "title": "Comparison of phenylephrine infusion regimens for maintaining maternal blood pressure during spinal anaesthesia for Caesarean section.",
+  "sorttitle": "comparison of phenylephrine infusion regimens for maintaining maternal blood pressure during spinal anaesthesia for caesarean section",
+  "volume": "92",
+  "issue": "4",
+  "pages": "469-74",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14977792"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aeh088"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)36104-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14977792"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14977792"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/02/24 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/04/15 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/02/24 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2004 Apr;92(4):459-61",
+      "reftype": "Comment in",
+      "pmid": 15013956,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 32,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/04/01 00:00",
+  "sortfirstauthor": "Ngan Kee WD",
+  "vernaculartitle": ""
+}

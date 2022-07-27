@@ -1,0 +1,130 @@
+{
+  "uid": "32195698",
+  "pubdate": "2020 Jun",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Greenland JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Michelow MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "London MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "London MJ",
+  "title": "COVID-19 Infection: Implications for Perioperative and Critical Care Physicians.",
+  "sorttitle": "covid 19 infection implications for perioperative and critical care physicians",
+  "volume": "132",
+  "issue": "6",
+  "pages": "1346-1361",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32195698"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000003303"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7155909"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32195698"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32195698"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7155909;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/03/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/16 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/03/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2020 Sep;133(3):677-678",
+      "reftype": "Comment in",
+      "pmid": 32604139,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2020 Sep;133(3):693",
+      "reftype": "Erratum in",
+      "pmid": 32662617,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 74,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000003303",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/06/01 00:00",
+  "sortfirstauthor": "Greenland JR",
+  "vernaculartitle": ""
+}

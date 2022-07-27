@@ -1,0 +1,146 @@
+{
+  "uid": "31418810",
+  "pubdate": "2019 Aug 2",
+  "epubdate": "2019 Aug 2",
+  "source": "JAMA Netw Open",
+  "authors": [
+    {
+      "name": "Kroth PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morioka-Douglas N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Veres S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Babbott S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Poplau S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Qeadan F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parshall C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Corrigan K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Linzer M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Linzer M",
+  "title": "Association of Electronic Health Record Design and Use Factors With Clinician Stress and Burnout.",
+  "sorttitle": "association of electronic health record design and use factors with clinician stress and burnout",
+  "volume": "2",
+  "issue": "8",
+  "pages": "e199609",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101729235",
+  "issn": "",
+  "essn": "2574-3805",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31418810"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2748054"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jamanetworkopen.2019.9609"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6704736"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31418810"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31418810"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6704736;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/08/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/08/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/06/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 37,
+  "fulljournalname": "JAMA network open",
+  "elocationid": "doi: 10.1001/jamanetworkopen.2019.9609",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/08/02 00:00",
+  "sortfirstauthor": "Kroth PJ",
+  "vernaculartitle": ""
+}

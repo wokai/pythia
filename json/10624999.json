@@ -1,0 +1,110 @@
+{
+  "uid": "10624999",
+  "pubdate": "2000 Jan",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Larsen B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seitz A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Larsen R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Larsen R",
+  "title": "Recovery of cognitive function after remifentanil-propofol anesthesia: a comparison with desflurane and sevoflurane anesthesia.",
+  "sorttitle": "recovery of cognitive function after remifentanil propofol anesthesia a comparison with desflurane and sevoflurane anesthesia",
+  "volume": "90",
+  "issue": "1",
+  "pages": "168-74",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "10624999"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000539-200001000-00035"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "10624999"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "10624999"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2000/01/07 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2000/01/07 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2000/01/07 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2001 Mar;92(3):797",
+      "reftype": "Comment in",
+      "pmid": 11226125,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/01/01 00:00",
+  "sortfirstauthor": "Larsen B",
+  "vernaculartitle": ""
+}

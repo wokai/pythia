@@ -1,0 +1,140 @@
+{
+  "uid": "32146924",
+  "pubdate": "2020 Mar",
+  "epubdate": "2020 Feb 12",
+  "source": "Lancet Respir Med",
+  "authors": [
+    {
+      "name": "Ippolito G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hui DS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ntoumi F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maeurer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zumla A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zumla A",
+  "title": "Toning down the 2019-nCoV media hype-and restoring hope.",
+  "sorttitle": "toning down the 2019 ncov media hype and restoring hope",
+  "volume": "8",
+  "issue": "3",
+  "pages": "230-231",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101605555",
+  "issn": "2213-2600",
+  "essn": "2213-2619",
+  "pubtype": [
+    "Comment",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32146924"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2213-2600(20)30070-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S2213-2600(20)30070-9"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7129403"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32146924"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32146924"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7129403;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/02/10 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/03/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/03/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/19 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet Infect Dis. 2014 Oct;14(10):1001-10",
+      "reftype": "Comment on",
+      "pmid": 25189351,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 15,
+  "fulljournalname": "The Lancet. Respiratory medicine",
+  "elocationid": "doi: 10.1016/S2213-2600(20)30070-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/03/01 00:00",
+  "sortfirstauthor": "Ippolito G",
+  "vernaculartitle": ""
+}

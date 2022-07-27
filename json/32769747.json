@@ -1,0 +1,107 @@
+{
+  "uid": "32769747",
+  "pubdate": "2020 Oct",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Yu Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Qi J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wang Y",
+  "title": "Intraoperative hypotension and neurological outcomes.",
+  "sorttitle": "intraoperative hypotension and neurological outcomes",
+  "volume": "33",
+  "issue": "5",
+  "pages": "646-650",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32769747"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0000000000000904"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00001503-202010000-00006"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32769747"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32769747"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/08 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0000000000000904",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/01 00:00",
+  "sortfirstauthor": "Yu Q",
+  "vernaculartitle": ""
+}

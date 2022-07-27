@@ -1,0 +1,96 @@
+{
+  "uid": "7149305",
+  "pubdate": "1982 Dec",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Murphy MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hug CC Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hug CC Jr",
+  "title": "The anesthetic potency of fentanyl in terms of its reduction of enflurane MAC.",
+  "sorttitle": "anesthetic potency of fentanyl in terms of its reduction of enflurane mac",
+  "volume": "57",
+  "issue": "6",
+  "pages": "485-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "7149305"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-198212000-00009"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "7149305"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "7149305"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1982/12/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/03/28 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1982/12/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1982/12/01 00:00",
+  "sortfirstauthor": "Murphy MR",
+  "vernaculartitle": ""
+}

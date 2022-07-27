@@ -1,0 +1,173 @@
+{
+  "uid": "22326800",
+  "pubdate": "2012 Aug",
+  "epubdate": "2012 Feb 4",
+  "source": "J Biomed Inform",
+  "authors": [
+    {
+      "name": "Rea S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pathak J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Savova G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oniki TA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Westberg L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beebe CE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tao C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parker CG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haug PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huff SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chute CG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chute CG",
+  "title": "Building a robust, scalable and standards-driven infrastructure for secondary use of EHR data: the SHARPn project.",
+  "sorttitle": "building a robust scalable and standards driven infrastructure for secondary use of ehr data the sharpn project",
+  "volume": "45",
+  "issue": "4",
+  "pages": "763-71",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100970413",
+  "issn": "1532-0464",
+  "essn": "1532-0480",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22326800"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1532-0464(12)00020-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jbi.2012.01.009"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4905766"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS791416"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22326800"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22326800"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4905766;manuscript-id: NIHMS791416;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2011/09/02 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2012/01/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2012/01/25 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2012/02/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/02/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/03/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 76,
+  "fulljournalname": "Journal of biomedical informatics",
+  "elocationid": "doi: 10.1016/j.jbi.2012.01.009",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/08/01 00:00",
+  "sortfirstauthor": "Rea S",
+  "vernaculartitle": ""
+}

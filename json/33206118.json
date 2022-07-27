@@ -1,0 +1,100 @@
+{
+  "uid": "33206118",
+  "pubdate": "2021 Feb 1",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Saugel B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sessler DI",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sessler DI",
+  "title": "Perioperative Blood Pressure Management.",
+  "sorttitle": "perioperative blood pressure management",
+  "volume": "134",
+  "issue": "2",
+  "pages": "250-261",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33206118"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "112317"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000003610"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33206118"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33206118"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/17 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/18 12:12"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 5,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000003610",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/01 00:00",
+  "sortfirstauthor": "Saugel B",
+  "vernaculartitle": ""
+}

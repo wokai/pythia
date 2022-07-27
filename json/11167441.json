@@ -1,0 +1,123 @@
+{
+  "uid": "11167441",
+  "pubdate": "2001 Jan",
+  "epubdate": "",
+  "source": "Anaesthesia",
+  "authors": [
+    {
+      "name": "McLeod G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davies H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Munnoch N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bannister J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "MacRae W",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "MacRae W",
+  "title": "Postoperative pain relief using thoracic epidural analgesia: outstanding success and disappointing failures.",
+  "sorttitle": "postoperative pain relief using thoracic epidural analgesia outstanding success and disappointing failures",
+  "volume": "56",
+  "issue": "1",
+  "pages": "75-81",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370524",
+  "issn": "0003-2409",
+  "essn": "1365-2044",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11167441"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ana1763-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1046/j.1365-2044.2001.01763-7.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11167441"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11167441"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2001/02/13 11:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/03/17 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2001/02/13 11:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anaesthesia. 2001 Jul;56(7):706",
+      "reftype": "Comment in",
+      "pmid": 11437783,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "Anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2001/01/01 00:00",
+  "sortfirstauthor": "McLeod G",
+  "vernaculartitle": ""
+}

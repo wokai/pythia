@@ -1,0 +1,100 @@
+{
+  "uid": "12154361",
+  "pubdate": "2002 Aug",
+  "epubdate": "",
+  "source": "Nat Rev Neurosci",
+  "authors": [
+    {
+      "name": "Pace-Schott EF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hobson JA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hobson JA",
+  "title": "The neurobiology of sleep: genetics, cellular physiology and subcortical networks.",
+  "sorttitle": "neurobiology of sleep genetics cellular physiology and subcortical networks",
+  "volume": "3",
+  "issue": "8",
+  "pages": "591-605",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962781",
+  "issn": "1471-003X",
+  "essn": "1471-0048",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12154361"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrn895"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrn895"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12154361"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12154361"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2002/08/03 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/09/11 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2002/08/03 10:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 192,
+  "fulljournalname": "Nature reviews. Neuroscience",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2002/08/01 00:00",
+  "sortfirstauthor": "Pace-Schott EF",
+  "vernaculartitle": ""
+}

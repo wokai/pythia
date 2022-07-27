@@ -1,0 +1,157 @@
+{
+  "uid": "22288687",
+  "pubdate": "2012 Apr",
+  "epubdate": "",
+  "source": "Diabet Med",
+  "authors": [
+    {
+      "name": "Dhatariya K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levy N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kilvert A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watson B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cousins D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Flanagan D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hilton L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jairam C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leyden K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipp A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lobo D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sinclair-Hammersley M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rayman G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Joint British Diabetes Societies.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rayman G",
+  "title": "NHS Diabetes guideline for the perioperative management of the adult patient with diabetes.",
+  "sorttitle": "nhs diabetes guideline for the perioperative management of the adult patient with diabetes",
+  "volume": "29",
+  "issue": "4",
+  "pages": "420-33",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8500858",
+  "issn": "0742-3071",
+  "essn": "1464-5491",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22288687"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1464-5491.2012.03582.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22288687"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22288687"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/02/01 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/02/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/07/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 37,
+  "fulljournalname": "Diabetic medicine : a journal of the British Diabetic Association",
+  "elocationid": "doi: 10.1111/j.1464-5491.2012.03582.x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/04/01 00:00",
+  "sortfirstauthor": "Dhatariya K",
+  "vernaculartitle": ""
+}

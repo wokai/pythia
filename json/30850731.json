@@ -1,0 +1,129 @@
+{
+  "uid": "30850731",
+  "pubdate": "2019 Jul",
+  "epubdate": "2019 Mar 8",
+  "source": "Eye (Lond)",
+  "authors": [
+    {
+      "name": "Makuloluwa AK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tiew S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Briggs M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Briggs M",
+  "title": "Peri-operative management of ophthalmic patients on anti-thrombotic agents: a literature review.",
+  "sorttitle": "peri operative management of ophthalmic patients on anti thrombotic agents a literature review",
+  "volume": "33",
+  "issue": "7",
+  "pages": "1044-1059",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8703986",
+  "issn": "0950-222X",
+  "essn": "1476-5454",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30850731"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41433-019-0382-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41433-019-0382-6"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6707318"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30850731"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30850731"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6707318;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/08/19 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/01/20 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/12/25 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/03/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/28 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/03/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Eye (London, England)",
+  "elocationid": "doi: 10.1038/s41433-019-0382-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/07/01 00:00",
+  "sortfirstauthor": "Makuloluwa AK",
+  "vernaculartitle": ""
+}

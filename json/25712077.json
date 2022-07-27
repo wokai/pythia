@@ -1,0 +1,195 @@
+{
+  "uid": "25712077",
+  "pubdate": "2015 Mar",
+  "epubdate": "",
+  "source": "Eur Heart J Cardiovasc Imaging",
+  "authors": [
+    {
+      "name": "Lang RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Badano LP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mor-Avi V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Afilalo J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Armstrong A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ernande L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Flachskampf FA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Foster E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goldstein SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kuznetsova T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lancellotti P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muraru D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Picard MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rietzschel ER",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rudski L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spencer KT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tsang W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Voigt JU",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Voigt JU",
+  "title": "Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European Association of Cardiovascular Imaging.",
+  "sorttitle": "recommendations for cardiac chamber quantification by echocardiography in adults an update from the american society of echocardiography and the european association of cardiovascular imaging",
+  "volume": "16",
+  "issue": "3",
+  "pages": "233-70",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101573788",
+  "issn": "2047-2404",
+  "essn": "2047-2412",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25712077"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "jev014"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/ehjci/jev014"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25712077"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25712077"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/02/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/02/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/12/15 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur Heart J Cardiovasc Imaging. 2016 Apr;17(4):412",
+      "reftype": "Erratum in",
+      "pmid": 26983884,
+      "note": ""
+    },
+    {
+      "refsource": "Eur Heart J Cardiovasc Imaging. 2016 Sep;17 (9):969",
+      "reftype": "Erratum in",
+      "pmid": 27424030,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 955,
+  "fulljournalname": "European heart journal cardiovascular Imaging",
+  "elocationid": "doi: 10.1093/ehjci/jev014",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/03/01 00:00",
+  "sortfirstauthor": "Lang RM",
+  "vernaculartitle": ""
+}

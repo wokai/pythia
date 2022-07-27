@@ -1,0 +1,144 @@
+{
+  "uid": "28106820",
+  "pubdate": "2017 Jan 19",
+  "epubdate": "2017 Jan 19",
+  "source": "Sensors (Basel)",
+  "authors": [
+    {
+      "name": "Chen C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhao XL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li ZH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhu ZG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Qian SH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Flewitt AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Flewitt AJ",
+  "title": "Current and Emerging Technology for Continuous Glucose Monitoring.",
+  "sorttitle": "current and emerging technology for continuous glucose monitoring",
+  "volume": "17",
+  "issue": "1",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101204366",
+  "issn": "",
+  "essn": "1424-8220",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28106820"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "s17010182"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/s17010182"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5298755"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28106820"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28106820"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5298755;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/10/14 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/12/19 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/12/20 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/01/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/01/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/05/25 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 47,
+  "fulljournalname": "Sensors (Basel, Switzerland)",
+  "elocationid": "pii: E182. doi: 10.3390/s17010182",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/19 00:00",
+  "sortfirstauthor": "Chen C",
+  "vernaculartitle": ""
+}

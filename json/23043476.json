@@ -1,0 +1,114 @@
+{
+  "uid": "23043476",
+  "pubdate": "2012 Sep",
+  "epubdate": "",
+  "source": "Future Med Chem",
+  "authors": [
+    {
+      "name": "Gruber CW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koehbach J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muttenthaler M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Muttenthaler M",
+  "title": "Exploring bioactive peptides from natural sources for oxytocin and vasopressin drug discovery.",
+  "sorttitle": "exploring bioactive peptides from natural sources for oxytocin and vasopressin drug discovery",
+  "volume": "4",
+  "issue": "14",
+  "pages": "1791-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101511162",
+  "issn": "1756-8919",
+  "essn": "1756-8927",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23043476"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.4155/fmc.12.108"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3816348"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "EMS55385"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23043476"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23043476"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3816348;manuscript-id: EMS55385;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/10/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/10/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/03/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 23,
+  "fulljournalname": "Future medicinal chemistry",
+  "elocationid": "doi: 10.4155/fmc.12.108",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/09/01 00:00",
+  "sortfirstauthor": "Gruber CW",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,123 @@
+{
+  "uid": "24508177",
+  "pubdate": "2014 Jun",
+  "epubdate": "2014 Feb 4",
+  "source": "J Biomed Inform",
+  "authors": [
+    {
+      "name": "Skeppstedt M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kvist M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nilsson GH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dalianis H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dalianis H",
+  "title": "Automatic recognition of disorders, findings, pharmaceuticals and body structures from clinical text: an annotation and machine learning study.",
+  "sorttitle": "automatic recognition of disorders findings pharmaceuticals and body structures from clinical text an annotation and machine learning study",
+  "volume": "49",
+  "issue": "",
+  "pages": "148-58",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100970413",
+  "issn": "1532-0464",
+  "essn": "1532-0480",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24508177"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1532-0464(14)00014-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jbi.2014.01.012"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24508177"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24508177"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/07/10 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2014/01/17 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/01/23 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/02/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/02/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/02/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "Journal of biomedical informatics",
+  "elocationid": "doi: 10.1016/j.jbi.2014.01.012",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/06/01 00:00",
+  "sortfirstauthor": "Skeppstedt M",
+  "vernaculartitle": ""
+}

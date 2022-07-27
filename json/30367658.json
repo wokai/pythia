@@ -1,0 +1,140 @@
+{
+  "uid": "30367658",
+  "pubdate": "2018 Oct 26",
+  "epubdate": "2018 Oct 26",
+  "source": "J Biomed Sci",
+  "authors": [
+    {
+      "name": "Chen HL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu SH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hsu SH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liou BY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen HL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chang MH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chang MH",
+  "title": "Jaundice revisited: recent advances in the diagnosis and treatment of inherited cholestatic liver diseases.",
+  "sorttitle": "jaundice revisited recent advances in the diagnosis and treatment of inherited cholestatic liver diseases",
+  "volume": "25",
+  "issue": "1",
+  "pages": "75",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421567",
+  "issn": "1021-7770",
+  "essn": "1423-0127",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30367658"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s12929-018-0475-8"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s12929-018-0475-8"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6203212"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30367658"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30367658"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6203212;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/05/11 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/10/03 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/10/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/10/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/19 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Journal of biomedical science",
+  "elocationid": "doi: 10.1186/s12929-018-0475-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/26 00:00",
+  "sortfirstauthor": "Chen HL",
+  "vernaculartitle": ""
+}

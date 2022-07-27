@@ -1,0 +1,104 @@
+{
+  "uid": "12911526",
+  "pubdate": "2003 Sep",
+  "epubdate": "",
+  "source": "Kidney Int",
+  "authors": [
+    {
+      "name": "Corey HE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Corey HE",
+  "title": "Stewart and beyond: new models of acid-base balance.",
+  "sorttitle": "stewart and beyond new models of acid base balance",
+  "volume": "64",
+  "issue": "3",
+  "pages": "777-87",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0323470",
+  "issn": "0085-2538",
+  "essn": "1523-1755",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12911526"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0085-2538(15)49397-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1046/j.1523-1755.2003.00177.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12911526"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12911526"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/08/13 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/04/15 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/08/13 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Kidney Int. 2004 Mar;65(3):1112; author reply 1112-3",
+      "reftype": "Comment in",
+      "pmid": 14871437,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "Kidney international",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/09/01 00:00",
+  "sortfirstauthor": "Corey HE",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,119 @@
+{
+  "uid": "21884931",
+  "pubdate": "2011 Sep 2",
+  "epubdate": "",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Rubinsztein DC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mariño G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kroemer G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kroemer G",
+  "title": "Autophagy and aging.",
+  "sorttitle": "autophagy and aging",
+  "volume": "146",
+  "issue": "5",
+  "pages": "682-95",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21884931"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(11)00828-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2011.07.030"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21884931"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21884931"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2011/04/23 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2011/06/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2011/07/25 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2011/09/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/09/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/11/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 700,
+  "fulljournalname": "Cell",
+  "elocationid": "doi: 10.1016/j.cell.2011.07.030",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/09/02 00:00",
+  "sortfirstauthor": "Rubinsztein DC",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,146 @@
+{
+  "uid": "33857967",
+  "pubdate": "2021 May 1",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Moody OA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang ER",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vincent KF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kato R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Melonakos ED",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nehs CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Solt K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Solt K",
+  "title": "The Neural Circuits Underlying General Anesthesia and Sleep.",
+  "sorttitle": "neural circuits underlying general anesthesia and sleep",
+  "volume": "132",
+  "issue": "5",
+  "pages": "1254-1264",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33857967"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000005361"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-202105000-00012"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8054915"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1651850"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33857967"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33857967"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8054915;manuscript-id: NIHMS1651850;embargo-date: 2022/05/01;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pmc-release",
+      "date": "2022/05/01 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/04/15 20:30"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/04/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/05/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000005361",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/05/01 00:00",
+  "sortfirstauthor": "Moody OA",
+  "vernaculartitle": ""
+}

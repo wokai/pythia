@@ -1,0 +1,111 @@
+{
+  "uid": "33555690",
+  "pubdate": "2021 Jul 1",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Hallqvist L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Granath F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fored M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bell M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bell M",
+  "title": "Intraoperative Hypotension and Myocardial Infarction Development Among High-Risk Patients Undergoing Noncardiac Surgery: A Nested Case-Control Study.",
+  "sorttitle": "intraoperative hypotension and myocardial infarction development among high risk patients undergoing noncardiac surgery a nested case control study",
+  "volume": "133",
+  "issue": "1",
+  "pages": "6-15",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33555690"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000005391"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-202107000-00003"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33555690"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33555690"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/02/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/02/08 13:14"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000005391",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/07/01 00:00",
+  "sortfirstauthor": "Hallqvist L",
+  "vernaculartitle": ""
+}

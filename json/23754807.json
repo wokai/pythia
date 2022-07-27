@@ -1,0 +1,119 @@
+{
+  "uid": "23754807",
+  "pubdate": "2013 Jul 19",
+  "epubdate": "2013 Jun 10",
+  "source": "Philos Trans R Soc Lond B Biol Sci",
+  "authors": [
+    {
+      "name": "Lane N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin WF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Raven JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Allen JF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Allen JF",
+  "title": "Energy, genes and evolution: introduction to an evolutionary synthesis.",
+  "sorttitle": "energy genes and evolution introduction to an evolutionary synthesis",
+  "volume": "368",
+  "issue": "1622",
+  "pages": "20120253",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7503623",
+  "issn": "0962-8436",
+  "essn": "1471-2970",
+  "pubtype": [],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "257",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23754807"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "rstb.2012.0253"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1098/rstb.2012.0253"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3685456"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23754807"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23754807"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3685456;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/06/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/06/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/01/24 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+  "elocationid": "doi: 10.1098/rstb.2012.0253",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/06/10 00:00",
+  "sortfirstauthor": "Lane N",
+  "vernaculartitle": ""
+}

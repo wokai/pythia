@@ -1,0 +1,102 @@
+{
+  "uid": "29521890",
+  "pubdate": "2018 Apr",
+  "epubdate": "",
+  "source": "J Neurosurg Anesthesiol",
+  "authors": [
+    {
+      "name": "Pasternak JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lanier WL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lanier WL",
+  "title": "Neuroanesthesiology Update.",
+  "sorttitle": "neuroanesthesiology update",
+  "volume": "30",
+  "issue": "2",
+  "pages": "106-145",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8910749",
+  "issn": "0898-4921",
+  "essn": "1537-1921",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29521890"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ANA.0000000000000489"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00008506-201804000-00002"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29521890"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29521890"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/03/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/03/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/09/11 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Journal of neurosurgical anesthesiology",
+  "elocationid": "doi: 10.1097/ANA.0000000000000489",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/04/01 00:00",
+  "sortfirstauthor": "Pasternak JJ",
+  "vernaculartitle": ""
+}

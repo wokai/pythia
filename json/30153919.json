@@ -1,0 +1,124 @@
+{
+  "uid": "30153919",
+  "pubdate": "2018 Oct",
+  "epubdate": "2018 Jul 25",
+  "source": "Int J Med Inform",
+  "authors": [
+    {
+      "name": "Kaneko K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Onozuka D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shibuta H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hagihara A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hagihara A",
+  "title": "Impact of electronic medical records (EMRs) on hospital productivity in Japan.",
+  "sorttitle": "impact of electronic medical records emrs on hospital productivity in japan",
+  "volume": "118",
+  "issue": "",
+  "pages": "36-43",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9711057",
+  "issn": "1386-5056",
+  "essn": "1872-8243",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30153919"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1386-5056(18)30615-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijmedinf.2018.07.008"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30153919"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30153919"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/05/30 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/07/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/07/24 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/08/30 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/08/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/05/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "International journal of medical informatics",
+  "elocationid": "doi: 10.1016/j.ijmedinf.2018.07.008",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "Kaneko K",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,114 @@
+{
+  "uid": "33186160",
+  "pubdate": "2020 Dec",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Hol L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nijbroek SGLH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schultz MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schultz MJ",
+  "title": "Perioperative Lung Protection: Clinical Implications.",
+  "sorttitle": "perioperative lung protection clinical implications",
+  "volume": "131",
+  "issue": "6",
+  "pages": "1721-1729",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33186160"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000005187"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-202012000-00009"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33186160"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33186160"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/13 17:08"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2020 Dec;131(6):1663-1665",
+      "reftype": "Comment in",
+      "pmid": 33186154,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000005187",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/01 00:00",
+  "sortfirstauthor": "Hol L",
+  "vernaculartitle": ""
+}

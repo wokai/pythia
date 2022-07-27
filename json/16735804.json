@@ -1,0 +1,102 @@
+{
+  "uid": "16735804",
+  "pubdate": "2006 Jun",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Ngan Kee WD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khaw KS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Khaw KS",
+  "title": "Vasopressors in obstetrics: what should we be using?",
+  "sorttitle": "vasopressors in obstetrics what should we be using",
+  "volume": "19",
+  "issue": "3",
+  "pages": "238-43",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16735804"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/01.aco.0000192816.22989.ba"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00001503-200606000-00003"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16735804"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16735804"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2006/06/01 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/09/13 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2006/06/01 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2006/06/01 00:00",
+  "sortfirstauthor": "Ngan Kee WD",
+  "vernaculartitle": ""
+}

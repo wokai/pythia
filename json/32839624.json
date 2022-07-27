@@ -1,0 +1,291 @@
+{
+  "uid": "32839624",
+  "pubdate": "2020 Oct",
+  "epubdate": "2020 Aug 24",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "Del Valle DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim-Schulze S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huang HH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beckmann ND",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nirenberg S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lavin Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Swartz TH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Madduri D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stock A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marron TU",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xie H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patel M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tuballes K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van Oekelen O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rahman A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kovatch P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aberg JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schadt E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jagannath S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mazumdar M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Charney AW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Firpo-Betancourt A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mendu DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jhang J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reich D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sigel K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cordon-Cardo C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feldmann M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parekh S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Merad M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gnjatic S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gnjatic S",
+  "title": "An inflammatory cytokine signature predicts COVID-19 severity and survival.",
+  "sorttitle": "inflammatory cytokine signature predicts covid 19 severity and survival",
+  "volume": "26",
+  "issue": "10",
+  "pages": "1636-1643",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32839624"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-020-1051-9"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-020-1051-9"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7869028"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1660695"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32839624"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32839624"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7869028;manuscript-id: NIHMS1660695;embargo-date: 2021/10/01;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/05/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/08/04 00:00"
+    },
+    {
+      "pubstatus": "pmc-release",
+      "date": "2021/10/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/23 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/26 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "medRxiv. 2020 May 30;:",
+      "reftype": "Update of",
+      "pmid": 32511562,
+      "note": ""
+    },
+    {
+      "refsource": "Eur Heart J. 2021 Jan 7;42(2):150-151",
+      "reftype": "Comment in",
+      "pmid": 33462598,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 111,
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-020-1051-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/01 00:00",
+  "sortfirstauthor": "Del Valle DM",
+  "vernaculartitle": ""
+}

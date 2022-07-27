@@ -1,0 +1,173 @@
+{
+  "uid": "31281593",
+  "pubdate": "2019",
+  "epubdate": "2019 Jun 10",
+  "source": "Oxid Med Cell Longev",
+  "authors": [
+    {
+      "name": "Gonnissen S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ptok J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goy C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jander K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jakobs P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eckermann O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaisers W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "von Ameln F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Timm J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ale-Agha N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haendeler J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schaal H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Altschmied J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Altschmied J",
+  "title": "High Concentration of Low-Density Lipoprotein Results in Disturbances in Mitochondrial Transcription and Functionality in Endothelial Cells.",
+  "sorttitle": "high concentration of low density lipoprotein results in disturbances in mitochondrial transcription and functionality in endothelial cells",
+  "volume": "2019",
+  "issue": "",
+  "pages": "7976382",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101479826",
+  "issn": "1942-0900",
+  "essn": "1942-0994",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31281593"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1155/2019/7976382"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6590621"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31281593"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31281593"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6590621;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/01/24 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/04/30 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/05/14 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/07/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/07/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Oxidative medicine and cellular longevity",
+  "elocationid": "doi: 10.1155/2019/7976382",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/06/10 00:00",
+  "sortfirstauthor": "Gonnissen S",
+  "vernaculartitle": ""
+}

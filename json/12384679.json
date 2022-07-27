@@ -1,0 +1,102 @@
+{
+  "uid": "12384679",
+  "pubdate": "2002 Oct 17",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Gebhardt K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gebhardt K",
+  "title": "Astronomy: into the heart of darkness.",
+  "sorttitle": "astronomy into the heart of darkness",
+  "volume": "419",
+  "issue": "6908",
+  "pages": "675-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Comment",
+    "News"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12384679"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/419675a"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "419675a"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12384679"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12384679"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2002/10/18 04:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/10/18 04:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2002/10/18 04:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2002 Oct 17;419(6908):694-6",
+      "reftype": "Comment on",
+      "pmid": 12384690,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2002/10/17 00:00",
+  "sortfirstauthor": "Gebhardt K",
+  "vernaculartitle": ""
+}

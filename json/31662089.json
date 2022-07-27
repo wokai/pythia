@@ -1,0 +1,136 @@
+{
+  "uid": "31662089",
+  "pubdate": "2019 Nov 6",
+  "epubdate": "2019 Oct 30",
+  "source": "Proc Biol Sci",
+  "authors": [
+    {
+      "name": "Turner N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mikalauskaite D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barone K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Flaherty K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Senevirathne G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Adachi N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shubin NH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nakamura T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Nakamura T",
+  "title": "The evolutionary origins and diversity of the neuromuscular system of paired appendages in batoids.",
+  "sorttitle": "evolutionary origins and diversity of the neuromuscular system of paired appendages in batoids",
+  "volume": "286",
+  "issue": "1914",
+  "pages": "20191571",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101245157",
+  "issn": "0962-8452",
+  "essn": "1471-2954",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31662089"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1098/rspb.2019.1571"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6842844"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31662089"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31662089"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6842844;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/10/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/10/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/06/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Proceedings. Biological sciences",
+  "elocationid": "doi: 10.1098/rspb.2019.1571",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/11/06 00:00",
+  "sortfirstauthor": "Turner N",
+  "vernaculartitle": ""
+}

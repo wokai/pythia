@@ -1,0 +1,110 @@
+{
+  "uid": "25246026",
+  "pubdate": "2014 Oct",
+  "epubdate": "2014 Sep 20",
+  "source": "Pathol Biol (Paris)",
+  "authors": [
+    {
+      "name": "Boivin DB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boudreau P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Boudreau P",
+  "title": "Impacts of shift work on sleep and circadian rhythms.",
+  "sorttitle": "impacts of shift work on sleep and circadian rhythms",
+  "volume": "62",
+  "issue": "5",
+  "pages": "292-301",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0265365",
+  "issn": "0369-8114",
+  "essn": "1768-3114",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25246026"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0369-8114(14)00123-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.patbio.2014.08.001"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25246026"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25246026"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/01/06 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/08/12 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/09/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/09/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/06/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 65,
+  "fulljournalname": "Pathologie-biologie",
+  "elocationid": "doi: 10.1016/j.patbio.2014.08.001",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/10/01 00:00",
+  "sortfirstauthor": "Boivin DB",
+  "vernaculartitle": ""
+}

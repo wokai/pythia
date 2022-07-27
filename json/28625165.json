@@ -1,0 +1,119 @@
+{
+  "uid": "28625165",
+  "pubdate": "2017 Jun 19",
+  "epubdate": "2017 Jun 19",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Monnet X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Teboul JL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Teboul JL",
+  "title": "Transpulmonary thermodilution: advantages and limits.",
+  "sorttitle": "transpulmonary thermodilution advantages and limits",
+  "volume": "21",
+  "issue": "1",
+  "pages": "147",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28625165"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13054-017-1739-5"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13054-017-1739-5"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5474867"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28625165"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28625165"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5474867;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/06/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/06/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/09/18 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Crit Care. 2017 Sep 18;21(1):242",
+      "reftype": "Comment in",
+      "pmid": 28923088,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 41,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/s13054-017-1739-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/06/19 00:00",
+  "sortfirstauthor": "Monnet X",
+  "vernaculartitle": ""
+}

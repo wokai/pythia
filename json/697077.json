@@ -1,0 +1,101 @@
+{
+  "uid": "697077",
+  "pubdate": "1978 Oct",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Owens WD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Felts JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spitznagel EL Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Spitznagel EL Jr",
+  "title": "ASA physical status classifications: a study of consistency of ratings.",
+  "sorttitle": "asa physical status classifications a study of consistency of ratings",
+  "volume": "49",
+  "issue": "4",
+  "pages": "239-43",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "697077"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-197810000-00003"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "697077"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "697077"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1978/10/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/03/28 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1978/10/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 324,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1978/10/01 00:00",
+  "sortfirstauthor": "Owens WD",
+  "vernaculartitle": ""
+}

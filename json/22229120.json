@@ -1,0 +1,112 @@
+{
+  "uid": "22229120",
+  "pubdate": "2011 Sep",
+  "epubdate": "",
+  "source": "Cold Spring Harb Perspect Med",
+  "authors": [
+    {
+      "name": "Sharp PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hahn BH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hahn BH",
+  "title": "Origins of HIV and the AIDS pandemic.",
+  "sorttitle": "origins of hiv and the aids pandemic",
+  "volume": "1",
+  "issue": "1",
+  "pages": "a006841",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101571139",
+  "issn": "",
+  "essn": "2157-1422",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22229120"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1101/cshperspect.a006841"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "a006841"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3234451"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22229120"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22229120"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3234451;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/01/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/01/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/01/10 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 305,
+  "fulljournalname": "Cold Spring Harbor perspectives in medicine",
+  "elocationid": "doi: 10.1101/cshperspect.a006841",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/09/01 00:00",
+  "sortfirstauthor": "Sharp PM",
+  "vernaculartitle": ""
+}

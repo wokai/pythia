@@ -1,0 +1,175 @@
+{
+  "uid": "26556848",
+  "pubdate": "2015 Dec",
+  "epubdate": "2015 Nov 10",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Frerk C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mitchell VS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McNarry AF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mendonca C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bhagrath R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patel A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Sullivan EP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Woodall NM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ahmad I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Difficult Airway Society intubation guidelines working group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ahmad I",
+  "title": "Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults.",
+  "sorttitle": "difficult airway society 2015 guidelines for management of unanticipated difficult intubation in adults",
+  "volume": "115",
+  "issue": "6",
+  "pages": "827-48",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Comment",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26556848"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)31431-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aev371"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4650961"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26556848"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26556848"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4650961;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2015/09/28 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/11/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/11/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/03/02 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2015 Dec;115(6):809-12",
+      "reftype": "Comment on",
+      "pmid": 26556849,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2015 Dec;115(6):812-4",
+      "reftype": "Comment on",
+      "pmid": 26556850,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2016 Jul;117(1):5-7",
+      "reftype": "Comment in",
+      "pmid": 27207773,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 290,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aev371",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/12/01 00:00",
+  "sortfirstauthor": "Frerk C",
+  "vernaculartitle": ""
+}

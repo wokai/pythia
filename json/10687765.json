@@ -1,0 +1,111 @@
+{
+  "uid": "10687765",
+  "pubdate": "1999 Nov",
+  "epubdate": "",
+  "source": "Aust N Z J Obstet Gynaecol",
+  "authors": [
+    {
+      "name": "Sendağ F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Terek C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oztekin K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sağol S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Asena U",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Asena U",
+  "title": "Comparison of epidural and general anaesthesia for elective caesarean delivery according to the effects of apgar scores and acid-base status.",
+  "sorttitle": "comparison of epidural and general anaesthesia for elective caesarean delivery according to the effects of apgar scores and acid base status",
+  "volume": "39",
+  "issue": "4",
+  "pages": "464-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0001027",
+  "issn": "0004-8666",
+  "essn": "1479-828X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "10687765"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1479-828x.1999.tb03134.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "10687765"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "10687765"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2000/02/25 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2000/03/11 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2000/02/25 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "The Australian & New Zealand journal of obstetrics & gynaecology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1999/11/01 00:00",
+  "sortfirstauthor": "Sendağ F",
+  "vernaculartitle": ""
+}

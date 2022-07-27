@@ -1,0 +1,113 @@
+{
+  "uid": "9539621",
+  "pubdate": "1998 Apr",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Overdyk FJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harvey SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fishman RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shippey F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Shippey F",
+  "title": "Successful strategies for improving operating room efficiency at academic institutions.",
+  "sorttitle": "successful strategies for improving operating room efficiency at academic institutions",
+  "volume": "86",
+  "issue": "4",
+  "pages": "896-906",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9539621"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000539-199804000-00039"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9539621"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9539621"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1998/04/16 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1998/04/16 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1998/04/16 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 1999 Apr;88(4):963",
+      "reftype": "Comment in",
+      "pmid": 10195560,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1998/04/01 00:00",
+  "sortfirstauthor": "Overdyk FJ",
+  "vernaculartitle": ""
+}

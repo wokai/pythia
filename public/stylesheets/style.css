@@ -1,0 +1,200 @@
+
+
+:root {
+  --ncbi-blue: 32, 85, 138;		/* 33 %:  #20558a */
+  --ncbi-blue-95: #eaf2fa;
+  --ncbi-blue-9: #d6e6f5;
+  --ncbi-blue-8: #acccec;
+  --ncbi-blue-7: #83b3e2;
+  --ncbi-blue-6: #5a99d8;
+  --ncbi-blue-5: #3080cf;
+  --ncbi-blue-4: #2766a5;
+  --ncbi-blue-3: #1d4d7c;
+  --ncbi-blue-2: #133353;
+  --ncbi-blue-1: #0a1a29;
+  --ncbi-blue-05: #050d15;
+  
+}
+
+
+.bg-ncbi {
+  background-color: rgb(var(--ncbi-blue));
+}
+.bg-ncbi-9 {
+  background-color: var(--ncbi-blue-9);
+}
+.bg-ncbi-8 {
+  background-color: var(--ncbi-blue-8); 
+}
+.bg-ncbi-7 {
+  background-color: var(--ncbi-blue-7);
+}
+.bg-ncbi-6 {
+  background-color: var(--ncbi-blue-6);
+}
+.bg-ncbi-5 {
+  background-color: var(--ncbi-blue-5);
+}
+.bg-ncbi-4 {
+  background-color: var(--ncbi-blue-4);
+}
+.bg-ncbi-3 {
+  background-color: var(--ncbi-blue-3);
+}
+.bg-ncbi-2 {
+  background-color: var(--ncbi-blue-2);
+}
+.bg-ncbi-1 {
+  background-color: var(--ncbi-blue-1);
+}
+.bg-ncbi-05{
+  background-color: var(--ncbi-blue-05);
+}
+
+
+a,
+a:hover,
+a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+/* ---------------------------------------------------------------------
+    TOPBAR
+--------------------------------------------------------------------- */
+
+#topbar li, #topbar li a {
+  color: var(--ncbi-blue-9);      /* Text color of hyperlink element */
+}
+
+
+#topbar li a.nav-link:hover{
+  background: var(--ncbi-blue-4);
+  transition: 0.5s;
+}
+
+
+/* ---------------------------------------------------------------------
+    NAVBAR STYLE
+--------------------------------------------------------------------- */
+
+
+
+/* ---------------------------------------------------------------------
+    SIDEBAR STYLE
+--------------------------------------------------------------------- */
+
+
+#sidebar {
+  background: var(--ncbi-blue-4);
+  color: #fff;              /* white */
+  transition: all 0.3s;
+}
+
+#sidebar .sidebar-header {
+  padding: 20px 0px 10px 10px;
+}
+
+#sidebar .nav-link {
+   color: #fff;       /* White text for sidebar buttons */
+}
+
+#sidebar button.active {
+  background: var(--ncbi-blue-6);
+}
+
+/* -----------------------------------------------------------------------------
+ * 
+ */
+
+
+
+#sidebar ul.components {
+  padding: 20px 0;                  /* Vertical spacing */
+  border-bottom: 1px solid #20558a; /* Horizontal dividing line */
+}
+
+#sidebar ul p {
+  color: #fff; /* Dummy Heading */
+  padding: 10px;
+}
+
+#sidebar ul li a {
+  color: var(--ncbi-blue-8);
+  padding: 10px;
+  font-size: 1.1em;
+  display: block;
+}
+
+#sidebar ul li a:hover {
+  color: var(--ncbi-blue-7);
+  background: #fff;
+}
+
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
+  color: #fff;
+  background: var(--ncbi-blue-6); /* Background of Home toggle */
+}
+
+a[data-toggle="collapse"] {
+  position: relative;
+}
+
+.dropdown-toggle::after {
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+}
+
+/* Descendant selector: Collapsing 'Home' menu*/
+ul ul a {
+  font-size: 0.9em !important;
+  padding-left: 30px !important;
+  background: var(--ncbi-blue-5);
+}
+
+ul.CTAs {
+    padding: 10px;
+}
+
+ul.CTAs a {
+  text-align: center;
+  font-size: 0.9em !important;
+  display: block;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+a.download {
+  background: #fff;
+  color: var(--ncbi-blue-8);
+}
+
+a.article,
+a.article:hover {
+  background: var(--ncbi-blue-8) !important;
+  color: #fff !important;
+}
+
+
+
+/* ---------------------------------------------------------------------
+    tabPanel and Tab-control
+--------------------------------------------------------------------- */
+
+
+#tabPanel li > a {
+  border: black;
+  padding: 7px 14px;
+  display: inline-block; /* Padding extends parent height */
+}
+
+
+.tab-control .tab-content{
+  margin-top: 4px;
+}
+

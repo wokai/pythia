@@ -1,0 +1,171 @@
+{
+  "uid": "26287299",
+  "pubdate": "2015 Sep",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Sun Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sessler DI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dalton JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Devereaux PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shahinyan A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Naylor AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hutcherson MT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Finnegan PS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tandon V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Darvish-Kazem S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chugh S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alzayer H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kurz A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kurz A",
+  "title": "Postoperative Hypoxemia Is Common and Persistent: A Prospective Blinded Observational Study.",
+  "sorttitle": "postoperative hypoxemia is common and persistent a prospective blinded observational study",
+  "volume": "121",
+  "issue": "3",
+  "pages": "709-15",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26287299"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000000836"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201509000-00017"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4825673"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS769100"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26287299"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26287299"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4825673;manuscript-id: NIHMS769100;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/08/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/08/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/11/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 27,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000000836",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/09/01 00:00",
+  "sortfirstauthor": "Sun Z",
+  "vernaculartitle": ""
+}

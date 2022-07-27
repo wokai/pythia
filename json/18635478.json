@@ -1,0 +1,140 @@
+{
+  "uid": "18635478",
+  "pubdate": "2008 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Murphy GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Szokol JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marymont JH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greenberg SB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Avram MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vender JS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Vender JS",
+  "title": "Residual neuromuscular blockade and critical respiratory events in the postanesthesia care unit.",
+  "sorttitle": "residual neuromuscular blockade and critical respiratory events in the postanesthesia care unit",
+  "volume": "107",
+  "issue": "1",
+  "pages": "130-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18635478"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "107/1/130"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ane.0b013e31816d1268"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18635478"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18635478"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/07/19 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/08/22 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/07/19 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2008 Jul;107(1):11-4",
+      "reftype": "Comment in",
+      "pmid": 18635461,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2008 Nov;107(5):1756; author reply 1756",
+      "reftype": "Comment in",
+      "pmid": 18931246,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2009 Jan;108(1):376; author reply 376-7",
+      "reftype": "Comment in",
+      "pmid": 19095878,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 71,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ane.0b013e31816d1268",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/07/01 00:00",
+  "sortfirstauthor": "Murphy GS",
+  "vernaculartitle": ""
+}

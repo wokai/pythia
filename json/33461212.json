@@ -1,0 +1,204 @@
+{
+  "uid": "33461212",
+  "pubdate": "2021 Feb",
+  "epubdate": "2021 Jan 18",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Meyer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schloissnig S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Franchini P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Du K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Woltering JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Irisarri I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong WY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nowoshilow S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kneitz S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kawaguchi A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fabrizius A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xiong P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dechaud C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spaink HP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Volff JN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Simakov O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burmester T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tanaka EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schartl M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schartl M",
+  "title": "Giant lungfish genome elucidates the conquest of land by vertebrates.",
+  "sorttitle": "giant lungfish genome elucidates the conquest of land by vertebrates",
+  "volume": "590",
+  "issue": "7845",
+  "pages": "284-289",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33461212"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-021-03198-8"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-021-03198-8"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7875771"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33461212"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33461212"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7875771;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/07/13 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/01/06 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/19 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/18 20:17"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-021-03198-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/01 00:00",
+  "sortfirstauthor": "Meyer A",
+  "vernaculartitle": ""
+}

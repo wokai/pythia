@@ -1,0 +1,107 @@
+{
+  "uid": "26726135",
+  "pubdate": "2016 Mar",
+  "epubdate": "2015 Dec 22",
+  "source": "Semin Perinatol",
+  "authors": [
+    {
+      "name": "Moroz LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Simpson LL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rochelson B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rochelson B",
+  "title": "Management of severe hypertension in pregnancy.",
+  "sorttitle": "management of severe hypertension in pregnancy",
+  "volume": "40",
+  "issue": "2",
+  "pages": "112-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7801132",
+  "issn": "0146-0005",
+  "essn": "1558-075X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26726135"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0146-0005(15)00177-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1053/j.semperi.2015.11.017"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26726135"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26726135"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/01/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/01/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/12/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Seminars in perinatology",
+  "elocationid": "doi: 10.1053/j.semperi.2015.11.017",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/03/01 00:00",
+  "sortfirstauthor": "Moroz LA",
+  "vernaculartitle": ""
+}

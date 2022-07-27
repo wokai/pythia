@@ -1,0 +1,119 @@
+{
+  "uid": "22483252",
+  "pubdate": "2013 Apr 30",
+  "epubdate": "2012 Apr 6",
+  "source": "Int J Cardiol",
+  "authors": [
+    {
+      "name": "MacIver DH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dayer MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harrison AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Harrison AJ",
+  "title": "A general theory of acute and chronic heart failure.",
+  "sorttitle": "general theory of acute and chronic heart failure",
+  "volume": "165",
+  "issue": "1",
+  "pages": "25-34",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8200291",
+  "issn": "0167-5273",
+  "essn": "1874-1754",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22483252"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0167-5273(12)00300-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijcard.2012.03.093"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22483252"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22483252"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2012/01/01 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2012/03/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2012/03/08 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2012/04/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/04/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/01/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "International journal of cardiology",
+  "elocationid": "doi: 10.1016/j.ijcard.2012.03.093",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/04/30 00:00",
+  "sortfirstauthor": "MacIver DH",
+  "vernaculartitle": ""
+}

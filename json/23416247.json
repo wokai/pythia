@@ -1,0 +1,119 @@
+{
+  "uid": "23416247",
+  "pubdate": "2013 Jul-Aug",
+  "epubdate": "2013 Feb 15",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Bassi J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lau F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lau F",
+  "title": "Measuring value for money: a scoping review on economic evaluation of health information systems.",
+  "sorttitle": "measuring value for money a scoping review on economic evaluation of health information systems",
+  "volume": "20",
+  "issue": "4",
+  "pages": "792-801",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23416247"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "amiajnl-2012-001422"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/amiajnl-2012-001422"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3721162"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23416247"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23416247"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3721162;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/02/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/02/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/09/04 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Am Med Inform Assoc. 2014 Jan-Feb;21(1):190-1",
+      "reftype": "Comment in",
+      "pmid": 24107460,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 17,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1136/amiajnl-2012-001422",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/07/01 00:00",
+  "sortfirstauthor": "Bassi J",
+  "vernaculartitle": ""
+}

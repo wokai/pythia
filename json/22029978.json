@@ -1,0 +1,203 @@
+{
+  "uid": "22029978",
+  "pubdate": "2011 Oct 27",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "McDonough JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yuan R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Suzuki M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seyednejad N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Elliott WM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sanchez PG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wright AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gefter WB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Litzky L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coxson HO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paré PD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sin DD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pierce RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Woods JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McWilliams AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mayo JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lam SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cooper JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hogg JC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hogg JC",
+  "title": "Small-airway obstruction and emphysema in chronic obstructive pulmonary disease.",
+  "sorttitle": "small airway obstruction and emphysema in chronic obstructive pulmonary disease",
+  "volume": "365",
+  "issue": "17",
+  "pages": "1567-75",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22029978"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa1106955"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3238466"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS338790"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22029978"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22029978"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3238466;manuscript-id: NIHMS338790;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/10/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/10/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/12/13 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2011 Oct 27;365(17):1637-9",
+      "reftype": "Comment in",
+      "pmid": 22029986,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 366,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa1106955",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/10/27 00:00",
+  "sortfirstauthor": "McDonough JE",
+  "vernaculartitle": ""
+}

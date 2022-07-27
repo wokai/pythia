@@ -1,0 +1,124 @@
+{
+  "uid": "30518903",
+  "pubdate": "2018 Dec",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Figueres C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Le Quéré C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mahindra A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bäte O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Whiteman G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peters G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guan D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Guan D",
+  "title": "Emissions are still rising: ramp up the cuts.",
+  "sorttitle": "emissions are still rising ramp up the cuts",
+  "volume": "564",
+  "issue": "7734",
+  "pages": "27-30",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30518903"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/d41586-018-07585-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/d41586-018-07585-6"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30518903"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30518903"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/12/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/12/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/05/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 9,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/d41586-018-07585-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/12/01 00:00",
+  "sortfirstauthor": "Figueres C",
+  "vernaculartitle": ""
+}

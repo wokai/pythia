@@ -1,0 +1,129 @@
+{
+  "uid": "28248702",
+  "pubdate": "2017 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Onwochei DN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ngan Kee WD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fung L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Downey K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ye XY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carvalho JCA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Carvalho JCA",
+  "title": "Norepinephrine Intermittent Intravenous Boluses to Prevent Hypotension During Spinal Anesthesia for Cesarean Delivery: A Sequential Allocation Dose-Finding Study.",
+  "sorttitle": "norepinephrine intermittent intravenous boluses to prevent hypotension during spinal anesthesia for cesarean delivery a sequential allocation dose finding study",
+  "volume": "125",
+  "issue": "1",
+  "pages": "212-218",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28248702"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000001846"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28248702"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28248702"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/03/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/08/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/03/02 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2018 Mar;126(3):1087",
+      "reftype": "Comment in",
+      "pmid": 29346122,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2018 Mar;126(3):1087-1088",
+      "reftype": "Comment in",
+      "pmid": 29346123,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 14,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000001846",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/07/01 00:00",
+  "sortfirstauthor": "Onwochei DN",
+  "vernaculartitle": ""
+}

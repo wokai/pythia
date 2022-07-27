@@ -1,0 +1,111 @@
+{
+  "uid": "7481117",
+  "pubdate": "1995 Jun",
+  "epubdate": "",
+  "source": "Respir Physiol",
+  "authors": [
+    {
+      "name": "Morrell NW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nijran KS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Biggs T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seed WA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Seed WA",
+  "title": "Magnitude and time course of acute hypoxic pulmonary vasoconstriction in man.",
+  "sorttitle": "magnitude and time course of acute hypoxic pulmonary vasoconstriction in man",
+  "volume": "100",
+  "issue": "3",
+  "pages": "271-81",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0047142",
+  "issn": "0034-5687",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "7481117"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "003456879500002U"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/0034-5687(95)00002-u"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "7481117"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "7481117"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1995/06/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1995/06/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1995/06/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 17,
+  "fulljournalname": "Respiration physiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1995/06/01 00:00",
+  "sortfirstauthor": "Morrell NW",
+  "vernaculartitle": ""
+}

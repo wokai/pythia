@@ -1,0 +1,174 @@
+{
+  "uid": "33180097",
+  "pubdate": "2020 Dec 8",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Lenze EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mattar C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zorumski CF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stevens A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schweiger J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nicol GE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miller JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yang L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yingling M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Avidan MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reiersen AM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Reiersen AM",
+  "title": "Fluvoxamine vs Placebo and Clinical Deterioration in Outpatients With Symptomatic COVID-19: A Randomized Clinical Trial.",
+  "sorttitle": "fluvoxamine vs placebo and clinical deterioration in outpatients with symptomatic covid 19 a randomized clinical trial",
+  "volume": "324",
+  "issue": "22",
+  "pages": "2292-2300",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33180097"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2773108"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2020.22760"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7662481"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33180097"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33180097"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7662481;embargo-date: 2021/05/12;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pmc-release",
+      "date": "2021/05/12 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/19 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/12 12:11"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA. 2020 Dec 8;324(22):2300",
+      "reftype": "Comment in",
+      "pmid": 33180115,
+      "note": ""
+    },
+    {
+      "refsource": "Psychopharmacology (Berl). 2021 Feb;238(2):611",
+      "reftype": "Comment in",
+      "pmid": 33392622,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2020.22760",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/08 00:00",
+  "sortfirstauthor": "Lenze EJ",
+  "vernaculartitle": ""
+}

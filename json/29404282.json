@@ -1,0 +1,115 @@
+{
+  "uid": "29404282",
+  "pubdate": "2018",
+  "epubdate": "2018 Jan 22",
+  "source": "Front Cell Infect Microbiol",
+  "authors": [
+    {
+      "name": "Martin RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bachman MA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bachman MA",
+  "title": "Colonization, Infection, and the Accessory Genome of <i>Klebsiella pneumoniae</i>.",
+  "sorttitle": "colonization infection and the accessory genome of i klebsiella pneumoniae i",
+  "volume": "8",
+  "issue": "",
+  "pages": "4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101585359",
+  "issn": "",
+  "essn": "2235-2988",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29404282"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fcimb.2018.00004"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5786545"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29404282"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29404282"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5786545;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/09/30 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/01/05 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/02/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/02/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 141,
+  "fulljournalname": "Frontiers in cellular and infection microbiology",
+  "elocationid": "doi: 10.3389/fcimb.2018.00004",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/22 00:00",
+  "sortfirstauthor": "Martin RM",
+  "vernaculartitle": ""
+}

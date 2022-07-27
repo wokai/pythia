@@ -1,0 +1,233 @@
+{
+  "uid": "27642056",
+  "pubdate": "2017 Feb",
+  "epubdate": "2016 Sep 14",
+  "source": "Clin Nutr",
+  "authors": [
+    {
+      "name": "Cederholm T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barazzoni R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Austin P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ballmer P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Biolo G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bischoff SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Compher C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Correia I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Higashiguchi T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Holst M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jensen GL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Malone A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muscaritoli M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nyulasi I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pirlich M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rothenberg E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schindler K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schneider SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de van der Schueren MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sieber C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Valentini L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yu JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van Gossum A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singer P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Singer P",
+  "title": "ESPEN guidelines on definitions and terminology of clinical nutrition.",
+  "sorttitle": "espen guidelines on definitions and terminology of clinical nutrition",
+  "volume": "36",
+  "issue": "1",
+  "pages": "49-64",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8309603",
+  "issn": "0261-5614",
+  "essn": "1532-1983",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27642056"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0261-5614(16)31242-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.clnu.2016.09.004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27642056"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27642056"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/09/09 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/09/09 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/09/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/03/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/09/20 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Clin Nutr. 2017 Oct;36(5):1451",
+      "reftype": "Comment in",
+      "pmid": 28709500,
+      "note": ""
+    },
+    {
+      "refsource": "Clin Nutr. 2017 Dec;36(6):1725-1726",
+      "reftype": "Comment in",
+      "pmid": 28918169,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 137,
+  "fulljournalname": "Clinical nutrition (Edinburgh, Scotland)",
+  "elocationid": "doi: 10.1016/j.clnu.2016.09.004",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/02/01 00:00",
+  "sortfirstauthor": "Cederholm T",
+  "vernaculartitle": ""
+}

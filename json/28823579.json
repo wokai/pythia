@@ -1,0 +1,102 @@
+{
+  "uid": "28823579",
+  "pubdate": "2017 Oct",
+  "epubdate": "2017 Aug 18",
+  "source": "Semin Perinatol",
+  "authors": [
+    {
+      "name": "Hirshberg A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Srinivas SK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Srinivas SK",
+  "title": "Epidemiology of maternal morbidity and mortality.",
+  "sorttitle": "epidemiology of maternal morbidity and mortality",
+  "volume": "41",
+  "issue": "6",
+  "pages": "332-337",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7801132",
+  "issn": "0146-0005",
+  "essn": "1558-075X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28823579"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0146-0005(17)30079-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1053/j.semperi.2017.07.007"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28823579"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28823579"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/08/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/06/13 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/08/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 17,
+  "fulljournalname": "Seminars in perinatology",
+  "elocationid": "doi: 10.1053/j.semperi.2017.07.007",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/10/01 00:00",
+  "sortfirstauthor": "Hirshberg A",
+  "vernaculartitle": ""
+}

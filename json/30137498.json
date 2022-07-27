@@ -1,0 +1,164 @@
+{
+  "uid": "30137498",
+  "pubdate": "2018 Nov 1",
+  "epubdate": "",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "McBrien KA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Souri S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Symonds NE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rouhi A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lethebe BC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Williamson TS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Garies S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Birtwhistle R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Quan H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fabreau GE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ronksley PE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ronksley PE",
+  "title": "Identification of validated case definitions for medical conditions used in primary care electronic medical record databases: a systematic review.",
+  "sorttitle": "identification of validated case definitions for medical conditions used in primary care electronic medical record databases a systematic review",
+  "volume": "25",
+  "issue": "11",
+  "pages": "1567-1578",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30137498"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "5078124"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/jamia/ocy094"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7646917"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30137498"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30137498"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7646917;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/01/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/07/02 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/08/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/01/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/08/24 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1093/jamia/ocy094",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/11/01 00:00",
+  "sortfirstauthor": "McBrien KA",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,116 @@
+{
+  "uid": "27092007",
+  "pubdate": "2016 May 3",
+  "epubdate": "2016 Apr 18",
+  "source": "Proc Natl Acad Sci U S A",
+  "authors": [
+    {
+      "name": "Sakamoto M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benton MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Venditti C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Venditti C",
+  "title": "Dinosaurs in decline tens of millions of years before their final extinction.",
+  "sorttitle": "dinosaurs in decline tens of millions of years before their final extinction",
+  "volume": "113",
+  "issue": "18",
+  "pages": "5036-40",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7505876",
+  "issn": "0027-8424",
+  "essn": "1091-6490",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27092007"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1521478113"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1073/pnas.1521478113"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4983840"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27092007"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27092007"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4983840;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/04/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/04/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/12/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+  "elocationid": "doi: 10.1073/pnas.1521478113",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/05/03 00:00",
+  "sortfirstauthor": "Sakamoto M",
+  "vernaculartitle": ""
+}

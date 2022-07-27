@@ -1,0 +1,101 @@
+{
+  "uid": "7460925",
+  "pubdate": "1980 Nov",
+  "epubdate": "",
+  "source": "Eur J Biochem",
+  "authors": [
+    {
+      "name": "Wagenmakers AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reinders RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Venrooij WJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "van Venrooij WJ",
+  "title": "Cross-linking of mRNA to proteins by irradiation of intact cells with ultraviolet light.",
+  "sorttitle": "cross linking of mrna to proteins by irradiation of intact cells with ultraviolet light",
+  "volume": "112",
+  "issue": "2",
+  "pages": "323-30",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0107600",
+  "issn": "0014-2956",
+  "essn": "1432-1033",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "7460925"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1432-1033.1980.tb07207.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "7460925"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "7460925"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1980/11/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1980/11/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1980/11/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 37,
+  "fulljournalname": "European journal of biochemistry",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1980/11/01 00:00",
+  "sortfirstauthor": "Wagenmakers AJ",
+  "vernaculartitle": ""
+}

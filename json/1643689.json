@@ -1,0 +1,107 @@
+{
+  "uid": "1643689",
+  "pubdate": "1992 Jul",
+  "epubdate": "",
+  "source": "Can J Anaesth",
+  "authors": [
+    {
+      "name": "Bhavani-Shankar K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moseley H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kumar AY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Delph Y",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Delph Y",
+  "title": "Capnometry and anaesthesia.",
+  "sorttitle": "capnometry and anaesthesia",
+  "volume": "39",
+  "issue": "6",
+  "pages": "617-32",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8701709",
+  "issn": "0832-610X",
+  "essn": "1496-8975",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "1643689"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/BF03008330"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "1643689"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "1643689"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1992/07/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1992/07/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1992/07/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1992/07/01 00:00",
+  "sortfirstauthor": "Bhavani-Shankar K",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,123 @@
+{
+  "uid": "31667827",
+  "pubdate": "2020 Mar",
+  "epubdate": "2019 Oct 30",
+  "source": "Anaesthesia",
+  "authors": [
+    {
+      "name": "Zdravkovic M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berger-Estilita J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sorbello M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hagberg CA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hagberg CA",
+  "title": "An international survey about rapid sequence intubation of 10,003 anaesthetists and 16 airway experts.",
+  "sorttitle": "international survey about rapid sequence intubation of 10 003 anaesthetists and 16 airway experts",
+  "volume": "75",
+  "issue": "3",
+  "pages": "313-322",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370524",
+  "issn": "0003-2409",
+  "essn": "1365-2044",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31667827"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/anae.14867"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31667827"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31667827"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2019/09/05 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/11/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/18 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/11/01 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anaesthesia. 2020 Mar;75(3):298-300",
+      "reftype": "Comment in",
+      "pmid": 31667823,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesia. 2020 May;75(5):694",
+      "reftype": "Comment in",
+      "pmid": 32557591,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Anaesthesia",
+  "elocationid": "doi: 10.1111/anae.14867",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/03/01 00:00",
+  "sortfirstauthor": "Zdravkovic M",
+  "vernaculartitle": ""
+}

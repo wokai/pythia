@@ -1,0 +1,107 @@
+{
+  "uid": "22699321",
+  "pubdate": "2012 Aug",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Chua J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patel K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neelankavil J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mahajan A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mahajan A",
+  "title": "Anesthetic management of electrophysiology procedures.",
+  "sorttitle": "anesthetic management of electrophysiology procedures",
+  "volume": "25",
+  "issue": "4",
+  "pages": "470-81",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22699321"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0b013e3283556fce"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22699321"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22699321"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/06/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/06/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/11/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0b013e3283556fce",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/08/01 00:00",
+  "sortfirstauthor": "Chua J",
+  "vernaculartitle": ""
+}

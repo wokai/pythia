@@ -1,0 +1,115 @@
+{
+  "uid": "26643095",
+  "pubdate": "2015 Sep",
+  "epubdate": "2015 Sep 2",
+  "source": "Best Pract Res Clin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Ball L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dameri M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pelosi P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pelosi P",
+  "title": "Modes of mechanical ventilation for the operating room.",
+  "sorttitle": "modes of mechanical ventilation for the operating room",
+  "volume": "29",
+  "issue": "3",
+  "pages": "285-99",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101121446",
+  "issn": "1521-6896",
+  "essn": "1878-1608",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26643095"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1521-6896(15)00054-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.bpa.2015.08.003"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26643095"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26643095"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/05/19 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/08/20 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/12/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/12/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/09/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Best practice & research. Clinical anaesthesiology",
+  "elocationid": "doi: 10.1016/j.bpa.2015.08.003",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/09/01 00:00",
+  "sortfirstauthor": "Ball L",
+  "vernaculartitle": ""
+}

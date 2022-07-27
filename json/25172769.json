@@ -1,0 +1,167 @@
+{
+  "uid": "25172769",
+  "pubdate": "2014 Oct",
+  "epubdate": "2014 Aug 26",
+  "source": "Lancet Respir Med",
+  "authors": [
+    {
+      "name": "McMillan A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bratton DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Faria R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laskawiec-Szkonter M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Griffin S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davies RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nunn AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stradling JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Riha RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morrell MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "PREDICT Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Morrell MJ",
+  "title": "Continuous positive airway pressure in older people with obstructive sleep apnoea syndrome (PREDICT): a 12-month, multicentre, randomised trial.",
+  "sorttitle": "continuous positive airway pressure in older people with obstructive sleep apnoea syndrome predict a 12 month multicentre randomised trial",
+  "volume": "2",
+  "issue": "10",
+  "pages": "804-12",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101605555",
+  "issn": "2213-2600",
+  "essn": "2213-2619",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25172769"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2213-2600(14)70172-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S2213-2600(14)70172-9"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25172769"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25172769"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/08/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/08/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/07/23 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet Respir Med. 2014 Oct;2(10):778-9",
+      "reftype": "Comment in",
+      "pmid": 25172768,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet Respir Med. 2014 Nov;2(11):e21-2",
+      "reftype": "Comment in",
+      "pmid": 25439572,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet Respir Med. 2014 Nov;2(11):e21",
+      "reftype": "Comment in",
+      "pmid": 25439573,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 36,
+  "fulljournalname": "The Lancet. Respiratory medicine",
+  "elocationid": "doi: 10.1016/S2213-2600(14)70172-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/10/01 00:00",
+  "sortfirstauthor": "McMillan A",
+  "vernaculartitle": ""
+}

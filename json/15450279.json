@@ -1,0 +1,125 @@
+{
+  "uid": "15450279",
+  "pubdate": "2004 Sep",
+  "epubdate": "",
+  "source": "Europace",
+  "authors": [
+    {
+      "name": "Cazeau S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alonso C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jauvert G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lazarus A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ritter P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ritter P",
+  "title": "Cardiac resynchronization therapy.",
+  "sorttitle": "cardiac resynchronization therapy",
+  "volume": "5 Suppl 1",
+  "issue": "",
+  "pages": "S42-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100883649",
+  "issn": "1099-5129",
+  "essn": "1532-2092",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15450279"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.eupc.2004.07.001"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1099-5129(04)00166-7"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15450279"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15450279"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2004/05/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2004/06/28 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/09/29 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/03/25 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/09/29 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/09/01 00:00",
+  "sortfirstauthor": "Cazeau S",
+  "vernaculartitle": ""
+}

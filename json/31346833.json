@@ -1,0 +1,160 @@
+{
+  "uid": "31346833",
+  "pubdate": "2019 Jul 25",
+  "epubdate": "2019 Jul 25",
+  "source": "Intensive Care Med Exp",
+  "authors": [
+    {
+      "name": "Garofalo AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lorente-Ros M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goncalvez G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carriedo D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ballén-Barragán A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Villar-Fernández A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peñuelas Ó",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herrero R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Granados-Carreño R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lorente JA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lorente JA",
+  "title": "Histopathological changes of organ dysfunction in sepsis.",
+  "sorttitle": "histopathological changes of organ dysfunction in sepsis",
+  "volume": "7",
+  "issue": "Suppl 1",
+  "pages": "45",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101645149",
+  "issn": "",
+  "essn": "2197-425X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31346833"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s40635-019-0236-3"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s40635-019-0236-3"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6658642"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31346833"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31346833"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6658642;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/02/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/03/07 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/07/27 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/07/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/07/28 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Intensive care medicine experimental",
+  "elocationid": "doi: 10.1186/s40635-019-0236-3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/07/25 00:00",
+  "sortfirstauthor": "Garofalo AM",
+  "vernaculartitle": ""
+}

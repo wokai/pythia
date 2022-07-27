@@ -1,0 +1,144 @@
+{
+  "uid": "10325839",
+  "pubdate": "1999 Jan",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Langbein T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sonntag H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Trapp D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoffmann A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Malms W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Röth EP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mörs V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zellner R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zellner R",
+  "title": "Volatile anaesthetics and the atmosphere: atmospheric lifetimes and atmospheric effects of halothane, enflurane, isoflurane, desflurane and sevoflurane.",
+  "sorttitle": "volatile anaesthetics and the atmosphere atmospheric lifetimes and atmospheric effects of halothane enflurane isoflurane desflurane and sevoflurane",
+  "volume": "82",
+  "issue": "1",
+  "pages": "66-73",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "10325839"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)39431-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/82.1.66"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "10325839"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "10325839"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1999/05/18 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1999/05/18 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1999/05/18 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2000 Apr;84(4):534-6",
+      "reftype": "Comment in",
+      "pmid": 10823112,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2001 Apr;86(4):595-6",
+      "reftype": "Comment in",
+      "pmid": 11573643,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1999/01/01 00:00",
+  "sortfirstauthor": "Langbein T",
+  "vernaculartitle": ""
+}

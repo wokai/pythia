@@ -1,0 +1,126 @@
+{
+  "uid": "9279253",
+  "pubdate": "1997 Aug",
+  "epubdate": "",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "Cardús J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burgos F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Diaz O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roca J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barberà JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marrades RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rodriguez-Roisin R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wagner PD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wagner PD",
+  "title": "Increase in pulmonary ventilation-perfusion inequality with age in healthy individuals.",
+  "sorttitle": "increase in pulmonary ventilation perfusion inequality with age in healthy individuals",
+  "volume": "156",
+  "issue": "2 Pt 1",
+  "pages": "648-53",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9279253"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/ajrccm.156.2.9606016"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9279253"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9279253"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1997/08/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1997/08/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1997/08/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 28,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1997/08/01 00:00",
+  "sortfirstauthor": "Cardús J",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,100 @@
+{
+  "uid": "8945506",
+  "pubdate": "1996 Nov 29",
+  "epubdate": "",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Mel SF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mekalanos JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mekalanos JJ",
+  "title": "Modulation of horizontal gene transfer in pathogenic bacteria by in vivo signals.",
+  "sorttitle": "modulation of horizontal gene transfer in pathogenic bacteria by in vivo signals",
+  "volume": "87",
+  "issue": "5",
+  "pages": "795-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8945506"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(00)81986-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/s0092-8674(00)81986-8"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8945506"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8945506"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1996/11/29 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2000/03/29 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1996/11/29 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 9,
+  "fulljournalname": "Cell",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1996/11/29 00:00",
+  "sortfirstauthor": "Mel SF",
+  "vernaculartitle": ""
+}

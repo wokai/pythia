@@ -1,0 +1,218 @@
+{
+  "uid": "29174893",
+  "pubdate": "2017 Dec 4",
+  "epubdate": "2017 Nov 22",
+  "source": "Curr Biol",
+  "authors": [
+    {
+      "name": "Andrades Valtueña A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mittnik A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Key FM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haak W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Allmäe R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Belinskij A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Daubaras M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feldman M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jankauskas R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Janković I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Massy K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Novak M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pfrengle S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reinhold S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Šlaus M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spyrou MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Szécsényi-Nagy A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tõrv M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hansen S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bos KI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stockhammer PW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herbig A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krause J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Krause J",
+  "title": "The Stone Age Plague and Its Persistence in Eurasia.",
+  "sorttitle": "stone age plague and its persistence in eurasia",
+  "volume": "27",
+  "issue": "23",
+  "pages": "3683-3691.e8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9107782",
+  "issn": "0960-9822",
+  "essn": "1879-0445",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29174893"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0960-9822(17)31328-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cub.2017.10.025"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29174893"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29174893"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/05/16 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/07/31 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/10/09 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/11/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/08/07 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/11/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 25,
+  "fulljournalname": "Current biology : CB",
+  "elocationid": "doi: 10.1016/j.cub.2017.10.025",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/12/04 00:00",
+  "sortfirstauthor": "Andrades Valtueña A",
+  "vernaculartitle": ""
+}

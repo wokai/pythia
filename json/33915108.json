@@ -1,0 +1,278 @@
+{
+  "uid": "33915108",
+  "pubdate": "2021 Apr 22",
+  "epubdate": "2021 Apr 22",
+  "source": "Immunity",
+  "authors": [
+    {
+      "name": "Harb H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benamar M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lai PS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Contini P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Griffith JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crestani E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmitz-Abe K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fong J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marri L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Filaci G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Del Zotto G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pishesha N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kolifrath S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Broggi A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ghosh S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gelmez MY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oktelik FB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cetin EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kiykim A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kose M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cui Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yu XG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li JZ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berra L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stephen-Victor E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Charbonnier LM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zanoni I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ploegh H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deniz G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Palma R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chatila TA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chatila TA",
+  "title": "Notch4 signaling limits regulatory T-cell-mediated tissue repair and promotes severe lung inflammation in viral infections.",
+  "sorttitle": "notch4 signaling limits regulatory t cell mediated tissue repair and promotes severe lung inflammation in viral infections",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9432918",
+  "issn": "1074-7613",
+  "essn": "1097-4180",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33915108"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1074-7613(21)00139-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.immuni.2021.04.002"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8080416"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33915108"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33915108"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8080416;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/10/21 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/02/02 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/04/02 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/04/29 20:12"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/04/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/04/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Immunity",
+  "elocationid": "pii: S1074-7613(21)00139-4. doi: 10.1016/j.immuni.2021.04.002",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/04/22 00:00",
+  "sortfirstauthor": "Harb H",
+  "vernaculartitle": ""
+}

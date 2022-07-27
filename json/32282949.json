@@ -1,0 +1,156 @@
+{
+  "uid": "32282949",
+  "pubdate": "2020 Jul",
+  "epubdate": "2020 May 23",
+  "source": "Am J Hematol",
+  "authors": [
+    {
+      "name": "Terpos E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ntanasis-Stathopoulos I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Elalamy I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kastritis E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sergentanis TN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Politou M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Psaltopoulou T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gerotziafas G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dimopoulos MA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dimopoulos MA",
+  "title": "Hematological findings and complications of COVID-19.",
+  "sorttitle": "hematological findings and complications of covid 19",
+  "volume": "95",
+  "issue": "7",
+  "pages": "834-847",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7610369",
+  "issn": "0361-8609",
+  "essn": "1096-8652",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32282949"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/ajh.25829"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7262337"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32282949"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32282949"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7262337;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/04/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/04/08 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/07/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/14 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Int J Lab Hematol. 2021 Feb;43(1):e38-e40",
+      "reftype": "Comment in",
+      "pmid": 32996680,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 511,
+  "fulljournalname": "American journal of hematology",
+  "elocationid": "doi: 10.1002/ajh.25829",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/01 00:00",
+  "sortfirstauthor": "Terpos E",
+  "vernaculartitle": ""
+}

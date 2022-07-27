@@ -1,0 +1,96 @@
+{
+  "uid": "25899273",
+  "pubdate": "2015 May",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Calmes SH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Calmes SH",
+  "title": "Dr. Virginia Apgar and the Apgar Score: How the Apgar Score Came to Be.",
+  "sorttitle": "dr virginia apgar and the apgar score how the apgar score came to be",
+  "volume": "120",
+  "issue": "5",
+  "pages": "1060-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Biography",
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25899273"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000000659"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201505000-00023"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25899273"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25899273"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/04/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/04/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/04/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000000659",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/05/01 00:00",
+  "sortfirstauthor": "Calmes SH",
+  "vernaculartitle": ""
+}

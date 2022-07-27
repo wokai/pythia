@@ -1,0 +1,127 @@
+{
+  "uid": "25437496",
+  "pubdate": "2015 Apr",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Wang JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li JB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhao YJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yi WJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bian JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wan XJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhu KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deng XM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Deng XM",
+  "title": "Up-regulation of programmed cell death 1 ligand 1 on neutrophils may be involved in sepsis-induced immunosuppression: an animal study and a prospective case-control study.",
+  "sorttitle": "up regulation of programmed cell death 1 ligand 1 on neutrophils may be involved in sepsis induced immunosuppression an animal study and a prospective case control study",
+  "volume": "122",
+  "issue": "4",
+  "pages": "852-63",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25437496"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000000525"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25437496"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25437496"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/12/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/12/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/06/25 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 29,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000000525",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/04/01 00:00",
+  "sortfirstauthor": "Wang JF",
+  "vernaculartitle": ""
+}

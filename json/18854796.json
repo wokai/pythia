@@ -1,0 +1,92 @@
+{
+  "uid": "18854796",
+  "pubdate": "2008 Oct",
+  "epubdate": "",
+  "source": "Minerva Anestesiol",
+  "authors": [
+    {
+      "name": "Clemente A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carli F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Carli F",
+  "title": "The physiological effects of thoracic epidural anesthesia and analgesia on the cardiovascular, respiratory and gastrointestinal systems.",
+  "sorttitle": "physiological effects of thoracic epidural anesthesia and analgesia on the cardiovascular respiratory and gastrointestinal systems",
+  "volume": "74",
+  "issue": "10",
+  "pages": "549-63",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0375272",
+  "issn": "0375-9393",
+  "essn": "1827-1596",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18854796"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18854796"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18854796"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/10/16 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/01/23 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/10/16 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 26,
+  "fulljournalname": "Minerva anestesiologica",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/10/01 00:00",
+  "sortfirstauthor": "Clemente A",
+  "vernaculartitle": ""
+}

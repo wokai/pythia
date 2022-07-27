@@ -1,0 +1,121 @@
+{
+  "uid": "34382576",
+  "pubdate": "2021 Sep 17",
+  "epubdate": "2021 Sep 17",
+  "source": "Dtsch Arztebl Int",
+  "authors": [
+    {
+      "name": "Kulka HC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zeller A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fornaro J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wuillemin WA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Konstantinides S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Christ M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Christ M",
+  "title": "Acute Pulmonary Embolism–Its Diagnosis and Treatment From a Multidisciplinary Viewpoint.",
+  "sorttitle": "acute pulmonary embolism its diagnosis and treatment from a multidisciplinary viewpoint",
+  "volume": "",
+  "issue": "Forthcoming",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101475967",
+  "issn": "",
+  "essn": "1866-0452",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34382576"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "arztebl.m2021.0226"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3238/arztebl.m2021.0226"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34382576"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34382576"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2021/08/12 08:45"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/08/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/08/13 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Deutsches Arzteblatt international",
+  "elocationid": "pii: arztebl.m2021.0226. doi: 10.3238/arztebl.m2021.0226",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/09/17 00:00",
+  "sortfirstauthor": "Kulka HC",
+  "vernaculartitle": ""
+}

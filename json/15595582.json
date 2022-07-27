@@ -1,0 +1,106 @@
+{
+  "uid": "15595582",
+  "pubdate": "2004 Sep",
+  "epubdate": "",
+  "source": "Eur J Anaesthesiol",
+  "authors": [
+    {
+      "name": "Jensen MB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sloth E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Larsen KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmidt MB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schmidt MB",
+  "title": "Transthoracic echocardiography for cardiopulmonary monitoring in intensive care.",
+  "sorttitle": "transthoracic echocardiography for cardiopulmonary monitoring in intensive care",
+  "volume": "21",
+  "issue": "9",
+  "pages": "700-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8411711",
+  "issn": "0265-0215",
+  "essn": "1365-2346",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15595582"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1017/s0265021504009068"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15595582"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15595582"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/12/15 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/07/22 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/12/15 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 61,
+  "fulljournalname": "European journal of anaesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/09/01 00:00",
+  "sortfirstauthor": "Jensen MB",
+  "vernaculartitle": ""
+}

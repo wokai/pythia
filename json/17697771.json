@@ -1,0 +1,116 @@
+{
+  "uid": "17697771",
+  "pubdate": "2007 Oct",
+  "epubdate": "2007 Aug 13",
+  "source": "Int J Obstet Anesth",
+  "authors": [
+    {
+      "name": "Whitty R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goldszmidt E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parkes RK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carvalho JC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Carvalho JC",
+  "title": "Determination of the ED95 for intrathecal plain bupivacaine combined with fentanyl in active labor.",
+  "sorttitle": "determination of the ed95 for intrathecal plain bupivacaine combined with fentanyl in active labor",
+  "volume": "16",
+  "issue": "4",
+  "pages": "341-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9200430",
+  "issn": "0959-289X",
+  "essn": "1532-3374",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17697771"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0959-289X(07)00125-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijoa.2007.06.004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17697771"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17697771"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2007/06/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/08/19 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/01/01 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/08/19 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "International journal of obstetric anesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/10/01 00:00",
+  "sortfirstauthor": "Whitty R",
+  "vernaculartitle": ""
+}

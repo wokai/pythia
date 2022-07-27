@@ -1,0 +1,179 @@
+{
+  "uid": "32929268",
+  "pubdate": "2020 Nov",
+  "epubdate": "2020 Sep 14",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "Edridge AWD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaczorowska J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoste ACR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bakker M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klein M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Loens K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jebbink MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Matser A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kinsella CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rueda P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ieven M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goossens H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prins M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sastre P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deijs M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van der Hoek L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "van der Hoek L",
+  "title": "Seasonal coronavirus protective immunity is short-lasting.",
+  "sorttitle": "seasonal coronavirus protective immunity is short lasting",
+  "volume": "26",
+  "issue": "11",
+  "pages": "1691-1693",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32929268"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-020-1083-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-020-1083-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32929268"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32929268"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/06/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/08/27 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/15 05:47"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 69,
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-020-1083-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/11/01 00:00",
+  "sortfirstauthor": "Edridge AWD",
+  "vernaculartitle": ""
+}

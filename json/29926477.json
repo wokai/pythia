@@ -1,0 +1,150 @@
+{
+  "uid": "29926477",
+  "pubdate": "2018 Jun 20",
+  "epubdate": "2018 Jun 20",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Weinstein EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levene JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cohen MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Andreae DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chao JY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnson M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hall CB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Andreae MH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Andreae MH",
+  "title": "Local anaesthetics and regional anaesthesia versus conventional analgesia for preventing persistent postoperative pain in adults and children.",
+  "sorttitle": "local anaesthetics and regional anaesthesia versus conventional analgesia for preventing persistent postoperative pain in adults and children",
+  "volume": "6",
+  "issue": "",
+  "pages": "CD007105",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29926477"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD007105.pub4"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6377212"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1000227"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29926477"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29926477"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6377212;manuscript-id: NIHMS1000227;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/06/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/08/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/06/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cochrane Database Syst Rev. 2018 Apr 25;4:CD007105",
+      "reftype": "Update of",
+      "pmid": 29694674,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD007105.pub4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/06/20 00:00",
+  "sortfirstauthor": "Weinstein EJ",
+  "vernaculartitle": ""
+}

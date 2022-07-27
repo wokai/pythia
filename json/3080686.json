@@ -1,0 +1,94 @@
+{
+  "uid": "3080686",
+  "pubdate": "1986 Feb 6-12",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Jones JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rouhani S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rouhani S",
+  "title": "Human evolution. How small was the bottleneck?",
+  "sorttitle": "human evolution how small was the bottleneck",
+  "volume": "319",
+  "issue": "6053",
+  "pages": "449-50",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3080686"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/319449b0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3080686"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3080686"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1986/02/06 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1986/02/06 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1986/02/06 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 5,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1986/02/06 00:00",
+  "sortfirstauthor": "Jones JS",
+  "vernaculartitle": ""
+}

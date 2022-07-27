@@ -1,0 +1,112 @@
+{
+  "uid": "30504359",
+  "pubdate": "2018 Nov 30",
+  "epubdate": "",
+  "source": "Hematology Am Soc Hematol Educ Program",
+  "authors": [
+    {
+      "name": "Neunert CE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cooper N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cooper N",
+  "title": "Evidence-based management of immune thrombocytopenia: ASH guideline update.",
+  "sorttitle": "evidence based management of immune thrombocytopenia ash guideline update",
+  "volume": "2018",
+  "issue": "1",
+  "pages": "568-575",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100890099",
+  "issn": "1520-4391",
+  "essn": "1520-4383",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30504359"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2018/1/568"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1182/asheducation-2018.1.568"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6245979"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30504359"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30504359"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6245979;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/12/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/12/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/11 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "Hematology. American Society of Hematology. Education Program",
+  "elocationid": "doi: 10.1182/asheducation-2018.1.568",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/11/30 00:00",
+  "sortfirstauthor": "Neunert CE",
+  "vernaculartitle": ""
+}

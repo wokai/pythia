@@ -1,0 +1,168 @@
+{
+  "uid": "32497510",
+  "pubdate": "2020 Jun 27",
+  "epubdate": "2020 Jun 1",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Chu DK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Akl EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Duda S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Solo K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yaacoub S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schünemann HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "COVID-19 Systematic Urgent Review Group Effort (SURGE) study authors.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schünemann HJ",
+  "title": "Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis.",
+  "sorttitle": "physical distancing face masks and eye protection to prevent person to person transmission of sars cov 2 and covid 19 a systematic review and meta analysis",
+  "volume": "395",
+  "issue": "10242",
+  "pages": "1973-1987",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32497510"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(20)31142-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(20)31142-9"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7263814"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32497510"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32497510"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7263814;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/04/16 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/05/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/05/07 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/06/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/07/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/06/05 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2020 Jun 27;395(10242):1950-1951",
+      "reftype": "Comment in",
+      "pmid": 32497511,
+      "note": ""
+    },
+    {
+      "refsource": "J Paediatr Child Health. 2020 Sep;56(9):1486",
+      "reftype": "Comment in",
+      "pmid": 32628312,
+      "note": ""
+    },
+    {
+      "refsource": "Pediatr Pulmonol. 2021 Jan;56(1):19-20",
+      "reftype": "Comment in",
+      "pmid": 33210837,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 445,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(20)31142-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/06/27 00:00",
+  "sortfirstauthor": "Chu DK",
+  "vernaculartitle": ""
+}

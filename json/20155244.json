@@ -1,0 +1,108 @@
+{
+  "uid": "20155244",
+  "pubdate": "2010 Mar",
+  "epubdate": "",
+  "source": "Anaesthesist",
+  "authors": [
+    {
+      "name": "Wallenborn J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "German Society for Anesthesiology and Intensive Care Medicine.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Professional Association of German Anesthetists.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "German Society for Gynecology and Obstetrics.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wallenborn J",
+  "title": "[Execution of analgesia and anesthesia procedures in obstetrics : Second revised recommendations of the German Society for Anesthesiology and Intensive Care Medicine and the Professional Association of German Anesthetists in cooperation with the German Society for Gynecology and Obstetrics].",
+  "sorttitle": "execution of analgesia and anesthesia procedures in obstetrics second revised recommendations of the german society for anesthesiology and intensive care medicine and the professional association of german anesthetists in cooperation with the german society for gynecology and obstetrics",
+  "volume": "59",
+  "issue": "3",
+  "pages": "250-4",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "0370525",
+  "issn": "0003-2417",
+  "essn": "1432-055X",
+  "pubtype": [
+    "Guideline",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20155244"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00101-009-1673-2"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20155244"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20155244"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/02/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/02/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/06/12 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Der Anaesthesist",
+  "elocationid": "doi: 10.1007/s00101-009-1673-2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/03/01 00:00",
+  "sortfirstauthor": "Wallenborn J",
+  "vernaculartitle": "Durchführung von Analgesie- und Anästhesieverfahren in der Geburtshilfe : Zweite überarbeitete Empfehlungen der Deutschen Gesellschaft für Anästhesiologie und Intensivmedizin und des Berufsverbandes Deutscher Anästhesisten in Zusammenarbeit mit der Deutschen Gesellschaft für Gynäkologie und Geburtshilfe."
+}

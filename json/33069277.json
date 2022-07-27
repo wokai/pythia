@@ -1,0 +1,269 @@
+{
+  "uid": "33069277",
+  "pubdate": "2020 Oct 31",
+  "epubdate": "2020 Oct 15",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Alwan NA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burgess RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ashworth S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beale R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bhadelia N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bogaert D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dowd J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eckerle I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goldman LR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greenhalgh T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gurdasani D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hamdy A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hanage WP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hodcroft EB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hyde Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kellam P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kelly-Irving M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krammer F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipsitch M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McNally A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McKee M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nouri A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pimenta D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Priesemann V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rutter H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Silver J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sridhar D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Swanton C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walensky RP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yamey G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ziauddeen H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ziauddeen H",
+  "title": "Scientific consensus on the COVID-19 pandemic: we need to act now.",
+  "sorttitle": "scientific consensus on the covid 19 pandemic we need to act now",
+  "volume": "396",
+  "issue": "10260",
+  "pages": "e71-e72",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33069277"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(20)32153-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(20)32153-X"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7557300"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33069277"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33069277"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7557300;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/10/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/10/13 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/11/18 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/18 20:19"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2020 Oct 19;:",
+      "reftype": "Erratum in",
+      "pmid": 33091362,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 20,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(20)32153-X",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/31 00:00",
+  "sortfirstauthor": "Alwan NA",
+  "vernaculartitle": ""
+}

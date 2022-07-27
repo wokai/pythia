@@ -1,0 +1,91 @@
+{
+  "uid": "7246985",
+  "pubdate": "1981 Apr",
+  "epubdate": "",
+  "source": "Anaesthesia",
+  "authors": [
+    {
+      "name": "Cook JH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cook JH",
+  "title": "The effect of suxamethonium on intraocular pressure.",
+  "sorttitle": "effect of suxamethonium on intraocular pressure",
+  "volume": "36",
+  "issue": "4",
+  "pages": "359-65",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370524",
+  "issn": "0003-2409",
+  "essn": "1365-2044",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "7246985"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1365-2044.1981.tb10238.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "7246985"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "7246985"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1981/04/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1981/04/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1981/04/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1981/04/01 00:00",
+  "sortfirstauthor": "Cook JH",
+  "vernaculartitle": ""
+}

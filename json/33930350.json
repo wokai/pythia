@@ -1,0 +1,139 @@
+{
+  "uid": "33930350",
+  "pubdate": "2021 Apr 27",
+  "epubdate": "2021 Apr 27",
+  "source": "Lancet Haematol",
+  "authors": [
+    {
+      "name": "Leentjens J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Haaps TF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wessels PF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schutgens REG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Middeldorp S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Middeldorp S",
+  "title": "COVID-19-associated coagulopathy and antithrombotic agents-lessons after 1 year.",
+  "sorttitle": "covid 19 associated coagulopathy and antithrombotic agents lessons after 1 year",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101643584",
+  "issn": "",
+  "essn": "2352-3026",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33930350"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2352-3026(21)00105-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S2352-3026(21)00105-8"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8078884"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33930350"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33930350"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8078884;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/03/11 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/03/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/03/31 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/04/30 20:18"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/05/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/05/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "The Lancet. Haematology",
+  "elocationid": "pii: S2352-3026(21)00105-8. doi: 10.1016/S2352-3026(21)00105-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/04/27 00:00",
+  "sortfirstauthor": "Leentjens J",
+  "vernaculartitle": ""
+}

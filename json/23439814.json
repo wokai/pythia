@@ -1,0 +1,113 @@
+{
+  "uid": "23439814",
+  "pubdate": "2013 Mar",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Mychaskiw G 2nd",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eger EI 2nd",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Eger EI 2nd",
+  "title": "A different perspective on anesthetics and climate change.",
+  "sorttitle": "different perspective on anesthetics and climate change",
+  "volume": "116",
+  "issue": "3",
+  "pages": "734",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Comment",
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23439814"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "116/3/734"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0b013e318280dfd0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23439814"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23439814"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/02/27 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/02/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/06/13 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2012 May;114(5):921-3",
+      "reftype": "Comment on",
+      "pmid": 22523405,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2013 Mar;116(3):734-5",
+      "reftype": "Comment in",
+      "pmid": 23560321,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0b013e318280dfd0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/03/01 00:00",
+  "sortfirstauthor": "Mychaskiw G 2nd",
+  "vernaculartitle": ""
+}

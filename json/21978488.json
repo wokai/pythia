@@ -1,0 +1,109 @@
+{
+  "uid": "21978488",
+  "pubdate": "2012 Mar 9",
+  "epubdate": "2011 Oct 1",
+  "source": "FEBS Lett",
+  "authors": [
+    {
+      "name": "Martin WF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Martin WF",
+  "title": "Hydrogen, metals, bifurcating electrons, and proton gradients: the early evolution of biological energy conservation.",
+  "sorttitle": "hydrogen metals bifurcating electrons and proton gradients the early evolution of biological energy conservation",
+  "volume": "586",
+  "issue": "5",
+  "pages": "485-93",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0155157",
+  "issn": "0014-5793",
+  "essn": "1873-3468",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21978488"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0014-5793(11)00710-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.febslet.2011.09.031"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21978488"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21978488"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2011/08/09 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2011/09/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2011/09/26 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2011/10/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/10/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/05/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 30,
+  "fulljournalname": "FEBS letters",
+  "elocationid": "doi: 10.1016/j.febslet.2011.09.031",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/03/09 00:00",
+  "sortfirstauthor": "Martin WF",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,141 @@
+{
+  "uid": "26512948",
+  "pubdate": "2015 Oct 29",
+  "epubdate": "2015 Oct 29",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Tran DT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Newton EK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mount VA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wells GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perry JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Perry JJ",
+  "title": "Rocuronium versus succinylcholine for rapid sequence induction intubation.",
+  "sorttitle": "rocuronium versus succinylcholine for rapid sequence induction intubation",
+  "volume": "",
+  "issue": "10",
+  "pages": "CD002788",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26512948"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD002788.pub3"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7104695"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26512948"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26512948"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7104695;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/10/30 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/10/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/04/08 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cochrane Database Syst Rev. 2008;(2):CD002788",
+      "reftype": "Update of",
+      "pmid": 18425883,
+      "note": ""
+    },
+    {
+      "refsource": "Ann Emerg Med. 2017 May;69(5):e55-e56",
+      "reftype": "Comment in",
+      "pmid": 27823870,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 29,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD002788.pub3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/10/29 00:00",
+  "sortfirstauthor": "Tran DT",
+  "vernaculartitle": ""
+}

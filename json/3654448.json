@@ -1,0 +1,106 @@
+{
+  "uid": "3654448",
+  "pubdate": "1987 Aug",
+  "epubdate": "",
+  "source": "J Appl Physiol (1985)",
+  "authors": [
+    {
+      "name": "Houston CS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sutton JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cymerman A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reeves JT",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Reeves JT",
+  "title": "Operation Everest II: man at extreme altitude.",
+  "sorttitle": "operation everest ii man at extreme altitude",
+  "volume": "63",
+  "issue": "2",
+  "pages": "877-82",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8502536",
+  "issn": "8750-7587",
+  "essn": "1522-1601",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3654448"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/jappl.1987.63.2.877"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3654448"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3654448"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1987/08/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1987/08/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1987/08/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Journal of applied physiology (Bethesda, Md. : 1985)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1987/08/01 00:00",
+  "sortfirstauthor": "Houston CS",
+  "vernaculartitle": ""
+}

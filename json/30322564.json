@@ -1,0 +1,117 @@
+{
+  "uid": "30322564",
+  "pubdate": "2018 Oct 13",
+  "epubdate": "",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Wiklund I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Malata AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cheung NF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cadée F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cadée F",
+  "title": "Appropriate use of caesarean section globally requires a different approach.",
+  "sorttitle": "appropriate use of caesarean section globally requires a different approach",
+  "volume": "392",
+  "issue": "10155",
+  "pages": "1288-1289",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30322564"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(18)32325-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(18)32325-0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30322564"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30322564"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/09/10 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/09/13 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/10/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/10/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/11/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 3,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(18)32325-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/13 00:00",
+  "sortfirstauthor": "Wiklund I",
+  "vernaculartitle": ""
+}

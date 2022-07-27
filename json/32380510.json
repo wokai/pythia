@@ -1,0 +1,231 @@
+{
+  "uid": "32380510",
+  "pubdate": "2020 Jul",
+  "epubdate": "2020 May 7",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Xiao K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhai J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feng Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zou JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guo Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shen X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shu F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huang W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu YJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peng SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huang M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xie WJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cai QH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hou FH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xiao L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shen Y",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Shen Y",
+  "title": "Isolation of SARS-CoV-2-related coronavirus from Malayan pangolins.",
+  "sorttitle": "isolation of sars cov 2 related coronavirus from malayan pangolins",
+  "volume": "583",
+  "issue": "7815",
+  "pages": "286-289",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32380510"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-020-2313-x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-020-2313-x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32380510"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32380510"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/16 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/04/28 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/05/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/07/14 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/05/08 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Trends Microbiol. 2020 Jul;28(7):515-517",
+      "reftype": "Comment in",
+      "pmid": 32544437,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 123,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-020-2313-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/01 00:00",
+  "sortfirstauthor": "Xiao K",
+  "vernaculartitle": ""
+}

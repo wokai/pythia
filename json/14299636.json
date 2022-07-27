@@ -1,0 +1,99 @@
+{
+  "uid": "14299636",
+  "pubdate": "1965 May",
+  "epubdate": "",
+  "source": "J Biol Chem",
+  "authors": [
+    {
+      "name": "HOLLEY RW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "EVERETT GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "MADISON JT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "ZAMIR A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "ZAMIR A",
+  "title": "NUCLEOTIDE SEQUENCES IN THE YEAST ALANINE TRANSFER RIBONUCLEIC ACID.",
+  "sorttitle": "nucleotide sequences in the yeast alanine transfer ribonucleic acid",
+  "volume": "240",
+  "issue": "",
+  "pages": "2122-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985121R",
+  "issn": "0021-9258",
+  "essn": "1083-351X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14299636"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14299636"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14299636"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1965/05/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1965/05/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1965/05/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 20,
+  "fulljournalname": "The Journal of biological chemistry",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1965/05/01 00:00",
+  "sortfirstauthor": "HOLLEY RW",
+  "vernaculartitle": ""
+}

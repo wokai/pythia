@@ -1,0 +1,140 @@
+{
+  "uid": "33454001",
+  "pubdate": "2020 Dec 18",
+  "epubdate": "",
+  "source": "J Biol Chem",
+  "authors": [
+    {
+      "name": "Bradley JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Svistunenko DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wilson MT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hemmings AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moore GR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Le Brun NE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Le Brun NE",
+  "title": "Bacterial iron detoxification at the molecular level.",
+  "sorttitle": "bacterial iron detoxification at the molecular level",
+  "volume": "295",
+  "issue": "51",
+  "pages": "17602-17623",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985121R",
+  "issn": "0021-9258",
+  "essn": "1083-351X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33454001"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0021-9258(17)50643-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1074/jbc.REV120.007746"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7762939"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33454001"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33454001"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7762939;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/05/08 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/10/07 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/17 20:21"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "The Journal of biological chemistry",
+  "elocationid": "doi: 10.1074/jbc.REV120.007746",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/18 00:00",
+  "sortfirstauthor": "Bradley JM",
+  "vernaculartitle": ""
+}

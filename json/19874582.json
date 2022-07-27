@@ -1,0 +1,206 @@
+{
+  "uid": "19874582",
+  "pubdate": "2009",
+  "epubdate": "2009 Oct 29",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Roberts RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barletta JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fong JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schumaker G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kuper PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Papadopoulos S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yogaratnam D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kendall E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xamplas R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gerlach AT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Szumita PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anger KE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arpino PA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Voils SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grgurich P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ruthazer R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Devlin JW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Devlin JW",
+  "title": "Incidence of propofol-related infusion syndrome in critically ill adults: a prospective, multicenter study.",
+  "sorttitle": "incidence of propofol related infusion syndrome in critically ill adults a prospective multicenter study",
+  "volume": "13",
+  "issue": "5",
+  "pages": "R169",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19874582"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "cc8145"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/cc8145"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2784401"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19874582"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19874582"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2784401;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2009/07/27 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2009/10/14 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2009/10/29 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2009/10/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/10/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/03/24 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Crit Care. 2009;13(6):1012",
+      "reftype": "Comment in",
+      "pmid": 20017894,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/cc8145",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/01/01 00:00",
+  "sortfirstauthor": "Roberts RJ",
+  "vernaculartitle": ""
+}

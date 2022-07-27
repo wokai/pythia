@@ -1,0 +1,108 @@
+{
+  "uid": "22965354",
+  "pubdate": "2012 Oct",
+  "epubdate": "2012 Sep 11",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "Scally A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Durbin R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Durbin R",
+  "title": "Revising the human mutation rate: implications for understanding human evolution.",
+  "sorttitle": "revising the human mutation rate implications for understanding human evolution",
+  "volume": "13",
+  "issue": "10",
+  "pages": "745-53",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22965354"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrg3295"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrg3295"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22965354"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22965354"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/09/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/09/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/12/10 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Rev Genet. 2012 Nov;13(11):824",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 158,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "doi: 10.1038/nrg3295",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/10/01 00:00",
+  "sortfirstauthor": "Scally A",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,114 @@
+{
+  "uid": "26762182",
+  "pubdate": "2016 Apr",
+  "epubdate": "2016 Jan 14",
+  "source": "J Sleep Res",
+  "authors": [
+    {
+      "name": "Borbély AA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Daan S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wirz-Justice A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deboer T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Deboer T",
+  "title": "The two-process model of sleep regulation: a reappraisal.",
+  "sorttitle": "two process model of sleep regulation a reappraisal",
+  "volume": "25",
+  "issue": "2",
+  "pages": "131-43",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9214441",
+  "issn": "0962-1105",
+  "essn": "1365-2869",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26762182"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/jsr.12371"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26762182"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26762182"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/11/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/11/05 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/01/15 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/01/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/12/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 175,
+  "fulljournalname": "Journal of sleep research",
+  "elocationid": "doi: 10.1111/jsr.12371",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/04/01 00:00",
+  "sortfirstauthor": "Borbély AA",
+  "vernaculartitle": ""
+}

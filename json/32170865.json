@@ -1,0 +1,133 @@
+{
+  "uid": "32170865",
+  "pubdate": "2020 Jul",
+  "epubdate": "2020 Mar 28",
+  "source": "J Med Virol",
+  "authors": [
+    {
+      "name": "He F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deng Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li W",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Li W",
+  "title": "Coronavirus disease 2019: What we know?",
+  "sorttitle": "coronavirus disease 2019 what we know",
+  "volume": "92",
+  "issue": "7",
+  "pages": "719-725",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7705876",
+  "issn": "0146-6615",
+  "essn": "1096-9071",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32170865"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/jmv.25766"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7228340"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32170865"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32170865"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7228340;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/03/02 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/03/12 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/03/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/06/25 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/03/15 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Med Virol. 2020 Oct;92(10):1767-1768",
+      "reftype": "Comment in",
+      "pmid": 32281667,
+      "note": ""
+    },
+    {
+      "refsource": "J Minim Invasive Gynecol. 2020 Jul - Aug;27(5):1219-1220",
+      "reftype": "Comment in",
+      "pmid": 32344028,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 144,
+  "fulljournalname": "Journal of medical virology",
+  "elocationid": "doi: 10.1002/jmv.25766",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/01 00:00",
+  "sortfirstauthor": "He F",
+  "vernaculartitle": ""
+}

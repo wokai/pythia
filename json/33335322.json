@@ -1,0 +1,381 @@
+{
+  "uid": "33335322",
+  "pubdate": "2021 Feb",
+  "epubdate": "2020 Dec 17",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "Barrett JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Belij-Rammerstorfer S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dold C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ewer KJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Folegatti PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gilbride C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Halkerston R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hill J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jenkin D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stockdale L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Verheul MK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aley PK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Angus B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellamy D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berrie E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bibi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bittaye M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carroll MW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cavell B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clutterbuck EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Edwards N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Flaxman A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fuskova M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gorringe A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hallis B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kerridge S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lawrie AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Linder A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Madhavan M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Makinson R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mellors J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Minassian A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moore M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mujadidi Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Plested E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Poulton I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramasamy MN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Robinson H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rollier CS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Song R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Snape MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tarrant R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taylor S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomas KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Voysey M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watson MEE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wright D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Douglas AD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Green CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hill AVS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lambe T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gilbert S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pollard AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oxford COVID Vaccine Trial Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pollard AJ",
+  "title": "Phase 1/2 trial of SARS-CoV-2 vaccine ChAdOx1 nCoV-19 with a booster dose induces multifunctional antibody responses.",
+  "sorttitle": "phase 1 2 trial of sars cov 2 vaccine chadox1 ncov 19 with a booster dose induces multifunctional antibody responses",
+  "volume": "27",
+  "issue": "2",
+  "pages": "279-288",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33335322"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-020-01179-4"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-020-01179-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33335322"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33335322"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/10/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/11/16 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/24 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/18 05:49"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Rev Immunol. 2021 Feb;21(2):70-71",
+      "reftype": "Comment in",
+      "pmid": 33432129,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-020-01179-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/01 00:00",
+  "sortfirstauthor": "Barrett JR",
+  "vernaculartitle": ""
+}

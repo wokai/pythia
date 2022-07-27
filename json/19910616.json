@@ -1,0 +1,146 @@
+{
+  "uid": "19910616",
+  "pubdate": "2010 Jul",
+  "epubdate": "2009 Nov 12",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Naguib M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kopman AF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lien CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hunter JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lopez A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brull SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Brull SJ",
+  "title": "A survey of current management of neuromuscular block in the United States and Europe.",
+  "sorttitle": "survey of current management of neuromuscular block in the united states and europe",
+  "volume": "111",
+  "issue": "1",
+  "pages": "110-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19910616"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ANE.0b013e3181c07428"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0b013e3181c07428"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19910616"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19910616"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/11/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/11/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/07/14 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2010 Jul;111(1):6-8",
+      "reftype": "Comment in",
+      "pmid": 20576959,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2010 Jul;111(1):9-10",
+      "reftype": "Comment in",
+      "pmid": 20576960,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2010 Jul;111(1):11-2",
+      "reftype": "Comment in",
+      "pmid": 20576961,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2011 Feb;112(2):481; author reply 482-3",
+      "reftype": "Comment in",
+      "pmid": 21257701,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 32,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0b013e3181c07428",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/07/01 00:00",
+  "sortfirstauthor": "Naguib M",
+  "vernaculartitle": ""
+}

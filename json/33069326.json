@@ -1,0 +1,125 @@
+{
+  "uid": "33069326",
+  "pubdate": "2020 Oct 17",
+  "epubdate": "",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "GBD 2019 Diseases and Injuries Collaborators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "GBD 2019 Diseases and Injuries Collaborators.",
+  "title": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019.",
+  "sorttitle": "global burden of 369 diseases and injuries in 204 countries and territories 1990 2019 a systematic analysis for the global burden of disease study 2019",
+  "volume": "396",
+  "issue": "10258",
+  "pages": "1204-1222",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33069326"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(20)30925-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(20)30925-9"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7567026"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33069326"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33069326"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7567026;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/11/16 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/02/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/04/14 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/18 20:20"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/19 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2020 Nov 14;396(10262):1562",
+      "reftype": "Erratum in",
+      "pmid": 33198906,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 237,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(20)30925-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/17 00:00",
+  "sortfirstauthor": "GBD 2019 Diseases and Injuries Collaborators.",
+  "vernaculartitle": ""
+}

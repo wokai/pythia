@@ -1,0 +1,133 @@
+{
+  "uid": "27168098",
+  "pubdate": "2017 Jul",
+  "epubdate": "2016 May 10",
+  "source": "Pharmacogenomics J",
+  "authors": [
+    {
+      "name": "Tonk ECM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gurwitz D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maitland-van der Zee AH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Janssens ACJW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Janssens ACJW",
+  "title": "Assessment of pharmacogenetic tests: presenting measures of clinical validity and potential population impact in association studies.",
+  "sorttitle": "assessment of pharmacogenetic tests presenting measures of clinical validity and potential population impact in association studies",
+  "volume": "17",
+  "issue": "4",
+  "pages": "386-392",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101083949",
+  "issn": "1470-269X",
+  "essn": "1473-1150",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27168098"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "tpj201634"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/tpj.2016.34"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5549182"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27168098"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27168098"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5549182;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/08/24 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2015/12/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/02/26 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/05/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/04/21 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/05/12 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "The pharmacogenomics journal",
+  "elocationid": "doi: 10.1038/tpj.2016.34",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/07/01 00:00",
+  "sortfirstauthor": "Tonk ECM",
+  "vernaculartitle": ""
+}

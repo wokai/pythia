@@ -1,0 +1,148 @@
+{
+  "uid": "21507260",
+  "pubdate": "2011",
+  "epubdate": "2011 Apr 21",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Branski LK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herndon DN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Byrd JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kinsky MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee JO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fagan SP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jeschke MG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Jeschke MG",
+  "title": "Transpulmonary thermodilution for hemodynamic measurements in severely burned children.",
+  "sorttitle": "transpulmonary thermodilution for hemodynamic measurements in severely burned children",
+  "volume": "15",
+  "issue": "2",
+  "pages": "R118",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21507260"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "cc10147"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/cc10147"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3219401"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21507260"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21507260"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3219401;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2010/01/15 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2011/01/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2011/04/21 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2011/04/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/04/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/12/13 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/cc10147",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/01/01 00:00",
+  "sortfirstauthor": "Branski LK",
+  "vernaculartitle": ""
+}

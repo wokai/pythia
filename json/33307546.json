@@ -1,0 +1,459 @@
+{
+  "uid": "33307546",
+  "pubdate": "2021 Mar",
+  "epubdate": "2020 Dec 11",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Pairo-Castineira E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clohisey S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klaric L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bretherick AD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rawlik K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pasko D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walker S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parkinson N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fourman MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Russell CD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Furniss J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Richmond A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gountouna E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wrobel N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harrison D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meynert A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Griffiths F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oosthuyzen W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kousathanas A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moutsianas L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yang Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhai R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zheng C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grimes G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beale R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Millar J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shih B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Keating S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zechner M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haley C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Porteous DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hayward C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yang J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Knight J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Summers C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shankar-Hari M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klenerman P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Turtle L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ho A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moore SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hinds C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Horby P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nichol A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maslove D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ling L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McAuley D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Montgomery H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walsh T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pereira AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Renieri A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "GenOMICC Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "ISARIC4C Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "COVID-19 Human Genetics Initiative.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "23andMe Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "BRACOVID Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Gen-COVID Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Shen X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ponting CP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fawkes A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tenesa A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Caulfield M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scott R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rowan K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murphy L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Openshaw PJM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Semple MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Law A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vitart V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wilson JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baillie JK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Baillie JK",
+  "title": "Genetic mechanisms of critical illness in COVID-19.",
+  "sorttitle": "genetic mechanisms of critical illness in covid 19",
+  "volume": "591",
+  "issue": "7848",
+  "pages": "92-98",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33307546"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-020-03065-y"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-020-03065-y"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33307546"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33307546"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/09/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/11/30 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/11 20:16"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 52,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-020-03065-y",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/01 00:00",
+  "sortfirstauthor": "Pairo-Castineira E",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,144 @@
+{
+  "uid": "27796041",
+  "pubdate": "2017 May",
+  "epubdate": "2016 Oct 31",
+  "source": "Laryngoscope",
+  "authors": [
+    {
+      "name": "Huh H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Park SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lim HH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jung KY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baek SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yoon SZ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee HW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lim HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cho JE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cho JE",
+  "title": "Optimal anesthetic regimen for ambulatory laser microlaryngeal surgery.",
+  "sorttitle": "optimal anesthetic regimen for ambulatory laser microlaryngeal surgery",
+  "volume": "127",
+  "issue": "5",
+  "pages": "1135-1139",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8607378",
+  "issn": "0023-852X",
+  "essn": "1531-4995",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27796041"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/lary.26368"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27796041"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27796041"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/04/28 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/08/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/09/12 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/11/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/05/10 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/11/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "The Laryngoscope",
+  "elocationid": "doi: 10.1002/lary.26368",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/05/01 00:00",
+  "sortfirstauthor": "Huh H",
+  "vernaculartitle": ""
+}

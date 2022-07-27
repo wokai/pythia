@@ -1,0 +1,96 @@
+{
+  "uid": "27620144",
+  "pubdate": "2015 Jan 9",
+  "epubdate": "2014 Dec 23",
+  "source": "ACS Infect Dis",
+  "authors": [
+    {
+      "name": "Bisacchi GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Manchester JI",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Manchester JI",
+  "title": "A New-Class Antibacterial-Almost. Lessons in Drug Discovery and Development: A Critical Analysis of More than 50 Years of Effort toward ATPase Inhibitors of DNA Gyrase and Topoisomerase IV.",
+  "sorttitle": "new class antibacterial almost lessons in drug discovery and development a critical analysis of more than 50 years of effort toward atpase inhibitors of dna gyrase and topoisomerase iv",
+  "volume": "1",
+  "issue": "1",
+  "pages": "4-41",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101654580",
+  "issn": "",
+  "essn": "2373-8227",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27620144"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1021/id500013t"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27620144"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27620144"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/09/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/01/09 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/01/09 00:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 30,
+  "fulljournalname": "ACS infectious diseases",
+  "elocationid": "doi: 10.1021/id500013t",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/01/09 00:00",
+  "sortfirstauthor": "Bisacchi GS",
+  "vernaculartitle": ""
+}

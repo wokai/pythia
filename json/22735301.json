@@ -1,0 +1,112 @@
+{
+  "uid": "22735301",
+  "pubdate": "2012 Aug",
+  "epubdate": "2012 Jun 26",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Hermanides J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hollmann MW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stevens MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lirk P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lirk P",
+  "title": "Failed epidural: causes and management.",
+  "sorttitle": "failed epidural causes and management",
+  "volume": "109",
+  "issue": "2",
+  "pages": "144-54",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22735301"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)32882-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aes214"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22735301"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22735301"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/06/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/06/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/09/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 60,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aes214",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/08/01 00:00",
+  "sortfirstauthor": "Hermanides J",
+  "vernaculartitle": ""
+}

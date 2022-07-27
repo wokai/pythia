@@ -1,0 +1,104 @@
+{
+  "uid": "18692462",
+  "pubdate": "2008 Aug 8",
+  "epubdate": "",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Clark AG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Clark AG",
+  "title": "Genome sequences from extinct relatives.",
+  "sorttitle": "genome sequences from extinct relatives",
+  "volume": "134",
+  "issue": "3",
+  "pages": "388-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Comment",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18692462"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(08)00946-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2008.07.026"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18692462"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18692462"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/08/12 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/09/03 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/08/12 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cell. 2008 Aug 8;134(3):416-26",
+      "reftype": "Comment on",
+      "pmid": 18692465,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Cell",
+  "elocationid": "doi: 10.1016/j.cell.2008.07.026",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/08/08 00:00",
+  "sortfirstauthor": "Clark AG",
+  "vernaculartitle": ""
+}

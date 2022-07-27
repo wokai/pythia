@@ -1,0 +1,146 @@
+{
+  "uid": "30059398",
+  "pubdate": "2018 Oct",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "de Carvalho ALR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vital RB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Lira CCS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Magro IB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sato PTS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lima LHN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Braz LG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Módolo NSP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Módolo NSP",
+  "title": "Laryngeal Mask Airway Versus Other Airway Devices for Anesthesia in Children With an Upper Respiratory Tract Infection: A Systematic Review and Meta-analysis of Respiratory Complications.",
+  "sorttitle": "laryngeal mask airway versus other airway devices for anesthesia in children with an upper respiratory tract infection a systematic review and meta analysis of respiratory complications",
+  "volume": "127",
+  "issue": "4",
+  "pages": "941-950",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30059398"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000003674"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30059398"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30059398"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/07/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/08/20 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/07/31 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2019 Feb;128(2):e37",
+      "reftype": "Erratum in",
+      "pmid": 30649044,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2019 Jun;128(6):e122-e123",
+      "reftype": "Comment in",
+      "pmid": 31094816,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2019 Jun;128(6):e123",
+      "reftype": "Comment in",
+      "pmid": 31094817,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000003674",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "de Carvalho ALR",
+  "vernaculartitle": ""
+}

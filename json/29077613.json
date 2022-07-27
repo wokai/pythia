@@ -1,0 +1,102 @@
+{
+  "uid": "29077613",
+  "pubdate": "2018 Jun",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Jozwiak M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Monnet X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Teboul JL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Teboul JL",
+  "title": "Pressure Waveform Analysis.",
+  "sorttitle": "pressure waveform analysis",
+  "volume": "126",
+  "issue": "6",
+  "pages": "1930-1933",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29077613"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000002527"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29077613"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29077613"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/10/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/07/25 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/10/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000002527",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/06/01 00:00",
+  "sortfirstauthor": "Jozwiak M",
+  "vernaculartitle": ""
+}

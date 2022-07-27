@@ -1,0 +1,192 @@
+{
+  "uid": "27719676",
+  "pubdate": "2016 Oct 10",
+  "epubdate": "2016 Oct 10",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Villa G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neri M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellomo R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cerda J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Gaudio AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Rosa S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Garzotto F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Honore PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kellum J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lorenzin A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Payen D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ricci Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Samoni S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vincent JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wendon J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zaccaria M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ronco C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nomenclature Standardization Initiative (NSI) Alliance.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ronco C",
+  "title": "Nomenclature for renal replacement therapy and blood purification techniques in critically ill patients: practical applications.",
+  "sorttitle": "nomenclature for renal replacement therapy and blood purification techniques in critically ill patients practical applications",
+  "volume": "20",
+  "issue": "1",
+  "pages": "283",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27719676"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13054-016-1456-5"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13054-016-1456-5"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5056485"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27719676"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27719676"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5056485;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/10/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/10/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/03/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 22,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/10/10 00:00",
+  "sortfirstauthor": "Villa G",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,136 @@
+{
+  "uid": "33490956",
+  "pubdate": "2021 Jan",
+  "epubdate": "2021 Jan 13",
+  "source": "Crit Care Explor",
+  "authors": [
+    {
+      "name": "Saha BK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ghalib S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chieng H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pezzano C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lydon D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feustel P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith TC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chopra A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chopra A",
+  "title": "Correlation of Respiratory Physiologic Parameters in Mechanically Ventilated Coronavirus Disease 2019 Patients.",
+  "sorttitle": "correlation of respiratory physiologic parameters in mechanically ventilated coronavirus disease 2019 patients",
+  "volume": "3",
+  "issue": "1",
+  "pages": "e0328",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101746347",
+  "issn": "",
+  "essn": "2639-8028",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33490956"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/CCE.0000000000000328"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7808528"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33490956"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33490956"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7808528;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/25 05:48"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/26 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Critical care explorations",
+  "elocationid": "doi: 10.1097/CCE.0000000000000328",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/13 00:00",
+  "sortfirstauthor": "Saha BK",
+  "vernaculartitle": ""
+}

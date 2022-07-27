@@ -1,0 +1,117 @@
+{
+  "uid": "26160612",
+  "pubdate": "2015 Aug",
+  "epubdate": "2015 Jul 10",
+  "source": "Nat Rev Immunol",
+  "authors": [
+    {
+      "name": "Ganz T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nemeth E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Nemeth E",
+  "title": "Iron homeostasis in host defence and inflammation.",
+  "sorttitle": "iron homeostasis in host defence and inflammation",
+  "volume": "15",
+  "issue": "8",
+  "pages": "500-10",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101124169",
+  "issn": "1474-1733",
+  "essn": "1474-1741",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26160612"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nri3863"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nri3863"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4801113"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS766726"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26160612"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26160612"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4801113;manuscript-id: NIHMS766726;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/07/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/07/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/10/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 161,
+  "fulljournalname": "Nature reviews. Immunology",
+  "elocationid": "doi: 10.1038/nri3863",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/08/01 00:00",
+  "sortfirstauthor": "Ganz T",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,117 @@
+{
+  "uid": "18625687",
+  "pubdate": "2008 Jul",
+  "epubdate": "",
+  "source": "Clin Microbiol Rev",
+  "authors": [
+    {
+      "name": "Peleg AY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seifert H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paterson DL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Paterson DL",
+  "title": "Acinetobacter baumannii: emergence of a successful pathogen.",
+  "sorttitle": "acinetobacter baumannii emergence of a successful pathogen",
+  "volume": "21",
+  "issue": "3",
+  "pages": "538-82",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8807282",
+  "issn": "0893-8512",
+  "essn": "1098-6618",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18625687"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "21/3/538"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1128/CMR.00058-07"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2493088"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18625687"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18625687"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2493088;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/07/16 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/08/08 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/07/16 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 910,
+  "fulljournalname": "Clinical microbiology reviews",
+  "elocationid": "doi: 10.1128/CMR.00058-07",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/07/01 00:00",
+  "sortfirstauthor": "Peleg AY",
+  "vernaculartitle": ""
+}

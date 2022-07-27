@@ -1,0 +1,107 @@
+{
+  "uid": "28306327",
+  "pubdate": "2017 Oct 1",
+  "epubdate": "",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "Henderson WR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Amato MBP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brochard LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Brochard LJ",
+  "title": "Fifty Years of Research in ARDS. Respiratory Mechanics in Acute Respiratory Distress Syndrome.",
+  "sorttitle": "fifty years of research in ards respiratory mechanics in acute respiratory distress syndrome",
+  "volume": "196",
+  "issue": "7",
+  "pages": "822-833",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28306327"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/rccm.201612-2495CI"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28306327"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28306327"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/03/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/10/13 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/03/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 36,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "doi: 10.1164/rccm.201612-2495CI",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/10/01 00:00",
+  "sortfirstauthor": "Henderson WR",
+  "vernaculartitle": ""
+}

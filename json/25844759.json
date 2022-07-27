@@ -1,0 +1,99 @@
+{
+  "uid": "25844759",
+  "pubdate": "2015 May 15",
+  "epubdate": "",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "Slutsky AS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Slutsky AS",
+  "title": "History of Mechanical Ventilation. From Vesalius to Ventilator-induced Lung Injury.",
+  "sorttitle": "history of mechanical ventilation from vesalius to ventilator induced lung injury",
+  "volume": "191",
+  "issue": "10",
+  "pages": "1106-15",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25844759"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/rccm.201503-0421PP"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25844759"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25844759"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/04/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/04/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/08/04 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Am J Respir Crit Care Med. 2015 Oct 1;192(7):902",
+      "reftype": "Comment in",
+      "pmid": 26426788,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 24,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "doi: 10.1164/rccm.201503-0421PP",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/05/15 00:00",
+  "sortfirstauthor": "Slutsky AS",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,130 @@
+{
+  "uid": "23927644",
+  "pubdate": "2013 Oct",
+  "epubdate": "2013 Aug 8",
+  "source": "Eur J Clin Invest",
+  "authors": [
+    {
+      "name": "Jüngst C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berg T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cheng J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Green RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jia J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mason AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lammert F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lammert F",
+  "title": "Intrahepatic cholestasis in common chronic liver diseases.",
+  "sorttitle": "intrahepatic cholestasis in common chronic liver diseases",
+  "volume": "43",
+  "issue": "10",
+  "pages": "1069-83",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0245331",
+  "issn": "0014-2972",
+  "essn": "1365-2362",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23927644"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/eci.12128"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23927644"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23927644"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/03/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2013/06/15 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/08/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/08/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/05/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 14,
+  "fulljournalname": "European journal of clinical investigation",
+  "elocationid": "doi: 10.1111/eci.12128",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/10/01 00:00",
+  "sortfirstauthor": "Jüngst C",
+  "vernaculartitle": ""
+}

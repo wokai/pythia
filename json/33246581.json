@@ -1,0 +1,139 @@
+{
+  "uid": "33246581",
+  "pubdate": "2021 Jan",
+  "epubdate": "2020 Nov 24",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Saugel B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kouz K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scheeren TWL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greiwe G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoppe P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Romagnoli S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Backer D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "de Backer D",
+  "title": "Cardiac output estimation using pulse wave analysis-physiology, algorithms, and technologies: a narrative review.",
+  "sorttitle": "cardiac output estimation using pulse wave analysis physiology algorithms and technologies a narrative review",
+  "volume": "126",
+  "issue": "1",
+  "pages": "67-76",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33246581"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(20)30857-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.bja.2020.09.049"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33246581"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33246581"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/06/01 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/08/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/09/10 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/29 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/28 05:27"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1016/j.bja.2020.09.049",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/01 00:00",
+  "sortfirstauthor": "Saugel B",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,115 @@
+{
+  "uid": "23384735",
+  "pubdate": "2013 Mar",
+  "epubdate": "2013 Feb 5",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Gibson F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bodenham A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bodenham A",
+  "title": "Misplaced central venous catheters: applied anatomy and practical management.",
+  "sorttitle": "misplaced central venous catheters applied anatomy and practical management",
+  "volume": "110",
+  "issue": "3",
+  "pages": "333-46",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23384735"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)32758-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aes497"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23384735"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23384735"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/02/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/02/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/04/03 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2013 Jul;111(1):123-4",
+      "reftype": "Comment in",
+      "pmid": 23794658,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2013 Jul;111(1):124",
+      "reftype": "Comment in",
+      "pmid": 23794659,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 50,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aes497",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/03/01 00:00",
+  "sortfirstauthor": "Gibson F",
+  "vernaculartitle": ""
+}

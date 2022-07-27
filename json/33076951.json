@@ -1,0 +1,164 @@
+{
+  "uid": "33076951",
+  "pubdate": "2020 Oct 19",
+  "epubdate": "2020 Oct 19",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Jiang W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wen M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hu B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zeng H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zeng H",
+  "title": "Increased percentage of PD-L1<sup>+</sup> natural killer cells predicts poor prognosis in sepsis patients: a prospective observational cohort study.",
+  "sorttitle": "increased percentage of pd l1 sup sup natural killer cells predicts poor prognosis in sepsis patients a prospective observational cohort study",
+  "volume": "24",
+  "issue": "1",
+  "pages": "617",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33076951"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13054-020-03329-z"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13054-020-03329-z"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7574346"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33076951"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33076951"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7574346;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/07/06 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/10/05 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/20 05:40"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/s13054-020-03329-z",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/19 00:00",
+  "sortfirstauthor": "Jiang W",
+  "vernaculartitle": ""
+}

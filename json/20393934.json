@@ -1,0 +1,124 @@
+{
+  "uid": "20393934",
+  "pubdate": "2010 Apr 14",
+  "epubdate": "2010 Apr 14",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Salpeter SR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greyber E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pasternak GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Salpeter EE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Salpeter EE",
+  "title": "Risk of fatal and nonfatal lactic acidosis with metformin use in type 2 diabetes mellitus.",
+  "sorttitle": "risk of fatal and nonfatal lactic acidosis with metformin use in type 2 diabetes mellitus",
+  "volume": "",
+  "issue": "4",
+  "pages": "CD002967",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20393934"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD002967.pub4"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7138050"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20393934"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20393934"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7138050;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/04/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/04/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/05/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cochrane Database Syst Rev. 2010;(1):CD002967",
+      "reftype": "Update of",
+      "pmid": 20091535,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 100,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD002967.pub4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/04/14 00:00",
+  "sortfirstauthor": "Salpeter SR",
+  "vernaculartitle": ""
+}

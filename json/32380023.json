@@ -1,0 +1,151 @@
+{
+  "uid": "32380023",
+  "pubdate": "2020 Jun",
+  "epubdate": "2020 May 4",
+  "source": "Lancet Respir Med",
+  "authors": [
+    {
+      "name": "Ingraham NE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lotfi-Emran S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thielen BK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Techar K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morris RS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Holtan SG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dudley RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tignanelli CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tignanelli CJ",
+  "title": "Immunomodulation in COVID-19.",
+  "sorttitle": "immunomodulation in covid 19",
+  "volume": "8",
+  "issue": "6",
+  "pages": "544-546",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101605555",
+  "issn": "2213-2600",
+  "essn": "2213-2619",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32380023"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2213-2600(20)30226-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S2213-2600(20)30226-5"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7198187"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32380023"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32380023"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7198187;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/04/15 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/04/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/04/22 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/05/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/07/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/05/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 38,
+  "fulljournalname": "The Lancet. Respiratory medicine",
+  "elocationid": "doi: 10.1016/S2213-2600(20)30226-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/06/01 00:00",
+  "sortfirstauthor": "Ingraham NE",
+  "vernaculartitle": ""
+}

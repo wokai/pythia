@@ -1,0 +1,111 @@
+{
+  "uid": "22879797",
+  "pubdate": "2012",
+  "epubdate": "2012 Apr 11",
+  "source": "Clin Med Insights Endocrinol Diabetes",
+  "authors": [
+    {
+      "name": "Nasrallah SN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reynolds LR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Reynolds LR",
+  "title": "Insulin Degludec, The New Generation Basal Insulin or Just another Basal Insulin?",
+  "sorttitle": "insulin degludec the new generation basal insulin or just another basal insulin",
+  "volume": "5",
+  "issue": "",
+  "pages": "31-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101578235",
+  "issn": "",
+  "essn": "1179-5514",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22879797"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.4137/CMED.S9494"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "cmed-5-2012-031"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3411522"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22879797"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22879797"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3411522;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/08/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/08/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/08/11 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Clinical medicine insights. Endocrinology and diabetes",
+  "elocationid": "doi: 10.4137/CMED.S9494",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/01/01 00:00",
+  "sortfirstauthor": "Nasrallah SN",
+  "vernaculartitle": ""
+}

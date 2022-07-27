@@ -1,0 +1,110 @@
+{
+  "uid": "24756907",
+  "pubdate": "2014 Jul",
+  "epubdate": "2014 Apr 23",
+  "source": "Antonie Van Leeuwenhoek",
+  "authors": [
+    {
+      "name": "Koonin EV",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Koonin EV",
+  "title": "The origins of cellular life.",
+  "sorttitle": "origins of cellular life",
+  "volume": "106",
+  "issue": "1",
+  "pages": "27-41",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372625",
+  "issn": "0003-6072",
+  "essn": "1572-9699",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24756907"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s10482-014-0169-5"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7087693"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24756907"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24756907"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7087693;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/03/14 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/04/03 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/04/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/04/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/01/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Antonie van Leeuwenhoek",
+  "elocationid": "doi: 10.1007/s10482-014-0169-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/07/01 00:00",
+  "sortfirstauthor": "Koonin EV",
+  "vernaculartitle": ""
+}

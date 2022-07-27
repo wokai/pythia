@@ -1,0 +1,92 @@
+{
+  "uid": "28277383",
+  "pubdate": "2017 Jun",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Ngan Kee WD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ngan Kee WD",
+  "title": "The use of vasopressors during spinal anaesthesia for caesarean section.",
+  "sorttitle": "use of vasopressors during spinal anaesthesia for caesarean section",
+  "volume": "30",
+  "issue": "3",
+  "pages": "319-325",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28277383"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0000000000000453"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28277383"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28277383"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/03/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/03/10 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/03/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0000000000000453",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/06/01 00:00",
+  "sortfirstauthor": "Ngan Kee WD",
+  "vernaculartitle": ""
+}

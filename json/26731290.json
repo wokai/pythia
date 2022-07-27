@@ -1,0 +1,107 @@
+{
+  "uid": "26731290",
+  "pubdate": "2016 Mar",
+  "epubdate": "",
+  "source": "Curr Opin Cardiol",
+  "authors": [
+    {
+      "name": "Yanagawa B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Whitlock RP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Verma S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gersh BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gersh BJ",
+  "title": "Anticoagulation for prosthetic heart valves: unresolved questions requiring answers.",
+  "sorttitle": "anticoagulation for prosthetic heart valves unresolved questions requiring answers",
+  "volume": "31",
+  "issue": "2",
+  "pages": "176-82",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8608087",
+  "issn": "0268-4705",
+  "essn": "1531-7080",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26731290"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/HCO.0000000000000259"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26731290"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26731290"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/01/06 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/01/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/11/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Current opinion in cardiology",
+  "elocationid": "doi: 10.1097/HCO.0000000000000259",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/03/01 00:00",
+  "sortfirstauthor": "Yanagawa B",
+  "vernaculartitle": ""
+}

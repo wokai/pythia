@@ -1,0 +1,174 @@
+{
+  "uid": "18978773",
+  "pubdate": "2008 Nov 27",
+  "epubdate": "2008 Nov 2",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Licatalosi DD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mele A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fak JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ule J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kayikci M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chi SW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clark TA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schweitzer AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Blume JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Darnell JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Darnell RB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Darnell RB",
+  "title": "HITS-CLIP yields genome-wide insights into brain alternative RNA processing.",
+  "sorttitle": "hits clip yields genome wide insights into brain alternative rna processing",
+  "volume": "456",
+  "issue": "7221",
+  "pages": "464-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18978773"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature07488"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature07488"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2597294"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS72490"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18978773"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18978773"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2597294;manuscript-id: NIHMS72490;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2008/05/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2008/10/03 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/11/04 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/12/30 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/11/04 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 618,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature07488",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/11/27 00:00",
+  "sortfirstauthor": "Licatalosi DD",
+  "vernaculartitle": ""
+}

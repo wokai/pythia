@@ -1,0 +1,164 @@
+{
+  "uid": "33024218",
+  "pubdate": "2020 Oct 6",
+  "epubdate": "2020 Oct 6",
+  "source": "Sci Rep",
+  "authors": [
+    {
+      "name": "Spoto S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nobile E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carnà EPR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fogolari M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Caputo D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Florio L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Valeriani E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benvenuto D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Costantino S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ciccozzi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Angeletti S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Angeletti S",
+  "title": "Best diagnostic accuracy of sepsis combining SIRS criteria or qSOFA score with Procalcitonin and Mid-Regional pro-Adrenomedullin outside ICU.",
+  "sorttitle": "best diagnostic accuracy of sepsis combining sirs criteria or qsofa score with procalcitonin and mid regional pro adrenomedullin outside icu",
+  "volume": "10",
+  "issue": "1",
+  "pages": "16605",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101563288",
+  "issn": "",
+  "essn": "2045-2322",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33024218"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41598-020-73676-y"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41598-020-73676-y"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7538435"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33024218"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33024218"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7538435;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/06/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/09/03 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/07 05:46"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Scientific reports",
+  "elocationid": "doi: 10.1038/s41598-020-73676-y",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/06 00:00",
+  "sortfirstauthor": "Spoto S",
+  "vernaculartitle": ""
+}

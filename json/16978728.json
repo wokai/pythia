@@ -1,0 +1,118 @@
+{
+  "uid": "16978728",
+  "pubdate": "2006 Nov",
+  "epubdate": "2006 Sep 15",
+  "source": "Trends Genet",
+  "authors": [
+    {
+      "name": "Shi P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bakewell MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zhang J",
+  "title": "Did brain-specific genes evolve faster in humans than in chimpanzees?",
+  "sorttitle": "did brain specific genes evolve faster in humans than in chimpanzees",
+  "volume": "22",
+  "issue": "11",
+  "pages": "608-13",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8507085",
+  "issn": "0168-9525",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16978728"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0168-9525(06)00294-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.tig.2006.09.001"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16978728"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16978728"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2006/03/21 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2006/06/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2006/09/04 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2006/09/19 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/01/19 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2006/09/19 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 23,
+  "fulljournalname": "Trends in genetics : TIG",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2006/11/01 00:00",
+  "sortfirstauthor": "Shi P",
+  "vernaculartitle": ""
+}

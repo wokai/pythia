@@ -1,0 +1,120 @@
+{
+  "uid": "28416506",
+  "pubdate": "2017 May 25",
+  "epubdate": "2017 Apr 17",
+  "source": "Blood",
+  "authors": [
+    {
+      "name": "Lambert MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gernsheimer TB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gernsheimer TB",
+  "title": "Clinical updates in adult immune thrombocytopenia.",
+  "sorttitle": "clinical updates in adult immune thrombocytopenia",
+  "volume": "129",
+  "issue": "21",
+  "pages": "2829-2835",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7603509",
+  "issn": "0006-4971",
+  "essn": "1528-0020",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28416506"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0006-4971(20)33354-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1182/blood-2017-03-754119"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5813736"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28416506"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28416506"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5813736;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/03/13 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/04/10 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/04/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/09/07 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/04/19 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 65,
+  "fulljournalname": "Blood",
+  "elocationid": "doi: 10.1182/blood-2017-03-754119",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/05/25 00:00",
+  "sortfirstauthor": "Lambert MP",
+  "vernaculartitle": ""
+}

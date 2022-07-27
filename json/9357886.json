@@ -1,0 +1,103 @@
+{
+  "uid": "9357886",
+  "pubdate": "1997 Oct",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Song D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Joshi GP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "White PF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "White PF",
+  "title": "Titration of volatile anesthetics using bispectral index facilitates recovery after ambulatory anesthesia.",
+  "sorttitle": "titration of volatile anesthetics using bispectral index facilitates recovery after ambulatory anesthesia",
+  "volume": "87",
+  "issue": "4",
+  "pages": "842-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9357886"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-199710000-00018"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9357886"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9357886"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1997/11/14 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1997/11/14 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1997/11/14 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1997/10/01 00:00",
+  "sortfirstauthor": "Song D",
+  "vernaculartitle": ""
+}

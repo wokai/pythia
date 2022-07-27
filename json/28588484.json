@@ -1,0 +1,159 @@
+{
+  "uid": "28588484",
+  "pubdate": "2017",
+  "epubdate": "2017 May 23",
+  "source": "Front Pharmacol",
+  "authors": [
+    {
+      "name": "Kloth B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pecha S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moritz E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schneeberger Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Söhren KD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwedhelm E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reichenspurner H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eschenhagen T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Böger RH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Christ T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stehr SN",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stehr SN",
+  "title": "Akrinor<sup>TM</sup>, a Cafedrine/ Theodrenaline Mixture (20:1), Increases Force of Contraction of Human Atrial Myocardium But Does Not Constrict Internal Mammary Artery <i>In Vitro</i>.",
+  "sorttitle": "akrinor sup tm sup a cafedrine theodrenaline mixture 20 1 increases force of contraction of human atrial myocardium but does not constrict internal mammary artery i in vitro i",
+  "volume": "8",
+  "issue": "",
+  "pages": "272",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101548923",
+  "issn": "",
+  "essn": "1663-9812",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28588484"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fphar.2017.00272"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5441130"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28588484"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28588484"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5441130;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/12/01 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/05/01 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/06/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/06/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/06/08 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Frontiers in pharmacology",
+  "elocationid": "doi: 10.3389/fphar.2017.00272",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/05/23 00:00",
+  "sortfirstauthor": "Kloth B",
+  "vernaculartitle": ""
+}

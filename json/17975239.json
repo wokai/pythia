@@ -1,0 +1,107 @@
+{
+  "uid": "17975239",
+  "pubdate": "2007 Nov",
+  "epubdate": "",
+  "source": "Can J Anaesth",
+  "authors": [
+    {
+      "name": "Tran DQ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clemente A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Finlayson RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Finlayson RJ",
+  "title": "A review of approaches and techniques for lower extremity nerve blocks.",
+  "sorttitle": "review of approaches and techniques for lower extremity nerve blocks",
+  "volume": "54",
+  "issue": "11",
+  "pages": "922-34",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8701709",
+  "issn": "0832-610X",
+  "essn": "1496-8975",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17975239"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "54/11/922"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/BF03026798"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17975239"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17975239"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/11/03 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/01/30 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/11/03 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/11/01 00:00",
+  "sortfirstauthor": "Tran DQ",
+  "vernaculartitle": ""
+}

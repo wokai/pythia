@@ -1,0 +1,97 @@
+{
+  "uid": "33857976",
+  "pubdate": "2021 May 1",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Saadat H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Saadat H",
+  "title": "Effect of Inadequate Sleep on Clinician Performance.",
+  "sorttitle": "effect of inadequate sleep on clinician performance",
+  "volume": "132",
+  "issue": "5",
+  "pages": "1338-1343",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33857976"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000005369"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-202105000-00021"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33857976"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33857976"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2021/04/15 20:30"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/04/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/04/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000005369",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/05/01 00:00",
+  "sortfirstauthor": "Saadat H",
+  "vernaculartitle": ""
+}

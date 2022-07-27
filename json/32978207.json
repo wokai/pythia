@@ -1,0 +1,201 @@
+{
+  "uid": "32978207",
+  "pubdate": "2020 Sep 25",
+  "epubdate": "2020 Sep 25",
+  "source": "BMJ Open",
+  "authors": [
+    {
+      "name": "Fumagalli C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rozzini R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vannini M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coccia F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cesaroni G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mazzeo F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cola M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bartoloni A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fontanari P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lavorini F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marcucci R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morettini A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nozzoli C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peris A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pieralli F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pini R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Poggesi L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ungar A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fumagalli S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marchionni N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Marchionni N",
+  "title": "Clinical risk score to predict in-hospital mortality in COVID-19 patients: a retrospective cohort study.",
+  "sorttitle": "clinical risk score to predict in hospital mortality in covid 19 patients a retrospective cohort study",
+  "volume": "10",
+  "issue": "9",
+  "pages": "e040729",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101552874",
+  "issn": "",
+  "essn": "2044-6055",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32978207"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "bmjopen-2020-040729"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmjopen-2020-040729"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7520809"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32978207"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32978207"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7520809;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/26 05:24"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "BMJ open",
+  "elocationid": "doi: 10.1136/bmjopen-2020-040729",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/25 00:00",
+  "sortfirstauthor": "Fumagalli C",
+  "vernaculartitle": ""
+}

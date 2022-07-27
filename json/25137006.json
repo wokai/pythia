@@ -1,0 +1,117 @@
+{
+  "uid": "25137006",
+  "pubdate": "2014 Sep",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Kooij FO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schlack WS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Preckel B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hollmann MW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hollmann MW",
+  "title": "Does regional analgesia for major surgery improve outcome? Focus on epidural analgesia.",
+  "sorttitle": "does regional analgesia for major surgery improve outcome focus on epidural analgesia",
+  "volume": "119",
+  "issue": "3",
+  "pages": "740-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25137006"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000000245"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201409000-00033"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25137006"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25137006"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/08/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/08/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/10/07 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2014 Sep;119(3):501-2",
+      "reftype": "Comment in",
+      "pmid": 25136993,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 10,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000000245",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/09/01 00:00",
+  "sortfirstauthor": "Kooij FO",
+  "vernaculartitle": ""
+}

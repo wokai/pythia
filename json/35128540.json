@@ -1,0 +1,114 @@
+{
+  "uid": "35128540",
+  "pubdate": "2022 Jan 31",
+  "epubdate": "2022 Jan 31",
+  "source": "AI Ethics",
+  "authors": [
+    {
+      "name": "Stinson C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stinson C",
+  "title": "Algorithms are not neutral: Bias in collaborative filtering.",
+  "sorttitle": "algorithms are not neutral bias in collaborative filtering",
+  "volume": "",
+  "issue": "",
+  "pages": "1-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9918284169806676",
+  "issn": "2730-5953",
+  "essn": "2730-5961",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "35128540"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s43681-022-00136-w"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "136"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8802245"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "35128540"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "35128540"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8802245;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/10/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2022/01/11 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2022/02/07 05:38"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2022/02/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2022/02/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "AI and ethics",
+  "elocationid": "doi: 10.1007/s43681-022-00136-w",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2022/01/31 00:00",
+  "sortfirstauthor": "Stinson C",
+  "vernaculartitle": ""
+}

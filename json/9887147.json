@@ -1,0 +1,91 @@
+{
+  "uid": "9887147",
+  "pubdate": "1999 Jan",
+  "epubdate": "",
+  "source": "J Appl Physiol (1985)",
+  "authors": [
+    {
+      "name": "Wooten EW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wooten EW",
+  "title": "Analytic calculation of physiological acid-base parameters in plasma.",
+  "sorttitle": "analytic calculation of physiological acid base parameters in plasma",
+  "volume": "86",
+  "issue": "1",
+  "pages": "326-34",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8502536",
+  "issn": "8750-7587",
+  "essn": "1522-1601",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9887147"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/jappl.1999.86.1.326"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9887147"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9887147"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1999/01/14 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1999/01/14 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1999/01/14 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Journal of applied physiology (Bethesda, Md. : 1985)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1999/01/01 00:00",
+  "sortfirstauthor": "Wooten EW",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,204 @@
+{
+  "uid": "32306086",
+  "pubdate": "2020 Jun",
+  "epubdate": "2020 Apr 18",
+  "source": "Intensive Care Med",
+  "authors": [
+    {
+      "name": "Fernando SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tran A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cheng W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klompas M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kyeremanteng K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mehta S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "English SW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muscedere J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cook DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Torres A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ranzani OT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fox-Robichaud AE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alhazzani W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Munshi L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyatt GH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rochwerg B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rochwerg B",
+  "title": "Diagnosis of ventilator-associated pneumonia in critically ill adult patients-a systematic review and meta-analysis.",
+  "sorttitle": "diagnosis of ventilator associated pneumonia in critically ill adult patients a systematic review and meta analysis",
+  "volume": "46",
+  "issue": "6",
+  "pages": "1170-1179",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7704851",
+  "issn": "0342-4642",
+  "essn": "1432-1238",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32306086"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00134-020-06036-z"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00134-020-06036-z"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7223448"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32306086"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32306086"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7223448;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/14 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/04/02 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/04/28 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/20 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Intensive Care Med. 2020 Jul;46(7):1504-1505",
+      "reftype": "Comment in",
+      "pmid": 32451575,
+      "note": ""
+    },
+    {
+      "refsource": "Intensive Care Med. 2020 Jul;46(7):1506-1507",
+      "reftype": "Comment in",
+      "pmid": 32500179,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Intensive care medicine",
+  "elocationid": "doi: 10.1007/s00134-020-06036-z",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/06/01 00:00",
+  "sortfirstauthor": "Fernando SM",
+  "vernaculartitle": ""
+}

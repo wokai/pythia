@@ -1,0 +1,133 @@
+{
+  "uid": "22972112",
+  "pubdate": "2012 Sep 12",
+  "epubdate": "2012 Sep 12",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Griffiths JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gyte GM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paranjothy S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brown HC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Broughton HK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomas J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Thomas J",
+  "title": "Interventions for preventing nausea and vomiting in women undergoing regional anaesthesia for caesarean section.",
+  "sorttitle": "interventions for preventing nausea and vomiting in women undergoing regional anaesthesia for caesarean section",
+  "volume": "",
+  "issue": "9",
+  "pages": "CD007579",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22972112"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD007579.pub2"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4204618"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "EMS58086"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22972112"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22972112"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4204618;manuscript-id: EMS58086;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/09/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/09/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/10/31 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD007579.pub2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/09/12 00:00",
+  "sortfirstauthor": "Griffiths JD",
+  "vernaculartitle": ""
+}

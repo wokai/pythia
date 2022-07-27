@@ -1,0 +1,128 @@
+{
+  "uid": "28872584",
+  "pubdate": "2017 Sep 5",
+  "epubdate": "2017 Sep 5",
+  "source": "Int J Mol Sci",
+  "authors": [
+    {
+      "name": "Kaisers W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwender H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schaal H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schaal H",
+  "title": "Sample Size Estimation for Detection of Splicing Events in Transcriptome Sequencing Data.",
+  "sorttitle": "sample size estimation for detection of splicing events in transcriptome sequencing data",
+  "volume": "18",
+  "issue": "9",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101092791",
+  "issn": "",
+  "essn": "1422-0067",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28872584"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ijms18091900"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/ijms18091900"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5618549"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28872584"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28872584"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5618549;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/06/30 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/08/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/08/29 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/09/06 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/09/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/05/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "International journal of molecular sciences",
+  "elocationid": "pii: E1900. doi: 10.3390/ijms18091900",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/09/05 00:00",
+  "sortfirstauthor": "Kaisers W",
+  "vernaculartitle": ""
+}

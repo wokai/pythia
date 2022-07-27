@@ -1,0 +1,129 @@
+{
+  "uid": "9316950",
+  "pubdate": "1997 Sep",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Auroy Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Narchi P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Messiah A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Litt L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rouvier B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Samii K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Samii K",
+  "title": "Serious complications related to regional anesthesia: results of a prospective survey in France.",
+  "sorttitle": "serious complications related to regional anesthesia results of a prospective survey in france",
+  "volume": "87",
+  "issue": "3",
+  "pages": "479-86",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9316950"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-199709000-00005"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9316950"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9316950"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1997/10/08 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1997/10/08 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1997/10/08 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 1997 Sep;87(3):469-72",
+      "reftype": "Comment in",
+      "pmid": 9316947,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 1998 Sep;89(3):790-2",
+      "reftype": "Comment in",
+      "pmid": 9743422,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 79,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1997/09/01 00:00",
+  "sortfirstauthor": "Auroy Y",
+  "vernaculartitle": ""
+}

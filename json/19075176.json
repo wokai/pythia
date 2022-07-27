@@ -1,0 +1,102 @@
+{
+  "uid": "19075176",
+  "pubdate": "2008 Dec",
+  "epubdate": "",
+  "source": "Arch Surg",
+  "authors": [
+    {
+      "name": "Marik PE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Varon J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Varon J",
+  "title": "Requirement of perioperative stress doses of corticosteroids: a systematic review of the literature.",
+  "sorttitle": "requirement of perioperative stress doses of corticosteroids a systematic review of the literature",
+  "volume": "143",
+  "issue": "12",
+  "pages": "1222-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9716528",
+  "issn": "0004-0010",
+  "essn": "1538-3644",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19075176"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "143/12/1222"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/archsurg.143.12.1222"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19075176"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19075176"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2008/12/17 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/12/17 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/01/03 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 22,
+  "fulljournalname": "Archives of surgery (Chicago, Ill. : 1960)",
+  "elocationid": "doi: 10.1001/archsurg.143.12.1222",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/12/01 00:00",
+  "sortfirstauthor": "Marik PE",
+  "vernaculartitle": ""
+}

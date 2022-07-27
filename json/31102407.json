@@ -1,0 +1,146 @@
+{
+  "uid": "31102407",
+  "pubdate": "2020 Jan 21",
+  "epubdate": "",
+  "source": "Eur Heart J",
+  "authors": [
+    {
+      "name": "Keller K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hobohm L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ebner M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kresoja KP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Münzel T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Konstantinides SV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lankeit M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lankeit M",
+  "title": "Trends in thrombolytic treatment and outcomes of acute pulmonary embolism in Germany.",
+  "sorttitle": "trends in thrombolytic treatment and outcomes of acute pulmonary embolism in germany",
+  "volume": "41",
+  "issue": "4",
+  "pages": "522-529",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8006263",
+  "issn": "0195-668X",
+  "essn": "1522-9645",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31102407"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "5490731"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/eurheartj/ehz236"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31102407"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31102407"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/09/06 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/12/06 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/04/16 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/05/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/18 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/05/19 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur Heart J. 2020 Jan 21;41(4):530-533",
+      "reftype": "Comment in",
+      "pmid": 31132085,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 34,
+  "fulljournalname": "European heart journal",
+  "elocationid": "doi: 10.1093/eurheartj/ehz236",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/01/21 00:00",
+  "sortfirstauthor": "Keller K",
+  "vernaculartitle": ""
+}

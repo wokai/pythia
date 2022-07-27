@@ -1,0 +1,264 @@
+{
+  "uid": "34795285",
+  "pubdate": "2021 Nov 18",
+  "epubdate": "2021 Nov 18",
+  "source": "Nat Commun",
+  "authors": [
+    {
+      "name": "Abela IA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pasin C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwarzmüller M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Epp S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sickmann ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schanz MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rusert P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weber J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmutz S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Audigé A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maliqi L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hunziker A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hesselman MC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Niklaus CR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gottschalk J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schindler E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wepf A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Karrer U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wolfensberger A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rampini SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyer Sauteur PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berger C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huber M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Böni J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Braun DL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marconato M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Manz MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Frey BM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Günthard HF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kouyos RD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Trkola A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Trkola A",
+  "title": "Multifactorial seroprofiling dissects the contribution of pre-existing human coronaviruses responses to SARS-CoV-2 immunity.",
+  "sorttitle": "multifactorial seroprofiling dissects the contribution of pre existing human coronaviruses responses to sars cov 2 immunity",
+  "volume": "12",
+  "issue": "1",
+  "pages": "6703",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101528555",
+  "issn": "",
+  "essn": "2041-1723",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34795285"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41467-021-27040-x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41467-021-27040-x"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8602384"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34795285"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34795285"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8602384;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/04/14 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/10/29 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/11/19 06:18"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/11/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/12/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Nature communications",
+  "elocationid": "doi: 10.1038/s41467-021-27040-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/11/18 00:00",
+  "sortfirstauthor": "Abela IA",
+  "vernaculartitle": ""
+}

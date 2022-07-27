@@ -1,0 +1,180 @@
+{
+  "uid": "29370377",
+  "pubdate": "2018 Apr 21",
+  "epubdate": "",
+  "source": "Eur Heart J",
+  "authors": [
+    {
+      "name": "Hemingway H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Asselbergs FW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Danesh J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dobson R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maniadakis N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maggioni A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Thiel GJM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cronin M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brobert G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vardas P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anker SD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grobbee DE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Denaxas S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Innovative Medicines Initiative 2nd programme, Big Data for Better Outcomes, BigData@Heart Consortium of 20 academic and industry partners including ESC.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Denaxas S",
+  "title": "Big data from electronic health records for early and late translational cardiovascular research: challenges and potential.",
+  "sorttitle": "big data from electronic health records for early and late translational cardiovascular research challenges and potential",
+  "volume": "39",
+  "issue": "16",
+  "pages": "1481-1495",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8006263",
+  "issn": "0195-668X",
+  "essn": "1522-9645",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29370377"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "4096831"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/eurheartj/ehx487"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6019015"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29370377"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29370377"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6019015;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/06/01 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/08/08 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/01/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/11/14 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/01/26 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 37,
+  "fulljournalname": "European heart journal",
+  "elocationid": "doi: 10.1093/eurheartj/ehx487",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/04/21 00:00",
+  "sortfirstauthor": "Hemingway H",
+  "vernaculartitle": ""
+}

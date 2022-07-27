@@ -1,0 +1,257 @@
+{
+  "uid": "32860505",
+  "pubdate": "2021 Feb 1",
+  "epubdate": "",
+  "source": "Eur Heart J",
+  "authors": [
+    {
+      "name": "Hindricks G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Potpara T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dagres N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arbelo E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bax JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Blomström-Lundqvist C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boriani G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Castella M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dan GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dilaveris PE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fauchier L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Filippatos G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kalman JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "La Meir M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lane DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lebeau JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lettino M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lip GYH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pinto FJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomas GN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Valgimigli M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van Gelder IC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van Putte BP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watkins CL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "ESC Scientific Document Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Watkins CL",
+  "title": "2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS):  The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC.",
+  "sorttitle": "2020 esc guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the european association for cardio thoracic surgery eacts the task force for the diagnosis and management of atrial fibrillation of the european society of cardiology esc developed with the special contribution of the european heart rhythm association ehra of the esc",
+  "volume": "42",
+  "issue": "5",
+  "pages": "373-498",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8006263",
+  "issn": "0195-668X",
+  "essn": "1522-9645",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32860505"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "5899003"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/eurheartj/ehaa612"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32860505"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32860505"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/05/28 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/30 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur Heart J. 2021 Feb 1;42(5):507",
+      "reftype": "Erratum in",
+      "pmid": 33029625,
+      "note": ""
+    },
+    {
+      "refsource": "Eur Heart J. 2021 Feb 1;42(5):546-547",
+      "reftype": "Erratum in",
+      "pmid": 33242070,
+      "note": ""
+    },
+    {
+      "refsource": "Eur Heart J. 2021 Jul 31;42(29):2866-2867",
+      "reftype": "Comment in",
+      "pmid": 33294920,
+      "note": ""
+    },
+    {
+      "refsource": "Eur Heart J. 2021 Feb 1;42(5):541-543",
+      "reftype": "Comment in",
+      "pmid": 33496325,
+      "note": ""
+    },
+    {
+      "refsource": "Eur Heart J. 2021 Feb 1;42(5):361-364",
+      "reftype": "Comment in",
+      "pmid": 33532851,
+      "note": ""
+    },
+    {
+      "refsource": "Rev Esp Cardiol (Engl Ed). 2021 May;74(5):378-383",
+      "reftype": "Comment in",
+      "pmid": 33736964,
+      "note": ""
+    },
+    {
+      "refsource": "Eur Heart J. 2021 Oct 21;42(40):4194",
+      "reftype": "Erratum in",
+      "pmid": 34520521,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 668,
+  "fulljournalname": "European heart journal",
+  "elocationid": "doi: 10.1093/eurheartj/ehaa612",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/01 00:00",
+  "sortfirstauthor": "Hindricks G",
+  "vernaculartitle": ""
+}

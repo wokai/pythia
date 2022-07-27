@@ -1,0 +1,117 @@
+{
+  "uid": "24126521",
+  "pubdate": "2014 Jan",
+  "epubdate": "2013 Oct 14",
+  "source": "Infect Immun",
+  "authors": [
+    {
+      "name": "Mueller KE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Plano GV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fields KA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Fields KA",
+  "title": "New frontiers in type III secretion biology: the Chlamydia perspective.",
+  "sorttitle": "new frontiers in type iii secretion biology the chlamydia perspective",
+  "volume": "82",
+  "issue": "1",
+  "pages": "2-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0246127",
+  "issn": "0019-9567",
+  "essn": "1098-5522",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24126521"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "IAI.00917-13"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1128/IAI.00917-13"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3911841"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24126521"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24126521"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3911841;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/10/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/10/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/02/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 48,
+  "fulljournalname": "Infection and immunity",
+  "elocationid": "doi: 10.1128/IAI.00917-13",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/01/01 00:00",
+  "sortfirstauthor": "Mueller KE",
+  "vernaculartitle": ""
+}

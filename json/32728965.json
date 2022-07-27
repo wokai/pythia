@@ -1,0 +1,183 @@
+{
+  "uid": "32728965",
+  "pubdate": "2020 Dec",
+  "epubdate": "2020 Jul 29",
+  "source": "Intensive Care Med",
+  "authors": [
+    {
+      "name": "Ferrando C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Suarez-Sipmann F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mellado-Artigas R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hernández M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gea A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arruti E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aldecoa C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martínez-Pallí G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martínez-González MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Slutsky AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Villar J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "COVID-19 Spanish ICU Network.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Villar J",
+  "title": "Clinical features, ventilatory management, and outcome of ARDS caused by COVID-19 are similar to other causes of ARDS.",
+  "sorttitle": "clinical features ventilatory management and outcome of ards caused by covid 19 are similar to other causes of ards",
+  "volume": "46",
+  "issue": "12",
+  "pages": "2200-2211",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7704851",
+  "issn": "0342-4642",
+  "essn": "1432-1238",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32728965"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00134-020-06192-2"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00134-020-06192-2"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7387884"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32728965"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32728965"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7387884;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/05/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/07/17 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/07/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/29 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/07/31 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Intensive Care Med. 2020 Dec;46(12):2197-2199",
+      "reftype": "Comment in",
+      "pmid": 33006682,
+      "note": ""
+    },
+    {
+      "refsource": "Intensive Care Med. 2020 Dec 2;:",
+      "reftype": "Erratum in",
+      "pmid": 33263817,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 35,
+  "fulljournalname": "Intensive care medicine",
+  "elocationid": "doi: 10.1007/s00134-020-06192-2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/01 00:00",
+  "sortfirstauthor": "Ferrando C",
+  "vernaculartitle": ""
+}

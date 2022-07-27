@@ -1,0 +1,112 @@
+{
+  "uid": "16751211",
+  "pubdate": "2006 Jul",
+  "epubdate": "2006 Jun 2",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Bruhn J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Myles PS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sneyd R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Struys MM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Struys MM",
+  "title": "Depth of anaesthesia monitoring: what's available, what's validated and what's next?",
+  "sorttitle": "depth of anaesthesia monitoring what s available what s validated and what s next",
+  "volume": "97",
+  "issue": "1",
+  "pages": "85-94",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16751211"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)35187-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/ael120"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16751211"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16751211"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2006/06/06 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/08/01 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2006/06/06 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 39,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2006/07/01 00:00",
+  "sortfirstauthor": "Bruhn J",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,175 @@
+{
+  "uid": "28138736",
+  "pubdate": "2017 Sep",
+  "epubdate": "2017 Jan 30",
+  "source": "Intensive Care Med",
+  "authors": [
+    {
+      "name": "Pickkers P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ostermann M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Joannidis M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zarbock A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoste E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellomo R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prowle J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Darmon M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bonventre JV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Forni L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bagshaw SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schetz M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schetz M",
+  "title": "The intensive care medicine agenda on acute kidney injury.",
+  "sorttitle": "intensive care medicine agenda on acute kidney injury",
+  "volume": "43",
+  "issue": "9",
+  "pages": "1198-1209",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7704851",
+  "issn": "0342-4642",
+  "essn": "1432-1238",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28138736"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00134-017-4687-2"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00134-017-4687-2"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5534380"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS868017"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28138736"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28138736"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5534380;manuscript-id: NIHMS868017;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/12/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/01/16 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/02/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/07/17 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/02/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 25,
+  "fulljournalname": "Intensive care medicine",
+  "elocationid": "doi: 10.1007/s00134-017-4687-2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/09/01 00:00",
+  "sortfirstauthor": "Pickkers P",
+  "vernaculartitle": ""
+}

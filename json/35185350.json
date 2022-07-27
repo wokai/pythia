@@ -1,0 +1,145 @@
+{
+  "uid": "35185350",
+  "pubdate": "2022",
+  "epubdate": "2022 Feb 14",
+  "source": "Clin Med Insights Endocrinol Diabetes",
+  "authors": [
+    {
+      "name": "Mohan V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saboo B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khader J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Modi KD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jindal S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wangnoo SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Amarnath S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Amarnath S",
+  "title": "Position of Sulfonylureas in the Current ERA: Review of National and International Guidelines.",
+  "sorttitle": "position of sulfonylureas in the current era review of national and international guidelines",
+  "volume": "15",
+  "issue": "",
+  "pages": "11795514221074663",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101578235",
+  "issn": "",
+  "essn": "1179-5514",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "35185350"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1177/11795514221074663"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1177_11795514221074663"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8854230"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "35185350"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "35185350"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8854230;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/05/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/12/22 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2022/02/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2022/02/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2022/02/22 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Clinical medicine insights. Endocrinology and diabetes",
+  "elocationid": "doi: 10.1177/11795514221074663",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2022/02/14 00:00",
+  "sortfirstauthor": "Mohan V",
+  "vernaculartitle": ""
+}

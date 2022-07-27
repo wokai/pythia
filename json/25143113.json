@@ -1,0 +1,347 @@
+{
+  "uid": "25143113",
+  "pubdate": "2014 Aug 21",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Higham T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Douka K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wood R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramsey CB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brock F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Basell L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Camps M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arrizabalaga A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baena J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barroso-Ruíz C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bergman C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boitard C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boscato P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Caparrós M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Conard NJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Draily C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Froment A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Galván B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gambassini P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Garcia-Moreno A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grimaldi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haesaerts P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Holt B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iriarte-Chiapusso MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jelinek A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jordá Pardo JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maíllo-Fernández JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marom A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maroto J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Menéndez M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Metz L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morin E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moroni A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Negrino F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Panagopoulou E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peresani M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pirson S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de la Rasilla M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Riel-Salvatore J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ronchitelli A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Santamaria D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Semal P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Slimak L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Soler J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Soler N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Villaluenga A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pinhasi R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jacobi R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Jacobi R",
+  "title": "The timing and spatiotemporal patterning of Neanderthal disappearance.",
+  "sorttitle": "timing and spatiotemporal patterning of neanderthal disappearance",
+  "volume": "512",
+  "issue": "7514",
+  "pages": "306-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25143113"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature13621"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature13621"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25143113"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25143113"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/05/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/06/27 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/08/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/08/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/09/16 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2014 Aug 21;512(7514):260-1",
+      "reftype": "Comment in",
+      "pmid": 25143108,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 74,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature13621",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/08/21 00:00",
+  "sortfirstauthor": "Higham T",
+  "vernaculartitle": ""
+}

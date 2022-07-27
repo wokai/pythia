@@ -1,0 +1,120 @@
+{
+  "uid": "12734009",
+  "pubdate": "2003",
+  "epubdate": "2003 Apr 3",
+  "source": "Genome Biol",
+  "authors": [
+    {
+      "name": "Dennis G Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sherman BT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hosack DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yang J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gao W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lane HC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lempicki RA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lempicki RA",
+  "title": "DAVID: Database for Annotation, Visualization, and Integrated Discovery.",
+  "sorttitle": "david database for annotation visualization and integrated discovery",
+  "volume": "4",
+  "issue": "5",
+  "pages": "P3",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100960660",
+  "issn": "1474-7596",
+  "essn": "1474-760X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12734009"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12734009"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12734009"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2003/03/28 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/05/08 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/07/23 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/05/08 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4139,
+  "fulljournalname": "Genome biology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/01/01 00:00",
+  "sortfirstauthor": "Dennis G Jr",
+  "vernaculartitle": ""
+}

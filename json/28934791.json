@@ -1,0 +1,92 @@
+{
+  "uid": "28934791",
+  "pubdate": "2017 Sep",
+  "epubdate": "",
+  "source": "Pain Physician",
+  "authors": [
+    {
+      "name": "Wirz S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Molderings GJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Molderings GJ",
+  "title": "A Practical Guide for Treatment of Pain in Patients with Systemic Mast Cell Activation Disease.",
+  "sorttitle": "practical guide for treatment of pain in patients with systemic mast cell activation disease",
+  "volume": "20",
+  "issue": "6",
+  "pages": "E849-E861",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100954394",
+  "issn": "1533-3159",
+  "essn": "2150-1149",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28934791"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28934791"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28934791"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/09/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/09/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/05/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Pain physician",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/09/01 00:00",
+  "sortfirstauthor": "Wirz S",
+  "vernaculartitle": ""
+}

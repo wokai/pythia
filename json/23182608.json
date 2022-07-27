@@ -1,0 +1,134 @@
+{
+  "uid": "23182608",
+  "pubdate": "2013 Jan",
+  "epubdate": "2012 Nov 22",
+  "source": "Int J Obstet Anesth",
+  "authors": [
+    {
+      "name": "Yoo KY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kang DH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jeong H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jeong CW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Choi YY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lee J",
+  "title": "A dose-response study of remifentanil for attenuation of the hypertensive response to laryngoscopy and tracheal intubation in severely preeclamptic women undergoing caesarean delivery under general anaesthesia.",
+  "sorttitle": "dose response study of remifentanil for attenuation of the hypertensive response to laryngoscopy and tracheal intubation in severely preeclamptic women undergoing caesarean delivery under general anaesthesia",
+  "volume": "22",
+  "issue": "1",
+  "pages": "10-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9200430",
+  "issn": "0959-289X",
+  "essn": "1532-3374",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23182608"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0959-289X(12)00133-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijoa.2012.09.010"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23182608"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23182608"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2012/05/15 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2012/09/20 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2012/09/24 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2012/11/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/11/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/09/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "International journal of obstetric anesthesia",
+  "elocationid": "doi: 10.1016/j.ijoa.2012.09.010",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/01/01 00:00",
+  "sortfirstauthor": "Yoo KY",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,89 @@
+{
+  "uid": "5573833",
+  "pubdate": "1971 Jun 3",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "West JB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "West JB",
+  "title": "Causes of carbon dioxide retention in lung disease.",
+  "sorttitle": "causes of carbon dioxide retention in lung disease",
+  "volume": "284",
+  "issue": "22",
+  "pages": "1232-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "5573833"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJM197106032842202"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "5573833"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "5573833"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1971/06/03 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1971/06/03 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1971/06/03 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 11,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1971/06/03 00:00",
+  "sortfirstauthor": "West JB",
+  "vernaculartitle": ""
+}

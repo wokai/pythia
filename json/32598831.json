@@ -1,0 +1,357 @@
+{
+  "uid": "32598831",
+  "pubdate": "2020 Jul 23",
+  "epubdate": "2020 Jun 29",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Feldstein LR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rose EB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Horwitz SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Collins JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Newhams MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Son MBF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Newburger JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kleinman LC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heidemann SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin AA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tarquinio KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jaggi P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oster ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zackai SP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gillen J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ratner AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walsh RF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fitzgerald JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Keenaghan MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alharash H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Doymaz S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clouser KN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giuliano JS Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gupta A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parker RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maddux AB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Havalad V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramsingh S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bukulmez H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bradford TT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith LS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tenforde MW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carroll CL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Riggs BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gertz SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Daube A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lansell A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coronado Munoz A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hobbs CV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marohn KL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Halasa NB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patel MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Randolph AG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Overcoming COVID-19 Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "CDC COVID-19 Response Team.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Randolph AG",
+  "title": "Multisystem Inflammatory Syndrome in U.S. Children and Adolescents.",
+  "sorttitle": "multisystem inflammatory syndrome in u s children and adolescents",
+  "volume": "383",
+  "issue": "4",
+  "pages": "334-346",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32598831"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa2021680"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7346765"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32598831"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32598831"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7346765;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/07/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/07/31 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/06/30 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2020 Jul 23;383(4):393-395",
+      "reftype": "Comment in",
+      "pmid": 32598829,
+      "note": ""
+    },
+    {
+      "refsource": "MMW Fortschr Med. 2020 Sep;162(15):24-25",
+      "reftype": "Comment in",
+      "pmid": 32895815,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Oct 29;383(18):1793-1794",
+      "reftype": "Comment in",
+      "pmid": 33085852,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Oct 29;383(18):1794",
+      "reftype": "Comment in",
+      "pmid": 33085853,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 269,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa2021680",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/23 00:00",
+  "sortfirstauthor": "Feldstein LR",
+  "vernaculartitle": ""
+}

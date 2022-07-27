@@ -1,0 +1,108 @@
+{
+  "uid": "16306741",
+  "pubdate": "2005 Dec",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Dexter F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ledolter J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ledolter J",
+  "title": "Bayesian prediction bounds and comparisons of operating room times even for procedures with few or no historic data.",
+  "sorttitle": "bayesian prediction bounds and comparisons of operating room times even for procedures with few or no historic data",
+  "volume": "103",
+  "issue": "6",
+  "pages": "1259-167",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16306741"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000542-200512000-00023"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-200512000-00023"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16306741"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16306741"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/11/25 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/01/26 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/11/25 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2006 Apr;104(4):901",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/12/01 00:00",
+  "sortfirstauthor": "Dexter F",
+  "vernaculartitle": ""
+}

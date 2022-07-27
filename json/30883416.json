@@ -1,0 +1,103 @@
+{
+  "uid": "30883416",
+  "pubdate": "2019 Apr",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Hindman BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dexter F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dexter F",
+  "title": "Anesthetic Management of Emergency Endovascular Thrombectomy for Acute Ischemic Stroke, Part 2: Integrating and Applying Observational Reports and Randomized Clinical Trials.",
+  "sorttitle": "anesthetic management of emergency endovascular thrombectomy for acute ischemic stroke part 2 integrating and applying observational reports and randomized clinical trials",
+  "volume": "128",
+  "issue": "4",
+  "pages": "706-717",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30883416"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000004045"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201904000-00016"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30883416"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30883416"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/03/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/03/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/12/31 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000004045",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/04/01 00:00",
+  "sortfirstauthor": "Hindman BJ",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,109 @@
+{
+  "uid": "20442261",
+  "pubdate": "2010 Jul",
+  "epubdate": "2010 May 4",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Brull SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murphy GS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Murphy GS",
+  "title": "Residual neuromuscular block: lessons unlearned. Part II: methods to reduce the risk of residual weakness.",
+  "sorttitle": "residual neuromuscular block lessons unlearned part ii methods to reduce the risk of residual weakness",
+  "volume": "111",
+  "issue": "1",
+  "pages": "129-40",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20442261"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ANE.0b013e3181da8312"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0b013e3181da8312"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20442261"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20442261"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/05/06 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/05/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/07/14 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2012 Feb;114(2):390",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0b013e3181da8312",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/07/01 00:00",
+  "sortfirstauthor": "Brull SJ",
+  "vernaculartitle": ""
+}

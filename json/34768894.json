@@ -1,0 +1,134 @@
+{
+  "uid": "34768894",
+  "pubdate": "2021 Oct 24",
+  "epubdate": "2021 Oct 24",
+  "source": "Int J Mol Sci",
+  "authors": [
+    {
+      "name": "Szczepanska-Sadowska E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wsol A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cudnoch-Jedrzejewska A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Żera T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Żera T",
+  "title": "Complementary Role of Oxytocin and Vasopressin in Cardiovascular Regulation.",
+  "sorttitle": "complementary role of oxytocin and vasopressin in cardiovascular regulation",
+  "volume": "22",
+  "issue": "21",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101092791",
+  "issn": "",
+  "essn": "1422-0067",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34768894"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ijms222111465"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/ijms222111465"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8584236"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34768894"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34768894"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8584236;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/09/30 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/10/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/10/22 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/11/13 01:03"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/11/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/12/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "International journal of molecular sciences",
+  "elocationid": "pii: 11465. doi: 10.3390/ijms222111465",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/10/24 00:00",
+  "sortfirstauthor": "Szczepanska-Sadowska E",
+  "vernaculartitle": ""
+}

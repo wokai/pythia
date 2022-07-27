@@ -1,0 +1,147 @@
+{
+  "uid": "23904357",
+  "pubdate": "2014 Mar",
+  "epubdate": "2013 Jul 31",
+  "source": "Heart",
+  "authors": [
+    {
+      "name": "Bouri S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shun-Shin MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cole GD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mayet J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Francis DP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Francis DP",
+  "title": "Meta-analysis of secure randomised controlled trials of β-blockade to prevent perioperative death in non-cardiac surgery.",
+  "sorttitle": "meta analysis of secure randomised controlled trials of blockade to prevent perioperative death in non cardiac surgery",
+  "volume": "100",
+  "issue": "6",
+  "pages": "456-64",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9602087",
+  "issn": "1355-6037",
+  "essn": "1468-201X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23904357"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "heartjnl-2013-304262"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/heartjnl-2013-304262"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3932762"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23904357"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23904357"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3932762;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/08/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/08/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/04/16 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Heart. 2014 Mar;100(6):441-2",
+      "reftype": "Comment in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Heart. 2014 Mar;100(6):443-4",
+      "reftype": "Comment in",
+      "pmid": 24553256,
+      "note": ""
+    },
+    {
+      "refsource": "J Fam Pract. 2014 Jun;63(6):E15-6",
+      "reftype": "Comment in",
+      "pmid": 25061626,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "Heart (British Cardiac Society)",
+  "elocationid": "doi: 10.1136/heartjnl-2013-304262",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/03/01 00:00",
+  "sortfirstauthor": "Bouri S",
+  "vernaculartitle": ""
+}

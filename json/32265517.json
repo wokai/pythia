@@ -1,0 +1,134 @@
+{
+  "uid": "32265517",
+  "pubdate": "2020 May",
+  "epubdate": "2020 Apr 7",
+  "source": "Nat Microbiol",
+  "authors": [
+    {
+      "name": "Kong WH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peng MW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kong DG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yang XB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu MQ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Liu MQ",
+  "title": "SARS-CoV-2 detection in patients with influenza-like illness.",
+  "sorttitle": "sars cov 2 detection in patients with influenza like illness",
+  "volume": "5",
+  "issue": "5",
+  "pages": "675-678",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101674869",
+  "issn": "",
+  "essn": "2058-5276",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32265517"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41564-020-0713-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41564-020-0713-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32265517"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32265517"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/04 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/03/24 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/09 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 45,
+  "fulljournalname": "Nature microbiology",
+  "elocationid": "doi: 10.1038/s41564-020-0713-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/05/01 00:00",
+  "sortfirstauthor": "Kong WH",
+  "vernaculartitle": ""
+}

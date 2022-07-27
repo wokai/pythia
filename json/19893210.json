@@ -1,0 +1,117 @@
+{
+  "uid": "19893210",
+  "pubdate": "2009",
+  "epubdate": "",
+  "source": "Dis Markers",
+  "authors": [
+    {
+      "name": "Thunø M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Macho B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eugen-Olsen J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Eugen-Olsen J",
+  "title": "suPAR: the molecular crystal ball.",
+  "sorttitle": "supar the molecular crystal ball",
+  "volume": "27",
+  "issue": "3",
+  "pages": "157-72",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8604127",
+  "issn": "0278-0240",
+  "essn": "1875-8630",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19893210"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "H0877UXU83764462"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3233/DMA-2009-0657"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3835059"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19893210"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19893210"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3835059;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/11/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/11/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/12/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 172,
+  "fulljournalname": "Disease markers",
+  "elocationid": "doi: 10.3233/DMA-2009-0657",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/01/01 00:00",
+  "sortfirstauthor": "Thunø M",
+  "vernaculartitle": ""
+}

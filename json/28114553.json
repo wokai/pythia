@@ -1,0 +1,144 @@
+{
+  "uid": "28114553",
+  "pubdate": "2017 Jan 17",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Raith EP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Udy AA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bailey M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McGloughlin S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "MacIsaac C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellomo R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pilcher DV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Australian and New Zealand Intensive Care Society (ANZICS) Centre for Outcomes and Resource Evaluation (CORE).",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pilcher DV",
+  "title": "Prognostic Accuracy of the SOFA Score, SIRS Criteria, and qSOFA Score for In-Hospital Mortality Among Adults With Suspected Infection Admitted to the Intensive Care Unit.",
+  "sorttitle": "prognostic accuracy of the sofa score sirs criteria and qsofa score for in hospital mortality among adults with suspected infection admitted to the intensive care unit",
+  "volume": "317",
+  "issue": "3",
+  "pages": "290-300",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28114553"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2598267"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2016.20328"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28114553"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28114553"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/01/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/01/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/02/14 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA. 2017 Jan 17;317(3):267-268",
+      "reftype": "Comment in",
+      "pmid": 28114531,
+      "note": ""
+    },
+    {
+      "refsource": "Evid Based Med. 2017 Dec;22(6):211",
+      "reftype": "Comment in",
+      "pmid": 29127214,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 306,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2016.20328",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/17 00:00",
+  "sortfirstauthor": "Raith EP",
+  "vernaculartitle": ""
+}

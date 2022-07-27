@@ -1,0 +1,191 @@
+{
+  "uid": "15509817",
+  "pubdate": "2004 Oct 28",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Landrigan CP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rothschild JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cronin JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaushal R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burdick E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Katz JT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lilly CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stone PH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lockley SW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bates DW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Czeisler CA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Czeisler CA",
+  "title": "Effect of reducing interns' work hours on serious medical errors in intensive care units.",
+  "sorttitle": "effect of reducing interns work hours on serious medical errors in intensive care units",
+  "volume": "351",
+  "issue": "18",
+  "pages": "1838-48",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15509817"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "351/18/1838"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa041406"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15509817"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15509817"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/10/29 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/11/04 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/10/29 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2004 Oct 28;351(18):1884",
+      "reftype": "Comment in",
+      "pmid": 15509822,
+      "note": ""
+    },
+    {
+      "refsource": "CMAJ. 2005 Feb 15;172(4):474",
+      "reftype": "Comment in",
+      "pmid": 15710937,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2005 Feb 17;352(7):726-8; author reply 726-8",
+      "reftype": "Comment in",
+      "pmid": 15716571,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2005 Feb 17;352(7):726-8; author reply 726-8",
+      "reftype": "Comment in",
+      "pmid": 15719447,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2005 Feb 17;352(7):726-8; author reply 726-8",
+      "reftype": "Comment in",
+      "pmid": 15719448,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2005 Feb 17;352(7):726-8; author reply 726-8",
+      "reftype": "Comment in",
+      "pmid": 15719449,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2005 Feb 17;352(7):726-8; author reply 726-8",
+      "reftype": "Comment in",
+      "pmid": 15719450,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 285,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/10/28 00:00",
+  "sortfirstauthor": "Landrigan CP",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,108 @@
+{
+  "uid": "29533261",
+  "pubdate": "2018 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Poterack KA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Epstein RH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dexter F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dexter F",
+  "title": "The Anesthesiologist-Informatician: A Survey of Physicians Board-Certified in Both Anesthesiology and Clinical Informatics.",
+  "sorttitle": "anesthesiologist informatician a survey of physicians board certified in both anesthesiology and clinical informatics",
+  "volume": "127",
+  "issue": "1",
+  "pages": "115-117",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29533261"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000003325"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29533261"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29533261"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/03/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/08/06 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/03/14 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2018 Jul;127(1):18-20",
+      "reftype": "Comment in",
+      "pmid": 29912056,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000003325",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/07/01 00:00",
+  "sortfirstauthor": "Poterack KA",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,243 @@
+{
+  "uid": "28412464",
+  "pubdate": "2017 Oct",
+  "epubdate": "2017 Apr 12",
+  "source": "J Clin Epidemiol",
+  "authors": [
+    {
+      "name": "Welch VA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Akl EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyatt G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pottie K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eslava-Schmalbach J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ansari MT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Beer H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Briel M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dans T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dans I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hultcrantz M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jull J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Katikireddi SV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meerpohl J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morton R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mosdol A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petkovic J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schünemann HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sharaf RN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stanev R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tonia T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tristan M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vitols S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watine J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tugwell P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tugwell P",
+  "title": "GRADE equity guidelines 1: considering health equity in GRADE guideline development: introduction and rationale.",
+  "sorttitle": "grade equity guidelines 1 considering health equity in grade guideline development introduction and rationale",
+  "volume": "90",
+  "issue": "",
+  "pages": "59-67",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8801383",
+  "issn": "0895-4356",
+  "essn": "1878-5921",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28412464"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0895-4356(17)30339-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jclinepi.2017.01.014"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5675012"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28412464"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28412464"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5675012;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/05/09 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/01/11 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/01/26 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/04/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/11/14 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/04/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Journal of clinical epidemiology",
+  "elocationid": "doi: 10.1016/j.jclinepi.2017.01.014",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/10/01 00:00",
+  "sortfirstauthor": "Welch VA",
+  "vernaculartitle": ""
+}

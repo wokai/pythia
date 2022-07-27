@@ -1,0 +1,102 @@
+{
+  "uid": "14586450",
+  "pubdate": "2003 Oct 30",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Narayan R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Narayan R",
+  "title": "Black holes: sparks of interest.",
+  "sorttitle": "black holes sparks of interest",
+  "volume": "425",
+  "issue": "6961",
+  "pages": "908-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Comment",
+    "News"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14586450"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/425908a"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "425908a"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14586450"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14586450"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/10/31 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/10/31 05:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/10/31 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2003 Oct 30;425(6961):934-7",
+      "reftype": "Comment on",
+      "pmid": 14586462,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/10/30 00:00",
+  "sortfirstauthor": "Narayan R",
+  "vernaculartitle": ""
+}

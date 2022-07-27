@@ -1,0 +1,87 @@
+{
+  "uid": "32931169",
+  "pubdate": "2020 Aug",
+  "epubdate": "",
+  "source": "",
+  "authors": [
+    {
+      "name": "National Guideline Centre (UK)",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "",
+  "title": "",
+  "sorttitle": "evidence review for blood glucose control management perioperative care in adults evidence review k",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "",
+  "issn": "",
+  "essn": "",
+  "pubtype": [
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "ppublish",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32931169"
+    },
+    {
+      "idtype": "bookaccession",
+      "idtypen": 8,
+      "value": "NBK561962"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/16 06:01"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/16 06:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/16 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "",
+  "elocationid": "",
+  "doctype": "book",
+  "srccontriblist": [
+    {
+      "name": "National Guideline Centre (UK)",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "booktitle": "Evidence review for blood glucose control management: Perioperative care in adults: Evidence review K",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "London",
+  "publishername": "National Institute for Health and Care Excellence (UK)",
+  "srcdate": "2020 Aug",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "Evidence review for blood glucose control management: Perioperative care in adults: Evidence review K",
+  "chapter": "",
+  "sortpubdate": "2020/08/01 00:00",
+  "sortfirstauthor": "",
+  "vernaculartitle": ""
+}

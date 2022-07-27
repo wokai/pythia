@@ -1,0 +1,111 @@
+{
+  "uid": "17646501",
+  "pubdate": "2007 Aug",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Dexter F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dow AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lubarsky DA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lubarsky DA",
+  "title": "A psychological basis for anesthesiologists' operating room managerial decision-making on the day of surgery.",
+  "sorttitle": "psychological basis for anesthesiologists operating room managerial decision making on the day of surgery",
+  "volume": "105",
+  "issue": "2",
+  "pages": "430-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17646501"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "105/2/430"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/01.ane.0000268540.85521.84"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17646501"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17646501"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/07/25 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/08/21 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/07/25 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/08/01 00:00",
+  "sortfirstauthor": "Dexter F",
+  "vernaculartitle": ""
+}

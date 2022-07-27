@@ -1,0 +1,116 @@
+{
+  "uid": "32020082",
+  "pubdate": "2020 Mar",
+  "epubdate": "2020 Feb 4",
+  "source": "Nat Rev Mol Cell Biol",
+  "authors": [
+    {
+      "name": "Zhang W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Qu J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu GH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Belmonte JCI",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Belmonte JCI",
+  "title": "The ageing epigenome and its rejuvenation.",
+  "sorttitle": "ageing epigenome and its rejuvenation",
+  "volume": "21",
+  "issue": "3",
+  "pages": "137-150",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962782",
+  "issn": "1471-0072",
+  "essn": "1471-0080",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32020082"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41580-019-0204-5"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41580-019-0204-5"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32020082"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32020082"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2019/12/13 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/02/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/06 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/02/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 22,
+  "fulljournalname": "Nature reviews. Molecular cell biology",
+  "elocationid": "doi: 10.1038/s41580-019-0204-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/03/01 00:00",
+  "sortfirstauthor": "Zhang W",
+  "vernaculartitle": ""
+}

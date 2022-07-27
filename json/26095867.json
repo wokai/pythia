@@ -1,0 +1,275 @@
+{
+  "uid": "26095867",
+  "pubdate": "2015 Aug 27",
+  "epubdate": "2015 Jun 22",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Douketis JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spyropoulos AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaatz S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Becker RC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Caprini JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dunn AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Garcia DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jacobson A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jaffer AK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kong DF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schulman S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Turpie AG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hasselblad V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ortel TL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "BRIDGE Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ortel TL",
+  "title": "Perioperative Bridging Anticoagulation in Patients with Atrial Fibrillation.",
+  "sorttitle": "perioperative bridging anticoagulation in patients with atrial fibrillation",
+  "volume": "373",
+  "issue": "9",
+  "pages": "823-33",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26095867"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa1501035"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4931686"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS719563"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26095867"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26095867"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4931686;manuscript-id: NIHMS719563;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/06/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/06/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/09/05 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Evid Based Med. 2015 Dec;20(6):200",
+      "reftype": "Comment in",
+      "pmid": 26337937,
+      "note": ""
+    },
+    {
+      "refsource": "Internist (Berl). 2015 Oct;56(10):1209-12",
+      "reftype": "Comment in",
+      "pmid": 26428525,
+      "note": ""
+    },
+    {
+      "refsource": "Ned Tijdschr Geneeskd. 2015;159:A9652",
+      "reftype": "Comment in",
+      "pmid": 26556495,
+      "note": ""
+    },
+    {
+      "refsource": "J Vasc Nurs. 2015 Dec;33(4):167-8",
+      "reftype": "Comment in",
+      "pmid": 26567057,
+      "note": ""
+    },
+    {
+      "refsource": "Ann Intern Med. 2015 Nov 17;163(10):JC5",
+      "reftype": "Comment in",
+      "pmid": 26571259,
+      "note": ""
+    },
+    {
+      "refsource": "Rev Med Suisse. 2015 Sep 30;11(488):1821",
+      "reftype": "Comment in",
+      "pmid": 26619709,
+      "note": ""
+    },
+    {
+      "refsource": "Praxis (Bern 1994). 2015 Dec 9;104(25):1410-1",
+      "reftype": "Comment in",
+      "pmid": 26649962,
+      "note": ""
+    },
+    {
+      "refsource": "Intern Emerg Med. 2016 Mar;11(2):249-50",
+      "reftype": "Comment in",
+      "pmid": 26661621,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2016 Jan 7;374(1):93-4",
+      "reftype": "Comment in",
+      "pmid": 26736004,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2016 Jan 7;374(1):90-1",
+      "reftype": "Comment in",
+      "pmid": 26736005,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2016 Jan 7;374(1):91",
+      "reftype": "Comment in",
+      "pmid": 26736006,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2016 Jan 7;374(1):91-2",
+      "reftype": "Comment in",
+      "pmid": 26736007,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2016 Jan 7;374(1):92",
+      "reftype": "Comment in",
+      "pmid": 26736008,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2016 Jan 7;374(1):92-3",
+      "reftype": "Comment in",
+      "pmid": 26736009,
+      "note": ""
+    },
+    {
+      "refsource": "Semergen. 2016 Sep;42(6):e69-70",
+      "reftype": "Comment in",
+      "pmid": 26751391,
+      "note": ""
+    },
+    {
+      "refsource": "J Fam Pract. 2015 Dec;64(12):794-800",
+      "reftype": "Comment in",
+      "pmid": 26845002,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 143,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa1501035",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/08/27 00:00",
+  "sortfirstauthor": "Douketis JD",
+  "vernaculartitle": ""
+}

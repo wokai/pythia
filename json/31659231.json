@@ -1,0 +1,149 @@
+{
+  "uid": "31659231",
+  "pubdate": "2019 Oct 28",
+  "epubdate": "2019 Oct 28",
+  "source": "Sci Rep",
+  "authors": [
+    {
+      "name": "Espigares MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Palmqvist P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guerra-Merchán A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ros-Montoya S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "García-Aguilar JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rodríguez-Gómez G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Serrano FJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martínez-Navarro B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Martínez-Navarro B",
+  "title": "The earliest cut marks of Europe: a discussion on hominin subsistence patterns in the Orce sites (Baza basin, SE Spain).",
+  "sorttitle": "earliest cut marks of europe a discussion on hominin subsistence patterns in the orce sites baza basin se spain",
+  "volume": "9",
+  "issue": "1",
+  "pages": "15408",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101563288",
+  "issn": "",
+  "essn": "2045-2322",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31659231"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41598-019-51957-5"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41598-019-51957-5"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6817892"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31659231"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31659231"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6817892;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/07/29 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/10/10 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/10/30 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/10/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Scientific reports",
+  "elocationid": "doi: 10.1038/s41598-019-51957-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/10/28 00:00",
+  "sortfirstauthor": "Espigares MP",
+  "vernaculartitle": ""
+}

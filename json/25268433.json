@@ -1,0 +1,99 @@
+{
+  "uid": "25268433",
+  "pubdate": "2014 Oct 1",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Djulbegovic B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyatt GH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Guyatt GH",
+  "title": "Evidence-based practice is not synonymous with delivery of uniform health care.",
+  "sorttitle": "evidence based practice is not synonymous with delivery of uniform health care",
+  "volume": "312",
+  "issue": "13",
+  "pages": "1293-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25268433"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1910119"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2014.10713"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25268433"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25268433"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/10/01 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/10/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/10/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 7,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2014.10713",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/10/01 00:00",
+  "sortfirstauthor": "Djulbegovic B",
+  "vernaculartitle": ""
+}

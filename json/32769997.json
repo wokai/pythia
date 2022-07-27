@@ -1,0 +1,389 @@
+{
+  "uid": "32769997",
+  "pubdate": "2020 Aug 7",
+  "epubdate": "2020 Aug 7",
+  "source": "Nat Commun",
+  "authors": [
+    {
+      "name": "Zhou W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brumpton B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kabil O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gudmundsson J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thorleifsson G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weinstock J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zawistowski M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nielsen JB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chaker L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Medici M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Teumer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Naitza S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sanna S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schultheiss UT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cappola A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Karjalainen J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kurki M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oneka M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taylor P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fritsche LG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Graham SE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wolford BN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Overton W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rasheed H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haug EB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gabrielsen ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Skogholt AH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Surakka I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davey Smith G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pandit A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roychowdhury T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hornsby WE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jonasson JG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Senter L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liyanarachchi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ringel MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xu L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kiemeney LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "He H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Netea-Maier RT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mayordomo JI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Plantinga TS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hrafnkelsson J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hjartarson H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sturgis EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Palotie A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Daly M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Citterio CE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arvan P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brummett CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boehnke M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de la Chapelle A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stefansson K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hveem K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Willer CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Åsvold BO",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Åsvold BO",
+  "title": "GWAS of thyroid stimulating hormone highlights pleiotropic effects and inverse association with thyroid cancer.",
+  "sorttitle": "gwas of thyroid stimulating hormone highlights pleiotropic effects and inverse association with thyroid cancer",
+  "volume": "11",
+  "issue": "1",
+  "pages": "3981",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101528555",
+  "issn": "",
+  "essn": "2041-1723",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32769997"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41467-020-17718-z"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41467-020-17718-z"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7414135"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32769997"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32769997"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7414135;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/11/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/07/08 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Nature communications",
+  "elocationid": "doi: 10.1038/s41467-020-17718-z",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/07 00:00",
+  "sortfirstauthor": "Zhou W",
+  "vernaculartitle": ""
+}

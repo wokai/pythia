@@ -1,0 +1,141 @@
+{
+  "uid": "28446147",
+  "pubdate": "2017 Apr 26",
+  "epubdate": "2017 Apr 26",
+  "source": "BMC Gastroenterol",
+  "authors": [
+    {
+      "name": "Li S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xie C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wu H",
+  "title": "Serum albumin, a good indicator of persistent organ failure in acute pancreatitis.",
+  "sorttitle": "serum albumin a good indicator of persistent organ failure in acute pancreatitis",
+  "volume": "17",
+  "issue": "1",
+  "pages": "59",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100968547",
+  "issn": "",
+  "essn": "1471-230X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28446147"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s12876-017-0615-8"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s12876-017-0615-8"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5406910"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28446147"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28446147"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5406910;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/08/02 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/04/17 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/04/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/04/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/03/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "BMC Gastroenterol. 2017 Jul 7;17 (1):86",
+      "reftype": "Erratum in",
+      "pmid": 28687068,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "BMC gastroenterology",
+  "elocationid": "doi: 10.1186/s12876-017-0615-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/04/26 00:00",
+  "sortfirstauthor": "Li S",
+  "vernaculartitle": ""
+}

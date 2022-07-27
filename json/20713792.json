@@ -1,0 +1,122 @@
+{
+  "uid": "20713792",
+  "pubdate": "2010 Aug 17",
+  "epubdate": "",
+  "source": "Ann Intern Med",
+  "authors": [
+    {
+      "name": "Tobin MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laghi F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jubran A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Jubran A",
+  "title": "Narrative review: ventilator-induced respiratory muscle weakness.",
+  "sorttitle": "narrative review ventilator induced respiratory muscle weakness",
+  "volume": "153",
+  "issue": "4",
+  "pages": "240-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372351",
+  "issn": "0003-4819",
+  "essn": "1539-3704",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20713792"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "153/4/240"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.7326/0003-4819-153-4-201008170-00006"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2924757"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS225575"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20713792"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20713792"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2924757;manuscript-id: NIHMS225575;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/08/18 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/08/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/09/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "Annals of internal medicine",
+  "elocationid": "doi: 10.7326/0003-4819-153-4-201008170-00006",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/08/17 00:00",
+  "sortfirstauthor": "Tobin MJ",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,239 @@
+{
+  "uid": "32296168",
+  "pubdate": "2020 May",
+  "epubdate": "2020 Apr 15",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "He X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lau EHY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deng X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hao X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lau YC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong JY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guan Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tan X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mo X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liao B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hu F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhong M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhao L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cowling BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leung GM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Leung GM",
+  "title": "Temporal dynamics in viral shedding and transmissibility of COVID-19.",
+  "sorttitle": "temporal dynamics in viral shedding and transmissibility of covid 19",
+  "volume": "26",
+  "issue": "5",
+  "pages": "672-675",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32296168"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-020-0869-5"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-020-0869-5"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32296168"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32296168"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/03/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/04/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/19 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/17 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Swiss Med Wkly. 2020 Aug 05;150:w20336",
+      "reftype": "Comment in",
+      "pmid": 32757177,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Med. 2020 Sep;26(9):1491-1493",
+      "reftype": "Erratum in",
+      "pmid": 32770170,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Med. 2020 Oct;26(10):1534-1535",
+      "reftype": "Comment in",
+      "pmid": 32807935,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Med. 2020 Oct;26(10):1531-1533",
+      "reftype": "Comment in",
+      "pmid": 32807936,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 848,
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-020-0869-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/05/01 00:00",
+  "sortfirstauthor": "He X",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,90 @@
+{
+  "uid": "22577639",
+  "pubdate": "2012 May",
+  "epubdate": "",
+  "source": "J Fam Pract",
+  "authors": [
+    {
+      "name": "King A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "King A",
+  "title": "Advances in insulin therapy: a review of insulin degludec.",
+  "sorttitle": "advances in insulin therapy a review of insulin degludec",
+  "volume": "61",
+  "issue": "5 Suppl",
+  "pages": "S28-31",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7502590",
+  "issn": "0094-3509",
+  "essn": "1533-7294",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22577639"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "jfp_6105o"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22577639"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22577639"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/05/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/05/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/08/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 4,
+  "fulljournalname": "The Journal of family practice",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/05/01 00:00",
+  "sortfirstauthor": "King A",
+  "vernaculartitle": ""
+}

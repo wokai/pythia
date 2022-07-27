@@ -1,0 +1,94 @@
+{
+  "uid": "10995184",
+  "pubdate": "1999 May",
+  "epubdate": "",
+  "source": "Anaesthesia",
+  "authors": [
+    {
+      "name": "Alsahaf MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jenkins JG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Jenkins JG",
+  "title": "Too much of a good thing: a faulty Tuohy needle.",
+  "sorttitle": "too much of a good thing a faulty tuohy needle",
+  "volume": "54",
+  "issue": "5",
+  "pages": "511",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370524",
+  "issn": "0003-2409",
+  "essn": "1365-2044",
+  "pubtype": [
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "10995184"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1046/j.1365-2044.1999.907pp.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "10995184"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "10995184"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2000/09/20 11:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2000/09/30 11:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2000/09/20 11:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1999/05/01 00:00",
+  "sortfirstauthor": "Alsahaf MH",
+  "vernaculartitle": ""
+}

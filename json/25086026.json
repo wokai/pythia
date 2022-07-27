@@ -1,0 +1,222 @@
+{
+  "uid": "25086026",
+  "pubdate": "2014 Sep 14",
+  "epubdate": "2014 Aug 1",
+  "source": "Eur Heart J",
+  "authors": [
+    {
+      "name": "Kristensen SD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Knuuti J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saraste A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anker S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bøtker HE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hert SD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ford I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gonzalez-Juanatey JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gorenek B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heyndrickx GR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoeft A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huber K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iung B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kjeldsen KP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Longrois D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lüscher TF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pierard L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pocock S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Price S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roffi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sirnes PA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sousa-Uva M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Voudris V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Funck-Brentano C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Authors/Task Force Members.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Funck-Brentano C",
+  "title": "2014 ESC/ESA Guidelines on non-cardiac surgery: cardiovascular assessment and management: The Joint Task Force on non-cardiac surgery: cardiovascular assessment and management of the European Society of Cardiology (ESC) and the European Society of Anaesthesiology (ESA).",
+  "sorttitle": "2014 esc esa guidelines on non cardiac surgery cardiovascular assessment and management the joint task force on non cardiac surgery cardiovascular assessment and management of the european society of cardiology esc and the european society of anaesthesiology esa",
+  "volume": "35",
+  "issue": "35",
+  "pages": "2383-431",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8006263",
+  "issn": "0195-668X",
+  "essn": "1522-9645",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25086026"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ehu282"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/eurheartj/ehu282"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25086026"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25086026"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/08/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/08/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/06/05 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Neurosurg Anesthesiol. 2017 Apr;29(2):189-190",
+      "reftype": "Comment in",
+      "pmid": 26841352,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 236,
+  "fulljournalname": "European heart journal",
+  "elocationid": "doi: 10.1093/eurheartj/ehu282",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/09/14 00:00",
+  "sortfirstauthor": "Kristensen SD",
+  "vernaculartitle": ""
+}

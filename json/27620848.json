@@ -1,0 +1,106 @@
+{
+  "uid": "27620848",
+  "pubdate": "2016 Dec",
+  "epubdate": "2016 Sep 11",
+  "source": "Int J Syst Evol Microbiol",
+  "authors": [
+    {
+      "name": "Adeolu M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alnajar S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Naushad S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "S Gupta R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "S Gupta R",
+  "title": "Genome-based phylogeny and taxonomy of the 'Enterobacteriales': proposal for Enterobacterales ord. nov. divided into the families Enterobacteriaceae, Erwiniaceae fam. nov., Pectobacteriaceae fam. nov., Yersiniaceae fam. nov., Hafniaceae fam. nov., Morganellaceae fam. nov., and Budviciaceae fam. nov.",
+  "sorttitle": "genome based phylogeny and taxonomy of the enterobacteriales proposal for enterobacterales ord nov divided into the families enterobacteriaceae erwiniaceae fam nov pectobacteriaceae fam nov yersiniaceae fam nov hafniaceae fam nov morganellaceae fam nov and budviciaceae fam nov",
+  "volume": "66",
+  "issue": "12",
+  "pages": "5575-5599",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100899600",
+  "issn": "1466-5026",
+  "essn": "1466-5034",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27620848"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1099/ijsem.0.001485"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27620848"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27620848"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/09/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/08/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/09/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 186,
+  "fulljournalname": "International journal of systematic and evolutionary microbiology",
+  "elocationid": "doi: 10.1099/ijsem.0.001485",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/12/01 00:00",
+  "sortfirstauthor": "Adeolu M",
+  "vernaculartitle": ""
+}

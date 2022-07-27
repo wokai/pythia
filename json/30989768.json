@@ -1,0 +1,333 @@
+{
+  "uid": "30989768",
+  "pubdate": "2019 May",
+  "epubdate": "2019 Apr 16",
+  "source": "Eur J Heart Fail",
+  "authors": [
+    {
+      "name": "Seferović PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Polovina M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bauersachs J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arad M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gal TB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lund LH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Felix SB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arbustini E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Caforio ALP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Farmakis D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Filippatos GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gialafos E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kanjuh V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krljanac G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Limongelli G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Linhart A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lyon AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maksimović R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miličić D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Milinković I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Noutsias M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oto A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oto Ö",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pavlović SU",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Piepoli MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ristić AD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rosano GMC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seggewiss H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ašanin M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seferović JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ruschitzka F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Čelutkiene J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jaarsma T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mueller C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moura B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hill L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Volterrani M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lopatin Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Metra M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Backs J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mullens W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chioncel O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Boer RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anker S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rapezzi C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coats AJS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tschöpe C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tschöpe C",
+  "title": "Heart failure in cardiomyopathies: a position paper from the Heart Failure Association of the European Society of Cardiology.",
+  "sorttitle": "heart failure in cardiomyopathies a position paper from the heart failure association of the european society of cardiology",
+  "volume": "21",
+  "issue": "5",
+  "pages": "553-576",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100887595",
+  "issn": "1388-9842",
+  "essn": "1879-0844",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30989768"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/ejhf.1461"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30989768"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30989768"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/01/15 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/02/20 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/02/28 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/04/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/10 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/04/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 19,
+  "fulljournalname": "European journal of heart failure",
+  "elocationid": "doi: 10.1002/ejhf.1461",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/05/01 00:00",
+  "sortfirstauthor": "Seferović PM",
+  "vernaculartitle": ""
+}

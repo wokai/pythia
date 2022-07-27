@@ -1,0 +1,107 @@
+{
+  "uid": "18419711",
+  "pubdate": "2008 May",
+  "epubdate": "",
+  "source": "Acta Anaesthesiol Scand",
+  "authors": [
+    {
+      "name": "Marjamaa R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vakkuri A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kirvelä O",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kirvelä O",
+  "title": "Operating room management: why, how and by whom?",
+  "sorttitle": "operating room management why how and by whom",
+  "volume": "52",
+  "issue": "5",
+  "pages": "596-600",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370270",
+  "issn": "0001-5172",
+  "essn": "1399-6576",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18419711"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "AAS1618"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1399-6576.2008.01618.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18419711"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18419711"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/04/19 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/06/24 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/04/19 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Acta anaesthesiologica Scandinavica",
+  "elocationid": "doi: 10.1111/j.1399-6576.2008.01618.x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/05/01 00:00",
+  "sortfirstauthor": "Marjamaa R",
+  "vernaculartitle": ""
+}

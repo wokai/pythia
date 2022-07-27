@@ -1,0 +1,102 @@
+{
+  "uid": "18437140",
+  "pubdate": "2008 May",
+  "epubdate": "2008 Mar 13",
+  "source": "Am J Hypertens",
+  "authors": [
+    {
+      "name": "Ruilope LM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmieder RE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schmieder RE",
+  "title": "Left ventricular hypertrophy and clinical outcomes in hypertensive patients.",
+  "sorttitle": "left ventricular hypertrophy and clinical outcomes in hypertensive patients",
+  "volume": "21",
+  "issue": "5",
+  "pages": "500-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8803676",
+  "issn": "0895-7061",
+  "essn": "1941-7225",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18437140"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ajh200816"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/ajh.2008.16"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18437140"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18437140"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/04/26 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/06/28 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/04/26 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 37,
+  "fulljournalname": "American journal of hypertension",
+  "elocationid": "doi: 10.1038/ajh.2008.16",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/05/01 00:00",
+  "sortfirstauthor": "Ruilope LM",
+  "vernaculartitle": ""
+}

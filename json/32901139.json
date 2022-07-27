@@ -1,0 +1,131 @@
+{
+  "uid": "32901139",
+  "pubdate": "2020 Nov",
+  "epubdate": "2020 Sep 8",
+  "source": "Nat Rev Mol Cell Biol",
+  "authors": [
+    {
+      "name": "Salhotra A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shah HN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levi B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Longaker MT",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Longaker MT",
+  "title": "Mechanisms of bone development and repair.",
+  "sorttitle": "mechanisms of bone development and repair",
+  "volume": "21",
+  "issue": "11",
+  "pages": "696-711",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962782",
+  "issn": "1471-0072",
+  "essn": "1471-0080",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32901139"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41580-020-00279-w"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41580-020-00279-w"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7699981"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1641529"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32901139"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32901139"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7699981;manuscript-id: NIHMS1641529;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2020/07/23 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/09 05:29"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Nature reviews. Molecular cell biology",
+  "elocationid": "doi: 10.1038/s41580-020-00279-w",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/11/01 00:00",
+  "sortfirstauthor": "Salhotra A",
+  "vernaculartitle": ""
+}

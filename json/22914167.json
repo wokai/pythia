@@ -1,0 +1,132 @@
+{
+  "uid": "22914167",
+  "pubdate": "2012 Aug 23",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Kääb A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berthier E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nuth C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gardelle J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arnaud Y",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Arnaud Y",
+  "title": "Contrasting patterns of early twenty-first-century glacier mass change in the Himalayas.",
+  "sorttitle": "contrasting patterns of early twenty first century glacier mass change in the himalayas",
+  "volume": "488",
+  "issue": "7412",
+  "pages": "495-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22914167"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature11324"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature11324"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22914167"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22914167"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2012/04/13 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2012/06/12 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2012/08/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/08/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/09/29 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2012 Aug 23;488(7412):468-9",
+      "reftype": "Comment in",
+      "pmid": 22914162,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 31,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature11324",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/08/23 00:00",
+  "sortfirstauthor": "Kääb A",
+  "vernaculartitle": ""
+}

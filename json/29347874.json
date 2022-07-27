@@ -1,0 +1,250 @@
+{
+  "uid": "29347874",
+  "pubdate": "2018 Mar 1",
+  "epubdate": "2018 Jan 19",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Venkatesh B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Finfer S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cohen J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rajbhandari D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arabi Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellomo R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Billot L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Correa M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Glass P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harward M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Joyce C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McArthur C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perner A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rhodes A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thompson K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Webb S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Myburgh J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "ADRENAL Trial Investigators and the Australian–New Zealand Intensive Care Society Clinical Trials Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Myburgh J",
+  "title": "Adjunctive Glucocorticoid Therapy in Patients with Septic Shock.",
+  "sorttitle": "adjunctive glucocorticoid therapy in patients with septic shock",
+  "volume": "378",
+  "issue": "9",
+  "pages": "797-808",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29347874"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa1705835"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29347874"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29347874"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/01/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/03/16 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/01/20 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2018 Mar 1;378(9):860-861",
+      "reftype": "Comment in",
+      "pmid": 29490183,
+      "note": ""
+    },
+    {
+      "refsource": "Med Klin Intensivmed Notfmed. 2018 Jun;113(5):430-432",
+      "reftype": "Comment in",
+      "pmid": 29532099,
+      "note": ""
+    },
+    {
+      "refsource": "J Thorac Dis. 2018 Apr;10(Suppl 9):S1070-S1073",
+      "reftype": "Comment in",
+      "pmid": 29849191,
+      "note": ""
+    },
+    {
+      "refsource": "Ann Intern Med. 2018 Jun 19;168(12):JC69",
+      "reftype": "Comment in",
+      "pmid": 29913494,
+      "note": ""
+    },
+    {
+      "refsource": "J Thorac Dis. 2018 Jun;10(Suppl 17):S1962-S1965",
+      "reftype": "Comment in",
+      "pmid": 30023091,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2018 Aug 30;379(9):893",
+      "reftype": "Comment in",
+      "pmid": 30179382,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2018 Aug 30;379(9):893-4",
+      "reftype": "Comment in",
+      "pmid": 30179383,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2018 Aug 30;379(9):894",
+      "reftype": "Comment in",
+      "pmid": 30179384,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2018 Aug 30;379(9):894",
+      "reftype": "Comment in",
+      "pmid": 30179385,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2018 Aug 30;379(9):894-5",
+      "reftype": "Comment in",
+      "pmid": 30179386,
+      "note": ""
+    },
+    {
+      "refsource": "Natl Med J India. 2018 Nov-Dec;31(6):353-355",
+      "reftype": "Comment in",
+      "pmid": 31397371,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 130,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa1705835",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/03/01 00:00",
+  "sortfirstauthor": "Venkatesh B",
+  "vernaculartitle": ""
+}

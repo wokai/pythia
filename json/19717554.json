@@ -1,0 +1,141 @@
+{
+  "uid": "19717554",
+  "pubdate": "2009 Nov",
+  "epubdate": "2009 Aug 28",
+  "source": "Am J Physiol Lung Cell Mol Physiol",
+  "authors": [
+    {
+      "name": "Ketabchi F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Egemnazarov B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schermuly RT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ghofrani HA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seeger W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grimminger F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shid-Moosavi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dehghani GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weissmann N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sommer N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sommer N",
+  "title": "Effects of hypercapnia with and without acidosis on hypoxic pulmonary vasoconstriction.",
+  "sorttitle": "effects of hypercapnia with and without acidosis on hypoxic pulmonary vasoconstriction",
+  "volume": "297",
+  "issue": "5",
+  "pages": "L977-83",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100901229",
+  "issn": "1040-0605",
+  "essn": "1522-1504",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19717554"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00074.2009"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/ajplung.00074.2009"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19717554"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19717554"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/09/01 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/09/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/11/11 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 22,
+  "fulljournalname": "American journal of physiology. Lung cellular and molecular physiology",
+  "elocationid": "doi: 10.1152/ajplung.00074.2009",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/11/01 00:00",
+  "sortfirstauthor": "Ketabchi F",
+  "vernaculartitle": ""
+}

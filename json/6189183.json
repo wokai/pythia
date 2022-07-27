@@ -1,0 +1,146 @@
+{
+  "uid": "6189183",
+  "pubdate": "1983 May 20",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Barré-Sinoussi F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chermann JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rey F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nugeyre MT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chamaret S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gruest J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dauguet C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Axler-Blin C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vézinet-Brun F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rouzioux C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rozenbaum W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Montagnier L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Montagnier L",
+  "title": "Isolation of a T-lymphotropic retrovirus from a patient at risk for acquired immune deficiency syndrome (AIDS).",
+  "sorttitle": "isolation of a t lymphotropic retrovirus from a patient at risk for acquired immune deficiency syndrome aids",
+  "volume": "220",
+  "issue": "4599",
+  "pages": "868-71",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "6189183"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.6189183"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "6189183"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "6189183"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1983/05/20 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1983/05/20 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1983/05/20 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1236,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1983/05/20 00:00",
+  "sortfirstauthor": "Barré-Sinoussi F",
+  "vernaculartitle": ""
+}

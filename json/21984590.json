@@ -1,0 +1,127 @@
+{
+  "uid": "21984590",
+  "pubdate": "2012 May-Jun",
+  "epubdate": "2011 Oct 7",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "O'Reilly D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tarride JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goeree R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lokker C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McKibbon KA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "McKibbon KA",
+  "title": "The economics of health information technology in medication management: a systematic review of economic evaluations.",
+  "sorttitle": "economics of health information technology in medication management a systematic review of economic evaluations",
+  "volume": "19",
+  "issue": "3",
+  "pages": "423-38",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21984590"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "amiajnl-2011-000310"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/amiajnl-2011-000310"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3341783"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21984590"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21984590"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3341783;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/10/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/10/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/08/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1136/amiajnl-2011-000310",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/05/01 00:00",
+  "sortfirstauthor": "O'Reilly D",
+  "vernaculartitle": ""
+}

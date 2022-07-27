@@ -1,0 +1,569 @@
+{
+  "uid": "23598338",
+  "pubdate": "2013 Apr 18",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Amemiya CT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alföldi J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee AP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fan S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Philippe H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maccallum I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Braasch I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Manousaki T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schneider I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rohner N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Organ C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chalopin D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Robinson M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dorrington RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gerdol M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aken B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Biscotti MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barucca M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baurain D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berlin AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Blatch GL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Buonocore F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burmester T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Campbell MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Canapa A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cannon JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Christoffels A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Moro G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Edkins AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fan L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fausto AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feiner N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Forconi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gamieldien J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gnerre S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gnirke A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goldstone JV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haerty W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hahn ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hesse U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoffmann S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnson J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Karchner SI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kuraku S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lara M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levin JZ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Litman GW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mauceli E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miyake T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mueller MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nelson DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nitsche A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Olmo E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ota T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pallavicini A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Panji S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Picone B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ponting CP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prohaska SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Przybylski D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saha NR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ravi V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ribeiro FJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sauka-Spengler T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scapigliati G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Searle SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sharpe T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Simakov O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stadler PF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stegeman JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sumiyama K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tabbaa D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tafer H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Turner-Maier J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Heusden P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "White S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Williams L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yandell M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brinkmann H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Volff JN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tabin CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shubin N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schartl M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jaffe DB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Postlethwait JH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Venkatesh B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Di Palma F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lander ES",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lindblad-Toh K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lindblad-Toh K",
+  "title": "The African coelacanth genome provides insights into tetrapod evolution.",
+  "sorttitle": "african coelacanth genome provides insights into tetrapod evolution",
+  "volume": "496",
+  "issue": "7445",
+  "pages": "311-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23598338"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature12027"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature12027"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3633110"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS448123"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23598338"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23598338"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3633110;manuscript-id: NIHMS448123;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2012/09/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2013/02/20 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/04/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/04/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/05/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 211,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature12027",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/04/18 00:00",
+  "sortfirstauthor": "Amemiya CT",
+  "vernaculartitle": ""
+}

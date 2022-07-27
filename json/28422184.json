@@ -1,0 +1,144 @@
+{
+  "uid": "28422184",
+  "pubdate": "2017 Apr 19",
+  "epubdate": "2017 Apr 19",
+  "source": "Sci Rep",
+  "authors": [
+    {
+      "name": "Nielsen L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bendixen M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kroon A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hede MU",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clemmensen LB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weβling R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Elberling B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Elberling B",
+  "title": "Sea-level proxies in Holocene raised beach ridge deposits (Greenland) revealed by ground-penetrating radar.",
+  "sorttitle": "sea level proxies in holocene raised beach ridge deposits greenland revealed by ground penetrating radar",
+  "volume": "7",
+  "issue": "",
+  "pages": "46460",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101563288",
+  "issn": "",
+  "essn": "2045-2322",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28422184"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "srep46460"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/srep46460"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5396070"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28422184"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28422184"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5396070;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/09/30 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/03/20 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/04/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/04/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/04/20 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Scientific reports",
+  "elocationid": "doi: 10.1038/srep46460",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/04/19 00:00",
+  "sortfirstauthor": "Nielsen L",
+  "vernaculartitle": ""
+}

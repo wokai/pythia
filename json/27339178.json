@@ -1,0 +1,112 @@
+{
+  "uid": "27339178",
+  "pubdate": "2016 Sep",
+  "epubdate": "2016 Jun 24",
+  "source": "Bioessays",
+  "authors": [
+    {
+      "name": "Martin WF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neukirchen S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zimorski V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gould SB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sousa FL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sousa FL",
+  "title": "Energy for two: New archaeal lineages and the origin of mitochondria.",
+  "sorttitle": "energy for two new archaeal lineages and the origin of mitochondria",
+  "volume": "38",
+  "issue": "9",
+  "pages": "850-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8510851",
+  "issn": "0265-9247",
+  "essn": "1521-1878",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27339178"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/bies.201600089"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27339178"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27339178"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/06/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/06/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/10/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "BioEssays : news and reviews in molecular, cellular and developmental biology",
+  "elocationid": "doi: 10.1002/bies.201600089",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/09/01 00:00",
+  "sortfirstauthor": "Martin WF",
+  "vernaculartitle": ""
+}

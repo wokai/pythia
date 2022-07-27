@@ -1,0 +1,174 @@
+{
+  "uid": "24589853",
+  "pubdate": "2014 Jun 10",
+  "epubdate": "2014 Mar 3",
+  "source": "Circulation",
+  "authors": [
+    {
+      "name": "Nishimura RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Otto CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bonow RO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carabello BA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Erwin JP 3rd",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyton RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Gara PT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ruiz CE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Skubas NJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sorajja P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sundt TM 3rd",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomas JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "ACC/AHA Task Force Members.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Thomas JD",
+  "title": "2014 AHA/ACC Guideline for the Management of Patients With Valvular Heart Disease: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines.",
+  "sorttitle": "2014 aha acc guideline for the management of patients with valvular heart disease a report of the american college of cardiology american heart association task force on practice guidelines",
+  "volume": "129",
+  "issue": "23",
+  "pages": "e521-643",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0147763",
+  "issn": "0009-7322",
+  "essn": "1524-4539",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24589853"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "CIR.0000000000000031"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/CIR.0000000000000031"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24589853"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24589853"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/03/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/03/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/08/15 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Circulation. 2014 Jun 10;129(23):e651",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Circulation. 2014 Sep 23;130(13):e120",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": "Dosage error in article text"
+    },
+    {
+      "refsource": "Nat Rev Cardiol. 2014 Jun;11(6):317-8",
+      "reftype": "Comment in",
+      "pmid": 24710497,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 239,
+  "fulljournalname": "Circulation",
+  "elocationid": "doi: 10.1161/CIR.0000000000000031",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/06/10 00:00",
+  "sortfirstauthor": "Nishimura RA",
+  "vernaculartitle": ""
+}

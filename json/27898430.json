@@ -1,0 +1,122 @@
+{
+  "uid": "27898430",
+  "pubdate": "2017 Feb",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Nagappa M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong DT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chung F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chung F",
+  "title": "An update on the various practical applications of the STOP-Bang questionnaire in anesthesia, surgery, and perioperative medicine.",
+  "sorttitle": "update on the various practical applications of the stop bang questionnaire in anesthesia surgery and perioperative medicine",
+  "volume": "30",
+  "issue": "1",
+  "pages": "118-125",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27898430"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0000000000000426"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5214142"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27898430"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27898430"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5214142;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/11/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/08/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/11/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0000000000000426",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/02/01 00:00",
+  "sortfirstauthor": "Nagappa M",
+  "vernaculartitle": ""
+}

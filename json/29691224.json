@@ -1,0 +1,125 @@
+{
+  "uid": "29691224",
+  "pubdate": "2018 Jun",
+  "epubdate": "2018 Apr 24",
+  "source": "Echo Res Pract",
+  "authors": [
+    {
+      "name": "Modin D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Andersen DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Biering-Sørensen T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Biering-Sørensen T",
+  "title": "Echo and heart failure: when do people need an echo, and when do they need natriuretic peptides?",
+  "sorttitle": "echo and heart failure when do people need an echo and when do they need natriuretic peptides",
+  "volume": "5",
+  "issue": "2",
+  "pages": "R65-R79",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101664713",
+  "issn": "",
+  "essn": "2055-0464",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29691224"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ERP-18-0004"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1530/ERP-18-0004"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5958420"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29691224"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29691224"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5958420;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/04/19 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/04/24 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/04/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/04/25 06:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/04/26 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Echo research and practice",
+  "elocationid": "doi: 10.1530/ERP-18-0004",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/06/01 00:00",
+  "sortfirstauthor": "Modin D",
+  "vernaculartitle": ""
+}

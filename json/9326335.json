@@ -1,0 +1,121 @@
+{
+  "uid": "9326335",
+  "pubdate": "1997 Sep",
+  "epubdate": "",
+  "source": "Am J Hum Genet",
+  "authors": [
+    {
+      "name": "Watson E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Forster P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Richards M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bandelt HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bandelt HJ",
+  "title": "Mitochondrial footprints of human expansions in Africa.",
+  "sorttitle": "mitochondrial footprints of human expansions in africa",
+  "volume": "61",
+  "issue": "3",
+  "pages": "691-704",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370475",
+  "issn": "0002-9297",
+  "essn": "1537-6605",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9326335"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0002-9297(07)64333-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1086/515503"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC1715955"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9326335"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9326335"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC1715955;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1997/10/27 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1997/10/27 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1997/10/27 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 78,
+  "fulljournalname": "American journal of human genetics",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1997/09/01 00:00",
+  "sortfirstauthor": "Watson E",
+  "vernaculartitle": ""
+}

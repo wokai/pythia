@@ -1,0 +1,112 @@
+{
+  "uid": "30417244",
+  "pubdate": "2019 Feb",
+  "epubdate": "2018 Nov 11",
+  "source": "J Anesth",
+  "authors": [
+    {
+      "name": "Safety Committee of Japanese Society of Anesthesiologists.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Safety Committee of Japanese Society of Anesthesiologists.",
+  "title": "Practical guide for the management of systemic toxicity caused by local anesthetics.",
+  "sorttitle": "practical guide for the management of systemic toxicity caused by local anesthetics",
+  "volume": "33",
+  "issue": "1",
+  "pages": "1-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8905667",
+  "issn": "0913-8668",
+  "essn": "1438-8359",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30417244"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00540-018-2542-4"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00540-018-2542-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30417244"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30417244"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/02/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/08/04 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/11/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/18 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/11/13 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Anesth. 2019 Oct;33(5):569-571",
+      "reftype": "Comment in",
+      "pmid": 31053930,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Journal of anesthesia",
+  "elocationid": "doi: 10.1007/s00540-018-2542-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/02/01 00:00",
+  "sortfirstauthor": "Safety Committee of Japanese Society of Anesthesiologists.",
+  "vernaculartitle": ""
+}

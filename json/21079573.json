@@ -1,0 +1,106 @@
+{
+  "uid": "21079573",
+  "pubdate": "2010 Dec",
+  "epubdate": "",
+  "source": "Minerva Ginecol",
+  "authors": [
+    {
+      "name": "Clemens KE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Quednau I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heller AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klaschik E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Klaschik E",
+  "title": "Impact of cafedrine/theodrenaline (Akrinor® ) on therapy of maternal hypotension during spinal anesthesia for Cesarean delivery: a retrospective study.",
+  "sorttitle": "impact of cafedrine theodrenaline akrinor on therapy of maternal hypotension during spinal anesthesia for cesarean delivery a retrospective study",
+  "volume": "62",
+  "issue": "6",
+  "pages": "515-24",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0400731",
+  "issn": "0026-4784",
+  "essn": "1827-1650",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21079573"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "R09103212"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21079573"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21079573"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/11/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/11/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/05/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Minerva ginecologica",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/12/01 00:00",
+  "sortfirstauthor": "Clemens KE",
+  "vernaculartitle": ""
+}

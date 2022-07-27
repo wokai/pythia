@@ -1,0 +1,148 @@
+{
+  "uid": "27840000",
+  "pubdate": "2016 Dec 7",
+  "epubdate": "2016 Nov 10",
+  "source": "Neuron",
+  "authors": [
+    {
+      "name": "Yarmolinsky DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peng Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pogorzala LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rutlin M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoon MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zuker CS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zuker CS",
+  "title": "Coding and Plasticity in the Mammalian Thermosensory System.",
+  "sorttitle": "coding and plasticity in the mammalian thermosensory system",
+  "volume": "92",
+  "issue": "5",
+  "pages": "1079-1092",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8809320",
+  "issn": "0896-6273",
+  "essn": "1097-4199",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27840000"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0896-6273(16)30722-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.neuron.2016.10.021"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5145739"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "HHMIMS823582"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27840000"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27840000"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5145739;manuscript-id: HHMIMS823582;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/02/02 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/08/31 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/10/07 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/11/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/07/18 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/11/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 35,
+  "fulljournalname": "Neuron",
+  "elocationid": "doi: 10.1016/j.neuron.2016.10.021",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/12/07 00:00",
+  "sortfirstauthor": "Yarmolinsky DA",
+  "vernaculartitle": ""
+}

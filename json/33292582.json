@@ -1,0 +1,149 @@
+{
+  "uid": "33292582",
+  "pubdate": "2020 Nov 23",
+  "epubdate": "2020 Nov 23",
+  "source": "J Intensive Care",
+  "authors": [
+    {
+      "name": "Scharf C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liebchen U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paal M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taubert M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vogeser M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Irlbeck M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zoller M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schroeder I",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schroeder I",
+  "title": "The higher the better? Defining the optimal beta-lactam target for critically ill patients to reach infection resolution and improve outcome.",
+  "sorttitle": "higher the better defining the optimal beta lactam target for critically ill patients to reach infection resolution and improve outcome",
+  "volume": "8",
+  "issue": "1",
+  "pages": "86",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101627304",
+  "issn": "",
+  "essn": "2052-0492",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33292582"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s40560-020-00504-w"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s40560-020-00504-w"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7686672"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33292582"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33292582"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7686672;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/09/03 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/11/08 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/09 05:45"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/10 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Journal of intensive care",
+  "elocationid": "doi: 10.1186/s40560-020-00504-w",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/11/23 00:00",
+  "sortfirstauthor": "Scharf C",
+  "vernaculartitle": ""
+}

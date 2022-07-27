@@ -1,0 +1,91 @@
+{
+  "uid": "22354404",
+  "pubdate": "2012 Feb",
+  "epubdate": "",
+  "source": "Anaesthesist",
+  "authors": [
+    {
+      "name": "Ulsenheimer K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ulsenheimer K",
+  "title": "[Legal liability problems in outpatient operations. View from an anesthesiological perspective].",
+  "sorttitle": "legal liability problems in outpatient operations view from an anesthesiological perspective",
+  "volume": "61",
+  "issue": "2",
+  "pages": "156-62",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "0370525",
+  "issn": "0003-2417",
+  "essn": "1432-055X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22354404"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00101-011-1971-3"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22354404"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22354404"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/02/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/02/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/06/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Der Anaesthesist",
+  "elocationid": "doi: 10.1007/s00101-011-1971-3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/02/01 00:00",
+  "sortfirstauthor": "Ulsenheimer K",
+  "vernaculartitle": "Haftungsrechtliche Probleme beim ambulanten Operieren. Betrachtung aus anästhesiologischer Perspektive."
+}

@@ -1,0 +1,102 @@
+{
+  "uid": "25603200",
+  "pubdate": "2015 Feb",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Hopf HW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hopf HW",
+  "title": "Perioperative temperature management: time for a new standard of care?",
+  "sorttitle": "perioperative temperature management time for a new standard of care",
+  "volume": "122",
+  "issue": "2",
+  "pages": "229-30",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Comment",
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25603200"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000000552"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000542-201502000-00007"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25603200"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25603200"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/01/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/01/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/03/25 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2015 Feb;122(2):276-85",
+      "reftype": "Comment on",
+      "pmid": 25603202,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 4,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000000552",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/02/01 00:00",
+  "sortfirstauthor": "Hopf HW",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,110 @@
+{
+  "uid": "15477051",
+  "pubdate": "2004 Oct",
+  "epubdate": "",
+  "source": "Int J Obstet Anesth",
+  "authors": [
+    {
+      "name": "Pan PH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bogard TD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Owen MD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Owen MD",
+  "title": "Incidence and characteristics of failures in obstetric neuraxial analgesia and anesthesia: a retrospective analysis of 19,259 deliveries.",
+  "sorttitle": "incidence and characteristics of failures in obstetric neuraxial analgesia and anesthesia a retrospective analysis of 19 259 deliveries",
+  "volume": "13",
+  "issue": "4",
+  "pages": "227-33",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9200430",
+  "issn": "0959-289X",
+  "essn": "1532-3374",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15477051"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0959-289X(04)00071-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijoa.2004.04.008"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15477051"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15477051"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2004/04/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/10/13 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/02/05 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/10/13 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 45,
+  "fulljournalname": "International journal of obstetric anesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/10/01 00:00",
+  "sortfirstauthor": "Pan PH",
+  "vernaculartitle": ""
+}

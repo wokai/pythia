@@ -1,0 +1,149 @@
+{
+  "uid": "33021684",
+  "pubdate": "2020 Nov",
+  "epubdate": "2020 Oct 6",
+  "source": "Intensive Care Med",
+  "authors": [
+    {
+      "name": "Combes A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peek GJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hajage D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hardy P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abrams D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmidt M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dechartres A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Elbourne D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Elbourne D",
+  "title": "ECMO for severe ARDS: systematic review and individual patient data meta-analysis.",
+  "sorttitle": "ecmo for severe ards systematic review and individual patient data meta analysis",
+  "volume": "46",
+  "issue": "11",
+  "pages": "2048-2057",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7704851",
+  "issn": "0342-4642",
+  "essn": "1432-1238",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33021684"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00134-020-06248-3"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00134-020-06248-3"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7537368"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33021684"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33021684"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7537368;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/07/17 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/09/15 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/07 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/06 12:22"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Intensive care medicine",
+  "elocationid": "doi: 10.1007/s00134-020-06248-3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/11/01 00:00",
+  "sortfirstauthor": "Combes A",
+  "vernaculartitle": ""
+}

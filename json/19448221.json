@@ -1,0 +1,101 @@
+{
+  "uid": "19448221",
+  "pubdate": "2009 Jun",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Pandit JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dexter F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dexter F",
+  "title": "Lack of sensitivity of staffing for 8-hour sessions to standard deviation in daily actual hours of operating room time used for surgeons with long queues.",
+  "sorttitle": "lack of sensitivity of staffing for 8 hour sessions to standard deviation in daily actual hours of operating room time used for surgeons with long queues",
+  "volume": "108",
+  "issue": "6",
+  "pages": "1910-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19448221"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "108/6/1910"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ane.0b013e31819fe7a4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19448221"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19448221"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/05/19 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/05/19 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/06/09 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ane.0b013e31819fe7a4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/06/01 00:00",
+  "sortfirstauthor": "Pandit JJ",
+  "vernaculartitle": ""
+}

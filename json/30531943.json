@@ -1,0 +1,102 @@
+{
+  "uid": "30531943",
+  "pubdate": "2019 Mar",
+  "epubdate": "",
+  "source": "Nat Rev Immunol",
+  "authors": [
+    {
+      "name": "Clarke AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Simon AK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Simon AK",
+  "title": "Autophagy in the renewal, differentiation and homeostasis of immune cells.",
+  "sorttitle": "autophagy in the renewal differentiation and homeostasis of immune cells",
+  "volume": "19",
+  "issue": "3",
+  "pages": "170-183",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101124169",
+  "issn": "1474-1733",
+  "essn": "1474-1741",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30531943"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41577-018-0095-2"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41577-018-0095-2"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30531943"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30531943"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/12/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/12/18 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/12/12 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 50,
+  "fulljournalname": "Nature reviews. Immunology",
+  "elocationid": "doi: 10.1038/s41577-018-0095-2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/03/01 00:00",
+  "sortfirstauthor": "Clarke AJ",
+  "vernaculartitle": ""
+}

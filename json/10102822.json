@@ -1,0 +1,104 @@
+{
+  "uid": "10102822",
+  "pubdate": "1999 Apr 2",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Wood B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Collard M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Collard M",
+  "title": "The human genus.",
+  "sorttitle": "human genus",
+  "volume": "284",
+  "issue": "5411",
+  "pages": "65-71",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "10102822"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.284.5411.65"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "10102822"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "10102822"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1999/04/02 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1999/04/02 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1999/04/02 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Science. 1999 Jun 11;284(5421):1774-5",
+      "reftype": "Comment in",
+      "pmid": 10391795,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 73,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1999/04/02 00:00",
+  "sortfirstauthor": "Wood B",
+  "vernaculartitle": ""
+}

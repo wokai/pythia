@@ -1,0 +1,105 @@
+{
+  "uid": "12690187",
+  "pubdate": "2003 Apr 11",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Collins FS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morgan M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patrinos A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Patrinos A",
+  "title": "The Human Genome Project: lessons from large-scale biology.",
+  "sorttitle": "human genome project lessons from large scale biology",
+  "volume": "300",
+  "issue": "5617",
+  "pages": "286-90",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12690187"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.1084564"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "300/5617/286"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12690187"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12690187"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/04/12 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/05/08 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/04/12 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 157,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/04/11 00:00",
+  "sortfirstauthor": "Collins FS",
+  "vernaculartitle": ""
+}

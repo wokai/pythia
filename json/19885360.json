@@ -1,0 +1,101 @@
+{
+  "uid": "19885360",
+  "pubdate": "2008 Mar",
+  "epubdate": "",
+  "source": "J Diabetes Sci Technol",
+  "authors": [
+    {
+      "name": "Buckingham B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Buckingham B",
+  "title": "Clinical overview of continuous glucose monitoring.",
+  "sorttitle": "clinical overview of continuous glucose monitoring",
+  "volume": "2",
+  "issue": "2",
+  "pages": "300-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101306166",
+  "issn": "",
+  "essn": "1932-2968",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19885360"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1177/193229680800200223"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2771500"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19885360"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19885360"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2771500;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/11/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/03/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/03/01 00:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Journal of diabetes science and technology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/03/01 00:00",
+  "sortfirstauthor": "Buckingham B",
+  "vernaculartitle": ""
+}

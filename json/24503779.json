@@ -1,0 +1,112 @@
+{
+  "uid": "24503779",
+  "pubdate": "2014 Aug",
+  "epubdate": "2014 Feb 6",
+  "source": "Genet Med",
+  "authors": [
+    {
+      "name": "Manolio TA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murray MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Inter-Society Coordinating Committee for Practitioner Education in Genomics.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Murray MF",
+  "title": "The growing role of professional societies in educating clinicians in genomics.",
+  "sorttitle": "growing role of professional societies in educating clinicians in genomics",
+  "volume": "16",
+  "issue": "8",
+  "pages": "571-2",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9815831",
+  "issn": "1098-3600",
+  "essn": "1530-0366",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24503779"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "gim20146"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/gim.2014.6"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24503779"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24503779"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/10/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/01/06 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/02/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/02/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/04/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 15,
+  "fulljournalname": "Genetics in medicine : official journal of the American College of Medical Genetics",
+  "elocationid": "doi: 10.1038/gim.2014.6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/08/01 00:00",
+  "sortfirstauthor": "Manolio TA",
+  "vernaculartitle": ""
+}

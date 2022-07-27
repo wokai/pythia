@@ -1,0 +1,101 @@
+{
+  "uid": "29052637",
+  "pubdate": "2017 Oct 17",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Harari YN",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Harari YN",
+  "title": "Reboot for the AI revolution.",
+  "sorttitle": "reboot for the ai revolution",
+  "volume": "550",
+  "issue": "7676",
+  "pages": "324-327",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29052637"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "550324a"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/550324a"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29052637"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29052637"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/10/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/10/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/02/24 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2017 Oct 18;550(7676):301-302",
+      "reftype": "Comment in",
+      "pmid": 29052642,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 2,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/550324a",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/10/17 00:00",
+  "sortfirstauthor": "Harari YN",
+  "vernaculartitle": ""
+}

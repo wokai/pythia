@@ -1,0 +1,196 @@
+{
+  "uid": "22932268",
+  "pubdate": "2012 Sep 13",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Mattison JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roth GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beasley TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tilmont EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Handy AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herbert RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Longo DL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Allison DB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Young JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bryant M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barnard D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ward WF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Qi W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ingram DK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Cabo R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "de Cabo R",
+  "title": "Impact of caloric restriction on health and survival in rhesus monkeys from the NIA study.",
+  "sorttitle": "impact of caloric restriction on health and survival in rhesus monkeys from the nia study",
+  "volume": "489",
+  "issue": "7415",
+  "pages": "318-21",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22932268"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature11432"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature11432"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3832985"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS528393"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22932268"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22932268"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3832985;manuscript-id: NIHMS528393;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2011/10/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2012/07/23 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2012/08/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/08/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/11/06 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2012 Sep 13;489(7415):210-11",
+      "reftype": "Comment in",
+      "pmid": 22932269,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 363,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature11432",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/09/13 00:00",
+  "sortfirstauthor": "Mattison JA",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,94 @@
+{
+  "uid": "4442376",
+  "pubdate": "1974 May",
+  "epubdate": "",
+  "source": "Ergonomics",
+  "authors": [
+    {
+      "name": "Rasmussen J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jensen A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Jensen A",
+  "title": "Mental procedures in real-life tasks: a case study of electronic trouble shooting.",
+  "sorttitle": "mental procedures in real life tasks a case study of electronic trouble shooting",
+  "volume": "17",
+  "issue": "3",
+  "pages": "293-307",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0373220",
+  "issn": "0014-0139",
+  "essn": "1366-5847",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "4442376"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1080/00140137408931355"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "4442376"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "4442376"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1974/05/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1974/05/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1974/05/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 6,
+  "fulljournalname": "Ergonomics",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1974/05/01 00:00",
+  "sortfirstauthor": "Rasmussen J",
+  "vernaculartitle": ""
+}

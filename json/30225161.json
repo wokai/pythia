@@ -1,0 +1,124 @@
+{
+  "uid": "30225161",
+  "pubdate": "2018",
+  "epubdate": "2018 Sep 12",
+  "source": "PeerJ",
+  "authors": [
+    {
+      "name": "Thielsch MT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meeßen SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hertel G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hertel G",
+  "title": "Trust and distrust in information systems at the workplace.",
+  "sorttitle": "trust and distrust in information systems at the workplace",
+  "volume": "6",
+  "issue": "",
+  "pages": "e5483",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101603425",
+  "issn": "",
+  "essn": "2167-8359",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30225161"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.7717/peerj.5483"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "5483"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6139009"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30225161"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30225161"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6139009;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/03/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/07/29 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/09/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/09/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/09/19 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "PeerJ",
+  "elocationid": "doi: 10.7717/peerj.5483",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/09/12 00:00",
+  "sortfirstauthor": "Thielsch MT",
+  "vernaculartitle": ""
+}

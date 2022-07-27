@@ -1,0 +1,97 @@
+{
+  "uid": "24727889",
+  "pubdate": "2014 May",
+  "epubdate": "",
+  "source": "Tohoku J Exp Med",
+  "authors": [
+    {
+      "name": "Hashimoto J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hashimoto J",
+  "title": "Central hemodynamics and target organ damage in hypertension.",
+  "sorttitle": "central hemodynamics and target organ damage in hypertension",
+  "volume": "233",
+  "issue": "1",
+  "pages": "1-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0417355",
+  "issn": "0040-8727",
+  "essn": "1349-3329",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24727889"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "DN/JST.JSTAGE/tjem/233.1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1620/tjem.233.1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24727889"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24727889"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/04/15 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/04/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/12/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "The Tohoku journal of experimental medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/05/01 00:00",
+  "sortfirstauthor": "Hashimoto J",
+  "vernaculartitle": ""
+}

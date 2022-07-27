@@ -1,0 +1,134 @@
+{
+  "uid": "32047941",
+  "pubdate": "2020 Feb",
+  "epubdate": "2020 Feb 11",
+  "source": "Intensive Care Med",
+  "authors": [
+    {
+      "name": "Timsit JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ruppé E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barbier F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tabah A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bassetti M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bassetti M",
+  "title": "Bloodstream infections in critically ill patients: an expert statement.",
+  "sorttitle": "bloodstream infections in critically ill patients an expert statement",
+  "volume": "46",
+  "issue": "2",
+  "pages": "266-284",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7704851",
+  "issn": "0342-4642",
+  "essn": "1432-1238",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32047941"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00134-020-05950-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00134-020-05950-6"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7223992"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32047941"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32047941"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7223992;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/10/14 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/01/23 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/02/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/08 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/02/13 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Intensive care medicine",
+  "elocationid": "doi: 10.1007/s00134-020-05950-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/02/01 00:00",
+  "sortfirstauthor": "Timsit JF",
+  "vernaculartitle": ""
+}

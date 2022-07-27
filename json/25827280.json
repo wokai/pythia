@@ -1,0 +1,102 @@
+{
+  "uid": "25827280",
+  "pubdate": "2015 Jun",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Devroe S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van de Velde M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rex S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rex S",
+  "title": "General anesthesia for caesarean section.",
+  "sorttitle": "general anesthesia for caesarean section",
+  "volume": "28",
+  "issue": "3",
+  "pages": "240-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25827280"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0000000000000185"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25827280"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25827280"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/04/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/04/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/01/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0000000000000185",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/06/01 00:00",
+  "sortfirstauthor": "Devroe S",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,110 @@
+{
+  "uid": "21169802",
+  "pubdate": "2011 Jan",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Kim TW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nemergut ME",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Nemergut ME",
+  "title": "Preparation of modern anesthesia workstations for malignant hyperthermia-susceptible patients: a review of past and present practice.",
+  "sorttitle": "preparation of modern anesthesia workstations for malignant hyperthermia susceptible patients a review of past and present practice",
+  "volume": "114",
+  "issue": "1",
+  "pages": "205-12",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21169802"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0b013e3181ee2cb7"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21169802"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21169802"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/12/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/12/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/01/29 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2011 Aug;115(2):434-5; author reply 436-7",
+      "reftype": "Comment in",
+      "pmid": 21791992,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2011 Aug;115(2):434; author reply 436-7",
+      "reftype": "Comment in",
+      "pmid": 21791993,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0b013e3181ee2cb7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/01/01 00:00",
+  "sortfirstauthor": "Kim TW",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,15 @@
+<div>
+  <form novalidate class="simple-form">
+  
+  <div class="input-group">
+    <div class="input-group-prepend" style="width:40%">
+      <label class="input-group-text w-100">Pubmed ID</label>
+    </div>
+    <input type="text" ng-model="pubmedId" class="form-control" 
+        placeholder="Pubmed ID" ng-required="true"/>
+  </div>
+  
+  <input type="button" class="btn btn-warning" ng-click="reset()" value="Reset" />
+  <input type="submit" class="btn btn-primary" ng-click="doQuery()" value="Send Query" />
+</form>
+</div>

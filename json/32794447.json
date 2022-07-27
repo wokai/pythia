@@ -1,0 +1,141 @@
+{
+  "uid": "32794447",
+  "pubdate": "2020 Aug",
+  "epubdate": "",
+  "source": "Euro Surveill",
+  "authors": [
+    {
+      "name": "Singanayagam A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patel M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Charlett A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lopez Bernal J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saliba V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ellis J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ladhani S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zambon M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gopal R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gopal R",
+  "title": "Duration of infectiousness and correlation with RT-PCR cycle threshold values in cases of COVID-19, England, January to May 2020.",
+  "sorttitle": "duration of infectiousness and correlation with rt pcr cycle threshold values in cases of covid 19 england january to may 2020",
+  "volume": "25",
+  "issue": "32",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100887452",
+  "issn": "1025-496X",
+  "essn": "1560-7917",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32794447"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.2807/1560-7917.ES.2020.25.32.2001483"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7427302"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32794447"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32794447"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7427302;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/15 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/08/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 52,
+  "fulljournalname": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
+  "elocationid": "doi: 10.2807/1560-7917.ES.2020.25.32.2001483",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/01 00:00",
+  "sortfirstauthor": "Singanayagam A",
+  "vernaculartitle": ""
+}

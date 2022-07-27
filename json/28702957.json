@@ -1,0 +1,135 @@
+{
+  "uid": "28702957",
+  "pubdate": "2017 Jul 13",
+  "epubdate": "2017 Jul 13",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Osadnik CR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tee VS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carson-Chahhoud KV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Picot J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wedzicha JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Smith BJ",
+  "title": "Non-invasive ventilation for the management of acute hypercapnic respiratory failure due to exacerbation of chronic obstructive pulmonary disease.",
+  "sorttitle": "non invasive ventilation for the management of acute hypercapnic respiratory failure due to exacerbation of chronic obstructive pulmonary disease",
+  "volume": "7",
+  "issue": "",
+  "pages": "CD004104",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28702957"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD004104.pub4"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6483555"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28702957"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28702957"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6483555;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/07/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/07/17 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/07/14 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cochrane Database Syst Rev. 2004;(3):CD004104",
+      "reftype": "Update of",
+      "pmid": 15266518,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 52,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD004104.pub4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/07/13 00:00",
+  "sortfirstauthor": "Osadnik CR",
+  "vernaculartitle": ""
+}

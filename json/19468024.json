@@ -1,0 +1,109 @@
+{
+  "uid": "19468024",
+  "pubdate": "2009 Jul",
+  "epubdate": "2009 May 24",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Srivastava A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hunter JM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hunter JM",
+  "title": "Reversal of neuromuscular block.",
+  "sorttitle": "reversal of neuromuscular block",
+  "volume": "103",
+  "issue": "1",
+  "pages": "115-29",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19468024"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)34048-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aep093"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19468024"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19468024"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/05/27 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/05/27 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/07/23 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2009 Oct;103(4):622",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": "Dosage error in article text"
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 31,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aep093",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/07/01 00:00",
+  "sortfirstauthor": "Srivastava A",
+  "vernaculartitle": ""
+}

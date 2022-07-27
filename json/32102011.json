@@ -1,0 +1,104 @@
+{
+  "uid": "32102011",
+  "pubdate": "2020 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "De Hert SG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lurati Buse GA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lurati Buse GA",
+  "title": "Cardiac Biomarkers for the Prediction and Detection of Adverse Cardiac Events After Noncardiac Surgery: A Narrative Review.",
+  "sorttitle": "cardiac biomarkers for the prediction and detection of adverse cardiac events after noncardiac surgery a narrative review",
+  "volume": "131",
+  "issue": "1",
+  "pages": "187-195",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32102011"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000004711"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32102011"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32102011"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/02/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/08/12 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/02/27 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2020 Jul;131(1):170-172",
+      "reftype": "Comment in",
+      "pmid": 32541590,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000004711",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/01 00:00",
+  "sortfirstauthor": "De Hert SG",
+  "vernaculartitle": ""
+}

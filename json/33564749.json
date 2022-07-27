@@ -1,0 +1,333 @@
+{
+  "uid": "33564749",
+  "pubdate": "2021 Mar 16",
+  "epubdate": "2021 Feb 5",
+  "source": "Cell Rep Med",
+  "authors": [
+    {
+      "name": "Koutsakos M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rowntree LC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hensen L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chua BY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van de Sandt CE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Habel JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jia X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kedzierski L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ashhurst TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Putri GH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marsh-Wakefield F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Read MN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Edwards DN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clemens EB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong CY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mordant FL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Juno JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Amanat F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Audsley J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Holmes NE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gordon CL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smibert OC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Trubiano JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hughes CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Catton M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Denholm JT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tong SYC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Doolan DL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kotsimbos TC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jackson DC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krammer F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Godfrey DI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chung AW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "King NJC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lewin SR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wheatley AK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kent SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Subbarao K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McMahon J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thevarajan I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nguyen THO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cheng AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kedzierska K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kedzierska K",
+  "title": "Integrated immune dynamics define correlates of COVID-19 severity and antibody responses.",
+  "sorttitle": "integrated immune dynamics define correlates of covid 19 severity and antibody responses",
+  "volume": "2",
+  "issue": "3",
+  "pages": "100208",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101766894",
+  "issn": "",
+  "essn": "2666-3791",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33564749"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.xcrm.2021.100208"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2666-3791(21)00019-7"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7862905"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33564749"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33564749"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7862905;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/09/17 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/11/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/02/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/02/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/11 06:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/02/10 05:57"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Cell reports. Medicine",
+  "elocationid": "doi: 10.1016/j.xcrm.2021.100208",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/16 00:00",
+  "sortfirstauthor": "Koutsakos M",
+  "vernaculartitle": ""
+}

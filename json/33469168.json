@@ -1,0 +1,121 @@
+{
+  "uid": "33469168",
+  "pubdate": "2021 Jun",
+  "epubdate": "2021 Jan 19",
+  "source": "Nat Rev Microbiol",
+  "authors": [
+    {
+      "name": "Rodríguez-Beltrán J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "DelaFuente J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "León-Sampedro R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "MacLean RC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "San Millán Á",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "San Millán Á",
+  "title": "Beyond horizontal gene transfer: the role of plasmids in bacterial evolution.",
+  "sorttitle": "beyond horizontal gene transfer the role of plasmids in bacterial evolution",
+  "volume": "19",
+  "issue": "6",
+  "pages": "347-359",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101190261",
+  "issn": "1740-1526",
+  "essn": "1740-1534",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33469168"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41579-020-00497-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41579-020-00497-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33469168"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33469168"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2020/12/07 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/08/28 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/20 05:50"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 17,
+  "fulljournalname": "Nature reviews. Microbiology",
+  "elocationid": "doi: 10.1038/s41579-020-00497-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/06/01 00:00",
+  "sortfirstauthor": "Rodríguez-Beltrán J",
+  "vernaculartitle": ""
+}

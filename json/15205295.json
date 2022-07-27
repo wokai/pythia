@@ -1,0 +1,241 @@
+{
+  "uid": "15205295",
+  "pubdate": "2004 Jun 19",
+  "epubdate": "",
+  "source": "BMJ",
+  "authors": [
+    {
+      "name": "Atkins D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Best D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Briss PA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eccles M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Falck-Ytter Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Flottorp S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyatt GH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harbour RT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haugh MC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Henry D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hill S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jaeschke R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leng G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liberati A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Magrini N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mason J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Middleton P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mrukowicz J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Connell D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oxman AD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Phillips B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schünemann HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Edejer T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Varonen H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vist GE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Williams JW Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zaza S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "GRADE Working Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zaza S",
+  "title": "Grading quality of evidence and strength of recommendations.",
+  "sorttitle": "grading quality of evidence and strength of recommendations",
+  "volume": "328",
+  "issue": "7454",
+  "pages": "1490",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8900488",
+  "issn": "0959-8138",
+  "essn": "1756-1833",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15205295"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmj.328.7454.1490"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "328/7454/1490"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC428525"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15205295"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15205295"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC428525;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/06/19 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/07/13 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/06/19 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1798,
+  "fulljournalname": "BMJ (Clinical research ed.)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/06/19 00:00",
+  "sortfirstauthor": "Atkins D",
+  "vernaculartitle": ""
+}

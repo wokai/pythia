@@ -1,0 +1,119 @@
+{
+  "uid": "27655655",
+  "pubdate": "2016 Sep 21",
+  "epubdate": "2016 Sep 21",
+  "source": "J Biomed Semantics",
+  "authors": [
+    {
+      "name": "López-García P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schulz S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schulz S",
+  "title": "Can SNOMED CT be squeezed without losing its shape?",
+  "sorttitle": "can snomed ct be squeezed without losing its shape",
+  "volume": "7",
+  "issue": "1",
+  "pages": "56",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101531992",
+  "issn": "",
+  "essn": "2041-1480",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27655655"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13326-016-0101-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13326-016-0101-1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5031277"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27655655"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27655655"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5031277;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/03/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/09/09 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/09/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/09/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/09/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Journal of biomedical semantics",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/09/21 00:00",
+  "sortfirstauthor": "López-García P",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,125 @@
+{
+  "uid": "27858374",
+  "pubdate": "2016 Dec",
+  "epubdate": "2016 Nov 17",
+  "source": "Ann Intensive Care",
+  "authors": [
+    {
+      "name": "Monnet X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marik PE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Teboul JL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Teboul JL",
+  "title": "Prediction of fluid responsiveness: an update.",
+  "sorttitle": "prediction of fluid responsiveness an update",
+  "volume": "6",
+  "issue": "1",
+  "pages": "111",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101562873",
+  "issn": "",
+  "essn": "2110-5820",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27858374"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13613-016-0216-7"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13613-016-0216-7"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5114218"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27858374"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27858374"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5114218;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/09/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/11/08 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/11/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/11/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/11/20 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 113,
+  "fulljournalname": "Annals of intensive care",
+  "elocationid": "doi: 10.1186/s13613-016-0216-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/12/01 00:00",
+  "sortfirstauthor": "Monnet X",
+  "vernaculartitle": ""
+}

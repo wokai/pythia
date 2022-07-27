@@ -1,0 +1,128 @@
+{
+  "uid": "33003194",
+  "pubdate": "2020 Oct 2",
+  "epubdate": "2020 Oct 2",
+  "source": "Brief Bioinform",
+  "authors": [
+    {
+      "name": "Jing Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Diao L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Han L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Han L",
+  "title": "Adverse events associated with potential drugs for COVID-19: a case study from real-world data.",
+  "sorttitle": "adverse events associated with potential drugs for covid 19 a case study from real world data",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100912837",
+  "issn": "1467-5463",
+  "essn": "1477-4054",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33003194"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "5917051"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bib/bbaa234"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7543289"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33003194"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33003194"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7543289;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/06/29 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/08/03 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/08/26 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/01 20:23"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/02 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Briefings in bioinformatics",
+  "elocationid": "pii: bbaa234. doi: 10.1093/bib/bbaa234",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/02 00:00",
+  "sortfirstauthor": "Jing Y",
+  "vernaculartitle": ""
+}

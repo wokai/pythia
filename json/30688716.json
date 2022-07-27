@@ -1,0 +1,172 @@
+{
+  "uid": "30688716",
+  "pubdate": "2019 Apr",
+  "epubdate": "",
+  "source": "Crit Care Med",
+  "authors": [
+    {
+      "name": "Pastores SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kvetan V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coopersmith CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Farmer JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sessler C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Christman JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "D'Agostino R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Diaz-Gomez J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gregg SR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khan RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kapu AN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Masur H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mehta G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moore J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oropello JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Price K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Academic Leaders in Critical Care Medicine (ALCCM) Task Force of the Society of the Critical Care Medicine.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Price K",
+  "title": "Workforce, Workload, and Burnout Among Intensivists and Advanced Practice Providers: A Narrative Review.",
+  "sorttitle": "workforce workload and burnout among intensivists and advanced practice providers a narrative review",
+  "volume": "47",
+  "issue": "4",
+  "pages": "550-557",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0355501",
+  "issn": "0090-3493",
+  "essn": "1530-0293",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30688716"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/CCM.0000000000003637"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30688716"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30688716"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/01/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/01/21 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/01/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Critical care medicine",
+  "elocationid": "doi: 10.1097/CCM.0000000000003637",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/04/01 00:00",
+  "sortfirstauthor": "Pastores SM",
+  "vernaculartitle": ""
+}

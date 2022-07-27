@@ -1,0 +1,372 @@
+{
+  "uid": "23583980",
+  "pubdate": "2013 Jun",
+  "epubdate": "2013 Apr 14",
+  "source": "Nat Genet",
+  "authors": [
+    {
+      "name": "Fingerlin TE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murphy E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peljto AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brown KK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Steele MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Loyd JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cosgrove GP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lynch D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Groshong S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Collard HR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wolters PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bradford WZ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kossen K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seiwert SD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "du Bois RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Garcia CK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Devine MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gudmundsson G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Isaksson HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaminski N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gibson KF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lancaster LH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cogan JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mason WR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maher TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Molyneaux PL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wells AU",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moffatt MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Selman M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pardo A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim DS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crapo JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Make BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Regan EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walek DS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Daniel JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kamatani Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zelenika D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McKean D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pedersen BS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Talbert J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kidd RN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Markin CR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beckman KB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lathrop M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwarz MI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwartz DA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schwartz DA",
+  "title": "Genome-wide association study identifies multiple susceptibility loci for pulmonary fibrosis.",
+  "sorttitle": "genome wide association study identifies multiple susceptibility loci for pulmonary fibrosis",
+  "volume": "45",
+  "issue": "6",
+  "pages": "613-20",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9216904",
+  "issn": "1061-4036",
+  "essn": "1546-1718",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23583980"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ng.2609"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/ng.2609"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3677861"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS474975"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23583980"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23583980"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3677861;manuscript-id: NIHMS474975;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2012/12/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2013/03/18 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/04/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/04/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/08/03 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Genet. 2013 Nov;45(11):1409",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 263,
+  "fulljournalname": "Nature genetics",
+  "elocationid": "doi: 10.1038/ng.2609",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/06/01 00:00",
+  "sortfirstauthor": "Fingerlin TE",
+  "vernaculartitle": ""
+}

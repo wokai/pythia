@@ -1,0 +1,114 @@
+{
+  "uid": "25627395",
+  "pubdate": "2015 Sep",
+  "epubdate": "2015 Jan 26",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Simpao AF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ahumada LM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rehman MA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rehman MA",
+  "title": "Big data and visual analytics in anaesthesia and health care.",
+  "sorttitle": "big data and visual analytics in anaesthesia and health care",
+  "volume": "115",
+  "issue": "3",
+  "pages": "350-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25627395"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)31147-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aeu552"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25627395"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25627395"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/01/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/01/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/11/03 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2015 Sep;115(3):339-42",
+      "reftype": "Comment in",
+      "pmid": 26034021,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aeu552",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/09/01 00:00",
+  "sortfirstauthor": "Simpao AF",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,96 @@
+{
+  "uid": "11093833",
+  "pubdate": "2000 Dec 21",
+  "epubdate": "",
+  "source": "J Theor Biol",
+  "authors": [
+    {
+      "name": "Elder D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Elder D",
+  "title": "Split gene origin and periodic introns.",
+  "sorttitle": "split gene origin and periodic introns",
+  "volume": "207",
+  "issue": "4",
+  "pages": "455-72",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0376342",
+  "issn": "0022-5193",
+  "essn": "1095-8541",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11093833"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1006/jtbi.2000.2161"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0022-5193(00)92161-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11093833"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11093833"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2000/11/30 11:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/03/03 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2000/11/30 11:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Journal of theoretical biology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/12/21 00:00",
+  "sortfirstauthor": "Elder D",
+  "vernaculartitle": ""
+}

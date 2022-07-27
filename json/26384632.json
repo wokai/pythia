@@ -1,0 +1,104 @@
+{
+  "uid": "26384632",
+  "pubdate": "2015 Oct",
+  "epubdate": "2015 May 8",
+  "source": "J Cardiothorac Vasc Anesth",
+  "authors": [
+    {
+      "name": "Bhatt HV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fischer GW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Fischer GW",
+  "title": "Atrial Fibrillation: Pathophysiology and Therapeutic Options.",
+  "sorttitle": "atrial fibrillation pathophysiology and therapeutic options",
+  "volume": "29",
+  "issue": "5",
+  "pages": "1333-40",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9110208",
+  "issn": "1053-0770",
+  "essn": "1532-8422",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26384632"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1053-0770(15)00342-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1053/j.jvca.2015.05.058"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26384632"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26384632"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/07/23 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/09/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/09/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/06/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 3,
+  "fulljournalname": "Journal of cardiothoracic and vascular anesthesia",
+  "elocationid": "doi: 10.1053/j.jvca.2015.05.058",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/10/01 00:00",
+  "sortfirstauthor": "Bhatt HV",
+  "vernaculartitle": ""
+}

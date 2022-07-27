@@ -1,0 +1,101 @@
+{
+  "uid": "8659722",
+  "pubdate": "1996 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Green CR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pandit SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schork MA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schork MA",
+  "title": "Preoperative fasting time: is the traditional policy changing? Results of a national survey.",
+  "sorttitle": "preoperative fasting time is the traditional policy changing results of a national survey",
+  "volume": "83",
+  "issue": "1",
+  "pages": "123-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8659722"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000539-199607000-00022"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8659722"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8659722"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1996/07/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1996/07/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1996/07/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1996/07/01 00:00",
+  "sortfirstauthor": "Green CR",
+  "vernaculartitle": ""
+}

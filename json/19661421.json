@@ -1,0 +1,136 @@
+{
+  "uid": "19661421",
+  "pubdate": "2009 Aug 7",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Clark PU",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dyke AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shakun JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carlson AE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clark J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wohlfarth B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mitrovica JX",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hostetler SW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCabe AM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "McCabe AM",
+  "title": "The Last Glacial Maximum.",
+  "sorttitle": "last glacial maximum",
+  "volume": "325",
+  "issue": "5941",
+  "pages": "710-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19661421"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "325/5941/710"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.1172873"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19661421"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19661421"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/08/08 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/08/08 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/08/08 09:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 199,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "doi: 10.1126/science.1172873",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/08/07 00:00",
+  "sortfirstauthor": "Clark PU",
+  "vernaculartitle": ""
+}

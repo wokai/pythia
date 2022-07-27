@@ -1,0 +1,120 @@
+{
+  "uid": "32689937",
+  "pubdate": "2020 Jul 20",
+  "epubdate": "2020 Jul 20",
+  "source": "BMC Anesthesiol",
+  "authors": [
+    {
+      "name": "Navas-Blanco JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dudaryk R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dudaryk R",
+  "title": "Management of Respiratory Distress Syndrome due to COVID-19 infection.",
+  "sorttitle": "management of respiratory distress syndrome due to covid 19 infection",
+  "volume": "20",
+  "issue": "1",
+  "pages": "177",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100968535",
+  "issn": "",
+  "essn": "1471-2253",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32689937"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s12871-020-01095-7"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s12871-020-01095-7"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7369540"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32689937"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32689937"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7369540;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/04/29 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/07/13 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/07/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/07/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/07/31 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "BMC anesthesiology",
+  "elocationid": "doi: 10.1186/s12871-020-01095-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/20 00:00",
+  "sortfirstauthor": "Navas-Blanco JR",
+  "vernaculartitle": ""
+}

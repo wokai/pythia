@@ -1,0 +1,144 @@
+{
+  "uid": "31718563",
+  "pubdate": "2019 Nov 12",
+  "epubdate": "2019 Nov 12",
+  "source": "BMC Infect Dis",
+  "authors": [
+    {
+      "name": "Song J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Park DW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moon S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cho HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Park JH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seok H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Choi WS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Choi WS",
+  "title": "Diagnostic and prognostic value of interleukin-6, pentraxin 3, and procalcitonin levels among sepsis and septic shock patients: a prospective controlled study according to the Sepsis-3 definitions.",
+  "sorttitle": "diagnostic and prognostic value of interleukin 6 pentraxin 3 and procalcitonin levels among sepsis and septic shock patients a prospective controlled study according to the sepsis 3 definitions",
+  "volume": "19",
+  "issue": "1",
+  "pages": "968",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100968551",
+  "issn": "",
+  "essn": "1471-2334",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31718563"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s12879-019-4618-7"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s12879-019-4618-7"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6852730"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31718563"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31718563"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6852730;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/08/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/11/04 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/11/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/11/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/12/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "BMC infectious diseases",
+  "elocationid": "doi: 10.1186/s12879-019-4618-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/11/12 00:00",
+  "sortfirstauthor": "Song J",
+  "vernaculartitle": ""
+}

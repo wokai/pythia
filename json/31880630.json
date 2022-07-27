@@ -1,0 +1,109 @@
+{
+  "uid": "31880630",
+  "pubdate": "2020 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Ruetzler K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khanna AK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sessler DI",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sessler DI",
+  "title": "Myocardial Injury After Noncardiac Surgery: Preoperative, Intraoperative, and Postoperative Aspects, Implications, and Directions.",
+  "sorttitle": "myocardial injury after noncardiac surgery preoperative intraoperative and postoperative aspects implications and directions",
+  "volume": "131",
+  "issue": "1",
+  "pages": "173-186",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31880630"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000004567"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31880630"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31880630"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/12/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/08/12 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/12/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2020 Jul;131(1):170-172",
+      "reftype": "Comment in",
+      "pmid": 32541590,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000004567",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/01 00:00",
+  "sortfirstauthor": "Ruetzler K",
+  "vernaculartitle": ""
+}

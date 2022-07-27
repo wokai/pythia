@@ -1,0 +1,120 @@
+{
+  "uid": "25875259",
+  "pubdate": "2015 Apr 16",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Leffler DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lamont JT",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lamont JT",
+  "title": "Clostridium difficile infection.",
+  "sorttitle": "clostridium difficile infection",
+  "volume": "372",
+  "issue": "16",
+  "pages": "1539-48",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25875259"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMra1403772"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25875259"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25875259"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/04/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/04/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/04/29 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2015 Jul 16;373(3):287-8",
+      "reftype": "Comment in",
+      "pmid": 26176396,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2015 Jul 16;373(3):286",
+      "reftype": "Comment in",
+      "pmid": 26176397,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2015 Jul 16;373(3):286-7",
+      "reftype": "Comment in",
+      "pmid": 26176398,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2015 Jul 16;373(3):287",
+      "reftype": "Comment in",
+      "pmid": 26176399,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 217,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMra1403772",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/04/16 00:00",
+  "sortfirstauthor": "Leffler DA",
+  "vernaculartitle": ""
+}

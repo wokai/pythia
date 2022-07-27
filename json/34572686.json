@@ -1,0 +1,149 @@
+{
+  "uid": "34572686",
+  "pubdate": "2021 Sep 13",
+  "epubdate": "2021 Sep 13",
+  "source": "Antibiotics (Basel)",
+  "authors": [
+    {
+      "name": "Urbina T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Razazi K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ourghanlian C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Woerther PL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chosidow O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lepeule R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Prost N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "de Prost N",
+  "title": "Antibiotics in Necrotizing Soft Tissue Infections.",
+  "sorttitle": "antibiotics in necrotizing soft tissue infections",
+  "volume": "10",
+  "issue": "9",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101637404",
+  "issn": "",
+  "essn": "2079-6382",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34572686"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "antibiotics10091104"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/antibiotics10091104"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8466904"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34572686"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34572686"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8466904;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/08/27 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/09/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/09/10 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/09/28 01:06"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/09/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/09/29 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Antibiotics (Basel, Switzerland)",
+  "elocationid": "pii: 1104. doi: 10.3390/antibiotics10091104",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/09/13 00:00",
+  "sortfirstauthor": "Urbina T",
+  "vernaculartitle": ""
+}

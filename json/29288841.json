@@ -1,0 +1,295 @@
+{
+  "uid": "29288841",
+  "pubdate": "2018 Apr",
+  "epubdate": "2017 Dec 27",
+  "source": "Anaesth Crit Care Pain Med",
+  "authors": [
+    {
+      "name": "Geeraerts T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Velly L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abdennour L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Asehnoune K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Audibert G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bouzat P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bruder N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carrillon R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cottenceau V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cotton F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Courtil-Teyssedre S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dahyot-Fizelier C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dailler F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "David JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Engrand N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fletcher D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Francony G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gergelé L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ichai C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Javouhey É",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leblanc PE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lieutaud T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyer P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mirek S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Orliaguet G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Proust F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Quintard H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ract C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Srairi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tazarourte K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vigué B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Payen JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "French Society of Anaesthesia.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Intensive Care Medicine.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "in partnership with Association de neuro-anesthésie-réanimation de langue française (Anarlf).",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "French Society of Emergency Medicine (Société Française de Médecine d'urgence (SFMU).",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Société française de neurochirurgie (SFN).",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Groupe francophone de réanimation et d’urgences pédiatriques (GFRUP).",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Association des anesthésistes-réanimateurs pédiatriques d’expression française (Adarpef).",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Payen JF",
+  "title": "Management of severe traumatic brain injury (first 24hours).",
+  "sorttitle": "management of severe traumatic brain injury first 24hours",
+  "volume": "37",
+  "issue": "2",
+  "pages": "171-186",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101652401",
+  "issn": "",
+  "essn": "2352-5568",
+  "pubtype": [
+    "Guideline",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29288841"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2352-5568(17)30370-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.accpm.2017.12.001"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29288841"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29288841"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/12/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/03/16 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/12/31 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anaesth Crit Care Pain Med. 2018 Apr;37(2):111-112",
+      "reftype": "Comment in",
+      "pmid": 29555178,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 18,
+  "fulljournalname": "Anaesthesia, critical care & pain medicine",
+  "elocationid": "doi: 10.1016/j.accpm.2017.12.001",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/04/01 00:00",
+  "sortfirstauthor": "Geeraerts T",
+  "vernaculartitle": ""
+}

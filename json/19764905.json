@@ -1,0 +1,143 @@
+{
+  "uid": "19764905",
+  "pubdate": "2010 Mar",
+  "epubdate": "2009 Sep 17",
+  "source": "Acta Anaesthesiol Scand",
+  "authors": [
+    {
+      "name": "Breuer JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bosse G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seifert S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prochnow L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schleppers A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Geldner G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Soreide E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spies C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Spies C",
+  "title": "Pre-operative fasting: a nationwide survey of German anaesthesia departments.",
+  "sorttitle": "pre operative fasting a nationwide survey of german anaesthesia departments",
+  "volume": "54",
+  "issue": "3",
+  "pages": "313-20",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370270",
+  "issn": "0001-5172",
+  "essn": "1399-6576",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19764905"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "AAS2123"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1399-6576.2009.02123.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19764905"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19764905"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/09/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/09/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/07/16 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Acta Anaesthesiol Scand. 2010 Oct;54(9):1153; author reply 1153-4",
+      "reftype": "Comment in",
+      "pmid": 20887419,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Acta anaesthesiologica Scandinavica",
+  "elocationid": "doi: 10.1111/j.1399-6576.2009.02123.x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/03/01 00:00",
+  "sortfirstauthor": "Breuer JP",
+  "vernaculartitle": ""
+}

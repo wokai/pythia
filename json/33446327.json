@@ -1,0 +1,139 @@
+{
+  "uid": "33446327",
+  "pubdate": "2021 Jan-Feb",
+  "epubdate": "2020 Dec 16",
+  "source": "Rev Neurol (Paris)",
+  "authors": [
+    {
+      "name": "Maury A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lyoubi A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peiffer-Smadja N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Broucker T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meppiel E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Meppiel E",
+  "title": "Neurological manifestations associated with SARS-CoV-2 and other coronaviruses: A narrative review for clinicians.",
+  "sorttitle": "neurological manifestations associated with sars cov 2 and other coronaviruses a narrative review for clinicians",
+  "volume": "177",
+  "issue": "1-2",
+  "pages": "51-64",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2984779R",
+  "issn": "0035-3787",
+  "essn": "",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33446327"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0035-3787(20)30732-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.neurol.2020.10.001"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7832485"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33446327"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33446327"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7832485;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/08/18 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/10/04 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/10/06 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/20 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/15 05:37"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Revue neurologique",
+  "elocationid": "doi: 10.1016/j.neurol.2020.10.001",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/01 00:00",
+  "sortfirstauthor": "Maury A",
+  "vernaculartitle": ""
+}

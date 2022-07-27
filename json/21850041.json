@@ -1,0 +1,102 @@
+{
+  "uid": "21850041",
+  "pubdate": "2011 Aug 18",
+  "epubdate": "2011 Aug 18",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "Stoneking M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krause J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Krause J",
+  "title": "Learning about human population history from ancient and modern genomes.",
+  "sorttitle": "learning about human population history from ancient and modern genomes",
+  "volume": "12",
+  "issue": "9",
+  "pages": "603-14",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21850041"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrg3029"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrg3029"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21850041"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21850041"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/08/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/08/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/10/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 45,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "doi: 10.1038/nrg3029",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/08/18 00:00",
+  "sortfirstauthor": "Stoneking M",
+  "vernaculartitle": ""
+}

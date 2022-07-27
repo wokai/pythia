@@ -1,0 +1,94 @@
+{
+  "uid": "33093682",
+  "pubdate": "2020 Nov",
+  "epubdate": "",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "Overbaugh J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Overbaugh J",
+  "title": "Understanding protection from SARS-CoV-2 by studying reinfection.",
+  "sorttitle": "understanding protection from sars cov 2 by studying reinfection",
+  "volume": "26",
+  "issue": "11",
+  "pages": "1680-1681",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33093682"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-020-1121-z"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-020-1121-z"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33093682"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33093682"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/23 05:56"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 2,
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-020-1121-z",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/11/01 00:00",
+  "sortfirstauthor": "Overbaugh J",
+  "vernaculartitle": ""
+}

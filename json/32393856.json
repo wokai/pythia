@@ -1,0 +1,109 @@
+{
+  "uid": "32393856",
+  "pubdate": "2020 Jul",
+  "epubdate": "",
+  "source": "Nat Microbiol",
+  "authors": [
+    {
+      "name": "Veiga P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Suez J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Derrien M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Elinav E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Elinav E",
+  "title": "Moving from probiotics to precision probiotics.",
+  "sorttitle": "moving from probiotics to precision probiotics",
+  "volume": "5",
+  "issue": "7",
+  "pages": "878-880",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101674869",
+  "issn": "",
+  "essn": "2058-5276",
+  "pubtype": [
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32393856"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41564-020-0721-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41564-020-0721-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32393856"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32393856"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/05/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/21 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/05/13 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 2,
+  "fulljournalname": "Nature microbiology",
+  "elocationid": "doi: 10.1038/s41564-020-0721-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/01 00:00",
+  "sortfirstauthor": "Veiga P",
+  "vernaculartitle": ""
+}

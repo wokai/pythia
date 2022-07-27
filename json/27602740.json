@@ -1,0 +1,94 @@
+{
+  "uid": "27602740",
+  "pubdate": "2016 Sep 8",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Scott AR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Scott AR",
+  "title": "Technology: Read the instructions.",
+  "sorttitle": "technology read the instructions",
+  "volume": "537",
+  "issue": "7619",
+  "pages": "S54-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27602740"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "537S54a"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/537S54a"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27602740"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27602740"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/09/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/09/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/10/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 2,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/537S54a",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/09/08 00:00",
+  "sortfirstauthor": "Scott AR",
+  "vernaculartitle": ""
+}

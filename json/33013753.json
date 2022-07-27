@@ -1,0 +1,129 @@
+{
+  "uid": "33013753",
+  "pubdate": "2020",
+  "epubdate": "2020 Sep 4",
+  "source": "Front Microbiol",
+  "authors": [
+    {
+      "name": "Hülter NF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wein T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Effe J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Garoña A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dagan T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dagan T",
+  "title": "Intracellular Competitions Reveal Determinants of Plasmid Evolutionary Success.",
+  "sorttitle": "intracellular competitions reveal determinants of plasmid evolutionary success",
+  "volume": "11",
+  "issue": "",
+  "pages": "2062",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101548977",
+  "issn": "",
+  "essn": "1664-302X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33013753"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fmicb.2020.02062"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7500096"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33013753"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33013753"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7500096;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/05/03 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/08/05 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/05 06:15"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/06 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Frontiers in microbiology",
+  "elocationid": "doi: 10.3389/fmicb.2020.02062",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/04 00:00",
+  "sortfirstauthor": "Hülter NF",
+  "vernaculartitle": ""
+}

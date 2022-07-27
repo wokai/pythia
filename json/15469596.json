@@ -1,0 +1,107 @@
+{
+  "uid": "15469596",
+  "pubdate": "2004 Oct",
+  "epubdate": "2004 Jun 17",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Witthaut R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Witthaut R",
+  "title": "Science review: natriuretic peptides in critical illness.",
+  "sorttitle": "science review natriuretic peptides in critical illness",
+  "volume": "8",
+  "issue": "5",
+  "pages": "342-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15469596"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "cc2890"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/cc2890"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC1065010"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15469596"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15469596"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC1065010;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/10/08 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/11/09 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/10/08 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/10/01 00:00",
+  "sortfirstauthor": "Witthaut R",
+  "vernaculartitle": ""
+}

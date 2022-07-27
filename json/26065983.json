@@ -1,0 +1,123 @@
+{
+  "uid": "26065983",
+  "pubdate": "2015 Aug",
+  "epubdate": "2015 Jun 9",
+  "source": "J Biomed Inform",
+  "authors": [
+    {
+      "name": "McMurray J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhu L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McKillop I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chen H",
+  "title": "Ontological modeling of electronic health information exchange.",
+  "sorttitle": "ontological modeling of electronic health information exchange",
+  "volume": "56",
+  "issue": "",
+  "pages": "169-78",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100970413",
+  "issn": "1532-0464",
+  "essn": "1532-0480",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26065983"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1532-0464(15)00108-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jbi.2015.05.020"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26065983"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26065983"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/01/04 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2015/04/19 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/05/28 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/06/13 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/06/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/06/02 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Journal of biomedical informatics",
+  "elocationid": "doi: 10.1016/j.jbi.2015.05.020",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/08/01 00:00",
+  "sortfirstauthor": "McMurray J",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,116 @@
+{
+  "uid": "31992873",
+  "pubdate": "2020 Apr",
+  "epubdate": "2020 Jan 28",
+  "source": "Nat Rev Microbiol",
+  "authors": [
+    {
+      "name": "Moradali MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rehm BHA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rehm BHA",
+  "title": "Bacterial biopolymers: from pathogenesis to advanced materials.",
+  "sorttitle": "bacterial biopolymers from pathogenesis to advanced materials",
+  "volume": "18",
+  "issue": "4",
+  "pages": "195-210",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101190261",
+  "issn": "1740-1526",
+  "essn": "1740-1534",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31992873"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41579-019-0313-3"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41579-019-0313-3"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7223192"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31992873"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31992873"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7223192;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2019/12/05 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/01/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/08 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/01/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 23,
+  "fulljournalname": "Nature reviews. Microbiology",
+  "elocationid": "doi: 10.1038/s41579-019-0313-3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/04/01 00:00",
+  "sortfirstauthor": "Moradali MF",
+  "vernaculartitle": ""
+}

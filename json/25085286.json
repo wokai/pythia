@@ -1,0 +1,119 @@
+{
+  "uid": "25085286",
+  "pubdate": "2014 Nov",
+  "epubdate": "2014 Jul 22",
+  "source": "Int J Med Inform",
+  "authors": [
+    {
+      "name": "Nguyen L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellucci E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nguyen LT",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Nguyen LT",
+  "title": "Electronic health records implementation: an evaluation of information system impact and contingency factors.",
+  "sorttitle": "electronic health records implementation an evaluation of information system impact and contingency factors",
+  "volume": "83",
+  "issue": "11",
+  "pages": "779-96",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9711057",
+  "issn": "1386-5056",
+  "essn": "1872-8243",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25085286"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1386-5056(14)00123-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijmedinf.2014.06.011"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25085286"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25085286"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/01/22 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2014/06/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/06/26 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/08/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/08/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/06/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 68,
+  "fulljournalname": "International journal of medical informatics",
+  "elocationid": "doi: 10.1016/j.ijmedinf.2014.06.011",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/11/01 00:00",
+  "sortfirstauthor": "Nguyen L",
+  "vernaculartitle": ""
+}

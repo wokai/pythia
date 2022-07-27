@@ -1,0 +1,128 @@
+{
+  "uid": "31977628",
+  "pubdate": "2020 Apr",
+  "epubdate": "",
+  "source": "Eur J Anaesthesiol",
+  "authors": [
+    {
+      "name": "Wei C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Qian J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chang X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hu H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xiao F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Xiao F",
+  "title": "Norepinephrine for the prevention of spinal-induced hypotension during caesarean delivery under combined spinal-epidural anaesthesia: Randomised, double-blind, dose-finding study.",
+  "sorttitle": "norepinephrine for the prevention of spinal induced hypotension during caesarean delivery under combined spinal epidural anaesthesia randomised double blind dose finding study",
+  "volume": "37",
+  "issue": "4",
+  "pages": "309-315",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8411711",
+  "issn": "0265-0215",
+  "essn": "1365-2346",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31977628"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/EJA.0000000000001152"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00003643-202004000-00008"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31977628"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31977628"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/01/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/01/25 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/01/25 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur J Anaesthesiol. 2021 Feb 1;38(2):195",
+      "reftype": "Comment in",
+      "pmid": 33394794,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "European journal of anaesthesiology",
+  "elocationid": "doi: 10.1097/EJA.0000000000001152",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/04/01 00:00",
+  "sortfirstauthor": "Wei C",
+  "vernaculartitle": ""
+}

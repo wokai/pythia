@@ -1,0 +1,159 @@
+{
+  "uid": "32628905",
+  "pubdate": "2020 Sep",
+  "epubdate": "2020 Jul 3",
+  "source": "Lancet Infect Dis",
+  "authors": [
+    {
+      "name": "Petersen E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koopmans M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Go U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hamer DH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petrosillo N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Castelli F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Storgaard M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Al Khalili S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Simonsen L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Simonsen L",
+  "title": "Comparing SARS-CoV-2 with SARS-CoV and influenza pandemics.",
+  "sorttitle": "comparing sars cov 2 with sars cov and influenza pandemics",
+  "volume": "20",
+  "issue": "9",
+  "pages": "e238-e244",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101130150",
+  "issn": "1473-3099",
+  "essn": "1474-4457",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32628905"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1473-3099(20)30484-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S1473-3099(20)30484-9"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7333991"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32628905"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32628905"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7333991;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/03/26 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/05/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/05/19 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/07/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/08 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/07/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 110,
+  "fulljournalname": "The Lancet. Infectious diseases",
+  "elocationid": "doi: 10.1016/S1473-3099(20)30484-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/01 00:00",
+  "sortfirstauthor": "Petersen E",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,148 @@
+{
+  "uid": "29800249",
+  "pubdate": "2018 May 1",
+  "epubdate": "",
+  "source": "JAMA Ophthalmol",
+  "authors": [
+    {
+      "name": "Golozar A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lindsley K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rouse B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Musch DC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lum F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hawkins BS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Li T",
+  "title": "Identification and Description of Reliable Evidence for 2016 American Academy of Ophthalmology Preferred Practice Pattern Guidelines for Cataract in the Adult Eye.",
+  "sorttitle": "identification and description of reliable evidence for 2016 american academy of ophthalmology preferred practice pattern guidelines for cataract in the adult eye",
+  "volume": "136",
+  "issue": "5",
+  "pages": "514-523",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101589539",
+  "issn": "2168-6165",
+  "essn": "2168-6173",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29800249"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2677569"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jamaophthalmol.2018.0786"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6145658"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29800249"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29800249"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6145658;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/05/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/05/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/09/29 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA Ophthalmol. 2019 Jan 1;137(1):118-119",
+      "reftype": "Comment in",
+      "pmid": 30347027,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "JAMA ophthalmology",
+  "elocationid": "doi: 10.1001/jamaophthalmol.2018.0786",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/05/01 00:00",
+  "sortfirstauthor": "Golozar A",
+  "vernaculartitle": ""
+}

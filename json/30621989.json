@@ -1,0 +1,154 @@
+{
+  "uid": "30621989",
+  "pubdate": "2019 Jan",
+  "epubdate": "",
+  "source": "JACC Cardiovasc Imaging",
+  "authors": [
+    {
+      "name": "Pibarot P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Messika-Zeitoun D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ben-Yehuda O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hahn RT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burwash IG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van Mieghem NM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spitzer E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leon MB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bax J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Otto CM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Otto CM",
+  "title": "Moderate Aortic Stenosis and Heart Failure With Reduced Ejection Fraction: Can Imaging Guide Us to Therapy?",
+  "sorttitle": "moderate aortic stenosis and heart failure with reduced ejection fraction can imaging guide us to therapy",
+  "volume": "12",
+  "issue": "1",
+  "pages": "172-184",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101467978",
+  "issn": "1936-878X",
+  "essn": "1876-7591",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30621989"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1936-878X(18)31018-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jcmg.2018.10.021"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30621989"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30621989"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/08/17 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/10/17 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/10/18 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/01/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/01/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/01/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "JACC. Cardiovascular imaging",
+  "elocationid": "doi: 10.1016/j.jcmg.2018.10.021",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/01/01 00:00",
+  "sortfirstauthor": "Pibarot P",
+  "vernaculartitle": ""
+}

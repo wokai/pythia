@@ -1,0 +1,109 @@
+{
+  "uid": "9778016",
+  "pubdate": "1998 Oct",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Rampil IJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rampil IJ",
+  "title": "A primer for EEG signal processing in anesthesia.",
+  "sorttitle": "primer for eeg signal processing in anesthesia",
+  "volume": "89",
+  "issue": "4",
+  "pages": "980-1002",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9778016"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-199810000-00023"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9778016"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9778016"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1998/10/20 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1998/10/20 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1998/10/20 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 1998 Oct;89(4):815-7",
+      "reftype": "Comment in",
+      "pmid": 9777995,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 1999 Jun;90(6):1796-8",
+      "reftype": "Comment in",
+      "pmid": 10360890,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2001 Feb;94(2):380-1",
+      "reftype": "Comment in",
+      "pmid": 11176117,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 132,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1998/10/01 00:00",
+  "sortfirstauthor": "Rampil IJ",
+  "vernaculartitle": ""
+}

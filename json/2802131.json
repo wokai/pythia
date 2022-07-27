@@ -1,0 +1,113 @@
+{
+  "uid": "2802131",
+  "pubdate": "1989 Sep",
+  "epubdate": "",
+  "source": "Anaesthesia",
+  "authors": [
+    {
+      "name": "Evans CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murphy JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gray OP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rosen M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rosen M",
+  "title": "Epidural versus general anaesthesia for elective caesarean section. Effect on Apgar score and acid-base status of the newborn.",
+  "sorttitle": "epidural versus general anaesthesia for elective caesarean section effect on apgar score and acid base status of the newborn",
+  "volume": "44",
+  "issue": "9",
+  "pages": "778-82",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370524",
+  "issn": "0003-2409",
+  "essn": "1365-2044",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "2802131"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1365-2044.1989.tb09271.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "2802131"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "2802131"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1989/09/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1989/09/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1989/09/01 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anaesthesia. 1990 May;45(5):411-2",
+      "reftype": "Comment in",
+      "pmid": 2356941,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1989/09/01 00:00",
+  "sortfirstauthor": "Evans CM",
+  "vernaculartitle": ""
+}

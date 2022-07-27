@@ -1,0 +1,147 @@
+{
+  "uid": "27650220",
+  "pubdate": "2016 Dec",
+  "epubdate": "2016 Sep 20",
+  "source": "Eur J Heart Fail",
+  "authors": [
+    {
+      "name": "Gorter TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoendermis ES",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Veldhuisen DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Voors AA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lam CS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Geelhoed B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Willems TP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Melle JP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "van Melle JP",
+  "title": "Right ventricular dysfunction in heart failure with preserved ejection fraction: a systematic review and meta-analysis.",
+  "sorttitle": "right ventricular dysfunction in heart failure with preserved ejection fraction a systematic review and meta analysis",
+  "volume": "18",
+  "issue": "12",
+  "pages": "1472-1487",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100887595",
+  "issn": "1388-9842",
+  "essn": "1879-0844",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27650220"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/ejhf.630"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27650220"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27650220"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/04/13 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/07/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/07/09 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/09/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/11/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/09/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur J Heart Fail. 2016 Dec;18(12 ):1488-1490",
+      "reftype": "Comment in",
+      "pmid": 27734560,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 26,
+  "fulljournalname": "European journal of heart failure",
+  "elocationid": "doi: 10.1002/ejhf.630",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/12/01 00:00",
+  "sortfirstauthor": "Gorter TM",
+  "vernaculartitle": ""
+}

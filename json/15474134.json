@@ -1,0 +1,252 @@
+{
+  "uid": "15474134",
+  "pubdate": "2004 Oct 9-15",
+  "epubdate": "",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Roberts I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yates D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sandercock P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Farrell B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wasserberg J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lomas G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cottingham R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Svoboda P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brayley N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mazairac G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laloë V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muñoz-Sánchez A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arango M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hartzenberg B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khamis H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yutthakasemsunt S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Komolafe E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Olldashi F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yadav Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murillo-Cabezas F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shakur H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Edwards P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "CRASH trial collaborators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Edwards P",
+  "title": "Effect of intravenous corticosteroids on death within 14 days in 10008 adults with clinically significant head injury (MRC CRASH trial): randomised placebo-controlled trial.",
+  "sorttitle": "effect of intravenous corticosteroids on death within 14 days in 10008 adults with clinically significant head injury mrc crash trial randomised placebo controlled trial",
+  "volume": "364",
+  "issue": "9442",
+  "pages": "1321-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15474134"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140673604171882"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(04)17188-2"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15474134"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15474134"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/10/12 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/11/04 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/10/12 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2004 Oct 9-15;364(9442):1291-2",
+      "reftype": "Comment in",
+      "pmid": 15474118,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2005 Jan 15-21;365(9455):212-3; author reply 213-214",
+      "reftype": "Comment in",
+      "pmid": 15652595,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2005 Jan 15-21;365(9455):212; author reply 213-214",
+      "reftype": "Comment in",
+      "pmid": 15652596,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2005 Jan 15-21;365(9455):213; author reply 213-214",
+      "reftype": "Comment in",
+      "pmid": 15652598,
+      "note": ""
+    },
+    {
+      "refsource": "ACP J Club. 2005 Jan-Feb;142(1):5",
+      "reftype": "Comment in",
+      "pmid": 15656546,
+      "note": ""
+    },
+    {
+      "refsource": "Evid Based Nurs. 2005 Apr;8(2):51",
+      "reftype": "Comment in",
+      "pmid": 15830424,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2006 Jun 24;367(9528):2058",
+      "reftype": "Comment in",
+      "pmid": 16798384,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 163,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/10/09 00:00",
+  "sortfirstauthor": "Roberts I",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,151 @@
+{
+  "uid": "26658438",
+  "pubdate": "2015",
+  "epubdate": "2015 Dec 14",
+  "source": "PLoS One",
+  "authors": [
+    {
+      "name": "Nagappa M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liao P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Auckley D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramachandran SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Memtsoudis S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mokhlesi B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chung F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chung F",
+  "title": "Validation of the STOP-Bang Questionnaire as a Screening Tool for Obstructive Sleep Apnea among Different Populations: A Systematic Review and Meta-Analysis.",
+  "sorttitle": "validation of the stop bang questionnaire as a screening tool for obstructive sleep apnea among different populations a systematic review and meta analysis",
+  "volume": "10",
+  "issue": "12",
+  "pages": "e0143697",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101285081",
+  "issn": "",
+  "essn": "1932-6203",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26658438"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pone.0143697"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PONE-D-15-20769"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4678295"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26658438"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26658438"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4678295;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/05/19 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/11/09 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/12/15 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/12/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/08/02 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 72,
+  "fulljournalname": "PloS one",
+  "elocationid": "doi: 10.1371/journal.pone.0143697",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/12/14 00:00",
+  "sortfirstauthor": "Nagappa M",
+  "vernaculartitle": ""
+}

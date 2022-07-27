@@ -1,0 +1,103 @@
+{
+  "uid": "32852348",
+  "pubdate": "2020 Nov",
+  "epubdate": "",
+  "source": "Curr Opin Cardiol",
+  "authors": [
+    {
+      "name": "Madhavan MV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stone GW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stone GW",
+  "title": "Adverse events beyond 1 year after percutaneous coronary intervention.",
+  "sorttitle": "adverse events beyond 1 year after percutaneous coronary intervention",
+  "volume": "35",
+  "issue": "6",
+  "pages": "687-696",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8608087",
+  "issn": "0268-4705",
+  "essn": "1531-7080",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32852348"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/HCO.0000000000000792"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00001573-202011000-00013"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32852348"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32852348"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/08 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Current opinion in cardiology",
+  "elocationid": "doi: 10.1097/HCO.0000000000000792",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/11/01 00:00",
+  "sortfirstauthor": "Madhavan MV",
+  "vernaculartitle": ""
+}

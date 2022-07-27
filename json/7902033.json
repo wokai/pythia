@@ -1,0 +1,118 @@
+{
+  "uid": "7902033",
+  "pubdate": "1993 Nov",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Westmoreland CL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoke JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sebel PS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hug CC Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muir KT",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Muir KT",
+  "title": "Pharmacokinetics of remifentanil (GI87084B) and its major metabolite (GI90291) in patients undergoing elective inpatient surgery.",
+  "sorttitle": "pharmacokinetics of remifentanil gi87084b and its major metabolite gi90291 in patients undergoing elective inpatient surgery",
+  "volume": "79",
+  "issue": "5",
+  "pages": "893-903",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "7902033"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-199311000-00005"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "7902033"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "7902033"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1993/11/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/03/28 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1993/11/01 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 1993 Nov;79(5):875-6",
+      "reftype": "Comment in",
+      "pmid": 7902031,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 46,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1993/11/01 00:00",
+  "sortfirstauthor": "Westmoreland CL",
+  "vernaculartitle": ""
+}

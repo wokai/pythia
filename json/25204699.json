@@ -1,0 +1,107 @@
+{
+  "uid": "25204699",
+  "pubdate": "2015 Feb",
+  "epubdate": "2014 Sep 8",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Mashour GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Woodrum DT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Avidan MS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Avidan MS",
+  "title": "Neurological complications of surgery and anaesthesia.",
+  "sorttitle": "neurological complications of surgery and anaesthesia",
+  "volume": "114",
+  "issue": "2",
+  "pages": "194-203",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25204699"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)31710-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aeu296"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25204699"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25204699"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/09/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/09/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/03/19 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 25,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aeu296",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/02/01 00:00",
+  "sortfirstauthor": "Mashour GA",
+  "vernaculartitle": ""
+}

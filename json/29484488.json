@@ -1,0 +1,134 @@
+{
+  "uid": "29484488",
+  "pubdate": "2018 May",
+  "epubdate": "2018 Feb 27",
+  "source": "Pflugers Arch",
+  "authors": [
+    {
+      "name": "Hoffstaetter LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bagriantsev SN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gracheva EO",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gracheva EO",
+  "title": "TRPs et al.: a molecular toolkit for thermosensory adaptations.",
+  "sorttitle": "trps et al a molecular toolkit for thermosensory adaptations",
+  "volume": "470",
+  "issue": "5",
+  "pages": "745-759",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0154720",
+  "issn": "0031-6768",
+  "essn": "1432-2013",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29484488"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00424-018-2120-5"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00424-018-2120-5"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5945325"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS946483"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29484488"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29484488"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5945325;manuscript-id: NIHMS946483;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/10/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/02/05 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/01/03 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/02/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/05/06 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/02/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "Pflugers Archiv : European journal of physiology",
+  "elocationid": "doi: 10.1007/s00424-018-2120-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/05/01 00:00",
+  "sortfirstauthor": "Hoffstaetter LJ",
+  "vernaculartitle": ""
+}

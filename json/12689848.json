@@ -1,0 +1,126 @@
+{
+  "uid": "12689848",
+  "pubdate": "2003 Jun 15",
+  "epubdate": "2003 Apr 10",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "El-Solh AA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pietrantoni C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bhat A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aquilina AT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Okada M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grover V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gifford N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gifford N",
+  "title": "Microbiology of severe aspiration pneumonia in institutionalized elderly.",
+  "sorttitle": "microbiology of severe aspiration pneumonia in institutionalized elderly",
+  "volume": "167",
+  "issue": "12",
+  "pages": "1650-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12689848"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/rccm.200212-1543OC"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "200212-1543OC"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12689848"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12689848"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/04/12 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/08/02 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/04/12 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 55,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/06/15 00:00",
+  "sortfirstauthor": "El-Solh AA",
+  "vernaculartitle": ""
+}

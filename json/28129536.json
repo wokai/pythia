@@ -1,0 +1,139 @@
+{
+  "uid": "28129536",
+  "pubdate": "2017 Jan 26",
+  "epubdate": "",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Muckenthaler MU",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rivella S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hentze MW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Galy B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Galy B",
+  "title": "A Red Carpet for Iron Metabolism.",
+  "sorttitle": "red carpet for iron metabolism",
+  "volume": "168",
+  "issue": "3",
+  "pages": "344-361",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28129536"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(16)31750-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2016.12.034"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5706455"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS922392"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28129536"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28129536"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5706455;manuscript-id: NIHMS922392;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/07/27 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/10/17 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/12/21 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/01/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/01/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/05/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 270,
+  "fulljournalname": "Cell",
+  "elocationid": "doi: 10.1016/j.cell.2016.12.034",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/26 00:00",
+  "sortfirstauthor": "Muckenthaler MU",
+  "vernaculartitle": ""
+}

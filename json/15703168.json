@@ -1,0 +1,112 @@
+{
+  "uid": "15703168",
+  "pubdate": "2005 Mar",
+  "epubdate": "",
+  "source": "J Appl Physiol (1985)",
+  "authors": [
+    {
+      "name": "Bärtsch P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mairbäurl H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maggiorini M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Swenson ER",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Swenson ER",
+  "title": "Physiological aspects of high-altitude pulmonary edema.",
+  "sorttitle": "physiological aspects of high altitude pulmonary edema",
+  "volume": "98",
+  "issue": "3",
+  "pages": "1101-10",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8502536",
+  "issn": "8750-7587",
+  "essn": "1522-1601",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15703168"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "98/3/1101"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/japplphysiol.01167.2004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15703168"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15703168"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/02/11 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/06/09 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/02/11 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 52,
+  "fulljournalname": "Journal of applied physiology (Bethesda, Md. : 1985)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/03/01 00:00",
+  "sortfirstauthor": "Bärtsch P",
+  "vernaculartitle": ""
+}

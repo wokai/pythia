@@ -1,0 +1,104 @@
+{
+  "uid": "15475551",
+  "pubdate": "2004 Nov",
+  "epubdate": "",
+  "source": "J Appl Physiol (1985)",
+  "authors": [
+    {
+      "name": "West JB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "West JB",
+  "title": "Understanding pulmonary gas exchange: ventilation-perfusion relationships.",
+  "sorttitle": "understanding pulmonary gas exchange ventilation perfusion relationships",
+  "volume": "97",
+  "issue": "5",
+  "pages": "1603-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8502536",
+  "issn": "8750-7587",
+  "essn": "1522-1601",
+  "pubtype": [
+    "Biography",
+    "Comment",
+    "Editorial",
+    "Historical Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15475551"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "97/5/1603"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/classicessays.00024a.2004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15475551"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15475551"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/10/12 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/02/26 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/10/12 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Appl Physiol. 1951 Aug;4(2):77-101",
+      "reftype": "Comment on",
+      "pmid": 14888620,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 2,
+  "fulljournalname": "Journal of applied physiology (Bethesda, Md. : 1985)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/11/01 00:00",
+  "sortfirstauthor": "West JB",
+  "vernaculartitle": ""
+}

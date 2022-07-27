@@ -1,0 +1,249 @@
+{
+  "uid": "33594356",
+  "pubdate": "2021 Feb 10",
+  "epubdate": "2021 Feb 10",
+  "source": "Res Sq",
+  "authors": [
+    {
+      "name": "Diamond M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xie X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Case J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "VanBlargan L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Errico J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Winkler E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Suryadevara N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tahan S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Turner J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmitz A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thapa M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boon A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pinto D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Presti R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oâ Halloran J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deepak P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fremont D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Corti D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Virgin H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crowe J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Droit L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ellebedy A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shi PY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gilchuk P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gilchuk P",
+  "title": "SARS-CoV-2 variants show resistance to neutralization by many monoclonal and serum-derived polyclonal antibodies.",
+  "sorttitle": "sars cov 2 variants show resistance to neutralization by many monoclonal and serum derived polyclonal antibodies",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101768035",
+  "issn": "",
+  "essn": "",
+  "pubtype": [],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33594356"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.21203/rs.3.rs-228079/v1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7885928"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33594356"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33594356"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7885928;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2021/02/17 05:57"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/02/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/18 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Research square",
+  "elocationid": "pii: rs.3.rs-228079. doi: 10.21203/rs.3.rs-228079/v1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/10 00:00",
+  "sortfirstauthor": "Diamond M",
+  "vernaculartitle": ""
+}

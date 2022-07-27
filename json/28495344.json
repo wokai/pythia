@@ -1,0 +1,143 @@
+{
+  "uid": "28495344",
+  "pubdate": "2017 Jun",
+  "epubdate": "2017 Apr 4",
+  "source": "Int J Med Inform",
+  "authors": [
+    {
+      "name": "Plantier M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Havet N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Durand T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Caquot N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Amaz C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Biron P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Philip I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perrier L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Perrier L",
+  "title": "Does adoption of electronic health records improve the quality of care management in France? Results from the French e-SI (PREPS-SIPS) study.",
+  "sorttitle": "does adoption of electronic health records improve the quality of care management in france results from the french e si preps sips study",
+  "volume": "102",
+  "issue": "",
+  "pages": "156-165",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9711057",
+  "issn": "1386-5056",
+  "essn": "1872-8243",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28495344"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1386-5056(17)30081-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijmedinf.2017.04.002"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28495344"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28495344"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/01/31 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/03/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/04/01 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/05/13 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/05/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/01/25 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "International journal of medical informatics",
+  "elocationid": "doi: 10.1016/j.ijmedinf.2017.04.002",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/06/01 00:00",
+  "sortfirstauthor": "Plantier M",
+  "vernaculartitle": ""
+}

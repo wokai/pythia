@@ -1,0 +1,225 @@
+{
+  "uid": "33631066",
+  "pubdate": "2021 Apr 22",
+  "epubdate": "2021 Feb 25",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Rosas IO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bräu N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Waters M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Go RC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hunter BD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bhagani S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Skiest D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aziz MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cooper N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Douglas IS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Savic S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Youngstein T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Del Sorbo L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cubillo Gracian A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De La Zerda DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ustianowski A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bao M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dimonaco S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Graham E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Matharu B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spotswood H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tsai L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Malhotra A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Malhotra A",
+  "title": "Tocilizumab in Hospitalized Patients with Severe Covid-19 Pneumonia.",
+  "sorttitle": "tocilizumab in hospitalized patients with severe covid 19 pneumonia",
+  "volume": "384",
+  "issue": "16",
+  "pages": "1503-1516",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33631066"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa2028700"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7953459"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1678521"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33631066"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33631066"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7953459;manuscript-id: NIHMS1678521;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/02/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/04/27 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/02/25 17:18"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2021 Apr 22;384(16):1564-1565",
+      "reftype": "Comment in",
+      "pmid": 33631064,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 16,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMoa2028700",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/04/22 00:00",
+  "sortfirstauthor": "Rosas IO",
+  "vernaculartitle": ""
+}

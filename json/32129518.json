@@ -1,0 +1,116 @@
+{
+  "uid": "32129518",
+  "pubdate": "2020 Aug",
+  "epubdate": "2020 Mar 4",
+  "source": "Drug Dev Res",
+  "authors": [
+    {
+      "name": "Gurwitz D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gurwitz D",
+  "title": "Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics.",
+  "sorttitle": "angiotensin receptor blockers as tentative sars cov 2 therapeutics",
+  "volume": "81",
+  "issue": "5",
+  "pages": "537-540",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8204468",
+  "issn": "0272-4391",
+  "essn": "1098-2299",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32129518"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/ddr.21656"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7228359"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32129518"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32129518"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7228359;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/02/27 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/03/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/08/11 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/03/05 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Drug Dev Res. 2020 Sep;81(6):643-646",
+      "reftype": "Comment in",
+      "pmid": 32304146,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 305,
+  "fulljournalname": "Drug development research",
+  "elocationid": "doi: 10.1002/ddr.21656",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/01 00:00",
+  "sortfirstauthor": "Gurwitz D",
+  "vernaculartitle": ""
+}

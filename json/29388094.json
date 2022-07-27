@@ -1,0 +1,126 @@
+{
+  "uid": "29388094",
+  "pubdate": "2018 Aug",
+  "epubdate": "2018 Jan 31",
+  "source": "J Clin Monit Comput",
+  "authors": [
+    {
+      "name": "Farrell R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oomen G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carey P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Carey P",
+  "title": "A technical review of the history, development and performance of the anaesthetic conserving device \"AnaConDa\" for delivering volatile anaesthetic in intensive and post-operative critical care.",
+  "sorttitle": "technical review of the history development and performance of the anaesthetic conserving device anaconda for delivering volatile anaesthetic in intensive and post operative critical care",
+  "volume": "32",
+  "issue": "4",
+  "pages": "595-604",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9806357",
+  "issn": "1387-1307",
+  "essn": "1573-2614",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29388094"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s10877-017-0097-9"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s10877-017-0097-9"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6061082"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29388094"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29388094"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6061082;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/08/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/12/21 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/02/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/05/07 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/02/02 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Journal of clinical monitoring and computing",
+  "elocationid": "doi: 10.1007/s10877-017-0097-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/08/01 00:00",
+  "sortfirstauthor": "Farrell R",
+  "vernaculartitle": ""
+}

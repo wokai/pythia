@@ -1,0 +1,94 @@
+{
+  "uid": "24897080",
+  "pubdate": "2014 Jun 5",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Kush R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goldman M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Goldman M",
+  "title": "Fostering responsible data sharing through standards.",
+  "sorttitle": "fostering responsible data sharing through standards",
+  "volume": "370",
+  "issue": "23",
+  "pages": "2163-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24897080"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMp1401444"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24897080"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24897080"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/06/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/06/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/06/11 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 15,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMp1401444",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/06/05 00:00",
+  "sortfirstauthor": "Kush R",
+  "vernaculartitle": ""
+}

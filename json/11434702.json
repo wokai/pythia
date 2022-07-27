@@ -1,0 +1,97 @@
+{
+  "uid": "11434702",
+  "pubdate": "2001 Jun",
+  "epubdate": "",
+  "source": "Thromb Haemost",
+  "authors": [
+    {
+      "name": "Hoffman M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Monroe DM 3rd",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Monroe DM 3rd",
+  "title": "A cell-based model of hemostasis.",
+  "sorttitle": "cell based model of hemostasis",
+  "volume": "85",
+  "issue": "6",
+  "pages": "958-65",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7608063",
+  "issn": "0340-6245",
+  "essn": "2567-689X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11434702"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "01060958"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11434702"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11434702"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2001/07/04 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/07/12 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2001/07/04 10:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 199,
+  "fulljournalname": "Thrombosis and haemostasis",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2001/06/01 00:00",
+  "sortfirstauthor": "Hoffman M",
+  "vernaculartitle": ""
+}

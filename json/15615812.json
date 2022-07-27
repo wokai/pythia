@@ -1,0 +1,109 @@
+{
+  "uid": "15615812",
+  "pubdate": "2005 Feb",
+  "epubdate": "2004 Dec 22",
+  "source": "Nephrol Dial Transplant",
+  "authors": [
+    {
+      "name": "Wu VC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lin SL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lin SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fang CC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Fang CC",
+  "title": "Treatment of baclofen overdose by haemodialysis: a pharmacokinetic study.",
+  "sorttitle": "treatment of baclofen overdose by haemodialysis a pharmacokinetic study",
+  "volume": "20",
+  "issue": "2",
+  "pages": "441-3",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8706402",
+  "issn": "0931-0509",
+  "essn": "1460-2385",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15615812"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "gfh297"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/ndt/gfh297"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15615812"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15615812"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/12/24 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/05/13 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/12/24 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 14,
+  "fulljournalname": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/02/01 00:00",
+  "sortfirstauthor": "Wu VC",
+  "vernaculartitle": ""
+}

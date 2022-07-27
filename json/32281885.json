@@ -1,0 +1,112 @@
+{
+  "uid": "32281885",
+  "pubdate": "2020 Jun 1",
+  "epubdate": "",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "Tobin MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tobin MJ",
+  "title": "Basing Respiratory Management of COVID-19 on Physiological Principles.",
+  "sorttitle": "basing respiratory management of covid 19 on physiological principles",
+  "volume": "201",
+  "issue": "11",
+  "pages": "1319-1320",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32281885"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/rccm.202004-1076ED"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7258630"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32281885"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32281885"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7258630;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/06/06 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/14 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Am J Respir Crit Care Med. 2020 Jul 15;202(2):300",
+      "reftype": "Comment in",
+      "pmid": 32459507,
+      "note": ""
+    },
+    {
+      "refsource": "Am J Respir Crit Care Med. 2020 Jul 15;202(2):299-300",
+      "reftype": "Comment in",
+      "pmid": 32459509,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 73,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "doi: 10.1164/rccm.202004-1076ED",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/06/01 00:00",
+  "sortfirstauthor": "Tobin MJ",
+  "vernaculartitle": ""
+}

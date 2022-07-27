@@ -1,0 +1,114 @@
+{
+  "uid": "8596592",
+  "pubdate": "1996 Apr 4",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Coren S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Coren S",
+  "title": "Daylight savings time and traffic accidents.",
+  "sorttitle": "daylight savings time and traffic accidents",
+  "volume": "334",
+  "issue": "14",
+  "pages": "924",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8596592"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJM199604043341416"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8596592"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8596592"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1996/04/04 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1996/04/04 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1996/04/04 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 1996 Aug 1;335(5):355-6; author reply 356-7",
+      "reftype": "Comment in",
+      "pmid": 8668225,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 1996 Aug 1;335(5):356; author reply 356-7",
+      "reftype": "Comment in",
+      "pmid": 8668226,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 1996 Aug 1;335(5):356; author reply 356-7",
+      "reftype": "Comment in",
+      "pmid": 8668227,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 1998 Oct 15;339(16):1167-8",
+      "reftype": "Comment in",
+      "pmid": 9776656,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 19,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1996/04/04 00:00",
+  "sortfirstauthor": "Coren S",
+  "vernaculartitle": ""
+}

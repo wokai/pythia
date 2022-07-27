@@ -1,0 +1,102 @@
+{
+  "uid": "20081869",
+  "pubdate": "2010 Feb",
+  "epubdate": "2010 Jan 18",
+  "source": "Nat Rev Drug Discov",
+  "authors": [
+    {
+      "name": "Rasko DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sperandio V",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sperandio V",
+  "title": "Anti-virulence strategies to combat bacteria-mediated disease.",
+  "sorttitle": "anti virulence strategies to combat bacteria mediated disease",
+  "volume": "9",
+  "issue": "2",
+  "pages": "117-28",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101124171",
+  "issn": "1474-1776",
+  "essn": "1474-1784",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20081869"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrd3013"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrd3013"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20081869"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20081869"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/01/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/01/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/03/02 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 423,
+  "fulljournalname": "Nature reviews. Drug discovery",
+  "elocationid": "doi: 10.1038/nrd3013",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/02/01 00:00",
+  "sortfirstauthor": "Rasko DA",
+  "vernaculartitle": ""
+}

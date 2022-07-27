@@ -1,0 +1,115 @@
+{
+  "uid": "16517337",
+  "pubdate": "2006 Feb",
+  "epubdate": "",
+  "source": "J Clin Anesth",
+  "authors": [
+    {
+      "name": "Gerges FJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kanazi GE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jabbour-Khoury SI",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Jabbour-Khoury SI",
+  "title": "Anesthesia for laparoscopy: a review.",
+  "sorttitle": "anesthesia for laparoscopy a review",
+  "volume": "18",
+  "issue": "1",
+  "pages": "67-78",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8812166",
+  "issn": "0952-8180",
+  "essn": "1873-4529",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16517337"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0952-8180(05)00336-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jclinane.2005.01.013"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16517337"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16517337"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2004/06/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2005/01/27 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2006/03/07 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/09/13 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2006/03/07 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 34,
+  "fulljournalname": "Journal of clinical anesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2006/02/01 00:00",
+  "sortfirstauthor": "Gerges FJ",
+  "vernaculartitle": ""
+}

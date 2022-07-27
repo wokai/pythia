@@ -1,0 +1,97 @@
+{
+  "uid": "10774473",
+  "pubdate": "2000",
+  "epubdate": "",
+  "source": "Annu Rev Med",
+  "authors": [
+    {
+      "name": "Cox NJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Subbarao K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Subbarao K",
+  "title": "Global epidemiology of influenza: past and present.",
+  "sorttitle": "global epidemiology of influenza past and present",
+  "volume": "51",
+  "issue": "",
+  "pages": "407-21",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985151R",
+  "issn": "0066-4219",
+  "essn": "1545-326X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "10774473"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1146/annurev.med.51.1.407"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "10774473"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "10774473"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2000/04/25 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2000/06/08 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2000/04/25 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 289,
+  "fulljournalname": "Annual review of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/01/01 00:00",
+  "sortfirstauthor": "Cox NJ",
+  "vernaculartitle": ""
+}

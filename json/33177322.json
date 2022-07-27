@@ -1,0 +1,141 @@
+{
+  "uid": "33177322",
+  "pubdate": "2021 Jun 1",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Gregory A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stapelfeldt WH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khanna AK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smischney NJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boero IJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stevens M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shaw AD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Shaw AD",
+  "title": "Intraoperative Hypotension Is Associated With Adverse Clinical Outcomes After Noncardiac Surgery.",
+  "sorttitle": "intraoperative hypotension is associated with adverse clinical outcomes after noncardiac surgery",
+  "volume": "132",
+  "issue": "6",
+  "pages": "1654-1665",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33177322"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-202106000-00020"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000005250"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8115733"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33177322"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33177322"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8115733;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/11/13 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/12 05:34"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000005250",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/06/01 00:00",
+  "sortfirstauthor": "Gregory A",
+  "vernaculartitle": ""
+}

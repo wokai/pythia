@@ -1,0 +1,117 @@
+{
+  "uid": "32950081",
+  "pubdate": "2020 Sep 19",
+  "epubdate": "",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Jones D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Helmreich S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Helmreich S",
+  "title": "A history of herd immunity.",
+  "sorttitle": "history of herd immunity",
+  "volume": "396",
+  "issue": "10254",
+  "pages": "810-811",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32950081"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(20)31924-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(20)31924-3"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7498207"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32950081"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32950081"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7498207;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/20 20:21"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2020 Nov 21;396(10263):1634-1635",
+      "reftype": "Comment in",
+      "pmid": 33228920,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 3,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(20)31924-3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/19 00:00",
+  "sortfirstauthor": "Jones D",
+  "vernaculartitle": ""
+}

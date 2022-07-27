@@ -1,0 +1,154 @@
+{
+  "uid": "31253632",
+  "pubdate": "2019 Jun 28",
+  "epubdate": "2019 Jun 28",
+  "source": "BMJ",
+  "authors": [
+    {
+      "name": "Yin SH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xu P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu QY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou ML",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cai JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sun X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yuan H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Yuan H",
+  "title": "Duration of dual antiplatelet therapy after percutaneous coronary intervention with drug-eluting stent: systematic review and network meta-analysis.",
+  "sorttitle": "duration of dual antiplatelet therapy after percutaneous coronary intervention with drug eluting stent systematic review and network meta analysis",
+  "volume": "365",
+  "issue": "",
+  "pages": "l2222",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8900488",
+  "issn": "0959-8138",
+  "essn": "1756-1833",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31253632"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmj.l2222"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6595429"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31253632"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31253632"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6595429;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/06/30 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/06/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/07/10 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Ann Intern Med. 2019 Nov 19;171(10):JC54",
+      "reftype": "Comment in",
+      "pmid": 31739337,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "BMJ (Clinical research ed.)",
+  "elocationid": "doi: 10.1136/bmj.l2222",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/06/28 00:00",
+  "sortfirstauthor": "Yin SH",
+  "vernaculartitle": ""
+}

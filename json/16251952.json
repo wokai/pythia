@@ -1,0 +1,97 @@
+{
+  "uid": "16251952",
+  "pubdate": "2005 Oct 27",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Stickgold R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stickgold R",
+  "title": "Sleep-dependent memory consolidation.",
+  "sorttitle": "sleep dependent memory consolidation",
+  "volume": "437",
+  "issue": "7063",
+  "pages": "1272-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16251952"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature04286"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature04286"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16251952"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16251952"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/10/28 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/12/13 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/10/28 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 372,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/10/27 00:00",
+  "sortfirstauthor": "Stickgold R",
+  "vernaculartitle": ""
+}

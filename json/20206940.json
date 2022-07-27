@@ -1,0 +1,127 @@
+{
+  "uid": "20206940",
+  "pubdate": "2010 May-Jun",
+  "epubdate": "2010 Mar 6",
+  "source": "J Electrocardiol",
+  "authors": [
+    {
+      "name": "Smith B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neuharth RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hendrix MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McDonnall D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Michaels AD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Michaels AD",
+  "title": "Intravenous electrocardiographic guidance for placement of peripherally inserted central catheters.",
+  "sorttitle": "intravenous electrocardiographic guidance for placement of peripherally inserted central catheters",
+  "volume": "43",
+  "issue": "3",
+  "pages": "274-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0153605",
+  "issn": "0022-0736",
+  "essn": "1532-8430",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20206940"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0022-0736(10)00085-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jelectrocard.2010.02.003"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20206940"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20206940"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2009/12/21 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2010/03/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/03/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/07/31 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Electrocardiol. 2011 May-Jun;44(3):389-90",
+      "reftype": "Comment in",
+      "pmid": 20888002,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Journal of electrocardiology",
+  "elocationid": "doi: 10.1016/j.jelectrocard.2010.02.003",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/05/01 00:00",
+  "sortfirstauthor": "Smith B",
+  "vernaculartitle": ""
+}

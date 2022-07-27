@@ -1,0 +1,126 @@
+{
+  "uid": "346162",
+  "pubdate": "1978 Apr 29",
+  "epubdate": "",
+  "source": "Br Med J",
+  "authors": [
+    {
+      "name": "Conceicao SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weightman D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith PA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Luno J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ward MK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kerr DN",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kerr DN",
+  "title": "Serum ionised calcium concentration: measurement versus calculation.",
+  "sorttitle": "serum ionised calcium concentration measurement versus calculation",
+  "volume": "1",
+  "issue": "6120",
+  "pages": "1103-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372673",
+  "issn": "0007-1447",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "346162"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC1604303"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmj.1.6120.1103"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "346162"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "346162"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC1604303;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1978/04/29 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1978/04/29 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1978/04/29 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "British medical journal",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1978/04/29 00:00",
+  "sortfirstauthor": "Conceicao SC",
+  "vernaculartitle": ""
+}

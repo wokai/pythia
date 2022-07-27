@@ -1,0 +1,102 @@
+{
+  "uid": "32710093",
+  "pubdate": "2020 Aug",
+  "epubdate": "",
+  "source": "Nat Microbiol",
+  "authors": [
+    {
+      "name": "Theuretzbacher U",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Theuretzbacher U",
+  "title": "Dual-mechanism antibiotics.",
+  "sorttitle": "dual mechanism antibiotics",
+  "volume": "5",
+  "issue": "8",
+  "pages": "984-985",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101674869",
+  "issn": "",
+  "essn": "2058-5276",
+  "pubtype": [
+    "Comment",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32710093"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41564-020-0767-0"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41564-020-0767-0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32710093"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32710093"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/07/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/07/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/11/03 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cell. 2020 Jun 25;181(7):1518-1532.e14",
+      "reftype": "Comment on",
+      "pmid": 32497502,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "Nature microbiology",
+  "elocationid": "doi: 10.1038/s41564-020-0767-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/01 00:00",
+  "sortfirstauthor": "Theuretzbacher U",
+  "vernaculartitle": ""
+}

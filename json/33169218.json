@@ -1,0 +1,165 @@
+{
+  "uid": "33169218",
+  "pubdate": "2020 Dec",
+  "epubdate": "2020 Nov 10",
+  "source": "Intensive Care Med",
+  "authors": [
+    {
+      "name": "Guérin C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Albert RK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beitler J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gattinoni L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jaber S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marini JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Munshi L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Papazian L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pesenti A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vieillard-Baron A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mancebo J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mancebo J",
+  "title": "Prone position in ARDS patients: why, when, how and for whom.",
+  "sorttitle": "prone position in ards patients why when how and for whom",
+  "volume": "46",
+  "issue": "12",
+  "pages": "2385-2396",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7704851",
+  "issn": "0342-4642",
+  "essn": "1432-1238",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33169218"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00134-020-06306-w"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00134-020-06306-w"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7652705"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33169218"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33169218"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7652705;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/10/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/10/19 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/29 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/10 05:46"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Intensive care medicine",
+  "elocationid": "doi: 10.1007/s00134-020-06306-w",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/01 00:00",
+  "sortfirstauthor": "Guérin C",
+  "vernaculartitle": ""
+}

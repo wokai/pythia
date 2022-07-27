@@ -1,0 +1,124 @@
+{
+  "uid": "27919399",
+  "pubdate": "2017 Jan",
+  "epubdate": "2016 Oct 1",
+  "source": "Int J Med Inform",
+  "authors": [
+    {
+      "name": "Sligo J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gauld R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roberts V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Villa L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Villa L",
+  "title": "A literature review for large-scale health information system project planning, implementation and evaluation.",
+  "sorttitle": "literature review for large scale health information system project planning implementation and evaluation",
+  "volume": "97",
+  "issue": "",
+  "pages": "86-97",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9711057",
+  "issn": "1386-5056",
+  "essn": "1872-8243",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27919399"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1386-5056(16)30200-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijmedinf.2016.09.007"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27919399"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27919399"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/07/14 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/09/06 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/09/20 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/12/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/12/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/12/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 26,
+  "fulljournalname": "International journal of medical informatics",
+  "elocationid": "doi: 10.1016/j.ijmedinf.2016.09.007",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/01 00:00",
+  "sortfirstauthor": "Sligo J",
+  "vernaculartitle": ""
+}

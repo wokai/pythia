@@ -1,0 +1,114 @@
+{
+  "uid": "32152082",
+  "pubdate": "2020 Apr 21",
+  "epubdate": "2020 Apr 21",
+  "source": "Antimicrob Agents Chemother",
+  "authors": [
+    {
+      "name": "Martinez MA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Martinez MA",
+  "title": "Compounds with Therapeutic Potential against Novel Respiratory 2019 Coronavirus.",
+  "sorttitle": "compounds with therapeutic potential against novel respiratory 2019 coronavirus",
+  "volume": "64",
+  "issue": "5",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0315061",
+  "issn": "0066-4804",
+  "essn": "1098-6596",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "257",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32152082"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "AAC.00399-20"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1128/AAC.00399-20"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7179632"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32152082"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32152082"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7179632;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/03/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/04/25 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/03/11 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Antimicrob Agents Chemother. 2020 Jul 22;64(8):",
+      "reftype": "Comment in",
+      "pmid": 32423954,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 144,
+  "fulljournalname": "Antimicrobial agents and chemotherapy",
+  "elocationid": "pii: e00399-20. doi: 10.1128/AAC.00399-20",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/04/21 00:00",
+  "sortfirstauthor": "Martinez MA",
+  "vernaculartitle": ""
+}

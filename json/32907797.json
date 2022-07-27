@@ -1,0 +1,126 @@
+{
+  "uid": "32907797",
+  "pubdate": "2020 Sep 9",
+  "epubdate": "2020 Sep 9",
+  "source": "BMJ",
+  "authors": [
+    {
+      "name": "Rivera SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chan AW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Denniston AK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Calvert MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "SPIRIT-AI and CONSORT-AI Working Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Calvert MJ",
+  "title": "Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI Extension.",
+  "sorttitle": "guidelines for clinical trial protocols for interventions involving artificial intelligence the spirit ai extension",
+  "volume": "370",
+  "issue": "",
+  "pages": "m3210",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8900488",
+  "issn": "0959-8138",
+  "essn": "1756-1833",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32907797"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmj.m3210"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7490785"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32907797"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32907797"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7490785;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/10 05:28"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "BMJ (Clinical research ed.)",
+  "elocationid": "doi: 10.1136/bmj.m3210",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/09 00:00",
+  "sortfirstauthor": "Rivera SC",
+  "vernaculartitle": ""
+}

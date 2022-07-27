@@ -1,0 +1,145 @@
+{
+  "uid": "32780167",
+  "pubdate": "2020 Dec",
+  "epubdate": "2020 Aug 11",
+  "source": "Intensive Care Med",
+  "authors": [
+    {
+      "name": "Jonkman AH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rauseo M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carteaux G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Telias I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sklar MC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heunks L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brochard LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Brochard LJ",
+  "title": "Proportional modes of ventilation: technology to assist physiology.",
+  "sorttitle": "proportional modes of ventilation technology to assist physiology",
+  "volume": "46",
+  "issue": "12",
+  "pages": "2301-2313",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7704851",
+  "issn": "0342-4642",
+  "essn": "1432-1238",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32780167"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00134-020-06206-z"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00134-020-06206-z"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7417783"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32780167"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32780167"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7417783;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/06/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/07/30 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/08/12 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/12 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Intensive care medicine",
+  "elocationid": "doi: 10.1007/s00134-020-06206-z",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/01 00:00",
+  "sortfirstauthor": "Jonkman AH",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,106 @@
+{
+  "uid": "22034606",
+  "pubdate": "2011 Apr-Jun",
+  "epubdate": "",
+  "source": "Pulm Circ",
+  "authors": [
+    {
+      "name": "Donahoe M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Donahoe M",
+  "title": "Acute respiratory distress syndrome: A clinical review.",
+  "sorttitle": "acute respiratory distress syndrome a clinical review",
+  "volume": "1",
+  "issue": "2",
+  "pages": "192-211",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101557243",
+  "issn": "2045-8932",
+  "essn": "2045-8940",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22034606"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.4103/2045-8932.83454"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PC-1-192"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3198645"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22034606"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22034606"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3198645;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/10/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/10/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/10/29 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 29,
+  "fulljournalname": "Pulmonary circulation",
+  "elocationid": "doi: 10.4103/2045-8932.83454",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/04/01 00:00",
+  "sortfirstauthor": "Donahoe M",
+  "vernaculartitle": ""
+}

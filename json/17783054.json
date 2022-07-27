@@ -1,0 +1,111 @@
+{
+  "uid": "17783054",
+  "pubdate": "1980 Jun 6",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Alvarez LW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alvarez W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Asaro F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Michel HV",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Michel HV",
+  "title": "Extraterrestrial cause for the cretaceous-tertiary extinction.",
+  "sorttitle": "extraterrestrial cause for the cretaceous tertiary extinction",
+  "volume": "208",
+  "issue": "4448",
+  "pages": "1095-108",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17783054"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "208/4448/1095"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.208.4448.1095"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17783054"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17783054"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1980/06/06 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1980/06/06 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1980/06/06 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 106,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1980/06/06 00:00",
+  "sortfirstauthor": "Alvarez LW",
+  "vernaculartitle": ""
+}

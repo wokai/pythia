@@ -1,0 +1,94 @@
+{
+  "uid": "13242483",
+  "pubdate": "1955 Jul",
+  "epubdate": "",
+  "source": "J Appl Physiol",
+  "authors": [
+    {
+      "name": "ASERINSKY E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "KLEITMAN N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "KLEITMAN N",
+  "title": "Two types of ocular motility occurring in sleep.",
+  "sorttitle": "two types of ocular motility occurring in sleep",
+  "volume": "8",
+  "issue": "1",
+  "pages": "1-10",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0376576",
+  "issn": "0021-8987",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "13242483"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/jappl.1955.8.1.1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "13242483"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "13242483"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1955/07/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1955/07/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1955/07/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 14,
+  "fulljournalname": "Journal of applied physiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1955/07/01 00:00",
+  "sortfirstauthor": "ASERINSKY E",
+  "vernaculartitle": ""
+}

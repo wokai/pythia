@@ -1,0 +1,97 @@
+{
+  "uid": "27168088",
+  "pubdate": "2016 Aug",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Meistelman C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Donati F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Donati F",
+  "title": "Do we really need sugammadex as an antagonist of muscle relaxants in anesthesia?",
+  "sorttitle": "do we really need sugammadex as an antagonist of muscle relaxants in anesthesia",
+  "volume": "29",
+  "issue": "4",
+  "pages": "462-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27168088"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0000000000000359"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27168088"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27168088"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/05/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/05/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/02/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0000000000000359",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/08/01 00:00",
+  "sortfirstauthor": "Meistelman C",
+  "vernaculartitle": ""
+}

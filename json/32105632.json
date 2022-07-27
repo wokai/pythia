@@ -1,0 +1,230 @@
+{
+  "uid": "32105632",
+  "pubdate": "2020 May",
+  "epubdate": "2020 Feb 24",
+  "source": "Lancet Respir Med",
+  "authors": [
+    {
+      "name": "Yang X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xu J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shu H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xia J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yu Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fang M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yu T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pan S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zou X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yuan S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Shang Y",
+  "title": "Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study.",
+  "sorttitle": "clinical course and outcomes of critically ill patients with sars cov 2 pneumonia in wuhan china a single centered retrospective observational study",
+  "volume": "8",
+  "issue": "5",
+  "pages": "475-481",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101605555",
+  "issn": "2213-2600",
+  "essn": "2213-2619",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32105632"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2213-2600(20)30079-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S2213-2600(20)30079-5"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7102538"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32105632"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32105632"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7102538;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/10 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/02/14 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/02/14 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/02/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/02/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet Respir Med. 2020 Apr;8(4):e26",
+      "reftype": "Erratum in",
+      "pmid": 32119827,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesth Crit Care Pain Med. 2020 Apr;39(2):167-169",
+      "reftype": "Comment in",
+      "pmid": 32142972,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet Respir Med. 2020 Apr;8(4):e18",
+      "reftype": "Comment in",
+      "pmid": 32145829,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet Respir Med. 2020 Apr;8(4):e21",
+      "reftype": "Comment in",
+      "pmid": 32171062,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet Respir Med. 2020 Apr;8(4):e24",
+      "reftype": "Comment in",
+      "pmid": 32178774,
+      "note": ""
+    },
+    {
+      "refsource": "JACC Heart Fail. 2020 Jun;8(6):515-517",
+      "reftype": "Comment in",
+      "pmid": 32265149,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2700,
+  "fulljournalname": "The Lancet. Respiratory medicine",
+  "elocationid": "doi: 10.1016/S2213-2600(20)30079-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/05/01 00:00",
+  "sortfirstauthor": "Yang X",
+  "vernaculartitle": ""
+}

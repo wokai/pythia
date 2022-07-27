@@ -1,0 +1,139 @@
+{
+  "uid": "34271264",
+  "pubdate": "2021 Oct",
+  "epubdate": "2021 Jun 18",
+  "source": "Curr Opin Virol",
+  "authors": [
+    {
+      "name": "Painter GR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Natchus MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cohen O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Holman W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Painter WP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Painter WP",
+  "title": "Developing a direct acting, orally available antiviral agent in a pandemic: the evolution of molnupiravir as a potential treatment for COVID-19.",
+  "sorttitle": "developing a direct acting orally available antiviral agent in a pandemic the evolution of molnupiravir as a potential treatment for covid 19",
+  "volume": "50",
+  "issue": "",
+  "pages": "17-22",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101560941",
+  "issn": "1879-6257",
+  "essn": "1879-6265",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34271264"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1879-6257(21)00066-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.coviro.2021.06.003"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8277160"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34271264"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34271264"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8277160;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/05/11 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/06/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/06/10 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/07/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/10/21 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/07/16 20:21"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Current opinion in virology",
+  "elocationid": "doi: 10.1016/j.coviro.2021.06.003",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/10/01 00:00",
+  "sortfirstauthor": "Painter GR",
+  "vernaculartitle": ""
+}

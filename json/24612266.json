@@ -1,0 +1,113 @@
+{
+  "uid": "24612266",
+  "pubdate": "2014 Jun",
+  "epubdate": "2014 Mar 10",
+  "source": "Paediatr Anaesth",
+  "authors": [
+    {
+      "name": "Goeller JK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bhalla T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tobias JD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tobias JD",
+  "title": "Combined use of neuraxial and general anesthesia during major abdominal procedures in neonates and infants.",
+  "sorttitle": "combined use of neuraxial and general anesthesia during major abdominal procedures in neonates and infants",
+  "volume": "24",
+  "issue": "6",
+  "pages": "553-60",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9206575",
+  "issn": "1155-5645",
+  "essn": "1460-9592",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24612266"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/pan.12384"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24612266"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24612266"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2014/02/10 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/03/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/03/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/12/24 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Paediatr Anaesth. 2014 Oct;24(10):1110-1",
+      "reftype": "Comment in",
+      "pmid": 25196289,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Paediatric anaesthesia",
+  "elocationid": "doi: 10.1111/pan.12384",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/06/01 00:00",
+  "sortfirstauthor": "Goeller JK",
+  "vernaculartitle": ""
+}

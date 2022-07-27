@@ -1,0 +1,126 @@
+{
+  "uid": "28523364",
+  "pubdate": "2017 Jun",
+  "epubdate": "",
+  "source": "Anaesthesist",
+  "authors": [
+    {
+      "name": "Merkel MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "von Dossow V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zwißler B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zwißler B",
+  "title": "[Structured patient handovers in perioperative medicine : Rationale and implementation in clinical practice].",
+  "sorttitle": "structured patient handovers in perioperative medicine rationale and implementation in clinical practice",
+  "volume": "66",
+  "issue": "6",
+  "pages": "396-403",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "0370525",
+  "issn": "0003-2417",
+  "essn": "1432-055X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28523364"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00101-017-0320-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00101-017-0320-6"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28523364"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28523364"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/05/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/04/03 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/05/20 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anaesthesist. 2017 Jun;66(6):393-395",
+      "reftype": "Comment in",
+      "pmid": 28510036,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesist. 2017 Aug;66(8):603",
+      "reftype": "Erratum in",
+      "pmid": 28685255,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesist. 2017 Nov;66(11):887-888",
+      "reftype": "Comment in",
+      "pmid": 28914331,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Der Anaesthesist",
+  "elocationid": "doi: 10.1007/s00101-017-0320-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/06/01 00:00",
+  "sortfirstauthor": "Merkel MJ",
+  "vernaculartitle": "Strukturierte Patientenübergabe in der perioperativen Medizin : Rationale und Umsetzung in der klinischen Praxis."
+}

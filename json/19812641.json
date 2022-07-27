@@ -1,0 +1,95 @@
+{
+  "uid": "19812641",
+  "pubdate": "2009 Oct 8",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Dalton R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dalton R",
+  "title": "Fossil rewrites early human evolution.",
+  "sorttitle": "fossil rewrites early human evolution",
+  "volume": "461",
+  "issue": "7265",
+  "pages": "705",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19812641"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "461705a"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/461705a"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19812641"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19812641"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/10/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/10/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/10/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/461705a",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/10/08 00:00",
+  "sortfirstauthor": "Dalton R",
+  "vernaculartitle": ""
+}

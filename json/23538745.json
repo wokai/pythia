@@ -1,0 +1,144 @@
+{
+  "uid": "23538745",
+  "pubdate": "2013 Sep",
+  "epubdate": "",
+  "source": "Chest",
+  "authors": [
+    {
+      "name": "Mokhlesi B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hovda MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vekhter B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arora VM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chung F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meltzer DO",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Meltzer DO",
+  "title": "Sleep-disordered breathing and postoperative outcomes after elective surgery: analysis of the nationwide inpatient sample.",
+  "sorttitle": "sleep disordered breathing and postoperative outcomes after elective surgery analysis of the nationwide inpatient sample",
+  "volume": "144",
+  "issue": "3",
+  "pages": "903-914",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0231335",
+  "issn": "0012-3692",
+  "essn": "1931-3543",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23538745"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0012-3692(13)60605-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1378/chest.12-2905"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3760743"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23538745"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23538745"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3760743;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/03/30 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/03/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/01/08 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Chest. 2013 Oct;144(4):1421-2",
+      "reftype": "Comment in",
+      "pmid": 24081363,
+      "note": ""
+    },
+    {
+      "refsource": "Chest. 2013 Oct;144(4):1422",
+      "reftype": "Comment in",
+      "pmid": 24081364,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 45,
+  "fulljournalname": "Chest",
+  "elocationid": "doi: 10.1378/chest.12-2905",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/09/01 00:00",
+  "sortfirstauthor": "Mokhlesi B",
+  "vernaculartitle": ""
+}

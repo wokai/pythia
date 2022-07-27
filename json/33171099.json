@@ -1,0 +1,263 @@
+{
+  "uid": "33171099",
+  "pubdate": "2020 Dec 10",
+  "epubdate": "2020 Nov 3",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Chen Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zuiani A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fischinger S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mullur J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Atyeo C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Travers M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lelis FJN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pullen KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tong P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gautam A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Habibi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bensko J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gakpo D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feldman J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hauser BM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Caradonna TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cai Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burke JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lin J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lederer JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lam EC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lavine CL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seaman MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmidt AG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Balazs AB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lauffenburger DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alter G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wesemann DR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wesemann DR",
+  "title": "Quick COVID-19 Healers Sustain Anti-SARS-CoV-2 Antibody Production.",
+  "sorttitle": "quick covid 19 healers sustain anti sars cov 2 antibody production",
+  "volume": "183",
+  "issue": "6",
+  "pages": "1496-1507.e16",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33171099"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(20)31458-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2020.10.051"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7608032"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33171099"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33171099"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7608032;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/07/20 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/08/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/10/29 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/22 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/10 20:09"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "Cell",
+  "elocationid": "doi: 10.1016/j.cell.2020.10.051",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/10 00:00",
+  "sortfirstauthor": "Chen Y",
+  "vernaculartitle": ""
+}

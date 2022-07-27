@@ -1,0 +1,113 @@
+{
+  "uid": "24557109",
+  "pubdate": "2014 Mar",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Stol IS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ehrenfeld JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Epstein RH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Epstein RH",
+  "title": "Technology diffusion of anesthesia information management systems into academic anesthesia departments in the United States.",
+  "sorttitle": "technology diffusion of anesthesia information management systems into academic anesthesia departments in the united states",
+  "volume": "118",
+  "issue": "3",
+  "pages": "644-50",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24557109"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000000055"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201403000-00024"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24557109"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24557109"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/02/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/02/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/04/15 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2014 Mar;118(3):507-8",
+      "reftype": "Comment in",
+      "pmid": 24557097,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000000055",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/03/01 00:00",
+  "sortfirstauthor": "Stol IS",
+  "vernaculartitle": ""
+}

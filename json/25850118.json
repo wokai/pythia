@@ -1,0 +1,115 @@
+{
+  "uid": "25850118",
+  "pubdate": "2015 Aug",
+  "epubdate": "2015 Mar 23",
+  "source": "Hum Factors",
+  "authors": [
+    {
+      "name": "Zahabi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaber DB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Swangnetr M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Swangnetr M",
+  "title": "Usability and Safety in Electronic Medical Records Interface Design: A Review of Recent Literature and Guideline Formulation.",
+  "sorttitle": "usability and safety in electronic medical records interface design a review of recent literature and guideline formulation",
+  "volume": "57",
+  "issue": "5",
+  "pages": "805-34",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0374660",
+  "issn": "0018-7208",
+  "essn": "1547-8181",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25850118"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "0018720815576827"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1177/0018720815576827"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25850118"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25850118"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/07/10 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/02/17 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/04/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/04/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/10/31 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 48,
+  "fulljournalname": "Human factors",
+  "elocationid": "doi: 10.1177/0018720815576827",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/08/01 00:00",
+  "sortfirstauthor": "Zahabi M",
+  "vernaculartitle": ""
+}

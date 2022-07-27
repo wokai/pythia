@@ -1,0 +1,161 @@
+{
+  "uid": "30815090",
+  "pubdate": "2018",
+  "epubdate": "2018 Dec 5",
+  "source": "AMIA Annu Symp Proc",
+  "authors": [
+    {
+      "name": "Grando A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Manataki A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Furniss SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Duncan B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Solomon A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaufman D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hirn S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sunday R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bouchereau J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Doebbeling B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burton MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Poterack KA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miksch T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Helmers RA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Helmers RA",
+  "title": "Multi-Method Study of Electronic Health Records Workflows.",
+  "sorttitle": "multi method study of electronic health records workflows",
+  "volume": "2018",
+  "issue": "",
+  "pages": "498-507",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101209213",
+  "issn": "",
+  "essn": "1942-597X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30815090"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6371265"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30815090"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30815090"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6371265;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/03/01 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/03/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/09/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/12/05 00:00",
+  "sortfirstauthor": "Grando A",
+  "vernaculartitle": ""
+}

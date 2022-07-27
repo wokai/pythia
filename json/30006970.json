@@ -1,0 +1,113 @@
+{
+  "uid": "30006970",
+  "pubdate": "2018 Jul 14",
+  "epubdate": "2018 Jul 14",
+  "source": "Res Synth Methods",
+  "authors": [
+    {
+      "name": "Zhang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Akl EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schünemann HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schünemann HJ",
+  "title": "Using systematic reviews in guideline development: the GRADE approach.",
+  "sorttitle": "using systematic reviews in guideline development the grade approach",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101543738",
+  "issn": "1759-2879",
+  "essn": "1759-2887",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30006970"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/jrsm.1313"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30006970"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30006970"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/01/07 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/06/16 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/07/03 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/07/15 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/07/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/07/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "Research synthesis methods",
+  "elocationid": "doi: 10.1002/jrsm.1313",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/07/14 00:00",
+  "sortfirstauthor": "Zhang Y",
+  "vernaculartitle": ""
+}

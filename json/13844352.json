@@ -1,0 +1,94 @@
+{
+  "uid": "13844352",
+  "pubdate": "1960 May",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "WHITE GM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "WHITE GM",
+  "title": "Evolution of endotracheal and endobronchial intubation.",
+  "sorttitle": "evolution of endotracheal and endobronchial intubation",
+  "volume": "32",
+  "issue": "",
+  "pages": "235-46",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "13844352"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)53596-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/32.5.235"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "13844352"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "13844352"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1960/05/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1960/05/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1960/05/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1960/05/01 00:00",
+  "sortfirstauthor": "WHITE GM",
+  "vernaculartitle": ""
+}

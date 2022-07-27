@@ -1,0 +1,135 @@
+{
+  "uid": "25436639",
+  "pubdate": "2014",
+  "epubdate": "2014 Dec 1",
+  "source": "PLoS One",
+  "authors": [
+    {
+      "name": "Gillon TE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pels A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "von Dadelszen P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "MacDonell K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Magee LA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Magee LA",
+  "title": "Hypertensive disorders of pregnancy: a systematic review of international clinical practice guidelines.",
+  "sorttitle": "hypertensive disorders of pregnancy a systematic review of international clinical practice guidelines",
+  "volume": "9",
+  "issue": "12",
+  "pages": "e113715",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101285081",
+  "issn": "",
+  "essn": "1932-6203",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25436639"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pone.0113715"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PONE-D-14-32746"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4249974"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25436639"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25436639"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4249974;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/07/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/10/28 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/12/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/12/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/09/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 35,
+  "fulljournalname": "PloS one",
+  "elocationid": "doi: 10.1371/journal.pone.0113715",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/12/01 00:00",
+  "sortfirstauthor": "Gillon TE",
+  "vernaculartitle": ""
+}

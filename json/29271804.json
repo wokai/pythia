@@ -1,0 +1,120 @@
+{
+  "uid": "29271804",
+  "pubdate": "2018 Apr",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Jevtovic-Todorovic V",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Jevtovic-Todorovic V",
+  "title": "Exposure of Developing Brain to General Anesthesia: What Is the Animal Evidence?",
+  "sorttitle": "exposure of developing brain to general anesthesia what is the animal evidence",
+  "volume": "128",
+  "issue": "4",
+  "pages": "832-839",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29271804"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000002047"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5849483"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS923210"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29271804"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29271804"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5849483;manuscript-id: NIHMS923210;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/12/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/08/07 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/12/23 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2018 Apr;128(4):693-696",
+      "reftype": "Comment in",
+      "pmid": 29533965,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2018 Apr;128(4):697-699",
+      "reftype": "Comment in",
+      "pmid": 29533966,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000002047",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/04/01 00:00",
+  "sortfirstauthor": "Jevtovic-Todorovic V",
+  "vernaculartitle": ""
+}

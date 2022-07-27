@@ -1,0 +1,116 @@
+{
+  "uid": "23897062",
+  "pubdate": "2013 Sep 1",
+  "epubdate": "",
+  "source": "JAMA Neurol",
+  "authors": [
+    {
+      "name": "Kim SH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huh SY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Joung A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kim HJ",
+  "title": "A 5-year follow-up of rituximab treatment in patients with neuromyelitis optica spectrum disorder.",
+  "sorttitle": "5 year follow up of rituximab treatment in patients with neuromyelitis optica spectrum disorder",
+  "volume": "70",
+  "issue": "9",
+  "pages": "1110-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101589536",
+  "issn": "2168-6149",
+  "essn": "2168-6157",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23897062"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1720663"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jamaneurol.2013.3071"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23897062"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23897062"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/07/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/07/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/11/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 60,
+  "fulljournalname": "JAMA neurology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/09/01 00:00",
+  "sortfirstauthor": "Kim SH",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,200 @@
+{
+  "uid": "30348463",
+  "pubdate": "2019 Feb",
+  "epubdate": "2018 Sep 29",
+  "source": "Clin Nutr",
+  "authors": [
+    {
+      "name": "Singer P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Blaser AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berger MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alhazzani W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Calder PC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Casaer MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hiesmayr M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mayer K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Montejo JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pichard C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Preiser JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Zanten ARH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oczkowski S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Szczeklik W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bischoff SC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bischoff SC",
+  "title": "ESPEN guideline on clinical nutrition in the intensive care unit.",
+  "sorttitle": "espen guideline on clinical nutrition in the intensive care unit",
+  "volume": "38",
+  "issue": "1",
+  "pages": "48-79",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8309603",
+  "issn": "0261-5614",
+  "essn": "1532-1983",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30348463"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0261-5614(18)32432-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.clnu.2018.08.037"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30348463"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30348463"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/08/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/08/29 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/10/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/24 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/10/24 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Clin Nutr. 2019 Aug;38(4):1957",
+      "reftype": "Comment in",
+      "pmid": 31101440,
+      "note": ""
+    },
+    {
+      "refsource": "Clin Nutr. 2019 Oct;38(5):2467",
+      "reftype": "Comment in",
+      "pmid": 31399263,
+      "note": ""
+    },
+    {
+      "refsource": "Clin Nutr. 2020 Jan;39(1):307-309",
+      "reftype": "Comment in",
+      "pmid": 31813697,
+      "note": ""
+    },
+    {
+      "refsource": "Eur J Clin Nutr. 2020 May;74(5):846-847",
+      "reftype": "Comment in",
+      "pmid": 32253375,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 155,
+  "fulljournalname": "Clinical nutrition (Edinburgh, Scotland)",
+  "elocationid": "doi: 10.1016/j.clnu.2018.08.037",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/02/01 00:00",
+  "sortfirstauthor": "Singer P",
+  "vernaculartitle": ""
+}

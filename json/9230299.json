@@ -1,0 +1,128 @@
+{
+  "uid": "9230299",
+  "pubdate": "1997 Jul 11",
+  "epubdate": "",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Krings M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stone A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmitz RW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krainitzki H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stoneking M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pääbo S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pääbo S",
+  "title": "Neandertal DNA sequences and the origin of modern humans.",
+  "sorttitle": "neandertal dna sequences and the origin of modern humans",
+  "volume": "90",
+  "issue": "1",
+  "pages": "19-30",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9230299"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(00)80310-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/s0092-8674(00)80310-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9230299"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9230299"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1997/07/11 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1997/07/11 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1997/07/11 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cell. 1997 Jul 11;90(1):1-3",
+      "reftype": "Comment in",
+      "pmid": 9230295,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 157,
+  "fulljournalname": "Cell",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1997/07/11 00:00",
+  "sortfirstauthor": "Krings M",
+  "vernaculartitle": ""
+}

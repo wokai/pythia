@@ -1,0 +1,97 @@
+{
+  "uid": "19551306",
+  "pubdate": "2009 Jun",
+  "epubdate": "",
+  "source": "Singapore Med J",
+  "authors": [
+    {
+      "name": "Raghavan P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pathmanathan G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Talwar I",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Talwar I",
+  "title": "The evolution of the anatomically modern or advanced Homo sapiens: time, place, process, affinities and variations.",
+  "sorttitle": "evolution of the anatomically modern or advanced homo sapiens time place process affinities and variations",
+  "volume": "50",
+  "issue": "6",
+  "pages": "556-62",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404516",
+  "issn": "0037-5675",
+  "essn": "",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19551306"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19551306"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19551306"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/06/25 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/06/25 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/09/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Singapore medical journal",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/06/01 00:00",
+  "sortfirstauthor": "Raghavan P",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,97 @@
+{
+  "uid": "21841477",
+  "pubdate": "2011 Oct",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Wolfe JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Butterworth JF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Butterworth JF",
+  "title": "Local anesthetic systemic toxicity: update on mechanisms and treatment.",
+  "sorttitle": "local anesthetic systemic toxicity update on mechanisms and treatment",
+  "volume": "24",
+  "issue": "5",
+  "pages": "561-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21841477"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0b013e32834a9394"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21841477"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21841477"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/08/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/08/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/01/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0b013e32834a9394",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/10/01 00:00",
+  "sortfirstauthor": "Wolfe JW",
+  "vernaculartitle": ""
+}

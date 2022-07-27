@@ -1,0 +1,114 @@
+{
+  "uid": "25563331",
+  "pubdate": "2015 May 15",
+  "epubdate": "2015 Jan 5",
+  "source": "Bioinformatics",
+  "authors": [
+    {
+      "name": "Kaisers W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schaal H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwender H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schwender H",
+  "title": "rbamtools: an R interface to samtools enabling fast accumulative tabulation of splicing events over multiple RNA-seq samples.",
+  "sorttitle": "rbamtools an r interface to samtools enabling fast accumulative tabulation of splicing events over multiple rna seq samples",
+  "volume": "31",
+  "issue": "10",
+  "pages": "1663-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9808944",
+  "issn": "1367-4803",
+  "essn": "1367-4811",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25563331"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "btu846"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bioinformatics/btu846"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25563331"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25563331"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/07/31 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/12/19 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/01/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/01/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/10/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Bioinformatics (Oxford, England)",
+  "elocationid": "doi: 10.1093/bioinformatics/btu846",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/05/15 00:00",
+  "sortfirstauthor": "Kaisers W",
+  "vernaculartitle": ""
+}

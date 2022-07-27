@@ -1,0 +1,102 @@
+{
+  "uid": "18030055",
+  "pubdate": "2007 Nov",
+  "epubdate": "",
+  "source": "J Cardiovasc Pharmacol",
+  "authors": [
+    {
+      "name": "Funk CD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "FitzGerald GA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "FitzGerald GA",
+  "title": "COX-2 inhibitors and cardiovascular risk.",
+  "sorttitle": "cox 2 inhibitors and cardiovascular risk",
+  "volume": "50",
+  "issue": "5",
+  "pages": "470-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7902492",
+  "issn": "0160-2446",
+  "essn": "1533-4023",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18030055"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/FJC.0b013e318157f72d"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00005344-200711000-00002"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18030055"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18030055"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/11/22 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/02/22 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/11/22 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 90,
+  "fulljournalname": "Journal of cardiovascular pharmacology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/11/01 00:00",
+  "sortfirstauthor": "Funk CD",
+  "vernaculartitle": ""
+}

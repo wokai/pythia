@@ -1,0 +1,447 @@
+{
+  "uid": "33220855",
+  "pubdate": "2021 Dec 19",
+  "epubdate": "2020 Nov 19",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Ramasamy MN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Minassian AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ewer KJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Flaxman AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Folegatti PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Owens DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Voysey M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aley PK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Angus B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Babbage G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Belij-Rammerstorfer S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berry L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bibi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bittaye M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cathie K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chappell H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Charlton S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cicconi P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clutterbuck EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Colin-Jones R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dold C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Emary KRW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fedosyuk S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fuskova M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gbesemete D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Green C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hallis B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hou MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jenkin D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Joe CCD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kelly EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kerridge S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lawrie AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lelliott A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lwin MN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Makinson R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marchevsky NG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mujadidi Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Munro APS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pacurar M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Plested E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rand J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rawlinson T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rhead S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Robinson H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ritchie AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ross-Russell AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saich S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith CC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Snape MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Song R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tarrant R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Themistocleous Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomas KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Villafana TL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Warren SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watson MEE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Douglas AD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hill AVS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lambe T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gilbert SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Faust SN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pollard AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oxford COVID Vaccine Trial Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pollard AJ",
+  "title": "Safety and immunogenicity of ChAdOx1 nCoV-19 vaccine administered in a prime-boost regimen in young and old adults (COV002): a single-blind, randomised, controlled, phase 2/3 trial.",
+  "sorttitle": "safety and immunogenicity of chadox1 ncov 19 vaccine administered in a prime boost regimen in young and old adults cov002 a single blind randomised controlled phase 2 3 trial",
+  "volume": "396",
+  "issue": "10267",
+  "pages": "1979-1993",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33220855"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(20)32466-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(20)32466-1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7674972"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33220855"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33220855"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7674972;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/10/30 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/11/09 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/11/10 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/01 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/22 20:27"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2021 Dec 19;396(10267):1978",
+      "reftype": "Erratum in",
+      "pmid": 33341142,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 41,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(20)32466-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/12/19 00:00",
+  "sortfirstauthor": "Ramasamy MN",
+  "vernaculartitle": ""
+}

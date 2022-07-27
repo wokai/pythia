@@ -1,0 +1,98 @@
+{
+  "uid": "3519875",
+  "pubdate": "1986 Apr",
+  "epubdate": "",
+  "source": "J Clin Monit",
+  "authors": [
+    {
+      "name": "Severinghaus JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Astrup PB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Astrup PB",
+  "title": "History of blood gas analysis. IV. Leland Clark's oxygen electrode.",
+  "sorttitle": "history of blood gas analysis iv leland clark s oxygen electrode",
+  "volume": "2",
+  "issue": "2",
+  "pages": "125-39",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8506707",
+  "issn": "0748-1977",
+  "essn": "",
+  "pubtype": [
+    "Biography",
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3519875"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/BF01637680"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3519875"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3519875"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1986/04/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1986/04/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1986/04/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Journal of clinical monitoring",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1986/04/01 00:00",
+  "sortfirstauthor": "Severinghaus JW",
+  "vernaculartitle": ""
+}

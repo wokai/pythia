@@ -1,0 +1,153 @@
+{
+  "uid": "28904228",
+  "pubdate": "2017 Oct",
+  "epubdate": "2017 Sep 13",
+  "source": "Stroke",
+  "authors": [
+    {
+      "name": "Brinjikji W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pasternak J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murad MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cloft HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Welch TL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kallmes DF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rabinstein AA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rabinstein AA",
+  "title": "Anesthesia-Related Outcomes for Endovascular Stroke Revascularization: A Systematic Review and Meta-Analysis.",
+  "sorttitle": "anesthesia related outcomes for endovascular stroke revascularization a systematic review and meta analysis",
+  "volume": "48",
+  "issue": "10",
+  "pages": "2784-2791",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0235266",
+  "issn": "0039-2499",
+  "essn": "1524-4628",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28904228"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "STROKEAHA.117.017786"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/STROKEAHA.117.017786"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28904228"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28904228"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/04/27 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/08/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/08/11 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/09/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/10/11 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/09/15 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Stroke. 2018 Jan;49(1):e20",
+      "reftype": "Comment in",
+      "pmid": 29222225,
+      "note": ""
+    },
+    {
+      "refsource": "Stroke. 2018 Jan;49(1):e21",
+      "reftype": "Comment in",
+      "pmid": 29222228,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 26,
+  "fulljournalname": "Stroke",
+  "elocationid": "doi: 10.1161/STROKEAHA.117.017786",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/10/01 00:00",
+  "sortfirstauthor": "Brinjikji W",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,142 @@
+{
+  "uid": "33298527",
+  "pubdate": "2020 Dec 16",
+  "epubdate": "2020 Dec 9",
+  "source": "Clin Microbiol Rev",
+  "authors": [
+    {
+      "name": "Barbieri R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Signoli M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chevé D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Costedoat C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tzortzis S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aboudharam G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Raoult D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Drancourt M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Drancourt M",
+  "title": "Yersinia pestis: the Natural History of Plague.",
+  "sorttitle": "yersinia pestis the natural history of plague",
+  "volume": "34",
+  "issue": "1",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8807282",
+  "issn": "0893-8512",
+  "essn": "1098-6618",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "257",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33298527"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "34/1/e00044-19"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1128/CMR.00044-19"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7920731"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33298527"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33298527"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7920731;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/10 05:42"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/10/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Clinical microbiology reviews",
+  "elocationid": "pii: e00044-19. doi: 10.1128/CMR.00044-19",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/09 00:00",
+  "sortfirstauthor": "Barbieri R",
+  "vernaculartitle": ""
+}

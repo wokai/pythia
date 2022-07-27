@@ -1,0 +1,105 @@
+{
+  "uid": "23076903",
+  "pubdate": "2012 Oct 17",
+  "epubdate": "2012 Oct 17",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Afolabi BB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lesi FE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lesi FE",
+  "title": "Regional versus general anaesthesia for caesarean section.",
+  "sorttitle": "regional versus general anaesthesia for caesarean section",
+  "volume": "10",
+  "issue": "",
+  "pages": "CD004350",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23076903"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD004350.pub3"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23076903"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23076903"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/10/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/10/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/12/10 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cochrane Database Syst Rev. 2006;(4):CD004350",
+      "reftype": "Update of",
+      "pmid": 17054201,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 24,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD004350.pub3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/10/17 00:00",
+  "sortfirstauthor": "Afolabi BB",
+  "vernaculartitle": ""
+}

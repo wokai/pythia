@@ -1,0 +1,145 @@
+{
+  "uid": "29507122",
+  "pubdate": "2019 Jan",
+  "epubdate": "2018 Mar 5",
+  "source": "BMJ Qual Saf",
+  "authors": [
+    {
+      "name": "Shah T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patel-Teague S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kroupa L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyer AND",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Singh H",
+  "title": "Impact of a national QI programme on reducing electronic health record notifications to clinicians.",
+  "sorttitle": "impact of a national qi programme on reducing electronic health record notifications to clinicians",
+  "volume": "28",
+  "issue": "1",
+  "pages": "10-14",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101546984",
+  "issn": "2044-5415",
+  "essn": "2044-5423",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29507122"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "bmjqs-2017-007447"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmjqs-2017-007447"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6365918"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29507122"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29507122"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6365918;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/09/30 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/01/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/01/19 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/03/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/01/18 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/03/07 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "BMJ Qual Saf. 2019 Jan;28(1):1-2",
+      "reftype": "Comment in",
+      "pmid": 30297378,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "BMJ quality & safety",
+  "elocationid": "doi: 10.1136/bmjqs-2017-007447",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/01/01 00:00",
+  "sortfirstauthor": "Shah T",
+  "vernaculartitle": ""
+}

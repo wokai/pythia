@@ -1,0 +1,84 @@
+{
+  "uid": "4247938",
+  "pubdate": "1970 Sep",
+  "epubdate": "",
+  "source": "J Pharmacol Exp Ther",
+  "authors": [
+    {
+      "name": "Lu TC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lu TC",
+  "title": "Affinity of curare-like compounds and their potency in blocking neuromuscular transmission.",
+  "sorttitle": "affinity of curare like compounds and their potency in blocking neuromuscular transmission",
+  "volume": "174",
+  "issue": "3",
+  "pages": "560-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0376362",
+  "issn": "0022-3565",
+  "essn": "1521-0103",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "4247938"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "4247938"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "4247938"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1970/09/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1970/09/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1970/09/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 4,
+  "fulljournalname": "The Journal of pharmacology and experimental therapeutics",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1970/09/01 00:00",
+  "sortfirstauthor": "Lu TC",
+  "vernaculartitle": ""
+}

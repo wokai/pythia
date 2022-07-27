@@ -1,0 +1,194 @@
+{
+  "uid": "11794169",
+  "pubdate": "2001 Nov 8",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Rivers E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nguyen B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Havstad S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ressler J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muzzin A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Knoblich B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peterson E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tomlanovich M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Early Goal-Directed Therapy Collaborative Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tomlanovich M",
+  "title": "Early goal-directed therapy in the treatment of severe sepsis and septic shock.",
+  "sorttitle": "early goal directed therapy in the treatment of severe sepsis and septic shock",
+  "volume": "345",
+  "issue": "19",
+  "pages": "1368-77",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11794169"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa010307"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11794169"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11794169"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2002/01/17 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/01/17 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2002/01/17 10:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2001 Nov 8;345(19):1417-8",
+      "reftype": "Comment in",
+      "pmid": 11794176,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2002 Mar 28;346(13):1025-6; author reply 1025-6",
+      "reftype": "Comment in",
+      "pmid": 11919315,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2002 Mar 28;346(13):1025-6; author reply 1025-6",
+      "reftype": "Comment in",
+      "pmid": 11924658,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2002 Mar 28;346(13):1025-6; author reply 1025-6",
+      "reftype": "Comment in",
+      "pmid": 11924659,
+      "note": ""
+    },
+    {
+      "refsource": "ACP J Club. 2002 May-Jun;136(3):90",
+      "reftype": "Comment in",
+      "pmid": 11985431,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2007 Mar 15;356(11):1178; author reply 1181-2",
+      "reftype": "Comment in",
+      "pmid": 17361002,
+      "note": ""
+    },
+    {
+      "refsource": "Acta Anaesthesiol Scand. 2016 Aug;60(7):925-33",
+      "reftype": "Comment in",
+      "pmid": 27030514,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2016 Jul;117(1):7-12",
+      "reftype": "Comment in",
+      "pmid": 27165665,
+      "note": ""
+    },
+    {
+      "refsource": "Clin Chest Med. 2016 Jun;37(2):231-9",
+      "reftype": "Comment in",
+      "pmid": 27229640,
+      "note": ""
+    },
+    {
+      "refsource": "Ann Emerg Med. 2018 Jan;71(1):37-39",
+      "reftype": "Comment in",
+      "pmid": 28712609,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1859,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2001/11/08 00:00",
+  "sortfirstauthor": "Rivers E",
+  "vernaculartitle": ""
+}

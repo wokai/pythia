@@ -1,0 +1,127 @@
+{
+  "uid": "24875299",
+  "pubdate": "2014 Dec",
+  "epubdate": "2014 May 29",
+  "source": "Genet Med",
+  "authors": [
+    {
+      "name": "Feero WG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Manolio TA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khoury MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Khoury MJ",
+  "title": "Translational research is a key to nongeneticist physicians' genomics education.",
+  "sorttitle": "translational research is a key to nongeneticist physicians genomics education",
+  "volume": "16",
+  "issue": "12",
+  "pages": "871-3",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9815831",
+  "issn": "1098-3600",
+  "essn": "1530-0366",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24875299"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "gim201467"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/gim.2014.67"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4697936"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS746776"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24875299"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24875299"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4697936;manuscript-id: NIHMS746776;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/03/31 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/05/06 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/05/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/05/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/08/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 18,
+  "fulljournalname": "Genetics in medicine : official journal of the American College of Medical Genetics",
+  "elocationid": "doi: 10.1038/gim.2014.67",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/12/01 00:00",
+  "sortfirstauthor": "Feero WG",
+  "vernaculartitle": ""
+}

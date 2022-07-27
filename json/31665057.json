@@ -1,0 +1,127 @@
+{
+  "uid": "31665057",
+  "pubdate": "2019 Oct 30",
+  "epubdate": "2019 Oct 30",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Kain T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fowler R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Fowler R",
+  "title": "Preparing intensive care for the next pandemic influenza.",
+  "sorttitle": "preparing intensive care for the next pandemic influenza",
+  "volume": "23",
+  "issue": "1",
+  "pages": "337",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31665057"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13054-019-2616-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13054-019-2616-1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6819413"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31665057"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31665057"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6819413;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/04/19 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/09/20 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/10/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/10/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/04/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Crit Care. 2020 Mar 18;24(1):94",
+      "reftype": "Comment in",
+      "pmid": 32183864,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 26,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/s13054-019-2616-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/10/30 00:00",
+  "sortfirstauthor": "Kain T",
+  "vernaculartitle": ""
+}

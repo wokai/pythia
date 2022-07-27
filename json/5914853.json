@@ -1,0 +1,99 @@
+{
+  "uid": "5914853",
+  "pubdate": "1966 Aug",
+  "epubdate": "",
+  "source": "Circ Res",
+  "authors": [
+    {
+      "name": "Guyton AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scheel K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Murphree D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Murphree D",
+  "title": "Interstitial fluid pressure. 3. Its effect on resistance to tissue fluid mobility.",
+  "sorttitle": "interstitial fluid pressure 3 its effect on resistance to tissue fluid mobility",
+  "volume": "19",
+  "issue": "2",
+  "pages": "412-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0047103",
+  "issn": "0009-7330",
+  "essn": "1524-4571",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "5914853"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/01.res.19.2.412"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "5914853"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "5914853"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1966/08/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1966/08/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1966/08/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 23,
+  "fulljournalname": "Circulation research",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1966/08/01 00:00",
+  "sortfirstauthor": "Guyton AC",
+  "vernaculartitle": ""
+}

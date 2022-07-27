@@ -1,0 +1,111 @@
+{
+  "uid": "31258965",
+  "pubdate": "2019",
+  "epubdate": "2019 May 6",
+  "source": "AMIA Jt Summits Transl Sci Proc",
+  "authors": [
+    {
+      "name": "Tran B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lenhart A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ross R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dorr DA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dorr DA",
+  "title": "Burnout and EHR use among academic primary care physicians with varied clinical workloads.",
+  "sorttitle": "burnout and ehr use among academic primary care physicians with varied clinical workloads",
+  "volume": "2019",
+  "issue": "",
+  "pages": "136-144",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101539486",
+  "issn": "",
+  "essn": "2153-4063",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31258965"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6568076"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31258965"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31258965"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6568076;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/07/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/07/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/07/02 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/05/06 00:00",
+  "sortfirstauthor": "Tran B",
+  "vernaculartitle": ""
+}

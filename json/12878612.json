@@ -1,0 +1,102 @@
+{
+  "uid": "12878612",
+  "pubdate": "2003 Aug",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "White D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "White D",
+  "title": "Uses of MAC.",
+  "sorttitle": "uses of mac",
+  "volume": "91",
+  "issue": "2",
+  "pages": "167-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Comment",
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12878612"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)36742-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aeg160"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12878612"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12878612"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/07/25 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/09/10 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/07/25 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2003 Aug;91(2):170-4",
+      "reftype": "Comment on",
+      "pmid": 12878613,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 7,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/08/01 00:00",
+  "sortfirstauthor": "White D",
+  "vernaculartitle": ""
+}

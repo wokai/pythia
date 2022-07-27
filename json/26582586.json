@@ -1,0 +1,213 @@
+{
+  "uid": "26582586",
+  "pubdate": "2016 Jan",
+  "epubdate": "2015 Nov 19",
+  "source": "Anaesthesia",
+  "authors": [
+    {
+      "name": "Checketts MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alladi R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferguson K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gemmell L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Handy JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klein AA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Love NJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Misra U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morris C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nathanson MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rodney GE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Verma R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pandit JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Association of Anaesthetists of Great Britain and Ireland.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pandit JJ",
+  "title": "Recommendations for standards of monitoring during anaesthesia and recovery 2015: Association of Anaesthetists of Great Britain and Ireland.",
+  "sorttitle": "recommendations for standards of monitoring during anaesthesia and recovery 2015 association of anaesthetists of great britain and ireland",
+  "volume": "71",
+  "issue": "1",
+  "pages": "85-93",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370524",
+  "issn": "0003-2409",
+  "essn": "1365-2044",
+  "pubtype": [
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26582586"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/anae.13316"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5063182"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26582586"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26582586"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5063182;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2015/10/13 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/11/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/11/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/04/30 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anaesthesia. 2016 Jan;71(1):3-6",
+      "reftype": "Comment in",
+      "pmid": 26583810,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesia. 2016 Jun;71(6):732",
+      "reftype": "Comment in",
+      "pmid": 27159003,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesia. 2016 Jul;71(7):849-50",
+      "reftype": "Comment in",
+      "pmid": 27291603,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesia. 2016 Jul;71(7):850-1",
+      "reftype": "Comment in",
+      "pmid": 27291604,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesia. 2016 Jul;71(7):851",
+      "reftype": "Comment in",
+      "pmid": 27291605,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesia. 2016 Aug;71(8):981-2",
+      "reftype": "Comment in",
+      "pmid": 27396256,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesia. 2018 Oct;73(10):1299",
+      "reftype": "Comment in",
+      "pmid": 30216427,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 51,
+  "fulljournalname": "Anaesthesia",
+  "elocationid": "doi: 10.1111/anae.13316",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/01/01 00:00",
+  "sortfirstauthor": "Checketts MR",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,160 @@
+{
+  "uid": "33336311",
+  "pubdate": "2020 Dec 18",
+  "epubdate": "2020 Dec 18",
+  "source": "Intensive Care Med Exp",
+  "authors": [
+    {
+      "name": "Robba C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Siwicka-Gieroba D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sikter A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Battaglini D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dąbrowski W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schultz MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Jonge E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grim C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rocco PR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pelosi P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pelosi P",
+  "title": "Pathophysiology and clinical consequences of arterial blood gases and pH after cardiac arrest.",
+  "sorttitle": "pathophysiology and clinical consequences of arterial blood gases and ph after cardiac arrest",
+  "volume": "8",
+  "issue": "Suppl 1",
+  "pages": "19",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101645149",
+  "issn": "",
+  "essn": "2197-425X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33336311"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s40635-020-00307-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s40635-020-00307-1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7746422"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33336311"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33336311"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7746422;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/04/29 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/05/21 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/18 05:55"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/19 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Intensive care medicine experimental",
+  "elocationid": "doi: 10.1186/s40635-020-00307-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/18 00:00",
+  "sortfirstauthor": "Robba C",
+  "vernaculartitle": ""
+}

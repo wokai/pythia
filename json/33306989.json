@@ -1,0 +1,548 @@
+{
+  "uid": "33306989",
+  "pubdate": "2021 Jan 9",
+  "epubdate": "2020 Dec 8",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Voysey M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clemens SAC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Madhi SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weckx LY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Folegatti PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aley PK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Angus B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baillie VL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barnabas SL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bhorat QE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bibi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Briner C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cicconi P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Collins AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Colin-Jones R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cutland CL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Darton TC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dheda K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Duncan CJA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Emary KRW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ewer KJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fairlie L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Faust SN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feng S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferreira DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Finn A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goodman AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Green CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Green CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heath PT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hill C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hill H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hirsch I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hodgson SHC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Izu A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jackson S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jenkin D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Joe CCD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kerridge S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koen A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kwatra G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lazarus R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lawrie AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lelliott A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Libri V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lillie PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mallory R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mendes AVA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Milan EP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Minassian AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McGregor A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morrison H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mujadidi YF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nana A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Reilly PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Padayachee SD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pittella A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Plested E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pollock KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramasamy MN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rhead S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwarzbold AV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Song R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Snape MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sprinz E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sutherland RK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tarrant R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thomson EC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Török ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Toshner M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Turner DPJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vekemans J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Villafana TL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watson MEE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Williams CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Douglas AD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hill AVS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lambe T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gilbert SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pollard AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oxford COVID Vaccine Trial Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pollard AJ",
+  "title": "Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK.",
+  "sorttitle": "safety and efficacy of the chadox1 ncov 19 vaccine azd1222 against sars cov 2 an interim analysis of four randomised controlled trials in brazil south africa and the uk",
+  "volume": "397",
+  "issue": "10269",
+  "pages": "99-111",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33306989"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(20)32661-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(20)32661-1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7723445"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33306989"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33306989"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7723445;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/11/24 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/12/01 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/12/03 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/11 20:09"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2020 Dec;588(7838):378-379",
+      "reftype": "Comment in",
+      "pmid": 33293710,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2021 Jan 9;397(10269):72-74",
+      "reftype": "Comment in",
+      "pmid": 33306990,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2021 Jan 9;397(10269):98",
+      "reftype": "Erratum in",
+      "pmid": 33422262,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 91,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(20)32661-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/09 00:00",
+  "sortfirstauthor": "Voysey M",
+  "vernaculartitle": ""
+}

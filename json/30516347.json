@@ -1,0 +1,111 @@
+{
+  "uid": "30516347",
+  "pubdate": "2019 Jan",
+  "epubdate": "2018 Dec 5",
+  "source": "Curr Protoc Hum Genet",
+  "authors": [
+    {
+      "name": "Pendergrass SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crawford DC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Crawford DC",
+  "title": "Using Electronic Health Records To Generate Phenotypes For Research.",
+  "sorttitle": "using electronic health records to generate phenotypes for research",
+  "volume": "100",
+  "issue": "1",
+  "pages": "e80",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101287858",
+  "issn": "1934-8266",
+  "essn": "1934-8258",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30516347"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/cphg.80"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6318047"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS994733"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30516347"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30516347"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6318047;manuscript-id: NIHMS994733;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/12/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/04/26 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/12/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "Current protocols in human genetics",
+  "elocationid": "doi: 10.1002/cphg.80",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/01/01 00:00",
+  "sortfirstauthor": "Pendergrass SA",
+  "vernaculartitle": ""
+}

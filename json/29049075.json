@@ -1,0 +1,111 @@
+{
+  "uid": "29049075",
+  "pubdate": "2018 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Simpao AF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rehman MA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rehman MA",
+  "title": "Anesthesia Information Management Systems.",
+  "sorttitle": "anesthesia information management systems",
+  "volume": "127",
+  "issue": "1",
+  "pages": "90-94",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29049075"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000002545"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29049075"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29049075"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/10/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/08/06 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/10/20 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2019 Feb;128(2):e31",
+      "reftype": "Comment in",
+      "pmid": 30379671,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2019 Feb;128(2):e30-e31",
+      "reftype": "Comment in",
+      "pmid": 30379679,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000002545",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/07/01 00:00",
+  "sortfirstauthor": "Simpao AF",
+  "vernaculartitle": ""
+}

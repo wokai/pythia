@@ -1,0 +1,139 @@
+{
+  "uid": "23687232",
+  "pubdate": "2013 Jul",
+  "epubdate": "2013 May 17",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "de Oliveira GS Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chang R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fitzgerald PC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Almeida MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Castro-Alves LS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ahmad S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCarthy RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "McCarthy RJ",
+  "title": "The prevalence of burnout and depression and their association with adherence to safety and practice standards: a survey of United States anesthesiology trainees.",
+  "sorttitle": "prevalence of burnout and depression and their association with adherence to safety and practice standards a survey of united states anesthesiology trainees",
+  "volume": "117",
+  "issue": "1",
+  "pages": "182-93",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23687232"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ANE.0b013e3182917da9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0b013e3182917da9"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23687232"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23687232"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/05/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/05/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/08/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2014 Feb;118(2):482-3",
+      "reftype": "Comment in",
+      "pmid": 24445648,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2014 Feb;118(2):483-4",
+      "reftype": "Comment in",
+      "pmid": 24445649,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 47,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0b013e3182917da9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/07/01 00:00",
+  "sortfirstauthor": "de Oliveira GS Jr",
+  "vernaculartitle": ""
+}

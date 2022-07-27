@@ -1,0 +1,114 @@
+{
+  "uid": "22549152",
+  "pubdate": "2012 May 2",
+  "epubdate": "2012 May 2",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "Jensen PB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jensen LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brunak S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Brunak S",
+  "title": "Mining electronic health records: towards better research applications and clinical care.",
+  "sorttitle": "mining electronic health records towards better research applications and clinical care",
+  "volume": "13",
+  "issue": "6",
+  "pages": "395-405",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22549152"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrg3208"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrg3208"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22549152"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22549152"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/05/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/05/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/08/09 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Rev Genet. 2013 Jan;14(1):75",
+      "reftype": "Comment in",
+      "pmid": 23247437,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 328,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "doi: 10.1038/nrg3208",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/05/02 00:00",
+  "sortfirstauthor": "Jensen PB",
+  "vernaculartitle": ""
+}

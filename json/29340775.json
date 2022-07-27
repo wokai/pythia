@@ -1,0 +1,129 @@
+{
+  "uid": "29340775",
+  "pubdate": "2018 May",
+  "epubdate": "2018 Jan 17",
+  "source": "Pflugers Arch",
+  "authors": [
+    {
+      "name": "Arrigoni C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Minor DL Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Minor DL Jr",
+  "title": "Global versus local mechanisms of temperature sensing in ion channels.",
+  "sorttitle": "global versus local mechanisms of temperature sensing in ion channels",
+  "volume": "470",
+  "issue": "5",
+  "pages": "733-744",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0154720",
+  "issn": "0031-6768",
+  "essn": "1432-2013",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29340775"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00424-017-2102-z"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00424-017-2102-z"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5945320"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS935315"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29340775"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29340775"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5945320;manuscript-id: NIHMS935315;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/11/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/12/19 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/12/15 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/01/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/05/06 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/01/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Pflugers Archiv : European journal of physiology",
+  "elocationid": "doi: 10.1007/s00424-017-2102-z",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/05/01 00:00",
+  "sortfirstauthor": "Arrigoni C",
+  "vernaculartitle": ""
+}

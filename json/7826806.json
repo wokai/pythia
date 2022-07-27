@@ -1,0 +1,108 @@
+{
+  "uid": "7826806",
+  "pubdate": "1994 Nov",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Banks IC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tackley RM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tackley RM",
+  "title": "A standard set of terms for critical incident recording?",
+  "sorttitle": "standard set of terms for critical incident recording",
+  "volume": "73",
+  "issue": "5",
+  "pages": "703-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "7826806"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)41723-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/73.5.703"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "7826806"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "7826806"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1994/11/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1994/11/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1994/11/01 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 1995 Jul;75(1):117-8",
+      "reftype": "Comment in",
+      "pmid": 7669457,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1994/11/01 00:00",
+  "sortfirstauthor": "Banks IC",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,179 @@
+{
+  "uid": "30899964",
+  "pubdate": "2019 Apr",
+  "epubdate": "",
+  "source": "Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz",
+  "authors": [
+    {
+      "name": "Wagner N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Assmus F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arendt G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baum E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baumann U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bogdan C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burchard G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Föll D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Garbe E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hecht J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Müller-Ladner U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Niehues T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Überla K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vygen-Bonnet S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weinke T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wiese-Posselt M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wojcinski M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zepp F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zepp F",
+  "title": "Impfen bei Immundefizienz : Anwendungshinweise zu den von der Ständigen Impfkommission empfohlenen Impfungen. (IV) Impfen bei Autoimmunkrankheiten, bei anderen chronisch-entzündlichen Erkrankungen und unter immunmodulatorischer Therapie.",
+  "sorttitle": "impfen bei immundefizienz anwendungshinweise zu den von der st ndigen impfkommission empfohlenen impfungen iv impfen bei autoimmunkrankheiten bei anderen chronisch entz ndlichen erkrankungen und unter immunmodulatorischer therapie",
+  "volume": "62",
+  "issue": "4",
+  "pages": "494-515",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "101181368",
+  "issn": "1436-9990",
+  "essn": "1437-1588",
+  "pubtype": [
+    "News"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30899964"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00103-019-02905-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00103-019-02905-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30899964"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30899964"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/03/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/03/23 06:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/03/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 28,
+  "fulljournalname": "Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz",
+  "elocationid": "doi: 10.1007/s00103-019-02905-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/04/01 00:00",
+  "sortfirstauthor": "Wagner N",
+  "vernaculartitle": "Impfen bei Immundefizienz : Anwendungshinweise zu den von der Ständigen Impfkommission empfohlenen Impfungen. (IV) Impfen bei Autoimmunkrankheiten, bei anderen chronisch-entzündlichen Erkrankungen und unter immunmodulatorischer Therapie."
+}

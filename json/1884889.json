@@ -1,0 +1,101 @@
+{
+  "uid": "1884889",
+  "pubdate": "1991 Mar",
+  "epubdate": "",
+  "source": "Diabetologia",
+  "authors": [
+    {
+      "name": "Blom L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nyström L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dahlquist G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dahlquist G",
+  "title": "The Swedish childhood diabetes study. Vaccinations and infections as risk determinants for diabetes in childhood.",
+  "sorttitle": "swedish childhood diabetes study vaccinations and infections as risk determinants for diabetes in childhood",
+  "volume": "34",
+  "issue": "3",
+  "pages": "176-81",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0006777",
+  "issn": "0012-186X",
+  "essn": "1432-0428",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "1884889"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/BF00418272"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "1884889"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "1884889"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1991/03/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1991/03/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1991/03/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 18,
+  "fulljournalname": "Diabetologia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1991/03/01 00:00",
+  "sortfirstauthor": "Blom L",
+  "vernaculartitle": ""
+}

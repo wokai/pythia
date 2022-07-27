@@ -1,0 +1,143 @@
+{
+  "uid": "23393261",
+  "pubdate": "2013 Feb 8",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Renne PR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deino AL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hilgen FJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kuiper KF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mark DF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mitchell WS 3rd",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morgan LE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mundil R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smit J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Smit J",
+  "title": "Time scales of critical events around the Cretaceous-Paleogene boundary.",
+  "sorttitle": "time scales of critical events around the cretaceous paleogene boundary",
+  "volume": "339",
+  "issue": "6120",
+  "pages": "684-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23393261"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "339/6120/684"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.1230492"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23393261"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23393261"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/02/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/02/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/02/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Science. 2013 Feb 8;339(6120):655-6",
+      "reftype": "Comment in",
+      "pmid": 23393253,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 40,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "doi: 10.1126/science.1230492",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/02/08 00:00",
+  "sortfirstauthor": "Renne PR",
+  "vernaculartitle": ""
+}

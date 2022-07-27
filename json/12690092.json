@@ -1,0 +1,239 @@
+{
+  "uid": "12690092",
+  "pubdate": "2003 May 15",
+  "epubdate": "2003 Apr 10",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Ksiazek TG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Erdman D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goldsmith CS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zaki SR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peret T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Emery S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tong S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Urbani C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Comer JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lim W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rollin PE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dowell SF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ling AE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Humphrey CD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shieh WJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guarner J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paddock CD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rota P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fields B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "DeRisi J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yang JY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cox N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hughes JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "LeDuc JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellini WJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anderson LJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "SARS Working Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Anderson LJ",
+  "title": "A novel coronavirus associated with severe acute respiratory syndrome.",
+  "sorttitle": "novel coronavirus associated with severe acute respiratory syndrome",
+  "volume": "348",
+  "issue": "20",
+  "pages": "1953-66",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12690092"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMoa030781"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "NEJMoa030781"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12690092"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12690092"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/04/12 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/05/22 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/04/12 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2003 May 15;348(20):1948-51",
+      "reftype": "Comment in",
+      "pmid": 12748314,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2003 Aug 14;349(7):709",
+      "reftype": "Comment in",
+      "pmid": 12917313,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2112,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/05/15 00:00",
+  "sortfirstauthor": "Ksiazek TG",
+  "vernaculartitle": ""
+}

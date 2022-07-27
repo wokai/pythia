@@ -1,0 +1,118 @@
+{
+  "uid": "22936712",
+  "pubdate": "2013 Jan",
+  "epubdate": "2012 Aug 30",
+  "source": "Eur Respir J",
+  "authors": [
+    {
+      "name": "Naeije R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vachiery JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yerly P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vanderpool R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Vanderpool R",
+  "title": "The transpulmonary pressure gradient for the diagnosis of pulmonary vascular disease.",
+  "sorttitle": "transpulmonary pressure gradient for the diagnosis of pulmonary vascular disease",
+  "volume": "41",
+  "issue": "1",
+  "pages": "217-23",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8803460",
+  "issn": "0903-1936",
+  "essn": "1399-3003",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22936712"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "09031936.00074312"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1183/09031936.00074312"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22936712"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22936712"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/09/01 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/09/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/06/14 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur Respir J. 2013 Jan;41(1):7",
+      "reftype": "Comment in",
+      "pmid": 23277516,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 65,
+  "fulljournalname": "The European respiratory journal",
+  "elocationid": "doi: 10.1183/09031936.00074312",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/01/01 00:00",
+  "sortfirstauthor": "Naeije R",
+  "vernaculartitle": ""
+}

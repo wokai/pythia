@@ -1,0 +1,138 @@
+{
+  "uid": "30402720",
+  "pubdate": "2019 May",
+  "epubdate": "",
+  "source": "Clin Pharmacokinet",
+  "authors": [
+    {
+      "name": "Haahr H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pieber TR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mathieu C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gondolf T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shiramoto M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Erichsen L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heise T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Heise T",
+  "title": "Clinical Pharmacology of Fast-Acting Insulin Aspart Versus Insulin Aspart Measured as Free or Total Insulin Aspart and the Relation to Anti-Insulin Aspart Antibody Levels in Subjects with Type 1 Diabetes Mellitus.",
+  "sorttitle": "clinical pharmacology of fast acting insulin aspart versus insulin aspart measured as free or total insulin aspart and the relation to anti insulin aspart antibody levels in subjects with type 1 diabetes mellitus",
+  "volume": "58",
+  "issue": "5",
+  "pages": "639-649",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7606849",
+  "issn": "0312-5963",
+  "essn": "1179-1926",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30402720"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s40262-018-0718-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s40262-018-0718-6"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6451708"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30402720"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30402720"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6451708;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/11/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/07/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/11/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Clinical pharmacokinetics",
+  "elocationid": "doi: 10.1007/s40262-018-0718-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/05/01 00:00",
+  "sortfirstauthor": "Haahr H",
+  "vernaculartitle": ""
+}

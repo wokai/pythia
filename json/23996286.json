@@ -1,0 +1,535 @@
+{
+  "uid": "23996286",
+  "pubdate": "2013 Oct",
+  "epubdate": "2013 Aug 30",
+  "source": "Eur Heart J",
+  "authors": [
+    {
+      "name": "Task Force Members.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Montalescot G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sechtem U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Achenbach S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Andreotti F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arden C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Budaj A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bugiardini R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crea F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cuisset T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Di Mario C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferreira JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gersh BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gitt AK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hulot JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marx N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Opie LH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pfisterer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prescott E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ruschitzka F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sabaté M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Senior R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taggart DP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van der Wall EE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vrints CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "ESC Committee for Practice Guidelines.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Zamorano JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Achenbach S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baumgartner H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bax JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bueno H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dean V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deaton C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Erol C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fagard R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferrari R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hasdai D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoes AW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kirchhof P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Knuuti J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kolh P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lancellotti P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Linhart A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nihoyannopoulos P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Piepoli MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ponikowski P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sirnes PA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tamargo JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tendera M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Torbicki A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wijns W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Windecker S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Document Reviewers.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Knuuti J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Valgimigli M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bueno H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Claeys MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Donner-Banzhoff N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Erol C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Frank H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Funck-Brentano C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gaemperli O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gonzalez-Juanatey JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hamilos M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hasdai D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Husted S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "James SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kervinen K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kolh P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kristensen SD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lancellotti P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maggioni AP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Piepoli MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pries AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Romeo F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rydén L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Simoons ML",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sirnes PA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Steg PG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Timmis A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wijns W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Windecker S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yildirir A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zamorano JL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zamorano JL",
+  "title": "2013 ESC guidelines on the management of stable coronary artery disease: the Task Force on the management of stable coronary artery disease of the European Society of Cardiology.",
+  "sorttitle": "2013 esc guidelines on the management of stable coronary artery disease the task force on the management of stable coronary artery disease of the european society of cardiology",
+  "volume": "34",
+  "issue": "38",
+  "pages": "2949-3003",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8006263",
+  "issn": "0195-668X",
+  "essn": "1522-9645",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23996286"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "eht296"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/eurheartj/eht296"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23996286"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23996286"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/09/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/09/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/04/10 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur Heart J. 2014 Sep 1;35(33):2260-1",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Ned Tijdschr Geneeskd. 2014;158:A7385",
+      "reftype": "Comment in",
+      "pmid": 24618241,
+      "note": ""
+    },
+    {
+      "refsource": "Rev Esp Cardiol (Engl Ed). 2014 Feb;67(2):80-6",
+      "reftype": "Comment in",
+      "pmid": 24795113,
+      "note": ""
+    },
+    {
+      "refsource": "Int J Cardiol. 2019 Dec 15;297:19-21",
+      "reftype": "Comment in",
+      "pmid": 31594656,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 899,
+  "fulljournalname": "European heart journal",
+  "elocationid": "doi: 10.1093/eurheartj/eht296",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/10/01 00:00",
+  "sortfirstauthor": "Montalescot G",
+  "vernaculartitle": ""
+}

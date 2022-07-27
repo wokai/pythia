@@ -1,0 +1,136 @@
+{
+  "uid": "21190579",
+  "pubdate": "2010",
+  "epubdate": "2010 Dec 29",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Tang BM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huang SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McLean AS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "McLean AS",
+  "title": "Genome-wide transcription profiling of human sepsis: a systematic review.",
+  "sorttitle": "genome wide transcription profiling of human sepsis a systematic review",
+  "volume": "14",
+  "issue": "6",
+  "pages": "R237",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21190579"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "cc9392"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/cc9392"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3219990"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21190579"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21190579"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3219990;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2010/07/23 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2010/11/29 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2010/12/29 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2010/12/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/12/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/01/27 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Crit Care. 2011;15(1):121",
+      "reftype": "Comment in",
+      "pmid": 21392407,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 65,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/cc9392",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/01/01 00:00",
+  "sortfirstauthor": "Tang BM",
+  "vernaculartitle": ""
+}

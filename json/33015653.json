@@ -1,0 +1,251 @@
+{
+  "uid": "33015653",
+  "pubdate": "2020 Nov",
+  "epubdate": "2020 Sep 25",
+  "source": "Lancet Microbe",
+  "authors": [
+    {
+      "name": "Schurink B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roos E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Radonic T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barbe E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bouman CSC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Boer HH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Bree GJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bulle EB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aronica EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Florquin S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fronczek J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heunks LMA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Jong MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guo L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "du Long R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lutter R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Molenaar PCG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neefjes-Borst EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Niessen HWM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Noesel CJM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roelofs JJTH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Snijder EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Soer EC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Verheij J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vlaar APJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vos W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van der Wel NN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van der Wal AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van der Valk P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bugiani M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bugiani M",
+  "title": "Viral presence and immunopathology in patients with lethal COVID-19: a prospective autopsy cohort study.",
+  "sorttitle": "viral presence and immunopathology in patients with lethal covid 19 a prospective autopsy cohort study",
+  "volume": "1",
+  "issue": "7",
+  "pages": "e290-e299",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101769019",
+  "issn": "",
+  "essn": "2666-5247",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33015653"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S2666-5247(20)30144-0"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2666-5247(20)30144-0"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7518879"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33015653"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33015653"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7518879;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/06 06:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/05 06:24"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 26,
+  "fulljournalname": "The Lancet. Microbe",
+  "elocationid": "doi: 10.1016/S2666-5247(20)30144-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/11/01 00:00",
+  "sortfirstauthor": "Schurink B",
+  "vernaculartitle": ""
+}

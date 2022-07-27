@@ -1,0 +1,133 @@
+{
+  "uid": "30236244",
+  "pubdate": "2018 Oct",
+  "epubdate": "2018 Aug 8",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Hussain N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCartney CJL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neal JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chippor J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Banfield L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abdallah FW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Abdallah FW",
+  "title": "Local anaesthetic-induced myotoxicity in regional anaesthesia: a systematic review and empirical analysis.",
+  "sorttitle": "local anaesthetic induced myotoxicity in regional anaesthesia a systematic review and empirical analysis",
+  "volume": "121",
+  "issue": "4",
+  "pages": "822-841",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30236244"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(18)30572-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.bja.2018.05.076"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30236244"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30236244"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/02/22 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/05/16 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/07/09 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/09/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/09/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1016/j.bja.2018.05.076",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "Hussain N",
+  "vernaculartitle": ""
+}

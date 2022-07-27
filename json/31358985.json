@@ -1,0 +1,204 @@
+{
+  "uid": "31358985",
+  "pubdate": "2019 Nov",
+  "epubdate": "2019 Jul 29",
+  "source": "Nat Microbiol",
+  "authors": [
+    {
+      "name": "David S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reuter S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harris SR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Glasner C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feltwell T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Argimon S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abudahab K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goater R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giani T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Errico G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aspbury M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sjunnebo S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "EuSCAPE Working Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "ESGEM Study Group.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Feil EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rossolini GM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aanensen DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grundmann H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Grundmann H",
+  "title": "Epidemic of carbapenem-resistant Klebsiella pneumoniae in Europe is driven by nosocomial spread.",
+  "sorttitle": "epidemic of carbapenem resistant klebsiella pneumoniae in europe is driven by nosocomial spread",
+  "volume": "4",
+  "issue": "11",
+  "pages": "1919-1929",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101674869",
+  "issn": "",
+  "essn": "2058-5276",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31358985"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41564-019-0492-8"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41564-019-0492-8"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7244338"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "EMS83227"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31358985"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31358985"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7244338;manuscript-id: EMS83227;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/10/16 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/05/20 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/07/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/08 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/07/31 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 101,
+  "fulljournalname": "Nature microbiology",
+  "elocationid": "doi: 10.1038/s41564-019-0492-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/11/01 00:00",
+  "sortfirstauthor": "David S",
+  "vernaculartitle": ""
+}

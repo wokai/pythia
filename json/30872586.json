@@ -1,0 +1,152 @@
+{
+  "uid": "30872586",
+  "pubdate": "2019 Mar 14",
+  "epubdate": "2019 Mar 14",
+  "source": "Nat Rev Dis Primers",
+  "authors": [
+    {
+      "name": "Matthay MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zemans RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zimmerman GA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arabi YM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beitler JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mercat A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herridge M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Randolph AG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Calfee CS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Calfee CS",
+  "title": "Acute respiratory distress syndrome.",
+  "sorttitle": "acute respiratory distress syndrome",
+  "volume": "5",
+  "issue": "1",
+  "pages": "18",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101672103",
+  "issn": "",
+  "essn": "2056-676X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30872586"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41572-019-0069-0"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41572-019-0069-0"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6709677"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1042397"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30872586"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30872586"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6709677;manuscript-id: NIHMS1042397;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/03/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/03/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/09/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 322,
+  "fulljournalname": "Nature reviews. Disease primers",
+  "elocationid": "doi: 10.1038/s41572-019-0069-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/03/14 00:00",
+  "sortfirstauthor": "Matthay MA",
+  "vernaculartitle": ""
+}

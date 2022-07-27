@@ -1,0 +1,114 @@
+{
+  "uid": "20177008",
+  "pubdate": "2010 Feb 23",
+  "epubdate": "",
+  "source": "Circulation",
+  "authors": [
+    {
+      "name": "Maron BA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leopold JA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Leopold JA",
+  "title": "Aldosterone receptor antagonists: effective but often forgotten.",
+  "sorttitle": "aldosterone receptor antagonists effective but often forgotten",
+  "volume": "121",
+  "issue": "7",
+  "pages": "934-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0147763",
+  "issn": "0009-7322",
+  "essn": "1524-4539",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20177008"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "121/7/934"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/CIRCULATIONAHA.109.895235"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2828634"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS172835"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20177008"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20177008"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2828634;manuscript-id: NIHMS172835;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/02/24 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/02/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/03/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 22,
+  "fulljournalname": "Circulation",
+  "elocationid": "doi: 10.1161/CIRCULATIONAHA.109.895235",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/02/23 00:00",
+  "sortfirstauthor": "Maron BA",
+  "vernaculartitle": ""
+}

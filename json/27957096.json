@@ -1,0 +1,144 @@
+{
+  "uid": "27957096",
+  "pubdate": "2014 Aug-Sep",
+  "epubdate": "2014 Aug 31",
+  "source": "J Atr Fibrillation",
+  "authors": [
+    {
+      "name": "Lunati M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Magenta G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cattafi G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moreo A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Falaschi G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Contardi D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Locati E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Locati E",
+  "title": "Clinical Relevance Of Systematic CRT Device Optimization.",
+  "sorttitle": "clinical relevance of systematic crt device optimization",
+  "volume": "7",
+  "issue": "2",
+  "pages": "1077",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101514767",
+  "issn": "",
+  "essn": "1941-6911",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27957096"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.4022/jafib.1077"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5135253"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27957096"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27957096"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5135253;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/04/28 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2014/05/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/07/22 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/12/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/08/31 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/08/31 00:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Journal of atrial fibrillation",
+  "elocationid": "doi: 10.4022/jafib.1077",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/08/31 00:00",
+  "sortfirstauthor": "Lunati M",
+  "vernaculartitle": ""
+}

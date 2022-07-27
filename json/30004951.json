@@ -1,0 +1,97 @@
+{
+  "uid": "30004951",
+  "pubdate": "2018 Oct",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Barrington MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Uda Y",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Uda Y",
+  "title": "Did ultrasound fulfill the promise of safety in regional anesthesia?",
+  "sorttitle": "did ultrasound fulfill the promise of safety in regional anesthesia",
+  "volume": "31",
+  "issue": "5",
+  "pages": "649-655",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30004951"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0000000000000638"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30004951"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30004951"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/07/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/23 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/07/14 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0000000000000638",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "Barrington MJ",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,107 @@
+{
+  "uid": "26539790",
+  "pubdate": "2015 Dec",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Timmermann A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bergner UA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Russo SG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Russo SG",
+  "title": "Laryngeal mask airway indications: new frontiers for second-generation supraglottic airways.",
+  "sorttitle": "laryngeal mask airway indications new frontiers for second generation supraglottic airways",
+  "volume": "28",
+  "issue": "6",
+  "pages": "717-26",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26539790"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0000000000000262"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00001503-201512000-00018"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26539790"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26539790"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/11/06 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/11/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/09/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0000000000000262",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/12/01 00:00",
+  "sortfirstauthor": "Timmermann A",
+  "vernaculartitle": ""
+}

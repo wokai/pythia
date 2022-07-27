@@ -1,0 +1,118 @@
+{
+  "uid": "9637638",
+  "pubdate": "1998 Jun",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Kan RE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hughes SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rosen MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kessin C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Preston PG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lobo EP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lobo EP",
+  "title": "Intravenous remifentanil: placental transfer, maternal and neonatal effects.",
+  "sorttitle": "intravenous remifentanil placental transfer maternal and neonatal effects",
+  "volume": "88",
+  "issue": "6",
+  "pages": "1467-74",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9637638"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-199806000-00008"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9637638"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9637638"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1998/06/24 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1998/06/24 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1998/06/24 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 28,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1998/06/01 00:00",
+  "sortfirstauthor": "Kan RE",
+  "vernaculartitle": ""
+}

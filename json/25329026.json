@@ -1,0 +1,141 @@
+{
+  "uid": "25329026",
+  "pubdate": "2014 Nov",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Ducloy-Bouthors AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Susen S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Butwick A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vallet B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lockhart E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lockhart E",
+  "title": "Medical advances in the treatment of postpartum hemorrhage.",
+  "sorttitle": "medical advances in the treatment of postpartum hemorrhage",
+  "volume": "119",
+  "issue": "5",
+  "pages": "1140-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25329026"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000000450"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201411000-00022"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25329026"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25329026"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/10/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/10/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/07/15 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2015 Feb;120(2):494",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2015 Apr;120(4):956",
+      "reftype": "Comment in",
+      "pmid": 25790217,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2015 Apr;120(4):956-7",
+      "reftype": "Comment in",
+      "pmid": 25790218,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000000450",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/11/01 00:00",
+  "sortfirstauthor": "Ducloy-Bouthors AS",
+  "vernaculartitle": ""
+}

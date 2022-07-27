@@ -1,0 +1,106 @@
+{
+  "uid": "30297378",
+  "pubdate": "2019 Jan",
+  "epubdate": "2018 Oct 8",
+  "source": "BMJ Qual Saf",
+  "authors": [
+    {
+      "name": "Payne TH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Payne TH",
+  "title": "EHR-related alert fatigue: minimal progress to date, but much more can be done.",
+  "sorttitle": "ehr related alert fatigue minimal progress to date but much more can be done",
+  "volume": "28",
+  "issue": "1",
+  "pages": "1-2",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101546984",
+  "issn": "2044-5415",
+  "essn": "2044-5423",
+  "pubtype": [
+    "Comment",
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30297378"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "bmjqs-2017-007737"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmjqs-2017-007737"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30297378"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30297378"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2018/09/11 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/10/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/08/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/10/10 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "BMJ Qual Saf. 2019 Jan;28(1):10-14",
+      "reftype": "Comment on",
+      "pmid": 29507122,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 5,
+  "fulljournalname": "BMJ quality & safety",
+  "elocationid": "doi: 10.1136/bmjqs-2017-007737",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/01/01 00:00",
+  "sortfirstauthor": "Payne TH",
+  "vernaculartitle": ""
+}

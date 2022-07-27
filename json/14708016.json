@@ -1,0 +1,111 @@
+{
+  "uid": "14708016",
+  "pubdate": "2004 Jan",
+  "epubdate": "",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "Rambaut A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Posada D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crandall KA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Holmes EC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Holmes EC",
+  "title": "The causes and consequences of HIV evolution.",
+  "sorttitle": "causes and consequences of hiv evolution",
+  "volume": "5",
+  "issue": "1",
+  "pages": "52-61",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14708016"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrg1246"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrg1246"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14708016"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14708016"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/01/07 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/02/05 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/01/07 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 209,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/01/01 00:00",
+  "sortfirstauthor": "Rambaut A",
+  "vernaculartitle": ""
+}

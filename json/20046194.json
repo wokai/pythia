@@ -1,0 +1,109 @@
+{
+  "uid": "20046194",
+  "pubdate": "2010 Feb",
+  "epubdate": "2010 Jan 4",
+  "source": "Nat Rev Neurosci",
+  "authors": [
+    {
+      "name": "Diekelmann S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Born J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Born J",
+  "title": "The memory function of sleep.",
+  "sorttitle": "memory function of sleep",
+  "volume": "11",
+  "issue": "2",
+  "pages": "114-26",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962781",
+  "issn": "1471-003X",
+  "essn": "1471-0048",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20046194"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrn2762"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrn2762"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20046194"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20046194"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/01/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/01/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/02/25 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Rev Neurosci. 2010 Mar;11(3):218; author reply 218",
+      "reftype": "Comment in",
+      "pmid": 20168316,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 840,
+  "fulljournalname": "Nature reviews. Neuroscience",
+  "elocationid": "doi: 10.1038/nrn2762",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/02/01 00:00",
+  "sortfirstauthor": "Diekelmann S",
+  "vernaculartitle": ""
+}

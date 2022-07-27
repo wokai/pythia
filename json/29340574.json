@@ -1,0 +1,162 @@
+{
+  "uid": "29340574",
+  "pubdate": "2018 Apr 1",
+  "epubdate": "",
+  "source": "JAMA Neurol",
+  "authors": [
+    {
+      "name": "Simonsen CZ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yoo AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sørensen LH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Juul N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnsen SP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Andersen G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rasmussen M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rasmussen M",
+  "title": "Effect of General Anesthesia and Conscious Sedation During Endovascular Therapy on Infarct Growth and Clinical Outcomes in Acute Ischemic Stroke: A Randomized Clinical Trial.",
+  "sorttitle": "effect of general anesthesia and conscious sedation during endovascular therapy on infarct growth and clinical outcomes in acute ischemic stroke a randomized clinical trial",
+  "volume": "75",
+  "issue": "4",
+  "pages": "470-477",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101589536",
+  "issn": "2168-6149",
+  "essn": "2168-6157",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29340574"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2669924"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jamaneurol.2017.4474"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5885172"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29340574"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29340574"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5885172;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/01/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/09/11 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/01/18 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA Neurol. 2018 Sep 1;75(9):1151-1152",
+      "reftype": "Comment in",
+      "pmid": 30014090,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA Neurol. 2018 Sep 1;75(9):1151",
+      "reftype": "Comment in",
+      "pmid": 30014135,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA Neurol. 2018 Sep 1;75(9):1152-1153",
+      "reftype": "Comment in",
+      "pmid": 30014153,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesth Crit Care Pain Med. 2019 Jun;38(3):285-286",
+      "reftype": "Comment in",
+      "pmid": 30292484,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 40,
+  "fulljournalname": "JAMA neurology",
+  "elocationid": "doi: 10.1001/jamaneurol.2017.4474",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/04/01 00:00",
+  "sortfirstauthor": "Simonsen CZ",
+  "vernaculartitle": ""
+}

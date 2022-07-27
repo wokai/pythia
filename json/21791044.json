@@ -1,0 +1,160 @@
+{
+  "uid": "21791044",
+  "pubdate": "2011 Jul 25",
+  "epubdate": "2011 Jul 25",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Charron C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Repesse X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bouferrache K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bodson L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Castro S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Page B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jardin F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vieillard-Baron A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Vieillard-Baron A",
+  "title": "PaCO2 and alveolar dead space are more relevant than PaO2/FiO2 ratio in monitoring the respiratory response to prone position in ARDS patients: a physiological study.",
+  "sorttitle": "paco2 and alveolar dead space are more relevant than pao2 fio2 ratio in monitoring the respiratory response to prone position in ards patients a physiological study",
+  "volume": "15",
+  "issue": "4",
+  "pages": "R175",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21791044"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "cc10324"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/cc10324"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3387618"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21791044"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21791044"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3387618;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2011/04/27 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2011/06/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2011/07/25 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2011/07/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/07/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/08/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Crit Care. 2011;15(5):185",
+      "reftype": "Comment in",
+      "pmid": 22067424,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/cc10324",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/07/25 00:00",
+  "sortfirstauthor": "Charron C",
+  "vernaculartitle": ""
+}

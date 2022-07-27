@@ -1,0 +1,129 @@
+{
+  "uid": "22028629",
+  "pubdate": "2011 Oct",
+  "epubdate": "2011 Oct 18",
+  "source": "PLoS Biol",
+  "authors": [
+    {
+      "name": "Zhang YE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Landback P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vibranovski MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Long M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Long M",
+  "title": "Accelerated recruitment of new brain development genes into the human genome.",
+  "sorttitle": "accelerated recruitment of new brain development genes into the human genome",
+  "volume": "9",
+  "issue": "10",
+  "pages": "e1001179",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101183755",
+  "issn": "1544-9173",
+  "essn": "1545-7885",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22028629"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pbio.1001179"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PBIOLOGY-D-11-01233"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3196496"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22028629"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22028629"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3196496;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2011/03/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2011/09/08 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2011/10/27 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/10/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/02/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 59,
+  "fulljournalname": "PLoS biology",
+  "elocationid": "doi: 10.1371/journal.pbio.1001179",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/10/01 00:00",
+  "sortfirstauthor": "Zhang YE",
+  "vernaculartitle": ""
+}

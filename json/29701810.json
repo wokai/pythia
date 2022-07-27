@@ -1,0 +1,112 @@
+{
+  "uid": "29701810",
+  "pubdate": "2018 Jul 1",
+  "epubdate": "",
+  "source": "Nutr Rev",
+  "authors": [
+    {
+      "name": "Mohajeri MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "La Fata G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Steinert RE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weber P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Weber P",
+  "title": "Relationship between the gut microbiome and brain function.",
+  "sorttitle": "relationship between the gut microbiome and brain function",
+  "volume": "76",
+  "issue": "7",
+  "pages": "481-496",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0376405",
+  "issn": "0029-6643",
+  "essn": "1753-4887",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29701810"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "4985887"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/nutrit/nuy009"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29701810"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29701810"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/04/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/09/24 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/04/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "Nutrition reviews",
+  "elocationid": "doi: 10.1093/nutrit/nuy009",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/07/01 00:00",
+  "sortfirstauthor": "Mohajeri MH",
+  "vernaculartitle": ""
+}

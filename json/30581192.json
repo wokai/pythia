@@ -1,0 +1,114 @@
+{
+  "uid": "30581192",
+  "pubdate": "2019 Mar",
+  "epubdate": "",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "Khramtsova EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Davis LK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stranger BE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stranger BE",
+  "title": "The role of sex in the genomics of human complex traits.",
+  "sorttitle": "role of sex in the genomics of human complex traits",
+  "volume": "20",
+  "issue": "3",
+  "pages": "173-190",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30581192"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41576-018-0083-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41576-018-0083-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30581192"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30581192"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/12/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/07/17 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/12/25 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Rev Genet. 2019 Jun 28;:",
+      "reftype": "Erratum in",
+      "pmid": 31253947,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 34,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "doi: 10.1038/s41576-018-0083-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/03/01 00:00",
+  "sortfirstauthor": "Khramtsova EA",
+  "vernaculartitle": ""
+}

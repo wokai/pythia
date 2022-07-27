@@ -1,0 +1,102 @@
+{
+  "uid": "25915203",
+  "pubdate": "2015 Jun",
+  "epubdate": "",
+  "source": "Curr Opin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Langesæter E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gibbs M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dyer RA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dyer RA",
+  "title": "The role of cardiac output monitoring in obstetric anesthesia.",
+  "sorttitle": "role of cardiac output monitoring in obstetric anesthesia",
+  "volume": "28",
+  "issue": "3",
+  "pages": "247-53",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8813436",
+  "issn": "0952-7907",
+  "essn": "1473-6500",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25915203"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ACO.0000000000000190"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25915203"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25915203"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/04/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/04/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/01/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Current opinion in anaesthesiology",
+  "elocationid": "doi: 10.1097/ACO.0000000000000190",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/06/01 00:00",
+  "sortfirstauthor": "Langesæter E",
+  "vernaculartitle": ""
+}

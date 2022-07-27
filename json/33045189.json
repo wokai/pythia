@@ -1,0 +1,122 @@
+{
+  "uid": "33045189",
+  "pubdate": "2020 Oct 9",
+  "epubdate": "2020 Oct 9",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Carlet J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Payen D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Opal SM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Opal SM",
+  "title": "Steroids for sepsis and ARDS: this eternal controversy remains with COVID-19.",
+  "sorttitle": "steroids for sepsis and ards this eternal controversy remains with covid 19",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Letter"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33045189"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(20)32132-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(20)32132-2"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7546712"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33045189"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33045189"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7546712;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/10/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/10/06 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/12 20:07"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/13 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "pii: S0140-6736(20)32132-2. doi: 10.1016/S0140-6736(20)32132-2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/09 00:00",
+  "sortfirstauthor": "Carlet J",
+  "vernaculartitle": ""
+}

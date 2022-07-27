@@ -1,0 +1,96 @@
+{
+  "uid": "11004059",
+  "pubdate": "2000 Oct",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Bhavani-Shankar K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Philip JH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Philip JH",
+  "title": "Defining segments and phases of a time capnogram.",
+  "sorttitle": "defining segments and phases of a time capnogram",
+  "volume": "91",
+  "issue": "4",
+  "pages": "973-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11004059"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000539-200010000-00038"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11004059"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11004059"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2000/09/27 11:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2000/10/21 11:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2000/09/27 11:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/10/01 00:00",
+  "sortfirstauthor": "Bhavani-Shankar K",
+  "vernaculartitle": ""
+}

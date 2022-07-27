@@ -1,0 +1,102 @@
+{
+  "uid": "29463389",
+  "pubdate": "2018 Feb",
+  "epubdate": "",
+  "source": "Semin Perinatol",
+  "authors": [
+    {
+      "name": "Huls CK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Detlefs C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Detlefs C",
+  "title": "Trauma in pregnancy.",
+  "sorttitle": "trauma in pregnancy",
+  "volume": "42",
+  "issue": "1",
+  "pages": "13-20",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7801132",
+  "issn": "0146-0005",
+  "essn": "1558-075X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29463389"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0146-0005(17)30128-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1053/j.semperi.2017.11.004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29463389"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29463389"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/02/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/02/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/03/02 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Seminars in perinatology",
+  "elocationid": "doi: 10.1053/j.semperi.2017.11.004",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/02/01 00:00",
+  "sortfirstauthor": "Huls CK",
+  "vernaculartitle": ""
+}

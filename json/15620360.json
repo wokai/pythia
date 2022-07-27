@@ -1,0 +1,155 @@
+{
+  "uid": "15620360",
+  "pubdate": "2004 Dec 29",
+  "epubdate": "",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Dorus S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vallender EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Evans PD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anderson JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gilbert SL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mahowald M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wyckoff GJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Malcom CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lahn BT",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lahn BT",
+  "title": "Accelerated evolution of nervous system genes in the origin of Homo sapiens.",
+  "sorttitle": "accelerated evolution of nervous system genes in the origin of homo sapiens",
+  "volume": "119",
+  "issue": "7",
+  "pages": "1027-40",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15620360"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092867404011432"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2004.11.040"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15620360"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15620360"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2004/04/17 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2004/08/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2004/10/20 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/12/29 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/02/08 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/12/29 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Schizophr Res. 2008 Feb;99(1-3):370-2",
+      "reftype": "Comment in",
+      "pmid": 18054202,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 136,
+  "fulljournalname": "Cell",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/12/29 00:00",
+  "sortfirstauthor": "Dorus S",
+  "vernaculartitle": ""
+}

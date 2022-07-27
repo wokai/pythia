@@ -1,0 +1,438 @@
+{
+  "uid": "26950095",
+  "pubdate": "2016 Apr",
+  "epubdate": "2016 Mar 7",
+  "source": "Nat Genet",
+  "authors": [
+    {
+      "name": "Braasch I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gehrke AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smith JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kawasaki K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Manousaki T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pasquier J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Amores A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Desvignes T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Batzel P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Catchen J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berlin AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Campbell MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barrell D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin KJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mulley JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ravi V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee AP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nakamura T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chalopin D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fan S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wcisel D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cañestro C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sydes J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beaudry FE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sun Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hertel J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beam MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fasold M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ishiyama M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnson J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kehr S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lara M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Letaw JH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Litman GW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Litman RT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mikami M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ota T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saha NR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Williams L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stadler PF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taylor JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fontenot Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferrara A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Searle SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aken B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yandell M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schneider I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yoder JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Volff JN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Amemiya CT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Venkatesh B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Holland PW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guiguen Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bobe J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shubin NH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Di Palma F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alföldi J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lindblad-Toh K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Postlethwait JH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Postlethwait JH",
+  "title": "The spotted gar genome illuminates vertebrate evolution and facilitates human-teleost comparisons.",
+  "sorttitle": "spotted gar genome illuminates vertebrate evolution and facilitates human teleost comparisons",
+  "volume": "48",
+  "issue": "4",
+  "pages": "427-37",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9216904",
+  "issn": "1061-4036",
+  "essn": "1546-1718",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26950095"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ng.3526"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/ng.3526"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4817229"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "EMS67207"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26950095"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26950095"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4817229;manuscript-id: EMS67207;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/09/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/02/12 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/03/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/03/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/08/16 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Genet. 2016 Apr;48(4):344-5",
+      "reftype": "Comment in",
+      "pmid": 27023772,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Genet. 2016 May 27;48(6):700",
+      "reftype": "Comment in",
+      "pmid": 27230688,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Genet. 2018 Jul;50(7):908-909",
+      "reftype": "Comment in",
+      "pmid": 29955176,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 160,
+  "fulljournalname": "Nature genetics",
+  "elocationid": "doi: 10.1038/ng.3526",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/04/01 00:00",
+  "sortfirstauthor": "Braasch I",
+  "vernaculartitle": ""
+}

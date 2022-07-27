@@ -1,0 +1,155 @@
+{
+  "uid": "27132234",
+  "pubdate": "2016 Jul",
+  "epubdate": "2016 Apr 30",
+  "source": "Naunyn Schmiedebergs Arch Pharmacol",
+  "authors": [
+    {
+      "name": "Molderings GJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haenisch B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brettner S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Homann J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Menzen M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dumoulin FL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Panse J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Butterfield J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Afrin LB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Afrin LB",
+  "title": "Pharmacological treatment options for mast cell activation disease.",
+  "sorttitle": "pharmacological treatment options for mast cell activation disease",
+  "volume": "389",
+  "issue": "7",
+  "pages": "671-94",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0326264",
+  "issn": "0028-1298",
+  "essn": "1432-1912",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27132234"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00210-016-1247-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00210-016-1247-1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4903110"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27132234"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27132234"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4903110;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/03/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/04/11 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/05/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/05/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/02/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Naunyn-Schmiedeberg's archives of pharmacology",
+  "elocationid": "doi: 10.1007/s00210-016-1247-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/07/01 00:00",
+  "sortfirstauthor": "Molderings GJ",
+  "vernaculartitle": ""
+}

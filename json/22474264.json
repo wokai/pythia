@@ -1,0 +1,143 @@
+{
+  "uid": "22474264",
+  "pubdate": "2012 May 1",
+  "epubdate": "2012 Apr 3",
+  "source": "Circulation",
+  "authors": [
+    {
+      "name": "Rogers MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levine DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Blumberg N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Flanders SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chopra V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Langa KM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Langa KM",
+  "title": "Triggers of hospitalization for venous thromboembolism.",
+  "sorttitle": "triggers of hospitalization for venous thromboembolism",
+  "volume": "125",
+  "issue": "17",
+  "pages": "2092-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0147763",
+  "issn": "0009-7322",
+  "essn": "1524-4539",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22474264"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "CIRCULATIONAHA.111.084467"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/CIRCULATIONAHA.111.084467"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3342773"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS371270"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22474264"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22474264"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3342773;manuscript-id: NIHMS371270;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/04/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/04/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/07/18 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Circulation. 2012 May 1;125(17):2051-3",
+      "reftype": "Comment in",
+      "pmid": 22474263,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 29,
+  "fulljournalname": "Circulation",
+  "elocationid": "doi: 10.1161/CIRCULATIONAHA.111.084467",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/05/01 00:00",
+  "sortfirstauthor": "Rogers MA",
+  "vernaculartitle": ""
+}

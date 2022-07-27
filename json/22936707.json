@@ -1,0 +1,115 @@
+{
+  "uid": "22936707",
+  "pubdate": "2013 Feb",
+  "epubdate": "2012 Aug 30",
+  "source": "Eur Respir J",
+  "authors": [
+    {
+      "name": "Hughes JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van der Lee I",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "van der Lee I",
+  "title": "The TL,NO/TL,CO ratio in pulmonary function test interpretation.",
+  "sorttitle": "tl no tl co ratio in pulmonary function test interpretation",
+  "volume": "41",
+  "issue": "2",
+  "pages": "453-61",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8803460",
+  "issn": "0903-1936",
+  "essn": "1399-3003",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22936707"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "09031936.00082112"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1183/09031936.00082112"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22936707"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22936707"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/09/01 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/09/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/07/31 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur Respir J. 2014 Jan;43(1):310",
+      "reftype": "Comment in",
+      "pmid": 24381325,
+      "note": ""
+    },
+    {
+      "refsource": "Eur Respir J. 2014 Jan;43(1):311",
+      "reftype": "Comment in",
+      "pmid": 24381326,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "The European respiratory journal",
+  "elocationid": "doi: 10.1183/09031936.00082112",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/02/01 00:00",
+  "sortfirstauthor": "Hughes JM",
+  "vernaculartitle": ""
+}

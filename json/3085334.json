@@ -1,0 +1,101 @@
+{
+  "uid": "3085334",
+  "pubdate": "1986",
+  "epubdate": "",
+  "source": "Virchows Arch A Pathol Anat Histopathol",
+  "authors": [
+    {
+      "name": "Popper H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Juettner F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pinter J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pinter J",
+  "title": "The gastric juice aspiration syndrome (Mendelson syndrome). Aspects of pathogenesis and treatment in the pig.",
+  "sorttitle": "gastric juice aspiration syndrome mendelson syndrome aspects of pathogenesis and treatment in the pig",
+  "volume": "409",
+  "issue": "1",
+  "pages": "105-17",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8302198",
+  "issn": "0174-7398",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3085334"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/BF00705410"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3085334"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3085334"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1986/01/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1986/01/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1986/01/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Virchows Archiv. A, Pathological anatomy and histopathology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1986/01/01 00:00",
+  "sortfirstauthor": "Popper H",
+  "vernaculartitle": ""
+}

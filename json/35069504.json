@@ -1,0 +1,169 @@
+{
+  "uid": "35069504",
+  "pubdate": "2021",
+  "epubdate": "2022 Jan 5",
+  "source": "Front Microbiol",
+  "authors": [
+    {
+      "name": "Boukhari R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Breiman A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jazat J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ruvoën-Clouet N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martinez S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Damais-Cepitelli A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Le Niger C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Devie-Hubert I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Penasse F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mauriere D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sébille V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dürrbach A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Le Pendu J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Le Pendu J",
+  "title": "ABO Blood Group Incompatibility Protects Against SARS-CoV-2 Transmission.",
+  "sorttitle": "abo blood group incompatibility protects against sars cov 2 transmission",
+  "volume": "12",
+  "issue": "",
+  "pages": "799519",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101548977",
+  "issn": "",
+  "essn": "1664-302X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "35069504"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fmicb.2021.799519"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8767008"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "35069504"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "35069504"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8767008;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/10/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/11/30 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2022/01/24 08:49"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2022/01/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2022/01/25 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Frontiers in microbiology",
+  "elocationid": "doi: 10.3389/fmicb.2021.799519",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2022/01/05 00:00",
+  "sortfirstauthor": "Boukhari R",
+  "vernaculartitle": ""
+}

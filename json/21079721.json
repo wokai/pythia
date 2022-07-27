@@ -1,0 +1,125 @@
+{
+  "uid": "21079721",
+  "pubdate": "2010 Oct",
+  "epubdate": "2010 Oct 22",
+  "source": "Dtsch Arztebl Int",
+  "authors": [
+    {
+      "name": "Rüsch D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eberhart LH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wallenborn J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kranke P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kranke P",
+  "title": "Nausea and vomiting after surgery under general anesthesia: an evidence-based review concerning risk assessment, prevention, and treatment.",
+  "sorttitle": "nausea and vomiting after surgery under general anesthesia an evidence based review concerning risk assessment prevention and treatment",
+  "volume": "107",
+  "issue": "42",
+  "pages": "733-41",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101475967",
+  "issn": "",
+  "essn": "1866-0452",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21079721"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3238/arztebl.2010.0733"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2977990"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21079721"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21079721"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2977990;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2010/01/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2010/04/13 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2010/11/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/11/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/03/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "Deutsches Arzteblatt international",
+  "elocationid": "doi: 10.3238/arztebl.2010.0733",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/10/01 00:00",
+  "sortfirstauthor": "Rüsch D",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,132 @@
+{
+  "uid": "23520315",
+  "pubdate": "2014 Jan",
+  "epubdate": "2013 Mar 21",
+  "source": "Eur Respir J",
+  "authors": [
+    {
+      "name": "Burnham EL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Janssen WJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Riches DW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moss M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Downey GP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Downey GP",
+  "title": "The fibroproliferative response in acute respiratory distress syndrome: mechanisms and clinical significance.",
+  "sorttitle": "fibroproliferative response in acute respiratory distress syndrome mechanisms and clinical significance",
+  "volume": "43",
+  "issue": "1",
+  "pages": "276-85",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8803460",
+  "issn": "0903-1936",
+  "essn": "1399-3003",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23520315"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "09031936.00196412"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1183/09031936.00196412"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4015132"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS574941"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23520315"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23520315"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4015132;manuscript-id: NIHMS574941;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/03/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/03/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/09/02 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 68,
+  "fulljournalname": "The European respiratory journal",
+  "elocationid": "doi: 10.1183/09031936.00196412",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/01/01 00:00",
+  "sortfirstauthor": "Burnham EL",
+  "vernaculartitle": ""
+}

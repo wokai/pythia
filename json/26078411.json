@@ -1,0 +1,109 @@
+{
+  "uid": "26078411",
+  "pubdate": "2015 Sep",
+  "epubdate": "2015 Jun 15",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Sittig DF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wright A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wright A",
+  "title": "What makes an EHR \"open\" or interoperable?",
+  "sorttitle": "what makes an ehr open or interoperable",
+  "volume": "22",
+  "issue": "5",
+  "pages": "1099-101",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26078411"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ocv060"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/jamia/ocv060"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26078411"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26078411"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/01/07 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/05/04 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/06/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/06/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/12/25 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1093/jamia/ocv060",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/09/01 00:00",
+  "sortfirstauthor": "Sittig DF",
+  "vernaculartitle": ""
+}

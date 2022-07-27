@@ -1,0 +1,140 @@
+{
+  "uid": "29200077",
+  "pubdate": "2018 Jul",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Naguib M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brull SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kopman AF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hunter JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fülesdi B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arkes HR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Elstein A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Todd MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnson KB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Johnson KB",
+  "title": "Consensus Statement on Perioperative Use of Neuromuscular Monitoring.",
+  "sorttitle": "consensus statement on perioperative use of neuromuscular monitoring",
+  "volume": "127",
+  "issue": "1",
+  "pages": "71-80",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29200077"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000002670"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29200077"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29200077"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/12/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/08/06 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/12/05 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2018 Jul;127(1):9-11",
+      "reftype": "Comment in",
+      "pmid": 29912053,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 19,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000002670",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/07/01 00:00",
+  "sortfirstauthor": "Naguib M",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,92 @@
+{
+  "uid": "9089751",
+  "pubdate": "1997 Feb",
+  "epubdate": "",
+  "source": "Pharm World Sci",
+  "authors": [
+    {
+      "name": "Booij LH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Booij LH",
+  "title": "Neuromuscular transmission and its pharmacological blockade. Part 3: Continuous infusion of relaxants and reversal and monitoring of relaxation.",
+  "sorttitle": "neuromuscular transmission and its pharmacological blockade part 3 continuous infusion of relaxants and reversal and monitoring of relaxation",
+  "volume": "19",
+  "issue": "1",
+  "pages": "35-44",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9307352",
+  "issn": "0928-1231",
+  "essn": "1573-739X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9089751"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1023/a:1008645511543"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9089751"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9089751"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1997/02/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1997/02/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1997/02/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Pharmacy world & science : PWS",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1997/02/01 00:00",
+  "sortfirstauthor": "Booij LH",
+  "vernaculartitle": ""
+}

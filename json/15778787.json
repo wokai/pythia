@@ -1,0 +1,104 @@
+{
+  "uid": "15778787",
+  "pubdate": "2005",
+  "epubdate": "",
+  "source": "Methods Inf Med",
+  "authors": [
+    {
+      "name": "Ammenwerth E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shaw NT",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Shaw NT",
+  "title": "Bad health informatics can kill--is evaluation the answer?",
+  "sorttitle": "bad health informatics can kill is evaluation the answer",
+  "volume": "44",
+  "issue": "1",
+  "pages": "1-3",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0210453",
+  "issn": "0026-1270",
+  "essn": "2511-705X",
+  "pubtype": [
+    "Comment",
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15778787"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "05010001"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15778787"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15778787"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/03/22 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/04/30 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/03/22 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Methods Inf Med. 2004;43(3):215-31",
+      "reftype": "Comment on",
+      "pmid": 15227551,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Methods of information in medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/01/01 00:00",
+  "sortfirstauthor": "Ammenwerth E",
+  "vernaculartitle": ""
+}

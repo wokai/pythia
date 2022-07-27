@@ -1,0 +1,107 @@
+{
+  "uid": "26270115",
+  "pubdate": "2015 Oct",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Kallidaikurichi Srinivasan K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iohom G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Loughnane F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lee PJ",
+  "title": "Conventional Landmark-Guided Midline Versus Preprocedure Ultrasound-Guided Paramedian Techniques in Spinal Anesthesia.",
+  "sorttitle": "conventional landmark guided midline versus preprocedure ultrasound guided paramedian techniques in spinal anesthesia",
+  "volume": "121",
+  "issue": "4",
+  "pages": "1089-96",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26270115"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000000911"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26270115"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26270115"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/08/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/08/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/12/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000000911",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/10/01 00:00",
+  "sortfirstauthor": "Kallidaikurichi Srinivasan K",
+  "vernaculartitle": ""
+}

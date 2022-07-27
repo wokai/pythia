@@ -1,0 +1,106 @@
+{
+  "uid": "25635347",
+  "pubdate": "2015 Feb 26",
+  "epubdate": "2015 Jan 30",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Collins FS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Varmus H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Varmus H",
+  "title": "A new initiative on precision medicine.",
+  "sorttitle": "new initiative on precision medicine",
+  "volume": "372",
+  "issue": "9",
+  "pages": "793-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25635347"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMp1500523"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5101938"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25635347"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25635347"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5101938;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/01/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/01/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/03/12 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1343,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMp1500523",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/02/26 00:00",
+  "sortfirstauthor": "Collins FS",
+  "vernaculartitle": ""
+}

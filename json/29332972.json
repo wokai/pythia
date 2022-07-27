@@ -1,0 +1,102 @@
+{
+  "uid": "29332972",
+  "pubdate": "2017 Apr",
+  "epubdate": "",
+  "source": "Clin Biochem Rev",
+  "authors": [
+    {
+      "name": "Samsudin I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vasikaran SD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Vasikaran SD",
+  "title": "Clinical Utility and Measurement of Procalcitonin.",
+  "sorttitle": "clinical utility and measurement of procalcitonin",
+  "volume": "38",
+  "issue": "2",
+  "pages": "59-68",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8215797",
+  "issn": "0159-8090",
+  "essn": "1838-0212",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29332972"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5759088"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29332972"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29332972"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5759088;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/01/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/01/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/01/16 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "The Clinical biochemist. Reviews",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/04/01 00:00",
+  "sortfirstauthor": "Samsudin I",
+  "vernaculartitle": ""
+}

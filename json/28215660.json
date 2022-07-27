@@ -1,0 +1,134 @@
+{
+  "uid": "28215660",
+  "pubdate": "2017 Jul 22",
+  "epubdate": "2017 Feb 17",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Djulbegovic B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyatt GH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Guyatt GH",
+  "title": "Progress in evidence-based medicine: a quarter century on.",
+  "sorttitle": "progress in evidence based medicine a quarter century on",
+  "volume": "390",
+  "issue": "10092",
+  "pages": "415-423",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28215660"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(16)31592-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(16)31592-6"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28215660"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28215660"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/05/19 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/08/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/08/26 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/02/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/02/06 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/02/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2017 Nov 18;390(10109):2244-2245",
+      "reftype": "Comment in",
+      "pmid": 29165265,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2017 Nov 18;390(10109):2245",
+      "reftype": "Comment in",
+      "pmid": 29165266,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2017 Nov 18;390(10109):2245",
+      "reftype": "Comment in",
+      "pmid": 29165268,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 69,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(16)31592-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/07/22 00:00",
+  "sortfirstauthor": "Djulbegovic B",
+  "vernaculartitle": ""
+}

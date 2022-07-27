@@ -1,0 +1,132 @@
+{
+  "uid": "31881139",
+  "pubdate": "2019 Dec 26",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "de Cabo R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mattson MP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mattson MP",
+  "title": "Effects of Intermittent Fasting on Health, Aging, and Disease.",
+  "sorttitle": "effects of intermittent fasting on health aging and disease",
+  "volume": "381",
+  "issue": "26",
+  "pages": "2541-2551",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31881139"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJMra1905136"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31881139"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31881139"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/12/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/12/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/01/30 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 2020 Jan 16;382(3):298",
+      "reftype": "Erratum in",
+      "pmid": 31940711,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Mar 5;382(10):978",
+      "reftype": "Erratum in",
+      "pmid": 32130832,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Apr 30;382(18):1771",
+      "reftype": "Comment in",
+      "pmid": 32348661,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Apr 30;382(18):1771-1772",
+      "reftype": "Comment in",
+      "pmid": 32348662,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Apr 30;382(18):1772",
+      "reftype": "Comment in",
+      "pmid": 32348663,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 2020 Apr 30;382(18):1773",
+      "reftype": "Comment in",
+      "pmid": 32348664,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 67,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "doi: 10.1056/NEJMra1905136",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/12/26 00:00",
+  "sortfirstauthor": "de Cabo R",
+  "vernaculartitle": ""
+}

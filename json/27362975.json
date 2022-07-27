@@ -1,0 +1,143 @@
+{
+  "uid": "27362975",
+  "pubdate": "2016 Jun 30",
+  "epubdate": "2016 Jun 30",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Fullerton B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Siebenhofer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jeitler K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Horvath K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Semlitsch T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berghold A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Plank J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pieber TR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gerlach FM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gerlach FM",
+  "title": "Short-acting insulin analogues versus regular human insulin for adults with type 1 diabetes mellitus.",
+  "sorttitle": "short acting insulin analogues versus regular human insulin for adults with type 1 diabetes mellitus",
+  "volume": "",
+  "issue": "6",
+  "pages": "CD012161",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27362975"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD012161"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6597145"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27362975"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27362975"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6597145;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/07/01 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/07/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/08/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD012161",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/06/30 00:00",
+  "sortfirstauthor": "Fullerton B",
+  "vernaculartitle": ""
+}

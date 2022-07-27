@@ -1,0 +1,134 @@
+{
+  "uid": "32191764",
+  "pubdate": "2020",
+  "epubdate": "2020 Mar 19",
+  "source": "PLoS One",
+  "authors": [
+    {
+      "name": "Yuan M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yin W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tao Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tan W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hu Y",
+  "title": "Association of radiologic findings with mortality of patients infected with 2019 novel coronavirus in Wuhan, China.",
+  "sorttitle": "association of radiologic findings with mortality of patients infected with 2019 novel coronavirus in wuhan china",
+  "volume": "15",
+  "issue": "3",
+  "pages": "e0230548",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101285081",
+  "issn": "",
+  "essn": "1932-6203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32191764"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pone.0230548"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PONE-D-20-04163"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7082074"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32191764"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32191764"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7082074;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/03/03 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/03/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/03/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/26 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 156,
+  "fulljournalname": "PloS one",
+  "elocationid": "doi: 10.1371/journal.pone.0230548",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/03/19 00:00",
+  "sortfirstauthor": "Yuan M",
+  "vernaculartitle": ""
+}

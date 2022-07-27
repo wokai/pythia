@@ -1,0 +1,146 @@
+{
+  "uid": "28721927",
+  "pubdate": "2017 Aug",
+  "epubdate": "2017 Jul 11",
+  "source": "Lancet Neurol",
+  "authors": [
+    {
+      "name": "Maegele M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schöchl H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Menovsky T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maréchal H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marklund N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Buki A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stanworth S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stanworth S",
+  "title": "Coagulopathy and haemorrhagic progression in traumatic brain injury: advances in mechanisms, diagnosis, and management.",
+  "sorttitle": "coagulopathy and haemorrhagic progression in traumatic brain injury advances in mechanisms diagnosis and management",
+  "volume": "16",
+  "issue": "8",
+  "pages": "630-647",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101139309",
+  "issn": "1474-4422",
+  "essn": "1474-4465",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28721927"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1474-4422(17)30197-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S1474-4422(17)30197-7"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28721927"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28721927"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/12/06 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/05/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/05/30 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/07/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/07/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/08/02 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet Neurol. 2017 Aug;16(8):578-580",
+      "reftype": "Comment in",
+      "pmid": 28721915,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 35,
+  "fulljournalname": "The Lancet. Neurology",
+  "elocationid": "doi: 10.1016/S1474-4422(17)30197-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/08/01 00:00",
+  "sortfirstauthor": "Maegele M",
+  "vernaculartitle": ""
+}

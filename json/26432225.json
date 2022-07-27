@@ -1,0 +1,115 @@
+{
+  "uid": "26432225",
+  "pubdate": "2015 Oct 1",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Green ED",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Watson JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Collins FS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Collins FS",
+  "title": "Human Genome Project: Twenty-five years of big biology.",
+  "sorttitle": "human genome project twenty five years of big biology",
+  "volume": "526",
+  "issue": "7571",
+  "pages": "29-31",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26432225"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "526029a"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/526029a"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5101944"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26432225"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26432225"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5101944;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/10/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/10/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/10/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 40,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/526029a",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/10/01 00:00",
+  "sortfirstauthor": "Green ED",
+  "vernaculartitle": ""
+}

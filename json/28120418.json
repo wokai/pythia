@@ -1,0 +1,179 @@
+{
+  "uid": "28120418",
+  "pubdate": "2017 May 1",
+  "epubdate": "2017 Feb 8",
+  "source": "Int J Cancer",
+  "authors": [
+    {
+      "name": "Sproll C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Freund AK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hassel A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hölbling M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aust V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Storb SH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Handschel J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Teichmann C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Depprich R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Behrens B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Neves RP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kübler NR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaiser P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baldus SE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tóth C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaisers W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stoecklein NH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stoecklein NH",
+  "title": "Immunohistochemical detection of lymph node-DTCs in patients with node-negative HNSCC.",
+  "sorttitle": "immunohistochemical detection of lymph node dtcs in patients with node negative hnscc",
+  "volume": "140",
+  "issue": "9",
+  "pages": "2112-2124",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0042124",
+  "issn": "0020-7136",
+  "essn": "1097-0215",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28120418"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/ijc.30617"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28120418"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28120418"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/05/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/12/29 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/01/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/05/06 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/01/26 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "International journal of cancer",
+  "elocationid": "doi: 10.1002/ijc.30617",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/05/01 00:00",
+  "sortfirstauthor": "Sproll C",
+  "vernaculartitle": ""
+}

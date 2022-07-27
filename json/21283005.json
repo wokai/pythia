@@ -1,0 +1,158 @@
+{
+  "uid": "21283005",
+  "pubdate": "2011 May",
+  "epubdate": "",
+  "source": "Crit Care Med",
+  "authors": [
+    {
+      "name": "Saeed M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Villarroel M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reisner AT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clifford G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lehman LW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moody G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heldt T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kyaw TH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moody B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mark RG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mark RG",
+  "title": "Multiparameter Intelligent Monitoring in Intensive Care II: a public-access intensive care unit database.",
+  "sorttitle": "multiparameter intelligent monitoring in intensive care ii a public access intensive care unit database",
+  "volume": "39",
+  "issue": "5",
+  "pages": "952-60",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0355501",
+  "issn": "0090-3493",
+  "essn": "1530-0293",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21283005"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/CCM.0b013e31820a92c6"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3124312"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS299370"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21283005"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21283005"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3124312;manuscript-id: NIHMS299370;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/02/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/02/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/08/19 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Crit Care Med. 2011 May;39(5):1200-1",
+      "reftype": "Comment in",
+      "pmid": 21610575,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 210,
+  "fulljournalname": "Critical care medicine",
+  "elocationid": "doi: 10.1097/CCM.0b013e31820a92c6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/05/01 00:00",
+  "sortfirstauthor": "Saeed M",
+  "vernaculartitle": ""
+}

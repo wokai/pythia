@@ -1,0 +1,106 @@
+{
+  "uid": "8387489",
+  "pubdate": "1993 May 5",
+  "epubdate": "",
+  "source": "J Biol Chem",
+  "authors": [
+    {
+      "name": "Powers PA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hogan K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gregg RG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gregg RG",
+  "title": "Molecular characterization of the gene encoding the gamma subunit of the human skeletal muscle 1,4-dihydropyridine-sensitive Ca2+ channel (CACNLG), cDNA sequence, gene structure, and chromosomal location.",
+  "sorttitle": "molecular characterization of the gene encoding the gamma subunit of the human skeletal muscle 1 4 dihydropyridine sensitive ca2 channel cacnlg cdna sequence gene structure and chromosomal location",
+  "volume": "268",
+  "issue": "13",
+  "pages": "9275-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985121R",
+  "issn": "0021-9258",
+  "essn": "1083-351X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8387489"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0021-9258(18)98346-8"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8387489"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8387489"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1993/05/05 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1993/05/05 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1993/05/05 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 14,
+  "fulljournalname": "The Journal of biological chemistry",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1993/05/05 00:00",
+  "sortfirstauthor": "Powers PA",
+  "vernaculartitle": ""
+}

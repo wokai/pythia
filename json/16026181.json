@@ -1,0 +1,164 @@
+{
+  "uid": "16026181",
+  "pubdate": "2005 Sep",
+  "epubdate": "2005 Jul 26",
+  "source": "PLoS Biol",
+  "authors": [
+    {
+      "name": "Holmes EC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ghedin E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miller N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taylor J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bao Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "St George K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grenfell BT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Salzberg SL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fraser CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipman DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taubenberger JK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Taubenberger JK",
+  "title": "Whole-genome analysis of human influenza A virus reveals multiple persistent lineages and reassortment among recent H3N2 viruses.",
+  "sorttitle": "whole genome analysis of human influenza a virus reveals multiple persistent lineages and reassortment among recent h3n2 viruses",
+  "volume": "3",
+  "issue": "9",
+  "pages": "e300",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101183755",
+  "issn": "1544-9173",
+  "essn": "1545-7885",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16026181"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "05-PLBI-RA-0438R1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pbio.0030300"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC1180517"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16026181"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16026181"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC1180517;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2005/05/31 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2005/06/27 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/07/20 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/03/17 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/07/20 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 171,
+  "fulljournalname": "PLoS biology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/09/01 00:00",
+  "sortfirstauthor": "Holmes EC",
+  "vernaculartitle": ""
+}

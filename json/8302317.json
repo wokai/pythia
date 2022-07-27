@@ -1,0 +1,115 @@
+{
+  "uid": "8302317",
+  "pubdate": "1994 Feb 24",
+  "epubdate": "",
+  "source": "N Engl J Med",
+  "authors": [
+    {
+      "name": "Svensson PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dahlbäck B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dahlbäck B",
+  "title": "Resistance to activated protein C as a basis for venous thrombosis.",
+  "sorttitle": "resistance to activated protein c as a basis for venous thrombosis",
+  "volume": "330",
+  "issue": "8",
+  "pages": "517-22",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0255562",
+  "issn": "0028-4793",
+  "essn": "1533-4406",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8302317"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1056/NEJM199402243300801"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8302317"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8302317"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1994/02/24 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1994/02/24 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1994/02/24 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "N Engl J Med. 1994 Jul 14;331(2):129; author reply 130",
+      "reftype": "Comment in",
+      "pmid": 8208260,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 1994 Jul 14;331(2):130",
+      "reftype": "Comment in",
+      "pmid": 8208261,
+      "note": ""
+    },
+    {
+      "refsource": "N Engl J Med. 1994 Feb 24;330(8):566-7",
+      "reftype": "Comment in",
+      "pmid": 8302325,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 57,
+  "fulljournalname": "The New England journal of medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1994/02/24 00:00",
+  "sortfirstauthor": "Svensson PJ",
+  "vernaculartitle": ""
+}

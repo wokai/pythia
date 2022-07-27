@@ -1,0 +1,159 @@
+{
+  "uid": "35027728",
+  "pubdate": "2022 Jan 13",
+  "epubdate": "2022 Jan 13",
+  "source": "Nat Immunol",
+  "authors": [
+    {
+      "name": "Phetsouphanh C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Darley DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wilson DB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Howe A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Munier CML",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patel SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Juno JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burrell LM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kent SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dore GJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kelleher AD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Matthews GV",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Matthews GV",
+  "title": "Immunological dysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection.",
+  "sorttitle": "immunological dysfunction persists for 8 months following initial mild to moderate sars cov 2 infection",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100941354",
+  "issn": "1529-2908",
+  "essn": "1529-2916",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "35027728"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41590-021-01113-x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41590-021-01113-x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "35027728"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "35027728"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/07/30 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/12/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2022/01/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2022/01/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2022/01/14 05:56"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature immunology",
+  "elocationid": "doi: 10.1038/s41590-021-01113-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2022/01/13 00:00",
+  "sortfirstauthor": "Phetsouphanh C",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,151 @@
+{
+  "uid": "31775830",
+  "pubdate": "2019 Nov 27",
+  "epubdate": "2019 Nov 27",
+  "source": "Crit Care",
+  "authors": [
+    {
+      "name": "Coppola S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Caccioppola A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Froio S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ferrari E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gotti M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Formenti P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chiumello D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chiumello D",
+  "title": "Dynamic hyperinflation and intrinsic positive end-expiratory pressure in ARDS patients.",
+  "sorttitle": "dynamic hyperinflation and intrinsic positive end expiratory pressure in ards patients",
+  "volume": "23",
+  "issue": "1",
+  "pages": "375",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9801902",
+  "issn": "1364-8535",
+  "essn": "1466-609X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31775830"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13054-019-2611-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13054-019-2611-6"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6880369"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31775830"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31775830"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6880369;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/05/01 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/09/13 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/11/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/11/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/06 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Crit Care. 2019 Dec 23;23(1):422",
+      "reftype": "Comment in",
+      "pmid": 31870401,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Critical care (London, England)",
+  "elocationid": "doi: 10.1186/s13054-019-2611-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/11/27 00:00",
+  "sortfirstauthor": "Coppola S",
+  "vernaculartitle": ""
+}

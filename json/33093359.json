@@ -1,0 +1,289 @@
+{
+  "uid": "33093359",
+  "pubdate": "2021 Apr 1",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Chow JH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khanna AK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kethireddy S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yamane D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levine A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jackson AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCurdy MT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tabatabai A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kumar G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Park P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benjenk I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Menaker J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ahmed N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Glidewell E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Presutto E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cain S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haridasa N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Field W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fowler JG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Trinh D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnson KN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaur A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sebastian K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ulrich A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peña S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carpenter R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sudhakar S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Uppal P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fedeles BT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sachs A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dahbour L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Teeter W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tanaka K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Galvagno SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herr DL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scalea TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mazzeffi MA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mazzeffi MA",
+  "title": "Aspirin Use Is Associated With Decreased Mechanical Ventilation, Intensive Care Unit Admission, and In-Hospital Mortality in Hospitalized Patients With Coronavirus Disease 2019.",
+  "sorttitle": "aspirin use is associated with decreased mechanical ventilation intensive care unit admission and in hospital mortality in hospitalized patients with coronavirus disease 2019",
+  "volume": "132",
+  "issue": "4",
+  "pages": "930-941",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33093359"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-202104000-00002"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000005292"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33093359"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33093359"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/26 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/23 05:51"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2021 Apr 1;132(4):927-929",
+      "reftype": "Comment in",
+      "pmid": 33481405,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000005292",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/04/01 00:00",
+  "sortfirstauthor": "Chow JH",
+  "vernaculartitle": ""
+}

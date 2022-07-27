@@ -1,0 +1,162 @@
+{
+  "uid": "29126600",
+  "pubdate": "2018 Jan 13",
+  "epubdate": "2017 Nov 7",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Gayet-Ageron A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prieto-Merino D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ker K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shakur H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ageron FX",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roberts I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Antifibrinolytic Trials Collaboration.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Roberts I",
+  "title": "Effect of treatment delay on the effectiveness and safety of antifibrinolytics in acute severe haemorrhage: a meta-analysis of individual patient-level data from 40 138 bleeding patients.",
+  "sorttitle": "effect of treatment delay on the effectiveness and safety of antifibrinolytics in acute severe haemorrhage a meta analysis of individual patient level data from 40 138 bleeding patients",
+  "volume": "391",
+  "issue": "10116",
+  "pages": "125-132",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29126600"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(17)32455-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(17)32455-8"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5773762"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29126600"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29126600"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5773762;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/06/13 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/08/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/08/31 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/11/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/03/31 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/11/12 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2018 Jan 13;391(10116):97-98",
+      "reftype": "Comment in",
+      "pmid": 29126598,
+      "note": ""
+    },
+    {
+      "refsource": "J Thromb Haemost. 2018 Jun;16(6):1025-1027",
+      "reftype": "Comment in",
+      "pmid": 29797789,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 34,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(17)32455-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/13 00:00",
+  "sortfirstauthor": "Gayet-Ageron A",
+  "vernaculartitle": ""
+}

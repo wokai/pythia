@@ -1,0 +1,104 @@
+{
+  "uid": "32989315",
+  "pubdate": "2020 Oct",
+  "epubdate": "",
+  "source": "Nat Biotechnol",
+  "authors": [
+    {
+      "name": "DeFrancesco L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "DeFrancesco L",
+  "title": "Whither COVID-19 vaccines?",
+  "sorttitle": "whither covid 19 vaccines",
+  "volume": "38",
+  "issue": "10",
+  "pages": "1132-1145",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9604648",
+  "issn": "1087-0156",
+  "essn": "1546-1696",
+  "pubtype": [
+    "Interview"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32989315"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41587-020-0697-7"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41587-020-0697-7"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7520880"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32989315"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32989315"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7520880;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/21 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/29 05:36"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "Nature biotechnology",
+  "elocationid": "doi: 10.1038/s41587-020-0697-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/01 00:00",
+  "sortfirstauthor": "DeFrancesco L",
+  "vernaculartitle": ""
+}

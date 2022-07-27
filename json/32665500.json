@@ -1,0 +1,107 @@
+{
+  "uid": "32665500",
+  "pubdate": "2020 Aug",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Schober P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vetter TR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Vetter TR",
+  "title": "Analysis of Variance in Medical Research.",
+  "sorttitle": "analysis of variance in medical research",
+  "volume": "131",
+  "issue": "2",
+  "pages": "508-509",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Comment",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32665500"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000004839"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-202008000-00027"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32665500"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32665500"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/07/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/07/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/08/25 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2020 Aug;131(2):510-517",
+      "reftype": "Comment on",
+      "pmid": 31490817,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000004839",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/01 00:00",
+  "sortfirstauthor": "Schober P",
+  "vernaculartitle": ""
+}

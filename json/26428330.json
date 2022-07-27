@@ -1,0 +1,152 @@
+{
+  "uid": "26428330",
+  "pubdate": "2015 Oct 1",
+  "epubdate": "2015 Oct 1",
+  "source": "BMJ Open",
+  "authors": [
+    {
+      "name": "Johnston BC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ebrahim S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carrasco-Labra A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Furukawa TA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Patrick DL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crawford MW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hemmelgarn BR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schunemann HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyatt GH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nesrallah G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Nesrallah G",
+  "title": "Minimally important difference estimates and methods: a protocol.",
+  "sorttitle": "minimally important difference estimates and methods a protocol",
+  "volume": "5",
+  "issue": "10",
+  "pages": "e007953",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101552874",
+  "issn": "",
+  "essn": "2044-6055",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26428330"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "bmjopen-2015-007953"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmjopen-2015-007953"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4606423"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26428330"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26428330"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4606423;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/10/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/10/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/04/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 25,
+  "fulljournalname": "BMJ open",
+  "elocationid": "doi: 10.1136/bmjopen-2015-007953",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/10/01 00:00",
+  "sortfirstauthor": "Johnston BC",
+  "vernaculartitle": ""
+}

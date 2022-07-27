@@ -1,0 +1,208 @@
+{
+  "uid": "21993626",
+  "pubdate": "2011 Oct 12",
+  "epubdate": "2011 Oct 12",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Bos KI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schuenemann VJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Golding GB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Burbano HA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Waglechner N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coombes BK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McPhee JB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "DeWitte SN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmedes S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wood J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Earn DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herring DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bauer P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Poinar HN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krause J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Krause J",
+  "title": "A draft genome of Yersinia pestis from victims of the Black Death.",
+  "sorttitle": "draft genome of yersinia pestis from victims of the black death",
+  "volume": "478",
+  "issue": "7370",
+  "pages": "506-10",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21993626"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature10549"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature10549"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3690193"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS478452"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21993626"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21993626"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3690193;manuscript-id: NIHMS478452;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2011/07/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2011/09/09 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2011/10/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/10/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/01/27 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2011 Dec 8;480(7376):278",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Nature. 2011 Oct 27;478(7370):465-6",
+      "reftype": "Comment in",
+      "pmid": 22031436,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 153,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature10549",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/10/12 00:00",
+  "sortfirstauthor": "Bos KI",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,104 @@
+{
+  "uid": "18355382",
+  "pubdate": "2008 Jun",
+  "epubdate": "2008 Mar 18",
+  "source": "Br J Haematol",
+  "authors": [
+    {
+      "name": "Wardrop D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Keeling D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Keeling D",
+  "title": "The story of the discovery of heparin and warfarin.",
+  "sorttitle": "story of the discovery of heparin and warfarin",
+  "volume": "141",
+  "issue": "6",
+  "pages": "757-63",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372544",
+  "issn": "0007-1048",
+  "essn": "1365-2141",
+  "pubtype": [
+    "Biography",
+    "Historical Article",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "18355382"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "BJH7119"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1365-2141.2008.07119.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "18355382"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "18355382"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2008/03/22 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/09/05 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2008/03/22 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 49,
+  "fulljournalname": "British journal of haematology",
+  "elocationid": "doi: 10.1111/j.1365-2141.2008.07119.x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2008/06/01 00:00",
+  "sortfirstauthor": "Wardrop D",
+  "vernaculartitle": ""
+}

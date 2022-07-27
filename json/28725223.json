@@ -1,0 +1,115 @@
+{
+  "uid": "28725223",
+  "pubdate": "2017",
+  "epubdate": "2017 Jul 4",
+  "source": "Front Immunol",
+  "authors": [
+    {
+      "name": "Vadász I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sznajder JI",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sznajder JI",
+  "title": "Gas Exchange Disturbances Regulate Alveolar Fluid Clearance during Acute Lung Injury.",
+  "sorttitle": "gas exchange disturbances regulate alveolar fluid clearance during acute lung injury",
+  "volume": "8",
+  "issue": "",
+  "pages": "757",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101560960",
+  "issn": "",
+  "essn": "1664-3224",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28725223"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fimmu.2017.00757"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5495863"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28725223"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28725223"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5495863;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/04/27 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/06/15 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/07/21 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/07/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/07/21 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "Frontiers in immunology",
+  "elocationid": "doi: 10.3389/fimmu.2017.00757",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/07/04 00:00",
+  "sortfirstauthor": "Vadász I",
+  "vernaculartitle": ""
+}

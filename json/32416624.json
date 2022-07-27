@@ -1,0 +1,119 @@
+{
+  "uid": "32416624",
+  "pubdate": "2020 Sep",
+  "epubdate": "2020 Jun 14",
+  "source": "FEBS Lett",
+  "authors": [
+    {
+      "name": "do Nascimento Vieira A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kleinermanns K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin WF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Preiner M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Preiner M",
+  "title": "The ambivalent role of water at the origins of life.",
+  "sorttitle": "ambivalent role of water at the origins of life",
+  "volume": "594",
+  "issue": "17",
+  "pages": "2717-2733",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0155157",
+  "issn": "0014-5793",
+  "essn": "1873-3468",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32416624"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/1873-3468.13815"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32416624"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32416624"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/28 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/04/29 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/05/07 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/05/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/18 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/05/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "FEBS letters",
+  "elocationid": "doi: 10.1002/1873-3468.13815",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/01 00:00",
+  "sortfirstauthor": "do Nascimento Vieira A",
+  "vernaculartitle": ""
+}

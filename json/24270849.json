@@ -1,0 +1,313 @@
+{
+  "uid": "24270849",
+  "pubdate": "2013 Dec",
+  "epubdate": "",
+  "source": "Nat Biotechnol",
+  "authors": [
+    {
+      "name": "Denny JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bastarache L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ritchie MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carroll RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zink R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mosley JD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Field JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pulley JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramirez AH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bowton E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Basford MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carrell DS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peissig PL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kho AN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pacheco JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rasmussen LV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crosslin DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crane PK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pathak J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bielinski SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pendergrass SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xu H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hindorff LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Manolio TA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chute CG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chisholm RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Larson EB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jarvik GP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brilliant MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McCarty CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kullo IJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haines JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crawford DC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Masys DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roden DM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Roden DM",
+  "title": "Systematic comparison of phenome-wide association study of  electronic  medical record data and  genome-wide association study data.",
+  "sorttitle": "systematic comparison of phenome wide association study of electronic medical record data and genome wide association study data",
+  "volume": "31",
+  "issue": "12",
+  "pages": "1102-10",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9604648",
+  "issn": "1087-0156",
+  "essn": "1546-1696",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24270849"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nbt.2749"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nbt.2749"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3969265"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS561785"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24270849"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24270849"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3969265;manuscript-id: NIHMS561785;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/07/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2013/10/21 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/11/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/11/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/05/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Biotechnol. 2013 Dec;31(12):1095-7",
+      "reftype": "Comment in",
+      "pmid": 24316646,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Rev Genet. 2014 Jan;15(1):2",
+      "reftype": "Comment in",
+      "pmid": 24322724,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Biotechnol. 2015 Apr;33(4):342-5",
+      "reftype": "Comment in",
+      "pmid": 25850054,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 314,
+  "fulljournalname": "Nature biotechnology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/12/01 00:00",
+  "sortfirstauthor": "Denny JC",
+  "vernaculartitle": ""
+}

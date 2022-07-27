@@ -1,0 +1,139 @@
+{
+  "uid": "11980523",
+  "pubdate": "2002 May 1",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Swenson ER",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maggiorini M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mongovin S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gibbs JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greve I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mairbäurl H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bärtsch P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bärtsch P",
+  "title": "Pathogenesis of high-altitude pulmonary edema: inflammation is not an etiologic factor.",
+  "sorttitle": "pathogenesis of high altitude pulmonary edema inflammation is not an etiologic factor",
+  "volume": "287",
+  "issue": "17",
+  "pages": "2228-35",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11980523"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "joc11730"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.287.17.2228"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11980523"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11980523"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2002/05/01 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/05/10 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2002/05/01 10:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA 2002 Sep 4;288(9):1064",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2002 May 1;287(17):2275-8",
+      "reftype": "Comment in",
+      "pmid": 11980529,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 61,
+  "fulljournalname": "JAMA",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2002/05/01 00:00",
+  "sortfirstauthor": "Swenson ER",
+  "vernaculartitle": ""
+}

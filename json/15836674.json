@@ -1,0 +1,97 @@
+{
+  "uid": "15836674",
+  "pubdate": "2005 May",
+  "epubdate": "",
+  "source": "Acta Anaesthesiol Scand",
+  "authors": [
+    {
+      "name": "Grände PO",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Grände PO",
+  "title": "Mechanisms behind postspinal headache and brain stem compression following lumbar dural puncture--a physiological approach.",
+  "sorttitle": "mechanisms behind postspinal headache and brain stem compression following lumbar dural puncture a physiological approach",
+  "volume": "49",
+  "issue": "5",
+  "pages": "619-26",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370270",
+  "issn": "0001-5172",
+  "essn": "1399-6576",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15836674"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "AAS601"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1399-6576.2004.00601.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15836674"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15836674"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/04/20 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/07/28 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/04/20 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Acta anaesthesiologica Scandinavica",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/05/01 00:00",
+  "sortfirstauthor": "Grände PO",
+  "vernaculartitle": ""
+}

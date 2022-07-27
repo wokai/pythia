@@ -1,0 +1,99 @@
+{
+  "uid": "28203722",
+  "pubdate": "2017 Mar 1",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Berger MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grocott MPW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Grocott MPW",
+  "title": "Facing acute hypoxia: from the mountains to critical care medicine.",
+  "sorttitle": "facing acute hypoxia from the mountains to critical care medicine",
+  "volume": "118",
+  "issue": "3",
+  "pages": "283-286",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28203722"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)30193-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aew407"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28203722"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28203722"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/02/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/02/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/11/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 4,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aew407",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/03/01 00:00",
+  "sortfirstauthor": "Berger MM",
+  "vernaculartitle": ""
+}

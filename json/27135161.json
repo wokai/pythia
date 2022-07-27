@@ -1,0 +1,109 @@
+{
+  "uid": "27135161",
+  "pubdate": "2016 Feb 24",
+  "epubdate": "2016 Feb 24",
+  "source": "Cell Syst",
+  "authors": [
+    {
+      "name": "Allen JF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin WF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Martin WF",
+  "title": "Why Have Organelles Retained Genomes?",
+  "sorttitle": "why have organelles retained genomes",
+  "volume": "2",
+  "issue": "2",
+  "pages": "70-2",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101656080",
+  "issn": "2405-4712",
+  "essn": "2405-4720",
+  "pubtype": [
+    "Comment",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27135161"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2405-4712(16)30037-0"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cels.2016.02.007"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27135161"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27135161"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/05/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/05/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/07/19 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cell Syst. 2016 Feb 24;2(2):101-11",
+      "reftype": "Comment on",
+      "pmid": 27135164,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Cell systems",
+  "elocationid": "doi: 10.1016/j.cels.2016.02.007",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/02/24 00:00",
+  "sortfirstauthor": "Allen JF",
+  "vernaculartitle": ""
+}

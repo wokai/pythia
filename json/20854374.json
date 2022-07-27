@@ -1,0 +1,111 @@
+{
+  "uid": "20854374",
+  "pubdate": "2010 Dec",
+  "epubdate": "",
+  "source": "J Thromb Haemost",
+  "authors": [
+    {
+      "name": "Castaman G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Platè M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giacomelli SH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rodeghiero F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Duga S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Duga S",
+  "title": "Alterations of mRNA processing and stability as a pathogenic mechanism in von Willebrand factor quantitative deficiencies.",
+  "sorttitle": "alterations of mrna processing and stability as a pathogenic mechanism in von willebrand factor quantitative deficiencies",
+  "volume": "8",
+  "issue": "12",
+  "pages": "2736-42",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101170508",
+  "issn": "1538-7933",
+  "essn": "1538-7836",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20854374"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1538-7836.2010.04060.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20854374"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20854374"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/09/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/09/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/04/13 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Journal of thrombosis and haemostasis : JTH",
+  "elocationid": "doi: 10.1111/j.1538-7836.2010.04060.x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/12/01 00:00",
+  "sortfirstauthor": "Castaman G",
+  "vernaculartitle": ""
+}

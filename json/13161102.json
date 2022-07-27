@@ -1,0 +1,94 @@
+{
+  "uid": "13161102",
+  "pubdate": "1954 May",
+  "epubdate": "",
+  "source": "Circulation",
+  "authors": [
+    {
+      "name": "SARNOFF SJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "BERGLUND E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "BERGLUND E",
+  "title": "Ventricular function. I. Starling's law of the heart studied by means of simultaneous right and left ventricular function curves in the dog.",
+  "sorttitle": "ventricular function i starling s law of the heart studied by means of simultaneous right and left ventricular function curves in the dog",
+  "volume": "9",
+  "issue": "5",
+  "pages": "706-18",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0147763",
+  "issn": "0009-7322",
+  "essn": "1524-4539",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "13161102"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/01.cir.9.5.706"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "13161102"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "13161102"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1954/05/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1954/05/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1954/05/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 75,
+  "fulljournalname": "Circulation",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1954/05/01 00:00",
+  "sortfirstauthor": "SARNOFF SJ",
+  "vernaculartitle": ""
+}

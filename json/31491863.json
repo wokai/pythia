@@ -1,0 +1,149 @@
+{
+  "uid": "31491863",
+  "pubdate": "2019 Sep 5",
+  "epubdate": "2019 Sep 5",
+  "source": "Int J Environ Res Public Health",
+  "authors": [
+    {
+      "name": "Dada O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gonzalez Zacarias A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ongaigui C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Echeverria-Villalobos M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kushelev M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bergese SD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moran K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Moran K",
+  "title": "Does Rebound Pain after Peripheral Nerve Block for Orthopedic Surgery Impact Postoperative Analgesia and Opioid Consumption? A Narrative Review.",
+  "sorttitle": "does rebound pain after peripheral nerve block for orthopedic surgery impact postoperative analgesia and opioid consumption a narrative review",
+  "volume": "16",
+  "issue": "18",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101238455",
+  "issn": "1661-7827",
+  "essn": "1660-4601",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31491863"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ijerph16183257"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/ijerph16183257"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6765957"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31491863"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31491863"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6765957;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/07/24 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/08/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/09/01 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/09/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/09/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "International journal of environmental research and public health",
+  "elocationid": "pii: E3257. doi: 10.3390/ijerph16183257",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/09/05 00:00",
+  "sortfirstauthor": "Dada O",
+  "vernaculartitle": ""
+}

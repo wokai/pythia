@@ -1,0 +1,97 @@
+{
+  "uid": "29048112",
+  "pubdate": "2018 Jan",
+  "epubdate": "2017 Oct 19",
+  "source": "Br J Haematol",
+  "authors": [
+    {
+      "name": "Scherber RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Borate U",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Borate U",
+  "title": "How we diagnose and treat systemic mastocytosis in adults.",
+  "sorttitle": "how we diagnose and treat systemic mastocytosis in adults",
+  "volume": "180",
+  "issue": "1",
+  "pages": "11-23",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372544",
+  "issn": "0007-1048",
+  "essn": "1365-2141",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29048112"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/bjh.14967"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29048112"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29048112"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/10/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/02/23 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/10/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "British journal of haematology",
+  "elocationid": "doi: 10.1111/bjh.14967",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/01 00:00",
+  "sortfirstauthor": "Scherber RM",
+  "vernaculartitle": ""
+}

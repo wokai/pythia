@@ -1,0 +1,102 @@
+{
+  "uid": "9262397",
+  "pubdate": "1997 Aug 14",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Shubin N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tabin C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carroll S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Carroll S",
+  "title": "Fossils, genes and the evolution of animal limbs.",
+  "sorttitle": "fossils genes and the evolution of animal limbs",
+  "volume": "388",
+  "issue": "6643",
+  "pages": "639-48",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9262397"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/41710"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9262397"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9262397"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1997/08/14 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/03/23 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1997/08/14 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 133,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1997/08/14 00:00",
+  "sortfirstauthor": "Shubin N",
+  "vernaculartitle": ""
+}

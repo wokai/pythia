@@ -1,0 +1,125 @@
+{
+  "uid": "29377157",
+  "pubdate": "2018 Aug",
+  "epubdate": "2018 Mar 5",
+  "source": "J Physiol",
+  "authors": [
+    {
+      "name": "Joyner MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Limberg JK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wehrwein EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnson BD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Johnson BD",
+  "title": "Role of the carotid body chemoreceptors in glucose homeostasis and thermoregulation in humans.",
+  "sorttitle": "role of the carotid body chemoreceptors in glucose homeostasis and thermoregulation in humans",
+  "volume": "596",
+  "issue": "15",
+  "pages": "3079-3085",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0266262",
+  "issn": "0022-3751",
+  "essn": "1469-7793",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29377157"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1113/JP274354"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6068216"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29377157"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29377157"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6068216;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/10/11 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/01/02 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/01/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/11/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/01/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "The Journal of physiology",
+  "elocationid": "doi: 10.1113/JP274354",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/08/01 00:00",
+  "sortfirstauthor": "Joyner MJ",
+  "vernaculartitle": ""
+}

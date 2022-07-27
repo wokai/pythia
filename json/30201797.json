@@ -1,0 +1,107 @@
+{
+  "uid": "30201797",
+  "pubdate": "2018 Sep 10",
+  "epubdate": "2018 Sep 10",
+  "source": "BMJ",
+  "authors": [
+    {
+      "name": "O'Gara B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Talmor D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Talmor D",
+  "title": "Perioperative lung protective ventilation.",
+  "sorttitle": "perioperative lung protective ventilation",
+  "volume": "362",
+  "issue": "",
+  "pages": "k3030",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8900488",
+  "issn": "0959-8138",
+  "essn": "1756-1833",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30201797"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmj.k3030"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6889848"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30201797"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30201797"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6889848;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2018/09/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/09/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/03/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "BMJ (Clinical research ed.)",
+  "elocationid": "doi: 10.1136/bmj.k3030",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/09/10 00:00",
+  "sortfirstauthor": "O'Gara B",
+  "vernaculartitle": ""
+}

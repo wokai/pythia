@@ -1,0 +1,110 @@
+{
+  "uid": "24273518",
+  "pubdate": "2013",
+  "epubdate": "2013 Nov 12",
+  "source": "Front Physiol",
+  "authors": [
+    {
+      "name": "Mairbäurl H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mairbäurl H",
+  "title": "Red blood cells in sports: effects of exercise and training on oxygen supply by red blood cells.",
+  "sorttitle": "red blood cells in sports effects of exercise and training on oxygen supply by red blood cells",
+  "volume": "4",
+  "issue": "",
+  "pages": "332",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101549006",
+  "issn": "",
+  "essn": "1664-042X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24273518"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fphys.2013.00332"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3824146"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24273518"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24273518"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3824146;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/09/30 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2013/10/25 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/11/26 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/11/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/11/26 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 94,
+  "fulljournalname": "Frontiers in physiology",
+  "elocationid": "doi: 10.3389/fphys.2013.00332",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/11/12 00:00",
+  "sortfirstauthor": "Mairbäurl H",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,127 @@
+{
+  "uid": "19837031",
+  "pubdate": "2009 Oct 16",
+  "epubdate": "",
+  "source": "Cell",
+  "authors": [
+    {
+      "name": "Basbaum AI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bautista DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scherrer G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Julius D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Julius D",
+  "title": "Cellular and molecular mechanisms of pain.",
+  "sorttitle": "cellular and molecular mechanisms of pain",
+  "volume": "139",
+  "issue": "2",
+  "pages": "267-84",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0413066",
+  "issn": "0092-8674",
+  "essn": "1097-4172",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19837031"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0092-8674(09)01243-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.cell.2009.09.028"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2852643"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS155644"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19837031"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19837031"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2852643;manuscript-id: NIHMS155644;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/10/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/10/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/11/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 985,
+  "fulljournalname": "Cell",
+  "elocationid": "doi: 10.1016/j.cell.2009.09.028",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/10/16 00:00",
+  "sortfirstauthor": "Basbaum AI",
+  "vernaculartitle": ""
+}

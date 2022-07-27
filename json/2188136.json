@@ -1,0 +1,118 @@
+{
+  "uid": "2188136",
+  "pubdate": "1990 May 24",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Huet T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cheynier R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meyerhans A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roelants G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wain-Hobson S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wain-Hobson S",
+  "title": "Genetic organization of a chimpanzee lentivirus related to HIV-1.",
+  "sorttitle": "genetic organization of a chimpanzee lentivirus related to hiv 1",
+  "volume": "345",
+  "issue": "6273",
+  "pages": "356-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "2188136"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/345356a0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "2188136"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "2188136"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1990/05/24 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1990/05/24 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1990/05/24 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 1990 May 24;345(6273):288-9",
+      "reftype": "Comment in",
+      "pmid": 2342562,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 120,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1990/05/24 00:00",
+  "sortfirstauthor": "Huet T",
+  "vernaculartitle": ""
+}

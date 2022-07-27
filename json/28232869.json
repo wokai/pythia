@@ -1,0 +1,116 @@
+{
+  "uid": "28232869",
+  "pubdate": "2017",
+  "epubdate": "2017 Feb 8",
+  "source": "F1000Res",
+  "authors": [
+    {
+      "name": "Martin LD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jimenez N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lynn AM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lynn AM",
+  "title": "A review of perioperative anesthesia and analgesia for infants: updates and trends to watch.",
+  "sorttitle": "review of perioperative anesthesia and analgesia for infants updates and trends to watch",
+  "volume": "6",
+  "issue": "",
+  "pages": "120",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101594320",
+  "issn": "",
+  "essn": "2046-1402",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28232869"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.12688/f1000research.10272.1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5302152"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28232869"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28232869"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5302152;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2017/02/03 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/02/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/02/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/02/25 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "F1000Research",
+  "elocationid": "doi: 10.12688/f1000research.10272.1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/02/08 00:00",
+  "sortfirstauthor": "Martin LD",
+  "vernaculartitle": ""
+}

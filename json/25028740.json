@@ -1,0 +1,115 @@
+{
+  "uid": "25028740",
+  "pubdate": "2014 Sep",
+  "epubdate": "2014 Jul 15",
+  "source": "Aesthet Surg J",
+  "authors": [
+    {
+      "name": "Dickerson DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Apfelbaum JL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Apfelbaum JL",
+  "title": "Local anesthetic systemic toxicity.",
+  "sorttitle": "local anesthetic systemic toxicity",
+  "volume": "34",
+  "issue": "7",
+  "pages": "1111-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9707469",
+  "issn": "1090-820X",
+  "essn": "1527-330X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25028740"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1090820X14543102"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1177/1090820X14543102"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25028740"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25028740"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/07/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/07/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/09/10 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Aesthet Surg J. 2016 Jan;36(1):NP37",
+      "reftype": "Comment in",
+      "pmid": 26559187,
+      "note": ""
+    },
+    {
+      "refsource": "Aesthet Surg J. 2016 Jan;36(1):NP38",
+      "reftype": "Comment in",
+      "pmid": 26559188,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "Aesthetic surgery journal",
+  "elocationid": "doi: 10.1177/1090820X14543102",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/09/01 00:00",
+  "sortfirstauthor": "Dickerson DM",
+  "vernaculartitle": ""
+}

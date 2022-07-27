@@ -1,0 +1,141 @@
+{
+  "uid": "3115154",
+  "pubdate": "1987 Sep",
+  "epubdate": "",
+  "source": "Ann Emerg Med",
+  "authors": [
+    {
+      "name": "Reeves JT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Groves BM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sutton JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wagner PD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cymerman A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Malconian MK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rock PB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Young PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alexander JK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Houston CS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Houston CS",
+  "title": "Oxygen transport during exercise at extreme altitude: Operation Everest II.",
+  "sorttitle": "oxygen transport during exercise at extreme altitude operation everest ii",
+  "volume": "16",
+  "issue": "9",
+  "pages": "993-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8002646",
+  "issn": "0196-0644",
+  "essn": "1097-6760",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3115154"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0196-0644(87)80746-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/s0196-0644(87)80746-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3115154"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3115154"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1987/09/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1987/09/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1987/09/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Annals of emergency medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1987/09/01 00:00",
+  "sortfirstauthor": "Reeves JT",
+  "vernaculartitle": ""
+}

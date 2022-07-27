@@ -1,0 +1,144 @@
+{
+  "uid": "26959012",
+  "pubdate": "2016 Mar 4",
+  "epubdate": "2016 Mar 4",
+  "source": "Int J Mol Sci",
+  "authors": [
+    {
+      "name": "Verlinde M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hollmann MW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stevens MF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hermanns H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Werdehausen R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lirk P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lirk P",
+  "title": "Local Anesthetic-Induced Neurotoxicity.",
+  "sorttitle": "local anesthetic induced neurotoxicity",
+  "volume": "17",
+  "issue": "3",
+  "pages": "339",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101092791",
+  "issn": "",
+  "essn": "1422-0067",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26959012"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ijms17030339"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/ijms17030339"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4813201"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26959012"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26959012"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4813201;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/12/22 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/02/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/02/23 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/03/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/03/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/12/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "International journal of molecular sciences",
+  "elocationid": "doi: 10.3390/ijms17030339",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/03/04 00:00",
+  "sortfirstauthor": "Verlinde M",
+  "vernaculartitle": ""
+}

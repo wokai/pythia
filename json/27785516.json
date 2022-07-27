@@ -1,0 +1,187 @@
+{
+  "uid": "27785516",
+  "pubdate": "2016 Nov 15",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Schönenberger S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Uhlmann L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hacke W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schieber S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mundiyanapurath S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Purrucker JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nagel S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klose C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pfaff J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bendszus M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ringleb PA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kieser M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Möhlenbruch MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bösel J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bösel J",
+  "title": "Effect of Conscious Sedation vs General Anesthesia on Early Neurological Improvement Among Patients With Ischemic Stroke Undergoing Endovascular Thrombectomy: A Randomized Clinical Trial.",
+  "sorttitle": "effect of conscious sedation vs general anesthesia on early neurological improvement among patients with ischemic stroke undergoing endovascular thrombectomy a randomized clinical trial",
+  "volume": "316",
+  "issue": "19",
+  "pages": "1986-1996",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27785516"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2577957"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2016.16623"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27785516"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27785516"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/10/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/12/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/10/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA. 2017 Feb 7;317(5):538",
+      "reftype": "Erratum in",
+      "pmid": 28170460,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2017 Mar 21;317(11):1177",
+      "reftype": "Comment in",
+      "pmid": 28324083,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2017 Mar 21;317(11):1176-1177",
+      "reftype": "Comment in",
+      "pmid": 28324084,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesist. 2017 May;66(5):363-365",
+      "reftype": "Comment in",
+      "pmid": 28353066,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 58,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2016.16623",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/11/15 00:00",
+  "sortfirstauthor": "Schönenberger S",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,143 @@
+{
+  "uid": "25617015",
+  "pubdate": "2015 Mar",
+  "epubdate": "2015 Jan 4",
+  "source": "Int J Med Inform",
+  "authors": [
+    {
+      "name": "Magrabi F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baker M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sinha I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ong MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Harrison S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kidd MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Runciman WB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coiera E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Coiera E",
+  "title": "Clinical safety of England's national programme for IT: a retrospective analysis of all reported safety events 2005 to 2011.",
+  "sorttitle": "clinical safety of england s national programme for it a retrospective analysis of all reported safety events 2005 to 2011",
+  "volume": "84",
+  "issue": "3",
+  "pages": "198-206",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9711057",
+  "issn": "1386-5056",
+  "essn": "1872-8243",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25617015"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1386-5056(14)00248-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijmedinf.2014.12.003"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25617015"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25617015"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/03/26 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2014/09/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/12/28 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/01/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/01/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/09/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 24,
+  "fulljournalname": "International journal of medical informatics",
+  "elocationid": "doi: 10.1016/j.ijmedinf.2014.12.003",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/03/01 00:00",
+  "sortfirstauthor": "Magrabi F",
+  "vernaculartitle": ""
+}

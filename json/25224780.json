@@ -1,0 +1,142 @@
+{
+  "uid": "25224780",
+  "pubdate": "2015 Feb",
+  "epubdate": "2014 Sep 16",
+  "source": "Paediatr Anaesth",
+  "authors": [
+    {
+      "name": "Rhondali O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "André C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pouyau A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mahr A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Juhel S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Queiroz M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rhzioual-Berrada K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mathews S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chassard D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chassard D",
+  "title": "Sevoflurane anesthesia and brain perfusion.",
+  "sorttitle": "sevoflurane anesthesia and brain perfusion",
+  "volume": "25",
+  "issue": "2",
+  "pages": "180-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9206575",
+  "issn": "1155-5645",
+  "essn": "1460-9592",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25224780"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/pan.12512"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25224780"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25224780"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2014/07/27 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/09/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/09/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/01/13 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Paediatr Anaesth. 2015 Oct;25(10):1070",
+      "reftype": "Erratum in",
+      "pmid": 26333484,
+      "note": "André, Caroline [added]"
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Paediatric anaesthesia",
+  "elocationid": "doi: 10.1111/pan.12512",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/02/01 00:00",
+  "sortfirstauthor": "Rhondali O",
+  "vernaculartitle": ""
+}

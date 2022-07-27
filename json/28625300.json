@@ -1,0 +1,115 @@
+{
+  "uid": "28625300",
+  "pubdate": "2017 Mar",
+  "epubdate": "2016 Dec 18",
+  "source": "Best Pract Res Clin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Hofmeyr R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Matjila M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dyer R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dyer R",
+  "title": "Preeclampsia in 2017: Obstetric and Anaesthesia Management.",
+  "sorttitle": "preeclampsia in 2017 obstetric and anaesthesia management",
+  "volume": "31",
+  "issue": "1",
+  "pages": "125-138",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101121446",
+  "issn": "1521-6896",
+  "essn": "1878-1608",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28625300"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1521-6896(16)30098-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.bpa.2016.12.002"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28625300"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28625300"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/10/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/12/12 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/06/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/06/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/11/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Best practice & research. Clinical anaesthesiology",
+  "elocationid": "doi: 10.1016/j.bpa.2016.12.002",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/03/01 00:00",
+  "sortfirstauthor": "Hofmeyr R",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,144 @@
+{
+  "uid": "33578672",
+  "pubdate": "2021 Feb 10",
+  "epubdate": "2021 Feb 10",
+  "source": "Antibiotics (Basel)",
+  "authors": [
+    {
+      "name": "Lechtig-Wasserman S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liebisch-Rey H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Diaz-Pinilla N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Blanco J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fuentes-Barreiro YV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bustos RH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bustos RH",
+  "title": "Carbapenem Therapeutic Drug Monitoring in Critically Ill Adult Patients and Clinical Outcomes: A Systematic Review with Meta-Analysis.",
+  "sorttitle": "carbapenem therapeutic drug monitoring in critically ill adult patients and clinical outcomes a systematic review with meta analysis",
+  "volume": "10",
+  "issue": "2",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101637404",
+  "issn": "",
+  "essn": "2079-6382",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33578672"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "antibiotics10020177"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/antibiotics10020177"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7916352"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33578672"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33578672"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7916352;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/01/05 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/02/03 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/02/05 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/02/13 01:01"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/02/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/14 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Antibiotics (Basel, Switzerland)",
+  "elocationid": "pii: 177. doi: 10.3390/antibiotics10020177",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/10 00:00",
+  "sortfirstauthor": "Lechtig-Wasserman S",
+  "vernaculartitle": ""
+}

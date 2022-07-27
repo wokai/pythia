@@ -1,0 +1,107 @@
+{
+  "uid": "9614970",
+  "pubdate": "1998 Apr",
+  "epubdate": "",
+  "source": "Cell Mol Life Sci",
+  "authors": [
+    {
+      "name": "Philippon A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dusart J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Joris B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Frère JM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Frère JM",
+  "title": "The diversity, structure and regulation of beta-lactamases.",
+  "sorttitle": "diversity structure and regulation of beta lactamases",
+  "volume": "54",
+  "issue": "4",
+  "pages": "341-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9705402",
+  "issn": "1420-682X",
+  "essn": "1420-9071",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9614970"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s000180050161"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9614970"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9614970"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1998/06/06 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1998/06/06 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1998/06/06 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "Cellular and molecular life sciences : CMLS",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1998/04/01 00:00",
+  "sortfirstauthor": "Philippon A",
+  "vernaculartitle": ""
+}

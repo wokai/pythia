@@ -1,0 +1,138 @@
+{
+  "uid": "31102610",
+  "pubdate": "2019 Nov",
+  "epubdate": "2019 May 15",
+  "source": "Chest",
+  "authors": [
+    {
+      "name": "Lilly CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cucchi E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marshall N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Katz A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Katz A",
+  "title": "Battling Intensivist Burnout: A Role for Workload Management.",
+  "sorttitle": "battling intensivist burnout a role for workload management",
+  "volume": "156",
+  "issue": "5",
+  "pages": "1001-1007",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0231335",
+  "issn": "0012-3692",
+  "essn": "1931-3543",
+  "pubtype": [
+    "Comment",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31102610"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0012-3692(19)31045-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.chest.2019.04.103"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31102610"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31102610"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/12/08 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/04/03 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/04/25 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/05/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/05/15 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/05/19 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Chest. 2019 Nov;156(5):817-819",
+      "reftype": "Comment in",
+      "pmid": 31699227,
+      "note": ""
+    },
+    {
+      "refsource": "Chest. 2019 Nov;156(5):817-819",
+      "reftype": "Comment on",
+      "pmid": 31699227,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Chest",
+  "elocationid": "doi: 10.1016/j.chest.2019.04.103",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/11/01 00:00",
+  "sortfirstauthor": "Lilly CM",
+  "vernaculartitle": ""
+}

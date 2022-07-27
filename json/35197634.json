@@ -1,0 +1,144 @@
+{
+  "uid": "35197634",
+  "pubdate": "2022 Feb 23",
+  "epubdate": "2022 Feb 23",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "During MAD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Smit J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Voeten DFAE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berruyer C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tafforeau P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sanchez S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stein KHW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Verdegaal-Warmerdam SJA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van der Lubbe JHJL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "van der Lubbe JHJL",
+  "title": "The Mesozoic terminated in boreal spring.",
+  "sorttitle": "mesozoic terminated in boreal spring",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "35197634"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-022-04446-1"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-022-04446-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "35197634"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "35197634"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/06/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2022/01/19 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2022/02/24 05:40"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2022/02/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2022/02/25 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-022-04446-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2022/02/23 00:00",
+  "sortfirstauthor": "During MAD",
+  "vernaculartitle": ""
+}

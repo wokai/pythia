@@ -1,0 +1,124 @@
+{
+  "uid": "32946421",
+  "pubdate": "2020 Sep 17",
+  "epubdate": "2020 Sep 17",
+  "source": "Eur J Microbiol Immunol (Bp)",
+  "authors": [
+    {
+      "name": "Bandick RG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mousavi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bereswill S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heimesaat MM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Heimesaat MM",
+  "title": "Review of therapeutic options for infections with carbapenem-resistant Klebsiella pneumoniae.",
+  "sorttitle": "review of therapeutic options for infections with carbapenem resistant klebsiella pneumoniae",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101569896",
+  "issn": "2062-509X",
+  "essn": "2062-8633",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32946421"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1556/1886.2020.00022"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7592515"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32946421"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32946421"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7592515;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/07/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/08/25 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/18 17:12"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/19 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "European journal of microbiology & immunology",
+  "elocationid": "doi: 10.1556/1886.2020.00022",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/17 00:00",
+  "sortfirstauthor": "Bandick RG",
+  "vernaculartitle": ""
+}

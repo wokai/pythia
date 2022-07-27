@@ -1,0 +1,107 @@
+{
+  "uid": "25135275",
+  "pubdate": "2014 Nov",
+  "epubdate": "",
+  "source": "Anaesthesist",
+  "authors": [
+    {
+      "name": "Löser S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herminghaus A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hüppe T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wilhelm W",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wilhelm W",
+  "title": "[General anesthesia for ambulatory surgery : Clinical pharmacological considerations on the practical approach].",
+  "sorttitle": "general anesthesia for ambulatory surgery clinical pharmacological considerations on the practical approach",
+  "volume": "63",
+  "issue": "11",
+  "pages": "865-70, 872-4",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "0370525",
+  "issn": "0003-2417",
+  "essn": "1432-055X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25135275"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00101-014-2364-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25135275"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25135275"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/08/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/08/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/07/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Der Anaesthesist",
+  "elocationid": "doi: 10.1007/s00101-014-2364-1",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/11/01 00:00",
+  "sortfirstauthor": "Löser S",
+  "vernaculartitle": "Allgemeinanästhesie bei ambulanten Operationen : Klinisch-pharmakologische Überlegungen zum praktischen Vorgehen."
+}

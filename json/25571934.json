@@ -1,0 +1,132 @@
+{
+  "uid": "25571934",
+  "pubdate": "2015 Apr",
+  "epubdate": "2015 Jan 8",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Sentilhes L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lasocki S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ducloy-Bouthors AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deruelle P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dreyfus M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perrotin F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goffinet F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deneux-Tharaux C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Deneux-Tharaux C",
+  "title": "Tranexamic acid for the prevention and treatment of postpartum haemorrhage.",
+  "sorttitle": "tranexamic acid for the prevention and treatment of postpartum haemorrhage",
+  "volume": "114",
+  "issue": "4",
+  "pages": "576-87",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25571934"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)31670-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aeu448"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25571934"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25571934"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/01/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/01/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/05/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 18,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aeu448",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/04/01 00:00",
+  "sortfirstauthor": "Sentilhes L",
+  "vernaculartitle": ""
+}

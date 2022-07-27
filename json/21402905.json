@@ -1,0 +1,118 @@
+{
+  "uid": "21402905",
+  "pubdate": "2011 Mar 29",
+  "epubdate": "2011 Mar 14",
+  "source": "Proc Natl Acad Sci U S A",
+  "authors": [
+    {
+      "name": "Roebroeks W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Villa P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Villa P",
+  "title": "On the earliest evidence for habitual use of fire in Europe.",
+  "sorttitle": "on the earliest evidence for habitual use of fire in europe",
+  "volume": "108",
+  "issue": "13",
+  "pages": "5209-14",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7505876",
+  "issn": "0027-8424",
+  "essn": "1091-6490",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21402905"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1018116108"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1073/pnas.1018116108"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3069174"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21402905"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21402905"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3069174;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/03/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/03/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/06/11 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Proc Natl Acad Sci U S A. 2011 Jul 19;108(29):E298; author reply E299",
+      "reftype": "Comment in",
+      "pmid": 21742984,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 57,
+  "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+  "elocationid": "doi: 10.1073/pnas.1018116108",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/03/29 00:00",
+  "sortfirstauthor": "Roebroeks W",
+  "vernaculartitle": ""
+}

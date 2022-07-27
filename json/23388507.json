@@ -1,0 +1,137 @@
+{
+  "uid": "23388507",
+  "pubdate": "2013 May",
+  "epubdate": "2013 Feb 6",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Bi SS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deng CH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou TY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guan Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li HQ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang LP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yang L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lu W",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lu W",
+  "title": "Remifentanil-sevoflurane interaction models of circulatory response to laryngoscopy and circulatory depression.",
+  "sorttitle": "remifentanil sevoflurane interaction models of circulatory response to laryngoscopy and circulatory depression",
+  "volume": "110",
+  "issue": "5",
+  "pages": "729-40",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23388507"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)32670-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aes504"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23388507"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23388507"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/02/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/02/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/06/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aes504",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/05/01 00:00",
+  "sortfirstauthor": "Bi SS",
+  "vernaculartitle": ""
+}

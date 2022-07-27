@@ -1,0 +1,253 @@
+{
+  "uid": "32320677",
+  "pubdate": "2020 Jun 10",
+  "epubdate": "2020 Apr 21",
+  "source": "Cell Host Microbe",
+  "authors": [
+    {
+      "name": "Giamarellos-Bourboulis EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Netea MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rovina N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Akinosoglou K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Antoniadou A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Antonakos N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Damoraki G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gkavogianni T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Adami ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Katsaounou P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ntaganou M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kyriakopoulou M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dimopoulos G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koutsodimitropoulos I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Velissaris D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koufargyris P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Karageorgos A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Katrini K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lekakis V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lupse M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kotsaki A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Renieris G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Theodoulou D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Panou V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koukaki E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koulouris N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gogos C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koutsoukou A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Koutsoukou A",
+  "title": "Complex Immune Dysregulation in COVID-19 Patients with Severe Respiratory Failure.",
+  "sorttitle": "complex immune dysregulation in covid 19 patients with severe respiratory failure",
+  "volume": "27",
+  "issue": "6",
+  "pages": "992-1000.e3",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101302316",
+  "issn": "1931-3128",
+  "essn": "1934-6069",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32320677"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1931-3128(20)30236-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.chom.2020.04.009"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7172841"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32320677"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32320677"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7172841;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/03/19 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/04/03 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/04/09 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/06/20 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 518,
+  "fulljournalname": "Cell host & microbe",
+  "elocationid": "doi: 10.1016/j.chom.2020.04.009",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/06/10 00:00",
+  "sortfirstauthor": "Giamarellos-Bourboulis EJ",
+  "vernaculartitle": ""
+}

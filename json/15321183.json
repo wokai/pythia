@@ -1,0 +1,119 @@
+{
+  "uid": "15321183",
+  "pubdate": "1998 Oct",
+  "epubdate": "",
+  "source": "Int J Obstet Anesth",
+  "authors": [
+    {
+      "name": "Eappen S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Blinn A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Segal S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Segal S",
+  "title": "Incidence of epidural catheter replacement in parturients: a retrospective chart review.",
+  "sorttitle": "incidence of epidural catheter replacement in parturients a retrospective chart review",
+  "volume": "7",
+  "issue": "4",
+  "pages": "220-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9200430",
+  "issn": "0959-289X",
+  "essn": "1532-3374",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15321183"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0959289X98800423"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/s0959-289x(98)80042-3"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15321183"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15321183"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/08/24 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/08/24 05:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/08/24 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Int J Obstet Anesth. 1999 Oct;8(4):294-5",
+      "reftype": "Comment in",
+      "pmid": 15321131,
+      "note": ""
+    },
+    {
+      "refsource": "Int J Obstet Anesth. 1999 Oct;8(4):295; author reply 295-6",
+      "reftype": "Comment in",
+      "pmid": 15321132,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 12,
+  "fulljournalname": "International journal of obstetric anesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1998/10/01 00:00",
+  "sortfirstauthor": "Eappen S",
+  "vernaculartitle": ""
+}

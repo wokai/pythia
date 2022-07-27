@@ -1,0 +1,116 @@
+{
+  "uid": "22826637",
+  "pubdate": "2012",
+  "epubdate": "2012 Jul 5",
+  "source": "Diabetes Metab Syndr Obes",
+  "authors": [
+    {
+      "name": "Wang F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Surh J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaur M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kaur M",
+  "title": "Insulin degludec as an ultralong-acting basal insulin once a day: a systematic review.",
+  "sorttitle": "insulin degludec as an ultralong acting basal insulin once a day a systematic review",
+  "volume": "5",
+  "issue": "",
+  "pages": "191-204",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101515585",
+  "issn": "",
+  "essn": "1178-7007",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22826637"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.2147/DMSO.S21979"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "dmso-5-191"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3402007"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22826637"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22826637"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3402007;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2012/07/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/07/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/07/25 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+  "elocationid": "doi: 10.2147/DMSO.S21979",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/01/01 00:00",
+  "sortfirstauthor": "Wang F",
+  "vernaculartitle": ""
+}

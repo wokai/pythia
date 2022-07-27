@@ -1,0 +1,106 @@
+{
+  "uid": "6498045",
+  "pubdate": "1984 Dec",
+  "epubdate": "",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Carl P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crawford ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ravlo O",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ravlo O",
+  "title": "Fixation of extradural catheters by means of subcutaneous tissue tunnelling.",
+  "sorttitle": "fixation of extradural catheters by means of subcutaneous tissue tunnelling",
+  "volume": "56",
+  "issue": "12",
+  "pages": "1369-71",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "6498045"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)47044-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/56.12.1369"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "6498045"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "6498045"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1984/12/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1984/12/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1984/12/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1984/12/01 00:00",
+  "sortfirstauthor": "Carl P",
+  "vernaculartitle": ""
+}

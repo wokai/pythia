@@ -1,0 +1,128 @@
+{
+  "uid": "33027247",
+  "pubdate": "2020 Oct",
+  "epubdate": "2020 Oct 7",
+  "source": "PLoS Comput Biol",
+  "authors": [
+    {
+      "name": "Regazzoni F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dedè L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Quarteroni A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Quarteroni A",
+  "title": "Biophysically detailed mathematical models of multiscale cardiac active mechanics.",
+  "sorttitle": "biophysically detailed mathematical models of multiscale cardiac active mechanics",
+  "volume": "16",
+  "issue": "10",
+  "pages": "e1008294",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101238922",
+  "issn": "1553-734X",
+  "essn": "1553-7358",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33027247"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pcbi.1008294"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PCOMPBIOL-D-20-00640"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7571720"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33027247"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33027247"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7571720;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/04/20 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/08/27 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/10/19 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/20 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/07 17:13"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "PLoS computational biology",
+  "elocationid": "doi: 10.1371/journal.pcbi.1008294",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/07 00:00",
+  "sortfirstauthor": "Regazzoni F",
+  "vernaculartitle": ""
+}

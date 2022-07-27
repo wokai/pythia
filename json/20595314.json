@@ -1,0 +1,133 @@
+{
+  "uid": "20595314",
+  "pubdate": "2010 Jul-Aug",
+  "epubdate": "",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Zheng K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haftel HM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hirschl RB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Reilly M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hanauer DA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hanauer DA",
+  "title": "Quantifying the impact of health IT implementations on clinical workflow: a new methodological perspective.",
+  "sorttitle": "quantifying the impact of health it implementations on clinical workflow a new methodological perspective",
+  "volume": "17",
+  "issue": "4",
+  "pages": "454-61",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20595314"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "17/4/454"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/jamia.2010.004440"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2995654"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20595314"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20595314"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2995654;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/07/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/07/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/10/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Am Med Inform Assoc. 2010 Sep-Oct;17(5):612",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 42,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1136/jamia.2010.004440",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/07/01 00:00",
+  "sortfirstauthor": "Zheng K",
+  "vernaculartitle": ""
+}

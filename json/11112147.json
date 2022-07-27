@@ -1,0 +1,106 @@
+{
+  "uid": "11112147",
+  "pubdate": "2000 Dec",
+  "epubdate": "",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "Fencl V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jabor A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kazda A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Figge J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Figge J",
+  "title": "Diagnosis of metabolic acid-base disturbances in critically ill patients.",
+  "sorttitle": "diagnosis of metabolic acid base disturbances in critically ill patients",
+  "volume": "162",
+  "issue": "6",
+  "pages": "2246-51",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11112147"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/ajrccm.162.6.9904099"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11112147"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11112147"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2000/12/09 11:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/02/28 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2000/12/09 11:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 67,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/12/01 00:00",
+  "sortfirstauthor": "Fencl V",
+  "vernaculartitle": ""
+}

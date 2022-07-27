@@ -1,0 +1,186 @@
+{
+  "uid": "19174838",
+  "pubdate": "2009 Feb",
+  "epubdate": "2008 Jan 28",
+  "source": "Nat Genet",
+  "authors": [
+    {
+      "name": "Ioannidis JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Allison DB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ball CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coulibaly I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cui X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Culhane AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Falchi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Furlanello C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Game L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jurman G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mangion J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mehta T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nitzberg M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Page GP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petretto E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Noort V",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "van Noort V",
+  "title": "Repeatability of published microarray gene expression analyses.",
+  "sorttitle": "repeatability of published microarray gene expression analyses",
+  "volume": "41",
+  "issue": "2",
+  "pages": "149-55",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9216904",
+  "issn": "1061-4036",
+  "essn": "1546-1718",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19174838"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ng.295"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/ng.295"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19174838"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19174838"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2008/09/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2008/11/04 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2009/01/29 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/01/29 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/02/14 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Genet. 2009 Feb;41(2):135",
+      "reftype": "Comment in",
+      "pmid": 19174831,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 178,
+  "fulljournalname": "Nature genetics",
+  "elocationid": "doi: 10.1038/ng.295",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/02/01 00:00",
+  "sortfirstauthor": "Ioannidis JP",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,116 @@
+{
+  "uid": "33267665",
+  "pubdate": "2021 Jan",
+  "epubdate": "2020 Dec 3",
+  "source": "Arterioscler Thromb Vasc Biol",
+  "authors": [
+    {
+      "name": "Arepally GM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Padmanabhan A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Padmanabhan A",
+  "title": "Heparin-Induced Thrombocytopenia: A Focus on Thrombosis.",
+  "sorttitle": "heparin induced thrombocytopenia a focus on thrombosis",
+  "volume": "41",
+  "issue": "1",
+  "pages": "141-152",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9505803",
+  "issn": "1079-5642",
+  "essn": "1524-4636",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33267665"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/ATVBAHA.120.315445"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7769912"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1647704"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33267665"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33267665"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7769912;manuscript-id: NIHMS1647704;embargo-date: 2022/01/01;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pmc-release",
+      "date": "2022/01/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/02/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/03 05:25"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Arteriosclerosis, thrombosis, and vascular biology",
+  "elocationid": "doi: 10.1161/ATVBAHA.120.315445",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/01 00:00",
+  "sortfirstauthor": "Arepally GM",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,123 @@
+{
+  "uid": "29300726",
+  "pubdate": "2018 Jan",
+  "epubdate": "2018 Jan 4",
+  "source": "PLoS Genet",
+  "authors": [
+    {
+      "name": "Trott AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Menet JS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Menet JS",
+  "title": "Regulation of circadian clock transcriptional output by CLOCK:BMAL1.",
+  "sorttitle": "regulation of circadian clock transcriptional output by clock bmal1",
+  "volume": "14",
+  "issue": "1",
+  "pages": "e1007156",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101239074",
+  "issn": "1553-7390",
+  "essn": "1553-7404",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29300726"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pgen.1007156"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PGENETICS-D-17-00984"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5771620"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29300726"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29300726"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5771620;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/05/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/12/14 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/01/17 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/01/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/06/21 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/01/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 25,
+  "fulljournalname": "PLoS genetics",
+  "elocationid": "doi: 10.1371/journal.pgen.1007156",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/04 00:00",
+  "sortfirstauthor": "Trott AJ",
+  "vernaculartitle": ""
+}

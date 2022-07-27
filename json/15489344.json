@@ -1,0 +1,112 @@
+{
+  "uid": "15489344",
+  "pubdate": "2004 Oct",
+  "epubdate": "",
+  "source": "Clin Microbiol Rev",
+  "authors": [
+    {
+      "name": "Waites KB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Talkington DF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Talkington DF",
+  "title": "Mycoplasma pneumoniae and its role as a human pathogen.",
+  "sorttitle": "mycoplasma pneumoniae and its role as a human pathogen",
+  "volume": "17",
+  "issue": "4",
+  "pages": "697-728, table of contents",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8807282",
+  "issn": "0893-8512",
+  "essn": "1098-6618",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15489344"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "17/4/697"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1128/CMR.17.4.697-728.2004"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC523564"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15489344"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15489344"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC523564;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/10/19 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/01/11 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/10/19 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 421,
+  "fulljournalname": "Clinical microbiology reviews",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/10/01 00:00",
+  "sortfirstauthor": "Waites KB",
+  "vernaculartitle": ""
+}

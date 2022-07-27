@@ -1,0 +1,96 @@
+{
+  "uid": "15531755",
+  "pubdate": "2004 Dec",
+  "epubdate": "",
+  "source": "Am J Physiol Lung Cell Mol Physiol",
+  "authors": [
+    {
+      "name": "West JB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "West JB",
+  "title": "Understanding pulmonary gas exchange: ventilation-perfusion relationships.",
+  "sorttitle": "understanding pulmonary gas exchange ventilation perfusion relationships",
+  "volume": "287",
+  "issue": "6",
+  "pages": "L1071-2",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100901229",
+  "issn": "1040-0605",
+  "essn": "1522-1504",
+  "pubtype": [
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15531755"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "287/6/L1071"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/classicessays.00024.2004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15531755"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15531755"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/11/09 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/01/13 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/11/09 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "American journal of physiology. Lung cellular and molecular physiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/12/01 00:00",
+  "sortfirstauthor": "West JB",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,103 @@
+{
+  "uid": "22948037",
+  "pubdate": "2013 Jan-Mar",
+  "epubdate": "2012 Aug 28",
+  "source": "Mutat Res",
+  "authors": [
+    {
+      "name": "Carlson EA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Carlson EA",
+  "title": "H.J. Muller's contributions to mutation research.",
+  "sorttitle": "h j muller s contributions to mutation research",
+  "volume": "752",
+  "issue": "1",
+  "pages": "1-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0400763",
+  "issn": "0027-5107",
+  "essn": "1873-135X",
+  "pubtype": [
+    "Biography",
+    "Historical Article",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22948037"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1383-5742(12)00048-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.mrrev.2012.08.003"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22948037"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22948037"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2012/08/19 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2012/09/06 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/09/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/04/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Mutation research",
+  "elocationid": "doi: 10.1016/j.mrrev.2012.08.003",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/01/01 00:00",
+  "sortfirstauthor": "Carlson EA",
+  "vernaculartitle": ""
+}

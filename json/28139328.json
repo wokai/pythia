@@ -1,0 +1,106 @@
+{
+  "uid": "28139328",
+  "pubdate": "2017 May",
+  "epubdate": "2017 Jan 12",
+  "source": "Int J Obstet Anesth",
+  "authors": [
+    {
+      "name": "Ngan Kee WD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ngan Kee WD",
+  "title": "Norepinephrine for maintaining blood pressure during spinal anaesthesia for caesarean section: a 12-month review of individual use.",
+  "sorttitle": "norepinephrine for maintaining blood pressure during spinal anaesthesia for caesarean section a 12 month review of individual use",
+  "volume": "30",
+  "issue": "",
+  "pages": "73-74",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9200430",
+  "issn": "0959-289X",
+  "essn": "1532-3374",
+  "pubtype": [
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28139328"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0959-289X(16)30195-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ijoa.2017.01.004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28139328"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28139328"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/12/13 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/01/04 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/01/05 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/02/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/07/17 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/02/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "International journal of obstetric anesthesia",
+  "elocationid": "doi: 10.1016/j.ijoa.2017.01.004",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/05/01 00:00",
+  "sortfirstauthor": "Ngan Kee WD",
+  "vernaculartitle": ""
+}

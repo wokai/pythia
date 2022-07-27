@@ -1,0 +1,309 @@
+{
+  "uid": "34135334",
+  "pubdate": "2021 Jun 16",
+  "epubdate": "2021 Jun 16",
+  "source": "Nat Commun",
+  "authors": [
+    {
+      "name": "Colchero F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aburto JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Archie EA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boesch C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Breuer T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Campos FA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Collins A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Conde DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cords M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Crockford C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thompson ME",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fedigan LM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fichtel C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Groenenberg M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hobaiter C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kappeler PM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lawler RR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lewis RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Machanda ZP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Manguette ML",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muller MN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Packer C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parnell RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perry S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pusey AE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Robbins MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seyfarth RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Silk JB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Staerk J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stoinski TS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stokes EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Strier KB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Strum SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tung J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Villavicencio F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wittig RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wrangham RW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zuberbühler K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vaupel JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alberts SC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Alberts SC",
+  "title": "The long lives of primates and the 'invariant rate of ageing' hypothesis.",
+  "sorttitle": "long lives of primates and the invariant rate of ageing hypothesis",
+  "volume": "12",
+  "issue": "1",
+  "pages": "3666",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101528555",
+  "issn": "",
+  "essn": "2041-1723",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34135334"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41467-021-23894-3"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41467-021-23894-3"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8209124"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34135334"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34135334"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8209124;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/11/29 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/05/19 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/06/17 05:59"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/06/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/06/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Nature communications",
+  "elocationid": "doi: 10.1038/s41467-021-23894-3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/06/16 00:00",
+  "sortfirstauthor": "Colchero F",
+  "vernaculartitle": ""
+}

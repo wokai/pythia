@@ -1,0 +1,122 @@
+{
+  "uid": "29123227",
+  "pubdate": "2017 Nov 10",
+  "epubdate": "",
+  "source": "Nat Rev Microbiol",
+  "authors": [
+    {
+      "name": "Prangishvili D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bamford DH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Forterre P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iranzo J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koonin EV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krupovic M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Krupovic M",
+  "title": "The enigmatic archaeal virosphere.",
+  "sorttitle": "enigmatic archaeal virosphere",
+  "volume": "15",
+  "issue": "12",
+  "pages": "724-739",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101190261",
+  "issn": "1740-1526",
+  "essn": "1740-1534",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29123227"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrmicro.2017.125"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrmicro.2017.125"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29123227"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29123227"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/11/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/11/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/11/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 39,
+  "fulljournalname": "Nature reviews. Microbiology",
+  "elocationid": "doi: 10.1038/nrmicro.2017.125",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/11/10 00:00",
+  "sortfirstauthor": "Prangishvili D",
+  "vernaculartitle": ""
+}

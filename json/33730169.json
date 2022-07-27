@@ -1,0 +1,164 @@
+{
+  "uid": "33730169",
+  "pubdate": "2021 Jun 1",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Li G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Freundlich RE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gupta RK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hayhurst CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Le CH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shotwell MS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wanderer JP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wanderer JP",
+  "title": "Postoperative Pulmonary Complications' Association with Sugammadex versus Neostigmine: A Retrospective Registry Analysis.",
+  "sorttitle": "postoperative pulmonary complications association with sugammadex versus neostigmine a retrospective registry analysis",
+  "volume": "134",
+  "issue": "6",
+  "pages": "862-873",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Comment",
+    "Editorial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33730169"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "115476"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000003735"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8114582"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1670124"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33730169"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33730169"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8114582;manuscript-id: NIHMS1670124;embargo-date: 2022/06/01;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pmc-release",
+      "date": "2022/06/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/03/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/07/20 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/03/17 17:42"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2021 Jun 1;134(6):828-831",
+      "reftype": "Comment in",
+      "pmid": 33909882,
+      "note": ""
+    },
+    {
+      "refsource": "Anesthesiology. 2021 Apr 28;:",
+      "reftype": "Comment on",
+      "pmid": 33909882,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000003735",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/06/01 00:00",
+  "sortfirstauthor": "Li G",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,129 @@
+{
+  "uid": "34068723",
+  "pubdate": "2021 May 10",
+  "epubdate": "2021 May 10",
+  "source": "Int J Environ Res Public Health",
+  "authors": [
+    {
+      "name": "Baliuliene V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vitartaite M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rimaitis K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rimaitis K",
+  "title": "Prophylactic Dose of Oxytocin for Uterine Atony during Caesarean Delivery: A Systematic Review.",
+  "sorttitle": "prophylactic dose of oxytocin for uterine atony during caesarean delivery a systematic review",
+  "volume": "18",
+  "issue": "9",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101238455",
+  "issn": "1661-7827",
+  "essn": "1660-4601",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34068723"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ijerph18095029"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/ijerph18095029"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8126197"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34068723"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34068723"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8126197;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/04/08 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/04/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/05/06 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/06/02 01:23"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/06/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/06/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "International journal of environmental research and public health",
+  "elocationid": "pii: 5029. doi: 10.3390/ijerph18095029",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/05/10 00:00",
+  "sortfirstauthor": "Baliuliene V",
+  "vernaculartitle": ""
+}

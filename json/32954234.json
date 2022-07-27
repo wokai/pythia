@@ -1,0 +1,136 @@
+{
+  "uid": "32954234",
+  "pubdate": "2020 Aug",
+  "epubdate": "2020 Jul 15",
+  "source": "EClinicalMedicine",
+  "authors": [
+    {
+      "name": "Larsen S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Russell RV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ockert LK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Spanos S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Travis HS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ehlers LH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mærkedahl A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mærkedahl A",
+  "title": "Rate and impact of duodenoscope contamination: A systematic review and meta-analysis.",
+  "sorttitle": "rate and impact of duodenoscope contamination a systematic review and meta analysis",
+  "volume": "25",
+  "issue": "",
+  "pages": "100451",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101733727",
+  "issn": "",
+  "essn": "2589-5370",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32954234"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.eclinm.2020.100451"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2589-5370(20)30195-4"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7486302"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32954234"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32954234"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7486302;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/21 06:24"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/22 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "EClinicalMedicine",
+  "elocationid": "doi: 10.1016/j.eclinm.2020.100451",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/15 00:00",
+  "sortfirstauthor": "Larsen S",
+  "vernaculartitle": ""
+}

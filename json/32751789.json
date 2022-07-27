@@ -1,0 +1,138 @@
+{
+  "uid": "32751789",
+  "pubdate": "2020 Jul 31",
+  "epubdate": "2020 Jul 31",
+  "source": "Animals (Basel)",
+  "authors": [
+    {
+      "name": "Jankowski M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mozdziak P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petitte J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kulus M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kempisty B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kempisty B",
+  "title": "Avian Satellite Cell Plasticity.",
+  "sorttitle": "avian satellite cell plasticity",
+  "volume": "10",
+  "issue": "8",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101635614",
+  "issn": "",
+  "essn": "2076-2615",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32751789"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ani10081322"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/ani10081322"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7459542"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32751789"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32751789"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7459542;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/06/22 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/07/29 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/07/29 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/06 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/08/06 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Animals : an open access journal from MDPI",
+  "elocationid": "pii: E1322. doi: 10.3390/ani10081322",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/07/31 00:00",
+  "sortfirstauthor": "Jankowski M",
+  "vernaculartitle": ""
+}

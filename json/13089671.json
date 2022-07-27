@@ -1,0 +1,94 @@
+{
+  "uid": "13089671",
+  "pubdate": "1953 Sep 4",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "ASERINSKY E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "KLEITMAN N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "KLEITMAN N",
+  "title": "Regularly occurring periods of eye motility, and concomitant phenomena, during sleep.",
+  "sorttitle": "regularly occurring periods of eye motility and concomitant phenomena during sleep",
+  "volume": "118",
+  "issue": "3062",
+  "pages": "273-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "13089671"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.118.3062.273"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "13089671"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "13089671"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1953/09/04 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1953/09/04 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1953/09/04 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 192,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1953/09/04 00:00",
+  "sortfirstauthor": "ASERINSKY E",
+  "vernaculartitle": ""
+}

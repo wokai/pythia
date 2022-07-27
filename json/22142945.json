@@ -1,0 +1,143 @@
+{
+  "uid": "22142945",
+  "pubdate": "2012 Aug",
+  "epubdate": "2011 Nov 28",
+  "source": "J Biomed Inform",
+  "authors": [
+    {
+      "name": "Maldonado JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Costa CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Moner D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Menárguez-Tortosa M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boscá D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miñarro Giménez JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fernández-Breis JT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Robles M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Robles M",
+  "title": "Using the ResearchEHR platform to facilitate the practical application of the EHR standards.",
+  "sorttitle": "using the researchehr platform to facilitate the practical application of the ehr standards",
+  "volume": "45",
+  "issue": "4",
+  "pages": "746-62",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100970413",
+  "issn": "1532-0464",
+  "essn": "1532-0480",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22142945"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1532-0464(11)00192-4"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jbi.2011.11.004"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22142945"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22142945"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2011/07/30 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2011/10/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2011/11/15 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2011/12/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/12/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/03/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 7,
+  "fulljournalname": "Journal of biomedical informatics",
+  "elocationid": "doi: 10.1016/j.jbi.2011.11.004",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/08/01 00:00",
+  "sortfirstauthor": "Maldonado JA",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,101 @@
+{
+  "uid": "22528166",
+  "pubdate": "2012 Jun",
+  "epubdate": "2012 Apr 24",
+  "source": "Can J Anaesth",
+  "authors": [
+    {
+      "name": "Loubert C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Loubert C",
+  "title": "Fluid and vasopressor management for Cesarean delivery under spinal anesthesia: continuing professional development.",
+  "sorttitle": "fluid and vasopressor management for cesarean delivery under spinal anesthesia continuing professional development",
+  "volume": "59",
+  "issue": "6",
+  "pages": "604-19",
+  "lang": [
+    "eng",
+    "fre"
+  ],
+  "nlmuniqueid": "8701709",
+  "issn": "0832-610X",
+  "essn": "1496-8975",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22528166"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s12630-012-9705-9"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22528166"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22528166"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2011/11/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2012/03/20 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2012/04/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/04/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/09/19 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 22,
+  "fulljournalname": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+  "elocationid": "doi: 10.1007/s12630-012-9705-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/06/01 00:00",
+  "sortfirstauthor": "Loubert C",
+  "vernaculartitle": ""
+}

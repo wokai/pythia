@@ -1,0 +1,112 @@
+{
+  "uid": "31341269",
+  "pubdate": "2019 Nov",
+  "epubdate": "2019 Jul 24",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "Stark R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grzelak M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hadfield J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hadfield J",
+  "title": "RNA sequencing: the teenage years.",
+  "sorttitle": "rna sequencing the teenage years",
+  "volume": "20",
+  "issue": "11",
+  "pages": "631-656",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31341269"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41576-019-0150-2"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41576-019-0150-2"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31341269"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31341269"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2019/06/18 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/07/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/04 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/07/26 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 98,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "doi: 10.1038/s41576-019-0150-2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/11/01 00:00",
+  "sortfirstauthor": "Stark R",
+  "vernaculartitle": ""
+}

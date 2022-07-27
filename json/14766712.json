@@ -1,0 +1,142 @@
+{
+  "uid": "14766712",
+  "pubdate": "2004 Apr",
+  "epubdate": "2004 Feb 6",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Pitsiu M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wilmer A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bodenham A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Breen D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bach V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bonde J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kessler P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Albrecht S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fisher G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kirkham A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kirkham A",
+  "title": "Pharmacokinetics of remifentanil and its major metabolite, remifentanil acid, in ICU patients with renal impairment.",
+  "sorttitle": "pharmacokinetics of remifentanil and its major metabolite remifentanil acid in icu patients with renal impairment",
+  "volume": "92",
+  "issue": "4",
+  "pages": "493-503",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14766712"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aeh086"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)36107-X"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14766712"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14766712"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/02/10 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/04/15 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/02/10 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/04/01 00:00",
+  "sortfirstauthor": "Pitsiu M",
+  "vernaculartitle": ""
+}

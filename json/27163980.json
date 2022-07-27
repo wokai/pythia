@@ -1,0 +1,119 @@
+{
+  "uid": "27163980",
+  "pubdate": "2016 May 10",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Chambers DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Feero WG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khoury MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Khoury MJ",
+  "title": "Convergence of Implementation Science, Precision Medicine, and the Learning Health Care System: A New Model for Biomedical Research.",
+  "sorttitle": "convergence of implementation science precision medicine and the learning health care system a new model for biomedical research",
+  "volume": "315",
+  "issue": "18",
+  "pages": "1941-2",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27163980"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2520639"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2016.3867"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5624312"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS894256"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27163980"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27163980"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5624312;manuscript-id: NIHMS894256;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/05/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/05/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/05/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 89,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2016.3867",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/05/10 00:00",
+  "sortfirstauthor": "Chambers DA",
+  "vernaculartitle": ""
+}

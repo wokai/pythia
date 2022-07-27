@@ -1,0 +1,164 @@
+{
+  "uid": "33446739",
+  "pubdate": "2021 Jan 14",
+  "epubdate": "2021 Jan 14",
+  "source": "Sci Rep",
+  "authors": [
+    {
+      "name": "Liu J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bai C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shan A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shi F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yao C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xie M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deng D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Deng D",
+  "title": "Mortality prediction using a novel combination of biomarkers in the first day of sepsis in intensive care units.",
+  "sorttitle": "mortality prediction using a novel combination of biomarkers in the first day of sepsis in intensive care units",
+  "volume": "11",
+  "issue": "1",
+  "pages": "1275",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101563288",
+  "issn": "",
+  "essn": "2045-2322",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33446739"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41598-020-79843-5"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41598-020-79843-5"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7809407"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33446739"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33446739"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7809407;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/06/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/12/14 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/15 05:55"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Scientific reports",
+  "elocationid": "doi: 10.1038/s41598-020-79843-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/14 00:00",
+  "sortfirstauthor": "Liu J",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,163 @@
+{
+  "uid": "28363204",
+  "pubdate": "2017 Mar 1",
+  "epubdate": "",
+  "source": "Eur Heart J Cardiovasc Imaging",
+  "authors": [
+    {
+      "name": "Baumgartner H Chair",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hung J Co-Chair",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bermejo J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chambers JB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Edvardsen T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goldstein S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lancellotti P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "LeFevre M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miller F Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Otto CM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Otto CM",
+  "title": "Recommendations on the echocardiographic assessment of aortic valve stenosis: a focused update from the European Association of Cardiovascular Imaging and the American Society of Echocardiography.",
+  "sorttitle": "recommendations on the echocardiographic assessment of aortic valve stenosis a focused update from the european association of cardiovascular imaging and the american society of echocardiography",
+  "volume": "18",
+  "issue": "3",
+  "pages": "254-275",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101573788",
+  "issn": "2047-2404",
+  "essn": "2047-2412",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28363204"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "3039326"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/ehjci/jew335"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28363204"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28363204"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/12/20 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/12/23 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/04/01 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/04/01 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/01/09 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Am Soc Echocardiogr. 2017 Oct;30(10):1038-1041",
+      "reftype": "Comment in",
+      "pmid": 28764864,
+      "note": ""
+    },
+    {
+      "refsource": "J Am Soc Echocardiogr. 2017 Oct;30(10):1041",
+      "reftype": "Comment in",
+      "pmid": 28864151,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 49,
+  "fulljournalname": "European heart journal cardiovascular Imaging",
+  "elocationid": "doi: 10.1093/ehjci/jew335",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/03/01 00:00",
+  "sortfirstauthor": "Baumgartner H Chair",
+  "vernaculartitle": ""
+}

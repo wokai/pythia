@@ -1,0 +1,21 @@
+<!--- .form-control : Expands input size to full input-group size           --->
+<div ng-form="pmidQueryForm" novalidate>
+<div class="input-group m-2">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="">Entrez online query</span>
+  </div>
+  <input type="text" ng-ref="pmidQueryInput"
+    placeholder="Enter Pubmed-Id's" class="form-control"
+    data-toggle="tooltip" data-placement="bottom"
+    title="Bitte Pubmed-Id's mit Komma oder Leerzeichen getrennt eintragen"
+    ng-enter="$ctrl.doQuery()"
+    ng-model="$ctrl.qry"/>
+    <button class="btn btn-outline-secondary" type="button" ng-click="$ctrl.clear()">
+      <img src="/icons/x.svg" alt="Clear">
+    </button>
+    <button class="btn btn-success" ng-click="$ctrl.doQuery()">Search</button>
+</div>
+
+
+</div>
+

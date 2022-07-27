@@ -1,0 +1,89 @@
+{
+  "uid": "2418366",
+  "pubdate": "1986 Feb 13-19",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Westheimer FH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Westheimer FH",
+  "title": "Polyribonucleic acids as enzymes.",
+  "sorttitle": "polyribonucleic acids as enzymes",
+  "volume": "319",
+  "issue": "6054",
+  "pages": "534-5",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "2418366"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/319534a0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "2418366"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "2418366"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1986/02/13 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1986/02/13 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1986/02/13 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 5,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1986/02/13 00:00",
+  "sortfirstauthor": "Westheimer FH",
+  "vernaculartitle": ""
+}

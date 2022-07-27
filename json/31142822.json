@@ -1,0 +1,117 @@
+{
+  "uid": "31142822",
+  "pubdate": "2019 Jul",
+  "epubdate": "",
+  "source": "Nat Rev Microbiol",
+  "authors": [
+    {
+      "name": "Simpson BW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Trent MS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Trent MS",
+  "title": "Pushing the envelope: LPS modifications and their consequences.",
+  "sorttitle": "pushing the envelope lps modifications and their consequences",
+  "volume": "17",
+  "issue": "7",
+  "pages": "403-416",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101190261",
+  "issn": "1740-1526",
+  "essn": "1740-1534",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31142822"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41579-019-0201-x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41579-019-0201-x"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6913091"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1047074"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31142822"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31142822"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6913091;manuscript-id: NIHMS1047074;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/05/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/04 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/05/31 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 60,
+  "fulljournalname": "Nature reviews. Microbiology",
+  "elocationid": "doi: 10.1038/s41579-019-0201-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/07/01 00:00",
+  "sortfirstauthor": "Simpson BW",
+  "vernaculartitle": ""
+}

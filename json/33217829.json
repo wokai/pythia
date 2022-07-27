@@ -1,0 +1,117 @@
+{
+  "uid": "33217829",
+  "pubdate": "2020 Nov 20",
+  "epubdate": "",
+  "source": "Medicine (Baltimore)",
+  "authors": [
+    {
+      "name": "Kim H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Park SS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shim J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Shim J",
+  "title": "Differences in midazolam premedication effects on recovery after short-duration ambulatory anesthesia with propofol or sevoflurane for gynecologic surgery in young patients: A randomized controlled trial.",
+  "sorttitle": "differences in midazolam premedication effects on recovery after short duration ambulatory anesthesia with propofol or sevoflurane for gynecologic surgery in young patients a randomized controlled trial",
+  "volume": "99",
+  "issue": "47",
+  "pages": "e23194",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985248R",
+  "issn": "0025-7974",
+  "essn": "1536-5964",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33217829"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/MD.0000000000023194"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00005792-202011200-00044"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7676561"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33217829"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33217829"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7676561;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/21 01:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/15 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Medicine",
+  "elocationid": "doi: 10.1097/MD.0000000000023194",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/11/20 00:00",
+  "sortfirstauthor": "Kim H",
+  "vernaculartitle": ""
+}

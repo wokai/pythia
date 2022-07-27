@@ -1,0 +1,99 @@
+{
+  "uid": "21313684",
+  "pubdate": "1963 Apr",
+  "epubdate": "",
+  "source": "Postgrad Med J",
+  "authors": [
+    {
+      "name": "Billing BH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Billing BH",
+  "title": "Bilirubin Metabolism.",
+  "sorttitle": "bilirubin metabolism",
+  "volume": "39",
+  "issue": "450",
+  "pages": "176-87",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0234135",
+  "issn": "0032-5473",
+  "essn": "1469-0756",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21313684"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/pgmj.39.450.176"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC2482128"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21313684"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21313684"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC2482128;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/02/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "1963/04/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1963/04/01 00:01"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Postgraduate medical journal",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1963/04/01 00:00",
+  "sortfirstauthor": "Billing BH",
+  "vernaculartitle": ""
+}

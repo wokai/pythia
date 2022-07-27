@@ -1,0 +1,176 @@
+{
+  "uid": "34242915",
+  "pubdate": "2021 Jul",
+  "epubdate": "2021 Apr 19",
+  "source": "Clin Nutr",
+  "authors": [
+    {
+      "name": "Weimann A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Braga M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Carli F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Higashiguchi T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hübner M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klek S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laviano A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ljungqvist O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lobo DN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martindale RG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Waitzberg D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bischoff SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singer P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Singer P",
+  "title": "ESPEN practical guideline: Clinical nutrition in surgery.",
+  "sorttitle": "espen practical guideline clinical nutrition in surgery",
+  "volume": "40",
+  "issue": "7",
+  "pages": "4745-4761",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8309603",
+  "issn": "0261-5614",
+  "essn": "1532-1983",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34242915"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0261-5614(21)00178-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.clnu.2021.03.031"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34242915"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34242915"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/02/25 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/03/16 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/03/18 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/07/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/12/24 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/07/09 20:22"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Clin Nutr. 2021 Sep;40(9):5071",
+      "reftype": "Comment in",
+      "pmid": 34455265,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 11,
+  "fulljournalname": "Clinical nutrition (Edinburgh, Scotland)",
+  "elocationid": "doi: 10.1016/j.clnu.2021.03.031",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/07/01 00:00",
+  "sortfirstauthor": "Weimann A",
+  "vernaculartitle": ""
+}

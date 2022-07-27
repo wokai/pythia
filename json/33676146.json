@@ -1,0 +1,148 @@
+{
+  "uid": "33676146",
+  "pubdate": "2021 Feb 26",
+  "epubdate": "2021 Feb 26",
+  "source": "J Neurol Sci",
+  "authors": [
+    {
+      "name": "Clark JR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liotta EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reish NJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shlobin NA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoffman SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Orban ZS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lim PH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koralnik IJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Batra A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Batra A",
+  "title": "Abnormal movements in hospitalized COVID-19 patients: A case series.",
+  "sorttitle": "abnormal movements in hospitalized covid 19 patients a case series",
+  "volume": "423",
+  "issue": "",
+  "pages": "117377",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0375403",
+  "issn": "0022-510X",
+  "essn": "1878-5883",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33676146"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0022-510X(21)00070-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jns.2021.117377"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33676146"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33676146"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/11/05 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/02/20 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/02/22 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/03/06 20:15"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/03/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Journal of the neurological sciences",
+  "elocationid": "doi: 10.1016/j.jns.2021.117377",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/26 00:00",
+  "sortfirstauthor": "Clark JR",
+  "vernaculartitle": ""
+}

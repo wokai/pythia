@@ -1,0 +1,114 @@
+{
+  "uid": "20807248",
+  "pubdate": "2010 Oct",
+  "epubdate": "2010 Aug 27",
+  "source": "Headache",
+  "authors": [
+    {
+      "name": "Bezov D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ashina S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipton R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lipton R",
+  "title": "Post-dural puncture headache: Part II--prevention, management, and prognosis.",
+  "sorttitle": "post dural puncture headache part ii prevention management and prognosis",
+  "volume": "50",
+  "issue": "9",
+  "pages": "1482-98",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985091R",
+  "issn": "0017-8748",
+  "essn": "1526-4610",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20807248"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "HED1758"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1526-4610.2010.01758.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20807248"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20807248"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/09/03 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/09/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/05/10 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Headache. 2012 May;52(5):825-6",
+      "reftype": "Comment in",
+      "pmid": 22563997,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "Headache",
+  "elocationid": "doi: 10.1111/j.1526-4610.2010.01758.x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/10/01 00:00",
+  "sortfirstauthor": "Bezov D",
+  "vernaculartitle": ""
+}

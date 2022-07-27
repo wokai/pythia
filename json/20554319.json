@@ -1,0 +1,271 @@
+{
+  "uid": "20554319",
+  "pubdate": "2010 Jul 3",
+  "epubdate": "2010 Jun 14",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "CRASH-2 trial collaborators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Shakur H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roberts I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bautista R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Caballero J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coats T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dewan Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "El-Sayed H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gogichaishvili T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gupta S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herrera J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hunt B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iribhogbe P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Izurieta M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khamis H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Komolafe E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Marrero MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mejía-Mantilla J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miranda J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morales C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Olaomi O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Olldashi F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perel P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peto R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramana PV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ravi RR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yutthakasemsunt S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Yutthakasemsunt S",
+  "title": "Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2): a randomised, placebo-controlled trial.",
+  "sorttitle": "effects of tranexamic acid on death vascular occlusive events and blood transfusion in trauma patients with significant haemorrhage crash 2 a randomised placebo controlled trial",
+  "volume": "376",
+  "issue": "9734",
+  "pages": "23-32",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20554319"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(10)60835-5"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(10)60835-5"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20554319"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20554319"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/06/18 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/06/18 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/07/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2010 Jul 3;376(9734):3-4",
+      "reftype": "Comment in",
+      "pmid": 20554318,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2010 Sep 25;376(9746):1049-50; author reply 1050-1",
+      "reftype": "Comment in",
+      "pmid": 20870086,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2010 Sep 25;376(9746):1049; author reply 1050-1",
+      "reftype": "Comment in",
+      "pmid": 20870087,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2010 Sep 25;376(9746):1050; author reply 1050-1",
+      "reftype": "Comment in",
+      "pmid": 20870089,
+      "note": ""
+    },
+    {
+      "refsource": "CJEM. 2012 Jan;14(1):53-6",
+      "reftype": "Comment in",
+      "pmid": 22417960,
+      "note": ""
+    },
+    {
+      "refsource": "J Am Coll Surg. 2012 Sep;215(3):438-40",
+      "reftype": "Comment in",
+      "pmid": 22901513,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2017 Apr 22;389(10079):1604-1605",
+      "reftype": "Comment in",
+      "pmid": 28443547,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 396,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(10)60835-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/07/03 00:00",
+  "sortfirstauthor": "Shakur H",
+  "vernaculartitle": ""
+}

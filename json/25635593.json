@@ -1,0 +1,119 @@
+{
+  "uid": "25635593",
+  "pubdate": "2015 Apr",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Ngan Kee WD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee SW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ng FF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tan PE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khaw KS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Khaw KS",
+  "title": "Randomized double-blinded comparison of norepinephrine and phenylephrine for maintenance of blood pressure during spinal anesthesia for cesarean delivery.",
+  "sorttitle": "randomized double blinded comparison of norepinephrine and phenylephrine for maintenance of blood pressure during spinal anesthesia for cesarean delivery",
+  "volume": "122",
+  "issue": "4",
+  "pages": "736-45",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25635593"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0000000000000601"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25635593"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25635593"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/01/31 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/01/31 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/06/25 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2015 Apr;122(4):728-30",
+      "reftype": "Comment in",
+      "pmid": 25654435,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 34,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0000000000000601",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/04/01 00:00",
+  "sortfirstauthor": "Ngan Kee WD",
+  "vernaculartitle": ""
+}

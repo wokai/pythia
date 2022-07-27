@@ -1,0 +1,135 @@
+{
+  "uid": "22313496",
+  "pubdate": "2012 Aug",
+  "epubdate": "2012 Feb 7",
+  "source": "Acta Anaesthesiol Scand",
+  "authors": [
+    {
+      "name": "Veeser M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hofmann T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roth R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Klöhr S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rossaint R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heesen M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Heesen M",
+  "title": "Vasopressors for the management of hypotension after spinal anesthesia for elective caesarean section. Systematic review and cumulative meta-analysis.",
+  "sorttitle": "vasopressors for the management of hypotension after spinal anesthesia for elective caesarean section systematic review and cumulative meta analysis",
+  "volume": "56",
+  "issue": "7",
+  "pages": "810-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370270",
+  "issn": "0001-5172",
+  "essn": "1399-6576",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22313496"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1399-6576.2011.02646.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22313496"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22313496"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2011/12/21 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2012/02/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2012/02/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/12/10 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Acta Anaesthesiol Scand. 2012 Oct;56(9):1204",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": ""
+    },
+    {
+      "refsource": "Acta Anaesthesiol Scand. 2012 Aug;56(7):807-9",
+      "reftype": "Comment in",
+      "pmid": 22780437,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 17,
+  "fulljournalname": "Acta anaesthesiologica Scandinavica",
+  "elocationid": "doi: 10.1111/j.1399-6576.2011.02646.x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2012/08/01 00:00",
+  "sortfirstauthor": "Veeser M",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,94 @@
+{
+  "uid": "4796576",
+  "pubdate": "1973 Nov-Dec",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Winnie AP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ramamurthy S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Durrani Z",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Durrani Z",
+  "title": "The inguinal paravascular technic of lumbar plexus anesthesia: the \"3-in-1 block\".",
+  "sorttitle": "inguinal paravascular technic of lumbar plexus anesthesia the 3 in 1 block",
+  "volume": "52",
+  "issue": "6",
+  "pages": "989-96",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "4796576"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "4796576"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "4796576"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1973/11/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1973/11/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1973/11/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 36,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1973/11/01 00:00",
+  "sortfirstauthor": "Winnie AP",
+  "vernaculartitle": ""
+}

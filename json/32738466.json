@@ -1,0 +1,162 @@
+{
+  "uid": "32738466",
+  "pubdate": "2020 Sep",
+  "epubdate": "2020 May 27",
+  "source": "Am J Emerg Med",
+  "authors": [
+    {
+      "name": "Henry BM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aggarwal G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wong J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benoit S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vikse J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Plebani M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lippi G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lippi G",
+  "title": "Lactate dehydrogenase levels predict coronavirus disease 2019 (COVID-19) severity and mortality: A pooled analysis.",
+  "sorttitle": "lactate dehydrogenase levels predict coronavirus disease 2019 covid 19 severity and mortality a pooled analysis",
+  "volume": "38",
+  "issue": "9",
+  "pages": "1722-1726",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8309942",
+  "issn": "0735-6757",
+  "essn": "1532-8171",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32738466"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0735-6757(20)30436-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ajem.2020.05.073"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7251362"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32738466"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32738466"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7251362;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/04/20 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/05/20 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/05/20 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/28 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/02 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Am J Emerg Med. 2021 Jul;45:652-653",
+      "reftype": "Comment in",
+      "pmid": 33168383,
+      "note": ""
+    },
+    {
+      "refsource": "Am J Emerg Med. 2021 Jul;45:638-639",
+      "reftype": "Comment in",
+      "pmid": 33246860,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 102,
+  "fulljournalname": "The American journal of emergency medicine",
+  "elocationid": "doi: 10.1016/j.ajem.2020.05.073",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/01 00:00",
+  "sortfirstauthor": "Henry BM",
+  "vernaculartitle": ""
+}

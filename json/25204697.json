@@ -1,0 +1,245 @@
+{
+  "uid": "25204697",
+  "pubdate": "2014 Oct",
+  "epubdate": "2014 Sep 9",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Pandit JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Andrade J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bogod DG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hitchman JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jonker WR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lucas N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mackay JH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nimmo AF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Connor K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Sullivan EP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paul RG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Palmer JH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Plaat F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Radcliffe JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sury MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Torevell HE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hainsworth J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cook TM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Royal College of Anaesthetists.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "Association of Anaesthetists of Great Britain and Ireland.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cook TM",
+  "title": "5th National Audit Project (NAP5) on accidental awareness during general anaesthesia: summary of main findings and risk factors.",
+  "sorttitle": "5th national audit project nap5 on accidental awareness during general anaesthesia summary of main findings and risk factors",
+  "volume": "113",
+  "issue": "4",
+  "pages": "549-59",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25204697"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)30746-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aeu313"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25204697"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25204697"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/09/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/09/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/11/11 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Br J Anaesth. 2014 Oct;113(4):530-3",
+      "reftype": "Comment in",
+      "pmid": 25236894,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2015 Jul;115(1):138-9",
+      "reftype": "Comment in",
+      "pmid": 26089460,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2015 Jul;115(1):139-40",
+      "reftype": "Comment in",
+      "pmid": 26089461,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2015 Jul;115(1):140-1",
+      "reftype": "Comment in",
+      "pmid": 26089462,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2015 Jul;115(1):141-2",
+      "reftype": "Comment in",
+      "pmid": 26089463,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2015 Aug;115(2):324-5",
+      "reftype": "Comment in",
+      "pmid": 26170360,
+      "note": ""
+    },
+    {
+      "refsource": "Br J Anaesth. 2015 Aug;115(2):325",
+      "reftype": "Comment in",
+      "pmid": 26170361,
+      "note": ""
+    },
+    {
+      "refsource": "Anaesthesia. 2019 Oct;74(10):1332-1333",
+      "reftype": "Comment in",
+      "pmid": 31486538,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 41,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aeu313",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/10/01 00:00",
+  "sortfirstauthor": "Pandit JJ",
+  "vernaculartitle": ""
+}

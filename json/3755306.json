@@ -1,0 +1,116 @@
+{
+  "uid": "3755306",
+  "pubdate": "1986 Jul",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Fisher DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Canfell PC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fahey MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rosen JI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rupp SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sheiner LB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miller RD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Miller RD",
+  "title": "Elimination of atracurium in humans: contribution of Hofmann elimination and ester hydrolysis versus organ-based elimination.",
+  "sorttitle": "elimination of atracurium in humans contribution of hofmann elimination and ester hydrolysis versus organ based elimination",
+  "volume": "65",
+  "issue": "1",
+  "pages": "6-12",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3755306"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3755306"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3755306"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1986/07/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1986/07/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1986/07/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1986/07/01 00:00",
+  "sortfirstauthor": "Fisher DM",
+  "vernaculartitle": ""
+}

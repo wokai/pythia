@@ -1,0 +1,189 @@
+{
+  "uid": "32795139",
+  "pubdate": "2020 Aug 15",
+  "epubdate": "",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "Macrea M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oczkowski S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rochwerg B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Branson RD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Celli B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coleman JM 3rd",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hess DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Knight SL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ohar JA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Orr JE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Piper AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Punjabi NM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rahangdale S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wijkstra PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yim-Yeh S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Drummond MB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Owens RL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Owens RL",
+  "title": "Long-Term Noninvasive Ventilation in Chronic Stable Hypercapnic Chronic Obstructive Pulmonary Disease. An Official American Thoracic Society Clinical Practice Guideline.",
+  "sorttitle": "long term noninvasive ventilation in chronic stable hypercapnic chronic obstructive pulmonary disease an official american thoracic society clinical practice guideline",
+  "volume": "202",
+  "issue": "4",
+  "pages": "e74-e87",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32795139"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/rccm.202006-2382ST"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7427384"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32795139"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32795139"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7427384;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/11/13 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Ann Am Thorac Soc. 2021 Mar;18(3):395-398",
+      "reftype": "Comment in",
+      "pmid": 33326340,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "doi: 10.1164/rccm.202006-2382ST",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/15 00:00",
+  "sortfirstauthor": "Macrea M",
+  "vernaculartitle": ""
+}

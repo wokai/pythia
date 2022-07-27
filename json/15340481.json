@@ -1,0 +1,114 @@
+{
+  "uid": "15340481",
+  "pubdate": "2004 Sep",
+  "epubdate": "",
+  "source": "Nat Biotechnol",
+  "authors": [
+    {
+      "name": "Nielsen KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Townsend JP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Townsend JP",
+  "title": "Monitoring and modeling horizontal gene transfer.",
+  "sorttitle": "monitoring and modeling horizontal gene transfer",
+  "volume": "22",
+  "issue": "9",
+  "pages": "1110-4",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9604648",
+  "issn": "1087-0156",
+  "essn": "1546-1696",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15340481"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nbt1006"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nbt1006"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15340481"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15340481"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/09/02 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/02/11 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/09/02 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nat Biotechnol. 2004 Sep;22(9):1076",
+      "reftype": "Comment in",
+      "pmid": 15340465,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Biotechnol. 2004 Nov;22(11):1349; author reply 1349-50",
+      "reftype": "Comment in",
+      "pmid": 15529149,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 18,
+  "fulljournalname": "Nature biotechnology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/09/01 00:00",
+  "sortfirstauthor": "Nielsen KM",
+  "vernaculartitle": ""
+}

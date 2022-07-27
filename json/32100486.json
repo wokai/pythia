@@ -1,0 +1,147 @@
+{
+  "uid": "32100486",
+  "pubdate": "2020 Apr",
+  "epubdate": "2020 Feb 26",
+  "source": "Korean J Radiol",
+  "authors": [
+    {
+      "name": "Wei J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xu H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xiong J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shen Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fan B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ye C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dong W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hu F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hu F",
+  "title": "2019 Novel Coronavirus (COVID-19) Pneumonia: Serial Computed Tomography Findings.",
+  "sorttitle": "2019 novel coronavirus covid 19 pneumonia serial computed tomography findings",
+  "volume": "21",
+  "issue": "4",
+  "pages": "501-504",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100956096",
+  "issn": "1229-6929",
+  "essn": "2005-8330",
+  "pubtype": [],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32100486"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "21.e25"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3348/kjr.2020.0112"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7082663"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32100486"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32100486"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7082663;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/11 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/02/17 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/02/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/25 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/02/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 41,
+  "fulljournalname": "Korean journal of radiology",
+  "elocationid": "doi: 10.3348/kjr.2020.0112",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/04/01 00:00",
+  "sortfirstauthor": "Wei J",
+  "vernaculartitle": ""
+}

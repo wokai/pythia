@@ -1,0 +1,150 @@
+{
+  "uid": "32173241",
+  "pubdate": "2020 Jun",
+  "epubdate": "2020 Mar 4",
+  "source": "J Microbiol Immunol Infect",
+  "authors": [
+    {
+      "name": "Lai CC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu YH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang CY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang YH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hsueh SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yen MY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ko WC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hsueh PR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hsueh PR",
+  "title": "Asymptomatic carrier state, acute respiratory disease, and pneumonia due to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): Facts and myths.",
+  "sorttitle": "asymptomatic carrier state acute respiratory disease and pneumonia due to severe acute respiratory syndrome coronavirus 2 sars cov 2 facts and myths",
+  "volume": "53",
+  "issue": "3",
+  "pages": "404-412",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100956211",
+  "issn": "1684-1182",
+  "essn": "1995-9133",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32173241"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1684-1182(20)30040-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jmii.2020.02.012"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7128959"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32173241"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32173241"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7128959;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/02/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/02/25 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/03/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/06/17 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/03/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 238,
+  "fulljournalname": "Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi",
+  "elocationid": "doi: 10.1016/j.jmii.2020.02.012",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/06/01 00:00",
+  "sortfirstauthor": "Lai CC",
+  "vernaculartitle": ""
+}

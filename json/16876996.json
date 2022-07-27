@@ -1,0 +1,114 @@
+{
+  "uid": "16876996",
+  "pubdate": "2006 Sep",
+  "epubdate": "2006 Jul 31",
+  "source": "Trends Microbiol",
+  "authors": [
+    {
+      "name": "Livermore DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Woodford N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Woodford N",
+  "title": "The beta-lactamase threat in Enterobacteriaceae, Pseudomonas and Acinetobacter.",
+  "sorttitle": "beta lactamase threat in enterobacteriaceae pseudomonas and acinetobacter",
+  "volume": "14",
+  "issue": "9",
+  "pages": "413-20",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9310916",
+  "issn": "0966-842X",
+  "essn": "1878-4380",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16876996"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0966-842X(06)00181-8"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.tim.2006.07.008"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16876996"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16876996"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2006/04/07 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2006/06/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2006/07/18 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2006/08/01 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/10/18 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2006/08/01 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 123,
+  "fulljournalname": "Trends in microbiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2006/09/01 00:00",
+  "sortfirstauthor": "Livermore DM",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,95 @@
+{
+  "uid": "25343201",
+  "pubdate": "2014 Oct",
+  "epubdate": "",
+  "source": "Ann Am Thorac Soc",
+  "authors": [
+    {
+      "name": "Çoruh B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Luks AM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Luks AM",
+  "title": "Positive end-expiratory pressure. When more may not be better.",
+  "sorttitle": "positive end expiratory pressure when more may not be better",
+  "volume": "11",
+  "issue": "8",
+  "pages": "1327-31",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101600811",
+  "issn": "2329-6933",
+  "essn": "2325-6621",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25343201"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1513/AnnalsATS.201404-151CC"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25343201"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25343201"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/10/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/10/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/06/24 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 4,
+  "fulljournalname": "Annals of the American Thoracic Society",
+  "elocationid": "doi: 10.1513/AnnalsATS.201404-151CC",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/10/01 00:00",
+  "sortfirstauthor": "Çoruh B",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,126 @@
+{
+  "uid": "25468884",
+  "pubdate": "2014 Dec 2",
+  "epubdate": "2014 Dec 2",
+  "source": "Invest Ophthalmol Vis Sci",
+  "authors": [
+    {
+      "name": "Rossi T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Querzoli G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Angelini G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rossi A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Malvasi C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iossa M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ripandelli G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ripandelli G",
+  "title": "Ocular perfusion pressure during pars plana vitrectomy: a pilot study.",
+  "sorttitle": "ocular perfusion pressure during pars plana vitrectomy a pilot study",
+  "volume": "55",
+  "issue": "12",
+  "pages": "8497-505",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7703701",
+  "issn": "0146-0404",
+  "essn": "1552-5783",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25468884"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "iovs.14-14493"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1167/iovs.14-14493"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25468884"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25468884"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/12/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/12/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/01/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Investigative ophthalmology & visual science",
+  "elocationid": "doi: 10.1167/iovs.14-14493",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/12/02 00:00",
+  "sortfirstauthor": "Rossi T",
+  "vernaculartitle": ""
+}

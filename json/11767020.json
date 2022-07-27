@@ -1,0 +1,113 @@
+{
+  "uid": "11767020",
+  "pubdate": "2001 Aug",
+  "epubdate": "",
+  "source": "Eye (Lond)",
+  "authors": [
+    {
+      "name": "Budd J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hardwick M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Barber K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Prosser J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Prosser J",
+  "title": "A single-centre study of 1000 consecutive peribulbar blocks.",
+  "sorttitle": "single centre study of 1000 consecutive peribulbar blocks",
+  "volume": "15",
+  "issue": "Pt 4",
+  "pages": "464-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8703986",
+  "issn": "0950-222X",
+  "essn": "1476-5454",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11767020"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/eye.2001.156"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11767020"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11767020"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2002/01/05 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/01/05 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2002/01/05 10:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eye (Lond). 2001 Aug;15(Pt 4):439-40",
+      "reftype": "Comment in",
+      "pmid": 11767015,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Eye (London, England)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2001/08/01 00:00",
+  "sortfirstauthor": "Budd J",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,113 @@
+{
+  "uid": "17667454",
+  "pubdate": "2007 Aug",
+  "epubdate": "",
+  "source": "Crit Care Med",
+  "authors": [
+    {
+      "name": "Krishnamoorthy VK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sengupta PP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gentile F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khandheria BK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Khandheria BK",
+  "title": "History of echocardiography and its future applications in medicine.",
+  "sorttitle": "history of echocardiography and its future applications in medicine",
+  "volume": "35",
+  "issue": "8 Suppl",
+  "pages": "S309-13",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0355501",
+  "issn": "0090-3493",
+  "essn": "1530-0293",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17667454"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/01.CCM.0000270240.97375.DE"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00003246-200708001-00001"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17667454"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17667454"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/08/19 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/09/07 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/08/19 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "Critical care medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/08/01 00:00",
+  "sortfirstauthor": "Krishnamoorthy VK",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,115 @@
+{
+  "uid": "29528367",
+  "pubdate": "2018 Mar 1",
+  "epubdate": "",
+  "source": "Br Med Bull",
+  "authors": [
+    {
+      "name": "Lew V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McKay E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maze M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Maze M",
+  "title": "Past, present, and future of nitrous oxide.",
+  "sorttitle": "past present and future of nitrous oxide",
+  "volume": "125",
+  "issue": "1",
+  "pages": "103-119",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0376542",
+  "issn": "0007-1420",
+  "essn": "1471-8391",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29528367"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "4925059"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bmb/ldx050"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29528367"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29528367"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/08/01 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/12/16 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/03/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/06/08 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/03/13 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "British medical bulletin",
+  "elocationid": "doi: 10.1093/bmb/ldx050",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/03/01 00:00",
+  "sortfirstauthor": "Lew V",
+  "vernaculartitle": ""
+}

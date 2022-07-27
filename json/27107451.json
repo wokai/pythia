@@ -1,0 +1,144 @@
+{
+  "uid": "27107451",
+  "pubdate": "2017 Jan",
+  "epubdate": "2016 Apr 23",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Ellsworth MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dziadzko M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Horo JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Farrell AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herasevich V",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Herasevich V",
+  "title": "An appraisal of published usability evaluations of electronic health records via systematic review.",
+  "sorttitle": "appraisal of published usability evaluations of electronic health records via systematic review",
+  "volume": "24",
+  "issue": "1",
+  "pages": "218-226",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27107451"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ocw046"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/jamia/ocw046"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7654077"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27107451"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27107451"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7654077;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/10/04 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2016/02/25 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2016/03/01 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/04/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/12/20 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/04/24 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 24,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1093/jamia/ocw046",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/01/01 00:00",
+  "sortfirstauthor": "Ellsworth MA",
+  "vernaculartitle": ""
+}

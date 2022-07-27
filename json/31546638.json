@@ -1,0 +1,134 @@
+{
+  "uid": "31546638",
+  "pubdate": "2019 Sep 21",
+  "epubdate": "2019 Sep 21",
+  "source": "Nutrients",
+  "authors": [
+    {
+      "name": "Wosinska L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cotter PD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "O'Sullivan O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guinane C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Guinane C",
+  "title": "The Potential Impact of Probiotics on the Gut Microbiome of Athletes.",
+  "sorttitle": "potential impact of probiotics on the gut microbiome of athletes",
+  "volume": "11",
+  "issue": "10",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101521595",
+  "issn": "",
+  "essn": "2072-6643",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31546638"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nu11102270"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/nu11102270"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6835687"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31546638"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31546638"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6835687;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/08/15 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/09/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/09/19 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/09/25 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/09/25 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "Nutrients",
+  "elocationid": "pii: E2270. doi: 10.3390/nu11102270",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/09/21 00:00",
+  "sortfirstauthor": "Wosinska L",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,139 @@
+{
+  "uid": "29557753",
+  "pubdate": "2018",
+  "epubdate": "",
+  "source": "Curr Diabetes Rev",
+  "authors": [
+    {
+      "name": "Baldrighi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sainaghi PP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellan M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bartoli E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Castello LM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Castello LM",
+  "title": "Hyperglycemic Hyperosmolar State: A Pragmatic Approach to Properly Manage Sodium Derangements.",
+  "sorttitle": "hyperglycemic hyperosmolar state a pragmatic approach to properly manage sodium derangements",
+  "volume": "14",
+  "issue": "6",
+  "pages": "534-541",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101253260",
+  "issn": "1573-3998",
+  "essn": "1875-6417",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29557753"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "CDR-EPUB-89181"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.2174/1573399814666180320091451"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6237920"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29557753"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29557753"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6237920;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/01/09 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/02/26 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/03/13 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/03/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/02/20 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/03/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Current diabetes reviews",
+  "elocationid": "doi: 10.2174/1573399814666180320091451",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/01/01 00:00",
+  "sortfirstauthor": "Baldrighi M",
+  "vernaculartitle": ""
+}

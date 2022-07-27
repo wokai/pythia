@@ -1,0 +1,174 @@
+{
+  "uid": "29701854",
+  "pubdate": "2018 Jul 1",
+  "epubdate": "",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Sittig DF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Salimi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aiyagari R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Banas C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Clay B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gibson KA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goel A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hines R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Longhurst CA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mishra V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sirajuddin AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Satterly T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Singh H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Singh H",
+  "title": "Adherence to recommended electronic health record safety practices across eight health care organizations.",
+  "sorttitle": "adherence to recommended electronic health record safety practices across eight health care organizations",
+  "volume": "25",
+  "issue": "7",
+  "pages": "913-918",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29701854"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "4985886"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/jamia/ocy033"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7647041"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29701854"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29701854"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7647041;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/12/17 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/04/04 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/04/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/11/30 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/04/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1093/jamia/ocy033",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/07/01 00:00",
+  "sortfirstauthor": "Sittig DF",
+  "vernaculartitle": ""
+}

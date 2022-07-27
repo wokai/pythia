@@ -1,0 +1,130 @@
+{
+  "uid": "28465831",
+  "pubdate": "2017",
+  "epubdate": "2017 Apr 27",
+  "source": "Mil Med Res",
+  "authors": [
+    {
+      "name": "Shi N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Duan X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Niu H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Niu H",
+  "title": "Interaction between the gut microbiome and mucosal immune system.",
+  "sorttitle": "interaction between the gut microbiome and mucosal immune system",
+  "volume": "4",
+  "issue": "",
+  "pages": "14",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101643181",
+  "issn": "2095-7467",
+  "essn": "2054-9369",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28465831"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s40779-017-0122-9"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "122"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5408367"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28465831"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28465831"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5408367;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2016/10/18 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/04/10 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/05/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/05/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/07/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 59,
+  "fulljournalname": "Military Medical Research",
+  "elocationid": "doi: 10.1186/s40779-017-0122-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/04/27 00:00",
+  "sortfirstauthor": "Shi N",
+  "vernaculartitle": ""
+}

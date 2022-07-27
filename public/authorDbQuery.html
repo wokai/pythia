@@ -1,0 +1,20 @@
+<!--- .form-control : Expands input size to full input-group size           --->
+<div ng-form="pmidQueryForm" novalidate>
+<div class="input-group">
+  <span class="input-group-text" style="width:10%">Author query</span>
+  <input type="text" ng-ref="pmidQueryInput"
+    placeholder="Enter Author Name" class="form-control"
+    data-toggle="tooltip" data-placement="bottom"
+    title="Please enter name of an author"
+    ng-enter="$ctrl.doQuery()"
+    ng-model="$ctrl.qry"/>
+     <button class="btn btn-outline-secondary" ng-click="$ctrl.clear()"
+      data-toggle="tooltip", data-placement="bottom" 
+      title="Clear input">
+      <img src="/icons/x.svg" alt="Clear">
+    </button>
+    <button class="btn btn-success" ng-click="$ctrl.submit()">
+      Send
+    </button>
+</div>
+</div>

@@ -1,0 +1,104 @@
+{
+  "uid": "16561391",
+  "pubdate": "1947 Nov",
+  "epubdate": "",
+  "source": "J Bacteriol",
+  "authors": [
+    {
+      "name": "Stansly PG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schlosser ME",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Schlosser ME",
+  "title": "Studies on Polymyxin: Isolation and Identification of Bacillus polymyxa and Differentiation of Polymyxin from Certain Known Antibiotics.",
+  "sorttitle": "studies on polymyxin isolation and identification of bacillus polymyxa and differentiation of polymyxin from certain known antibiotics",
+  "volume": "54",
+  "issue": "5",
+  "pages": "549-56",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985120R",
+  "issn": "0021-9193",
+  "essn": "1098-5530",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16561391"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC526590"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1128/jb.54.5.549-556.1947"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16561391"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16561391"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC526590;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1947/11/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1947/11/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1947/11/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 21,
+  "fulljournalname": "Journal of bacteriology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1947/11/01 00:00",
+  "sortfirstauthor": "Stansly PG",
+  "vernaculartitle": ""
+}

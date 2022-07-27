@@ -1,0 +1,95 @@
+{
+  "uid": "14523382",
+  "pubdate": "2003 Oct",
+  "epubdate": "",
+  "source": "Nat Rev Neurosci",
+  "authors": [
+    {
+      "name": "Baddeley A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Baddeley A",
+  "title": "Working memory: looking back and looking forward.",
+  "sorttitle": "working memory looking back and looking forward",
+  "volume": "4",
+  "issue": "10",
+  "pages": "829-39",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962781",
+  "issn": "1471-003X",
+  "essn": "1471-0048",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14523382"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrn1201"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrn1201"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14523382"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14523382"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/10/03 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2003/11/11 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/10/03 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 812,
+  "fulljournalname": "Nature reviews. Neuroscience",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/10/01 00:00",
+  "sortfirstauthor": "Baddeley A",
+  "vernaculartitle": ""
+}

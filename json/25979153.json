@@ -1,0 +1,143 @@
+{
+  "uid": "25979153",
+  "pubdate": "2015 Jun",
+  "epubdate": "2015 May 13",
+  "source": "J Biomed Inform",
+  "authors": [
+    {
+      "name": "Hanauer DA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mei Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Law J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khanna R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zheng K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zheng K",
+  "title": "Supporting information retrieval from electronic health records: A report of University of Michigan's nine-year experience in developing and using the Electronic Medical Record Search Engine (EMERSE).",
+  "sorttitle": "supporting information retrieval from electronic health records a report of university of michigan s nine year experience in developing and using the electronic medical record search engine emerse",
+  "volume": "55",
+  "issue": "",
+  "pages": "290-300",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100970413",
+  "issn": "1532-0464",
+  "essn": "1532-0480",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25979153"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1532-0464(15)00082-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jbi.2015.05.003"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4527540"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS695773"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25979153"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25979153"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4527540;manuscript-id: NIHMS695773;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2015/01/22 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2015/03/31 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2015/05/05 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/05/17 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/05/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/03/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 100,
+  "fulljournalname": "Journal of biomedical informatics",
+  "elocationid": "doi: 10.1016/j.jbi.2015.05.003",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/06/01 00:00",
+  "sortfirstauthor": "Hanauer DA",
+  "vernaculartitle": ""
+}

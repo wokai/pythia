@@ -1,0 +1,117 @@
+{
+  "uid": "32933891",
+  "pubdate": "2020 Jun 1",
+  "epubdate": "",
+  "source": "Eur Cytokine Netw",
+  "authors": [
+    {
+      "name": "Mojtabavi H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saghazadeh A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rezaei N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Rezaei N",
+  "title": "Interleukin-6 and severe COVID-19: a systematic review and meta-analysis.",
+  "sorttitle": "interleukin 6 and severe covid 19 a systematic review and meta analysis",
+  "volume": "31",
+  "issue": "2",
+  "pages": "44-49",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9100879",
+  "issn": "1148-5493",
+  "essn": "1952-4005",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32933891"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ecn.2020.0448"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1684/ecn.2020.0448"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7530350"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32933891"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32933891"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7530350;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/16 05:32"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/24 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 17,
+  "fulljournalname": "European cytokine network",
+  "elocationid": "doi: 10.1684/ecn.2020.0448",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/06/01 00:00",
+  "sortfirstauthor": "Mojtabavi H",
+  "vernaculartitle": ""
+}

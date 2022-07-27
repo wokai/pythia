@@ -1,0 +1,180 @@
+{
+  "uid": "20197533",
+  "pubdate": "2010 Mar 3",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Briel M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meade M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mercat A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brower RG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Talmor D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Walter SD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Slutsky AS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pullenayegum E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cook D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brochard L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Richard JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lamontagne F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bhatnagar N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stewart TE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guyatt G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Guyatt G",
+  "title": "Higher vs lower positive end-expiratory pressure in patients with acute lung injury and acute respiratory distress syndrome: systematic review and meta-analysis.",
+  "sorttitle": "higher vs lower positive end expiratory pressure in patients with acute lung injury and acute respiratory distress syndrome systematic review and meta analysis",
+  "volume": "303",
+  "issue": "9",
+  "pages": "865-73",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20197533"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "303/9/865"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.2010.218"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20197533"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20197533"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/03/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/03/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/03/10 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA. 2010 Mar 3;303(9):883-4",
+      "reftype": "Comment in",
+      "pmid": 20197538,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 373,
+  "fulljournalname": "JAMA",
+  "elocationid": "doi: 10.1001/jama.2010.218",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/03/03 00:00",
+  "sortfirstauthor": "Briel M",
+  "vernaculartitle": ""
+}

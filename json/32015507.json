@@ -1,0 +1,357 @@
+{
+  "uid": "32015507",
+  "pubdate": "2020 Mar",
+  "epubdate": "2020 Feb 3",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Zhou P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yang XL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang XG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hu B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Si HR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhu Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Huang CL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen HD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Luo Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Guo H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jiang RD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu MQ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shen XR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zheng XS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhao K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen QJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deng F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu LL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yan B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhan FX",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang YY",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xiao GF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shi ZL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Shi ZL",
+  "title": "A pneumonia outbreak associated with a new coronavirus of probable bat origin.",
+  "sorttitle": "pneumonia outbreak associated with a new coronavirus of probable bat origin",
+  "volume": "579",
+  "issue": "7798",
+  "pages": "270-273",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32015507"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-020-2012-7"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-020-2012-7"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7095418"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32015507"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32015507"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7095418;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/01/20 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/01/29 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/02/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/21 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/02/05 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Med Virol. 2020 Apr;92(4):448-454",
+      "reftype": "Comment in",
+      "pmid": 31997390,
+      "note": ""
+    },
+    {
+      "refsource": "Nature. 2020 Feb;578(7793):7",
+      "reftype": "Comment in",
+      "pmid": 32020126,
+      "note": ""
+    },
+    {
+      "refsource": "J Med Virol. 2020 May;92(5):464-467",
+      "reftype": "Comment in",
+      "pmid": 32031264,
+      "note": ""
+    },
+    {
+      "refsource": "Nat Rev Microbiol. 2020 Apr;18(4):191",
+      "reftype": "Comment in",
+      "pmid": 32051570,
+      "note": ""
+    },
+    {
+      "refsource": "Int J Antimicrob Agents. 2020 Mar;55(3):105923",
+      "reftype": "Comment in",
+      "pmid": 32070753,
+      "note": ""
+    },
+    {
+      "refsource": "Trends Immunol. 2020 Apr;41(4):271-273",
+      "reftype": "Comment in",
+      "pmid": 32173256,
+      "note": ""
+    },
+    {
+      "refsource": "Virol Sin. 2020 Jun;35(3):337-339",
+      "reftype": "Comment in",
+      "pmid": 32198713,
+      "note": ""
+    },
+    {
+      "refsource": "Virol Sin. 2020 Jun;35(3):340-343",
+      "reftype": "Comment in",
+      "pmid": 32236815,
+      "note": ""
+    },
+    {
+      "refsource": "Immunity. 2020 May 19;52(5):731-733",
+      "reftype": "Comment in",
+      "pmid": 32325025,
+      "note": ""
+    },
+    {
+      "refsource": "Postgrad Med J. 2020 Jul;96(1137):371-372",
+      "reftype": "Comment in",
+      "pmid": 32345756,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2020 May 16;395(10236):1543-1544",
+      "reftype": "Comment in",
+      "pmid": 32386563,
+      "note": ""
+    },
+    {
+      "refsource": "Rev Mal Respir. 2020 Sep;37(7):606-607",
+      "reftype": "Comment in",
+      "pmid": 32419737,
+      "note": ""
+    },
+    {
+      "refsource": "J Clin Anesth. 2020 Oct;65:109887",
+      "reftype": "Comment in",
+      "pmid": 32454342,
+      "note": ""
+    },
+    {
+      "refsource": "Virol Sin. 2020 Jun;35(3):348-350",
+      "reftype": "Comment in",
+      "pmid": 32562199,
+      "note": ""
+    },
+    {
+      "refsource": "Virol Sin. 2020 Jun;35(3):355-358",
+      "reftype": "Comment in",
+      "pmid": 32602045,
+      "note": ""
+    },
+    {
+      "refsource": "Sci China Life Sci. 2020 Oct;63(10):1608-1611",
+      "reftype": "Comment in",
+      "pmid": 32621057,
+      "note": ""
+    },
+    {
+      "refsource": "Indian J Pharmacol. 2020 May-Jun;52(3):227-228",
+      "reftype": "Comment in",
+      "pmid": 32874008,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4447,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-020-2012-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/03/01 00:00",
+  "sortfirstauthor": "Zhou P",
+  "vernaculartitle": ""
+}

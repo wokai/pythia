@@ -1,0 +1,94 @@
+{
+  "uid": "5248766",
+  "pubdate": "1968 Aug 14",
+  "epubdate": "",
+  "source": "Ann N Y Acad Sci",
+  "authors": [
+    {
+      "name": "Guyton AC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coleman TG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Coleman TG",
+  "title": "Regulation on interstitial fluid volume and pressure.",
+  "sorttitle": "regulation on interstitial fluid volume and pressure",
+  "volume": "150",
+  "issue": "3",
+  "pages": "537-47",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7506858",
+  "issn": "0077-8923",
+  "essn": "1749-6632",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "5248766"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1749-6632.1968.tb14705.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "5248766"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "5248766"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1968/08/14 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1968/08/14 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1968/08/14 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 9,
+  "fulljournalname": "Annals of the New York Academy of Sciences",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1968/08/14 00:00",
+  "sortfirstauthor": "Guyton AC",
+  "vernaculartitle": ""
+}

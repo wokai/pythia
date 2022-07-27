@@ -1,0 +1,116 @@
+{
+  "uid": "28689303",
+  "pubdate": "2017 Sep",
+  "epubdate": "2017 Jul 8",
+  "source": "Eur J Appl Physiol",
+  "authors": [
+    {
+      "name": "Kenny GP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Notley SR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gagnon D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Gagnon D",
+  "title": "Direct calorimetry: a brief historical review of its use in the study of human metabolism and thermoregulation.",
+  "sorttitle": "direct calorimetry a brief historical review of its use in the study of human metabolism and thermoregulation",
+  "volume": "117",
+  "issue": "9",
+  "pages": "1765-1785",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100954790",
+  "issn": "1439-6319",
+  "essn": "1439-6327",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28689303"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00421-017-3670-5"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00421-017-3670-5"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28689303"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28689303"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/02/20 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/06/21 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/07/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/08/04 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/07/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "European journal of applied physiology",
+  "elocationid": "doi: 10.1007/s00421-017-3670-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/09/01 00:00",
+  "sortfirstauthor": "Kenny GP",
+  "vernaculartitle": ""
+}

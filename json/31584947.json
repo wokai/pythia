@@ -1,0 +1,154 @@
+{
+  "uid": "31584947",
+  "pubdate": "2019",
+  "epubdate": "2019 Oct 4",
+  "source": "PLoS One",
+  "authors": [
+    {
+      "name": "Urban T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Waldauf P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Krajčová A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jiroutková K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Halačová M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Džupa V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Janoušek L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pokorná E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Duška F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Duška F",
+  "title": "Kinetic characteristics of propofol-induced inhibition of electron-transfer chain and fatty acid oxidation in human and rodent skeletal and cardiac muscles.",
+  "sorttitle": "kinetic characteristics of propofol induced inhibition of electron transfer chain and fatty acid oxidation in human and rodent skeletal and cardiac muscles",
+  "volume": "14",
+  "issue": "10",
+  "pages": "e0217254",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101285081",
+  "issn": "",
+  "essn": "1932-6203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31584947"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pone.0217254"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PONE-D-19-12573"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6777831"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31584947"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31584947"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6777831;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/05/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/09/20 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/10/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/10/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/11 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "PloS one",
+  "elocationid": "doi: 10.1371/journal.pone.0217254",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/10/04 00:00",
+  "sortfirstauthor": "Urban T",
+  "vernaculartitle": ""
+}

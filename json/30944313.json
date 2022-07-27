@@ -1,0 +1,149 @@
+{
+  "uid": "30944313",
+  "pubdate": "2019 Apr 3",
+  "epubdate": "2019 Apr 3",
+  "source": "Nat Commun",
+  "authors": [
+    {
+      "name": "Zhou Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pache L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chang M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khodabakhshi AH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tanaseichuk O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Benner C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chanda SK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Chanda SK",
+  "title": "Metascape provides a biologist-oriented resource for the analysis of systems-level datasets.",
+  "sorttitle": "metascape provides a biologist oriented resource for the analysis of systems level datasets",
+  "volume": "10",
+  "issue": "1",
+  "pages": "1523",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101528555",
+  "issn": "",
+  "essn": "2041-1723",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30944313"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41467-019-09234-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41467-019-09234-6"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6447622"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30944313"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30944313"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6447622;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/07/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/02/22 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/04/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/04/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/04/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 944,
+  "fulljournalname": "Nature communications",
+  "elocationid": "doi: 10.1038/s41467-019-09234-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/04/03 00:00",
+  "sortfirstauthor": "Zhou Y",
+  "vernaculartitle": ""
+}

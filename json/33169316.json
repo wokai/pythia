@@ -1,0 +1,126 @@
+{
+  "uid": "33169316",
+  "pubdate": "2021 Feb",
+  "epubdate": "2020 Nov 10",
+  "source": "Can J Anaesth",
+  "authors": [
+    {
+      "name": "Tobin MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tobin MJ",
+  "title": "The criteria used to justify endotracheal intubation of patients with COVID-19 are worrisome.",
+  "sorttitle": "criteria used to justify endotracheal intubation of patients with covid 19 are worrisome",
+  "volume": "68",
+  "issue": "2",
+  "pages": "258-259",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8701709",
+  "issn": "0832-610X",
+  "essn": "1496-8975",
+  "pubtype": [
+    "Comment",
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33169316"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s12630-020-01853-8"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s12630-020-01853-8"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7652578"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33169316"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33169316"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7652578;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/09/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/09/24 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/29 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/10 05:47"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Can J Anaesth. 2021 Feb;68(2):196-203",
+      "reftype": "Comment on",
+      "pmid": 32886298,
+      "note": ""
+    },
+    {
+      "refsource": "Can J Anaesth. 2021 Feb;68(2):260-261",
+      "reftype": "Comment in",
+      "pmid": 33169317,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 2,
+  "fulljournalname": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+  "elocationid": "doi: 10.1007/s12630-020-01853-8",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/01 00:00",
+  "sortfirstauthor": "Tobin MJ",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,129 @@
+{
+  "uid": "24634874",
+  "pubdate": "2014",
+  "epubdate": "2014 Feb 18",
+  "source": "Int J Ophthalmol",
+  "authors": [
+    {
+      "name": "Calenda E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Genevois O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cardon A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Muraine M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Muraine M",
+  "title": "Peribulbar anesthesia in 750 patients treated with oral anticoagulants.",
+  "sorttitle": "peribulbar anesthesia in 750 patients treated with oral anticoagulants",
+  "volume": "7",
+  "issue": "1",
+  "pages": "110-3",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101553860",
+  "issn": "2222-3959",
+  "essn": "2227-4898",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24634874"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3980/j.issn.2222-3959.2014.01.20"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ijo-07-01-110"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3949469"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24634874"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24634874"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3949469;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/07/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2013/11/25 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/03/18 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/03/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2014/03/19 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "International journal of ophthalmology",
+  "elocationid": "doi: 10.3980/j.issn.2222-3959.2014.01.20",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/02/18 00:00",
+  "sortfirstauthor": "Calenda E",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,172 @@
+{
+  "uid": "33038947",
+  "pubdate": "2020 Oct 8",
+  "epubdate": "2020 Oct 8",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Bedford J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Enria D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giesecke J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heymann DL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ihekweazu C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kobinger G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lane HC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Memish ZA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oh MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sall AA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ungchusak K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wieler LH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "WHO Strategic and Technical Advisory Group for Infectious Hazards.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wieler LH",
+  "title": "Living with the COVID-19 pandemic: act now with the tools we have.",
+  "sorttitle": "living with the covid 19 pandemic act now with the tools we have",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33038947"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(20)32117-6"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(20)32117-6"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7544497"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33038947"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33038947"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7544497;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/10/01 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/10/06 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/11 20:18"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/12 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 3,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "pii: S0140-6736(20)32117-6. doi: 10.1016/S0140-6736(20)32117-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/10/08 00:00",
+  "sortfirstauthor": "Bedford J",
+  "vernaculartitle": ""
+}

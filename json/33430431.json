@@ -1,0 +1,139 @@
+{
+  "uid": "33430431",
+  "pubdate": "2021 Jan 7",
+  "epubdate": "2021 Jan 7",
+  "source": "J Clin Med",
+  "authors": [
+    {
+      "name": "Iba T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Warkentin TE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thachil J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levy JH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Levy JH",
+  "title": "Proposal of the Definition for COVID-19-Associated Coagulopathy.",
+  "sorttitle": "proposal of the definition for covid 19 associated coagulopathy",
+  "volume": "10",
+  "issue": "2",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101606588",
+  "issn": "",
+  "essn": "2077-0383",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33430431"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "jcm10020191"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3390/jcm10020191"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7827226"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33430431"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33430431"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7827226;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/12/16 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/12/29 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/01/04 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/12 01:16"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/13 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Journal of clinical medicine",
+  "elocationid": "pii: E191. doi: 10.3390/jcm10020191",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/07 00:00",
+  "sortfirstauthor": "Iba T",
+  "vernaculartitle": ""
+}

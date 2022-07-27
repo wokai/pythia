@@ -1,0 +1,115 @@
+{
+  "uid": "33403480",
+  "pubdate": "2021 Mar",
+  "epubdate": "2021 Jan 5",
+  "source": "Eur Arch Psychiatry Clin Neurosci",
+  "authors": [
+    {
+      "name": "Hashimoto K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hashimoto K",
+  "title": "Repurposing of CNS drugs to treat COVID-19 infection: targeting the sigma-1 receptor.",
+  "sorttitle": "repurposing of cns drugs to treat covid 19 infection targeting the sigma 1 receptor",
+  "volume": "271",
+  "issue": "2",
+  "pages": "249-258",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9103030",
+  "issn": "0940-1334",
+  "essn": "1433-8491",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33403480"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00406-020-01231-x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00406-020-01231-x"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7785036"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33403480"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33403480"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7785036;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/11/24 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/12/19 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/07 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/06 05:55"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "European archives of psychiatry and clinical neuroscience",
+  "elocationid": "doi: 10.1007/s00406-020-01231-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/01 00:00",
+  "sortfirstauthor": "Hashimoto K",
+  "vernaculartitle": ""
+}

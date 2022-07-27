@@ -1,0 +1,112 @@
+{
+  "uid": "23303912",
+  "pubdate": "2013 Jan",
+  "epubdate": "",
+  "source": "Physiol Rev",
+  "authors": [
+    {
+      "name": "Versteeg HH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heemskerk JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Levi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reitsma PH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Reitsma PH",
+  "title": "New fundamentals in hemostasis.",
+  "sorttitle": "new fundamentals in hemostasis",
+  "volume": "93",
+  "issue": "1",
+  "pages": "327-58",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0231714",
+  "issn": "0031-9333",
+  "essn": "1522-1210",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23303912"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "93/1/327"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/physrev.00016.2011"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23303912"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23303912"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/01/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/01/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/02/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 192,
+  "fulljournalname": "Physiological reviews",
+  "elocationid": "doi: 10.1152/physrev.00016.2011",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/01/01 00:00",
+  "sortfirstauthor": "Versteeg HH",
+  "vernaculartitle": ""
+}

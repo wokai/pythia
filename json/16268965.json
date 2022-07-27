@@ -1,0 +1,109 @@
+{
+  "uid": "16268965",
+  "pubdate": "2005 Nov 15",
+  "epubdate": "",
+  "source": "Aliment Pharmacol Ther",
+  "authors": [
+    {
+      "name": "Saunders MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kimmey MB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kimmey MB",
+  "title": "Systematic review: acute colonic pseudo-obstruction.",
+  "sorttitle": "systematic review acute colonic pseudo obstruction",
+  "volume": "22",
+  "issue": "10",
+  "pages": "917-25",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8707234",
+  "issn": "0269-2813",
+  "essn": "1365-2036",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16268965"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "APT2668"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1365-2036.2005.02668.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16268965"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16268965"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/11/05 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2006/02/10 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/11/05 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Aliment Pharmacol Ther. 2006 Jun 1;23(11):1678-9",
+      "reftype": "Comment in",
+      "pmid": 16696821,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 33,
+  "fulljournalname": "Alimentary pharmacology & therapeutics",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/11/15 00:00",
+  "sortfirstauthor": "Saunders MD",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,140 @@
+{
+  "uid": "32047862",
+  "pubdate": "2020",
+  "epubdate": "2020 Feb 6",
+  "source": "NPJ Digit Med",
+  "authors": [
+    {
+      "name": "Sutton RT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pincock D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baumgart DC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sadowski DC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fedorak RN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kroeker KI",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kroeker KI",
+  "title": "An overview of clinical decision support systems: benefits, risks, and strategies for success.",
+  "sorttitle": "overview of clinical decision support systems benefits risks and strategies for success",
+  "volume": "3",
+  "issue": "",
+  "pages": "17",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101731738",
+  "issn": "",
+  "essn": "2398-6352",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32047862"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41746-020-0221-y"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "221"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7005290"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32047862"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32047862"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7005290;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/02/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/12/19 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/02/13 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/02/13 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/13 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 90,
+  "fulljournalname": "NPJ digital medicine",
+  "elocationid": "doi: 10.1038/s41746-020-0221-y",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/02/06 00:00",
+  "sortfirstauthor": "Sutton RT",
+  "vernaculartitle": ""
+}

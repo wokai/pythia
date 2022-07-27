@@ -1,0 +1,431 @@
+{
+  "uid": "20068416",
+  "pubdate": "2010 Feb",
+  "epubdate": "",
+  "source": "Eur J Anaesthesiol",
+  "authors": [
+    {
+      "name": "Poldermans D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bax JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boersma E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Hert S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eeckhout E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fowkes G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gorenek B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hennerici MG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iung B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kelm M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kjeldsen KP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kristensen SD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lopez-Sendon J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pelosi P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Philippe F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pierard L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ponikowski P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schmid JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sellevold OF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sicari R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Van den Berghe G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vermassen F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoeks SE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vanhorebeek I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vahanian A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Auricchio A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bax JJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ceconi C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dean V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Filippatos G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Funck-Brentano C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hobbs R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kearn P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McDonag T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McGregor K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Popescu BA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reiner Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sechtem U",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sirnes PA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tendera M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vardas P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Widimsky P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "De Caterina R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Agewall S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Al Attar N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Andreotti F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Anker SD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baron-Esquivias G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Berkenboom G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chapoutot L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cifkova R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Faggiano P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gibbs S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hansen HS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Iserin L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Israel CW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kornowski R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Eizagaechevarria NM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pepi M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Piepoli M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Priebe HJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scherer M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stepinska J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Taggart D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tubaro M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Task Force for Preoperative Cardiac Risk Assessment and Perioperative Cardiac Management in Non-cardiac Surgery of European Society of Cardiology (ESC).",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "European Society of Anaesthesiology (ESA).",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tubaro M",
+  "title": "Guidelines for pre-operative cardiac risk assessment and perioperative cardiac management in non-cardiac surgery: the Task Force for Preoperative Cardiac Risk Assessment and Perioperative Cardiac Management in Non-cardiac Surgery of the European Society of Cardiology (ESC) and endorsed by the European Society of Anaesthesiology (ESA).",
+  "sorttitle": "guidelines for pre operative cardiac risk assessment and perioperative cardiac management in non cardiac surgery the task force for preoperative cardiac risk assessment and perioperative cardiac management in non cardiac surgery of the european society of cardiology esc and endorsed by the european society of anaesthesiology esa",
+  "volume": "27",
+  "issue": "2",
+  "pages": "92-137",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8411711",
+  "issn": "0265-0215",
+  "essn": "1365-2346",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20068416"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/EJA.0b013e328334c017"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00003643-201002000-00002"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20068416"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20068416"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/01/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/01/14 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/01/14 06:01"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur J Anaesthesiol. 2010 Feb;27(2):89-91",
+      "reftype": "Comment in",
+      "pmid": 20068415,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 22,
+  "fulljournalname": "European journal of anaesthesiology",
+  "elocationid": "doi: 10.1097/EJA.0b013e328334c017",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/02/01 00:00",
+  "sortfirstauthor": "Poldermans D",
+  "vernaculartitle": ""
+}

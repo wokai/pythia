@@ -1,0 +1,102 @@
+{
+  "uid": "29618831",
+  "pubdate": "2018 Jun",
+  "epubdate": "",
+  "source": "Nat Rev Mol Cell Biol",
+  "authors": [
+    {
+      "name": "Dikic I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Elazar Z",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Elazar Z",
+  "title": "Mechanism and medical implications of mammalian autophagy.",
+  "sorttitle": "mechanism and medical implications of mammalian autophagy",
+  "volume": "19",
+  "issue": "6",
+  "pages": "349-364",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962782",
+  "issn": "1471-0072",
+  "essn": "1471-0080",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29618831"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41580-018-0003-4"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41580-018-0003-4"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29618831"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29618831"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/04/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/08/20 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/04/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 335,
+  "fulljournalname": "Nature reviews. Molecular cell biology",
+  "elocationid": "doi: 10.1038/s41580-018-0003-4",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/06/01 00:00",
+  "sortfirstauthor": "Dikic I",
+  "vernaculartitle": ""
+}

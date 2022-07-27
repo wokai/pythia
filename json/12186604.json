@@ -1,0 +1,221 @@
+{
+  "uid": "12186604",
+  "pubdate": "2002 Aug 21",
+  "epubdate": "",
+  "source": "JAMA",
+  "authors": [
+    {
+      "name": "Annane D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sébille V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Charpentier C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bollaert PE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "François B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Korach JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Capellier G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cohen Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Azoulay E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Troché G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chaumet-Riffaud P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bellissant E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bellissant E",
+  "title": "Effect of treatment with low doses of hydrocortisone and fludrocortisone on mortality in patients with septic shock.",
+  "sorttitle": "effect of treatment with low doses of hydrocortisone and fludrocortisone on mortality in patients with septic shock",
+  "volume": "288",
+  "issue": "7",
+  "pages": "862-71",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7501160",
+  "issn": "0098-7484",
+  "essn": "1538-3598",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "12186604"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "jce10061"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jama.288.7.862"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "12186604"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "12186604"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2002/08/21 10:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2002/08/31 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2002/08/21 10:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA. 2008 Oct 8;300(14):1652",
+      "reftype": "Erratum in",
+      "pmid": "",
+      "note": "Chaumet-Riffaut, Philippe [corrected to Chaumet-Riffaud, Philippe]"
+    },
+    {
+      "refsource": "JAMA. 2002 Aug 21;288(7):886-7",
+      "reftype": "Comment in",
+      "pmid": 12186608,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2003 Jan 1;289(1):43; author reply 43-4",
+      "reftype": "Comment in",
+      "pmid": 12503964,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2003 Jan 1;289(1):42; author reply 43-4",
+      "reftype": "Comment in",
+      "pmid": 12503965,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2003 Jan 1;289(1):42; author reply 43-4",
+      "reftype": "Comment in",
+      "pmid": 12503966,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2003 Jan 1;289(1):41; author reply 43-4",
+      "reftype": "Comment in",
+      "pmid": 12503967,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2003 Jan 1;289(1):41-2; author reply 43-4",
+      "reftype": "Comment in",
+      "pmid": 12503968,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2003 Jan 1;289(1):41; author reply 43-4",
+      "reftype": "Comment in",
+      "pmid": 12503969,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2003 Jan 1;289(1):41; author reply 43-4",
+      "reftype": "Comment in",
+      "pmid": 12503970,
+      "note": ""
+    },
+    {
+      "refsource": "ACP J Club. 2003 Mar-Apr;138(2):44",
+      "reftype": "Comment in",
+      "pmid": 12614129,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA. 2003 Apr 2;289(13):1634; author reply 1634-5",
+      "reftype": "Comment in",
+      "pmid": 12672726,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 447,
+  "fulljournalname": "JAMA",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2002/08/21 00:00",
+  "sortfirstauthor": "Annane D",
+  "vernaculartitle": ""
+}

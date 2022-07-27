@@ -1,0 +1,103 @@
+{
+  "uid": "26218473",
+  "pubdate": "2015 Aug",
+  "epubdate": "2015 Jul 28",
+  "source": "Rofo",
+  "authors": [
+    {
+      "name": "Wormanns D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hamer OW",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hamer OW",
+  "title": "[Glossary of Terms for Thoracic Imaging--German Version of the Fleischner Society Recommendations].",
+  "sorttitle": "glossary of terms for thoracic imaging german version of the fleischner society recommendations",
+  "volume": "187",
+  "issue": "8",
+  "pages": "638-61",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "7507497",
+  "issn": "1438-9029",
+  "essn": "1438-9010",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26218473"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1055/s-0035-1553216"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26218473"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26218473"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/07/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/07/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/10/16 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Rofo. 2015 Aug;187(8):637",
+      "reftype": "Comment in",
+      "pmid": 26218472,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "RoFo : Fortschritte auf dem Gebiete der Rontgenstrahlen und der Nuklearmedizin",
+  "elocationid": "doi: 10.1055/s-0035-1553216",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/08/01 00:00",
+  "sortfirstauthor": "Wormanns D",
+  "vernaculartitle": "Glossar thoraxradiologischer Begriffe entsprechend der Terminologie der Fleischner Society."
+}

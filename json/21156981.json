@@ -1,0 +1,129 @@
+{
+  "uid": "21156981",
+  "pubdate": "2011 Feb",
+  "epubdate": "2010 Dec 14",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Simpao A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heitz JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McNulty SE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chekemian B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brenn BR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Epstein RH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Epstein RH",
+  "title": "The design and implementation of an automated system for logging clinical experiences using an anesthesia information management system.",
+  "sorttitle": "design and implementation of an automated system for logging clinical experiences using an anesthesia information management system",
+  "volume": "112",
+  "issue": "2",
+  "pages": "422-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21156981"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ANE.0b013e3182042e56"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0b013e3182042e56"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21156981"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21156981"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/12/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/12/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/03/01 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2011 Feb;112(2):260-1",
+      "reftype": "Comment in",
+      "pmid": 21257700,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 4,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0b013e3182042e56",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/02/01 00:00",
+  "sortfirstauthor": "Simpao A",
+  "vernaculartitle": ""
+}

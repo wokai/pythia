@@ -1,0 +1,109 @@
+{
+  "uid": "29561295",
+  "pubdate": "2018 May",
+  "epubdate": "",
+  "source": "Reg Anesth Pain Med",
+  "authors": [
+    {
+      "name": "Elsharkawy H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pawa A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mariano ER",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mariano ER",
+  "title": "Interfascial Plane Blocks: Back to Basics.",
+  "sorttitle": "interfascial plane blocks back to basics",
+  "volume": "43",
+  "issue": "4",
+  "pages": "341-346",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9804508",
+  "issn": "1098-7339",
+  "essn": "1532-8651",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29561295"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/AAP.0000000000000750"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29561295"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29561295"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/03/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/10 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/03/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Reg Anesth Pain Med. 2019 Jan;44(1):135-136",
+      "reftype": "Comment in",
+      "pmid": 30640669,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Regional anesthesia and pain medicine",
+  "elocationid": "doi: 10.1097/AAP.0000000000000750",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/05/01 00:00",
+  "sortfirstauthor": "Elsharkawy H",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,107 @@
+{
+  "uid": "19407256",
+  "pubdate": "2009 Sep",
+  "epubdate": "2009 Apr 30",
+  "source": "J Appl Physiol (1985)",
+  "authors": [
+    {
+      "name": "Tobin MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laghi F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brochard L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Brochard L",
+  "title": "Role of the respiratory muscles in acute respiratory failure of COPD: lessons from weaning failure.",
+  "sorttitle": "role of the respiratory muscles in acute respiratory failure of copd lessons from weaning failure",
+  "volume": "107",
+  "issue": "3",
+  "pages": "962-70",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8502536",
+  "issn": "8750-7587",
+  "essn": "1522-1601",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19407256"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00165.2009"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1152/japplphysiol.00165.2009"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19407256"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19407256"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/05/02 09:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/05/02 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2009/10/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 10,
+  "fulljournalname": "Journal of applied physiology (Bethesda, Md. : 1985)",
+  "elocationid": "doi: 10.1152/japplphysiol.00165.2009",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/09/01 00:00",
+  "sortfirstauthor": "Tobin MJ",
+  "vernaculartitle": ""
+}

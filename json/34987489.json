@@ -1,0 +1,124 @@
+{
+  "uid": "34987489",
+  "pubdate": "2021",
+  "epubdate": "2021 Dec 20",
+  "source": "Front Microbiol",
+  "authors": [
+    {
+      "name": "Ramsay KA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McTavish SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wardell SJT",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lamont IL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lamont IL",
+  "title": "The Effects of Sub-inhibitory Antibiotic Concentrations on <i>Pseudomonas aeruginosa</i>: Reduced Susceptibility Due to Mutations.",
+  "sorttitle": "effects of sub inhibitory antibiotic concentrations on i pseudomonas aeruginosa i reduced susceptibility due to mutations",
+  "volume": "12",
+  "issue": "",
+  "pages": "789550",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101548977",
+  "issn": "",
+  "essn": "1664-302X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34987489"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fmicb.2021.789550"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8721600"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34987489"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34987489"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8721600;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/10/05 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/11/05 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2022/01/06 05:53"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2022/01/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2022/01/07 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Frontiers in microbiology",
+  "elocationid": "doi: 10.3389/fmicb.2021.789550",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/12/20 00:00",
+  "sortfirstauthor": "Ramsay KA",
+  "vernaculartitle": ""
+}

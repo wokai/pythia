@@ -1,0 +1,97 @@
+{
+  "uid": "21394104",
+  "pubdate": "2011 Apr",
+  "epubdate": "2011 Mar 11",
+  "source": "Nat Rev Immunol",
+  "authors": [
+    {
+      "name": "Romani L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Romani L",
+  "title": "Immunity to fungal infections.",
+  "sorttitle": "immunity to fungal infections",
+  "volume": "11",
+  "issue": "4",
+  "pages": "275-88",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101124169",
+  "issn": "1474-1733",
+  "essn": "1474-1741",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21394104"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nri2939"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nri2939"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21394104"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21394104"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/03/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/03/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/05/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 402,
+  "fulljournalname": "Nature reviews. Immunology",
+  "elocationid": "doi: 10.1038/nri2939",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/04/01 00:00",
+  "sortfirstauthor": "Romani L",
+  "vernaculartitle": ""
+}

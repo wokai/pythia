@@ -1,0 +1,111 @@
+{
+  "uid": "21665898",
+  "pubdate": "2011 Oct",
+  "epubdate": "2011 Jun 10",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "van Schalkwyk JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lowes D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Frampton C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Merry AF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Merry AF",
+  "title": "Does manual anaesthetic record capture remove clinically important data?",
+  "sorttitle": "does manual anaesthetic record capture remove clinically important data",
+  "volume": "107",
+  "issue": "4",
+  "pages": "546-52",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21665898"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(17)33036-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/bja/aer163"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21665898"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21665898"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/06/14 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/06/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/11/01 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1093/bja/aer163",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/10/01 00:00",
+  "sortfirstauthor": "van Schalkwyk JM",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,127 @@
+{
+  "uid": "29468559",
+  "pubdate": "2018 Mar",
+  "epubdate": "",
+  "source": "Drugs R D",
+  "authors": [
+    {
+      "name": "Liebl A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mohan V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yang W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Strojek K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Linjawi S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Linjawi S",
+  "title": "15 Years of Experience with Biphasic Insulin Aspart 30 in Type 2 Diabetes.",
+  "sorttitle": "15 years of experience with biphasic insulin aspart 30 in type 2 diabetes",
+  "volume": "18",
+  "issue": "1",
+  "pages": "27-39",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100883647",
+  "issn": "1174-5886",
+  "essn": "1179-6901",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29468559"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s40268-018-0228-x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s40268-018-0228-x"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5833912"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29468559"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29468559"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5833912;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/02/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/08/28 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/02/23 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Drugs in R&D",
+  "elocationid": "doi: 10.1007/s40268-018-0228-x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/03/01 00:00",
+  "sortfirstauthor": "Liebl A",
+  "vernaculartitle": ""
+}

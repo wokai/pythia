@@ -1,0 +1,297 @@
+{
+  "uid": "33080002",
+  "pubdate": "2021 Jan 1",
+  "epubdate": "",
+  "source": "JAMA Intern Med",
+  "authors": [
+    {
+      "name": "Gupta S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hayek SS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chan L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mathews KS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Melamed ML",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brenner SK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leonberg-Yoo A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schenck EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Radbel J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reiser J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bansal A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Srivastava A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Finkel D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Green A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mallappallil M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Faugno AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Velez JCQ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shaefi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Parikh CR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Charytan DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Athavale AM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Friedman AN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Redfern RE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Short SAP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Correa S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pokharel KK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Admon AJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Donnelly JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gershengorn HB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Douin DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Semler MW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hernán MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leaf DE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "STOP-COVID Investigators.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Leaf DE",
+  "title": "Association Between Early Treatment With Tocilizumab and Mortality Among Critically Ill Patients With COVID-19.",
+  "sorttitle": "association between early treatment with tocilizumab and mortality among critically ill patients with covid 19",
+  "volume": "181",
+  "issue": "1",
+  "pages": "41-51",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101589534",
+  "issn": "2168-6106",
+  "essn": "2168-6114",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33080002"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2772185"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jamainternmed.2020.6252"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7577201"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33080002"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33080002"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7577201;embargo-date: 2021/10/20;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pmc-release",
+      "date": "2021/10/20 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/10/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/16 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/10/20 17:10"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA Intern Med. 2021 Jan 1;181(1):12-15",
+      "reftype": "Comment in",
+      "pmid": 33079980,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 46,
+  "fulljournalname": "JAMA internal medicine",
+  "elocationid": "doi: 10.1001/jamainternmed.2020.6252",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/01 00:00",
+  "sortfirstauthor": "Gupta S",
+  "vernaculartitle": ""
+}

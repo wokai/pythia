@@ -1,0 +1,134 @@
+{
+  "uid": "31427404",
+  "pubdate": "2019 Nov",
+  "epubdate": "2019 Aug 19",
+  "source": "Gut",
+  "authors": [
+    {
+      "name": "Misselwitz B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Butter M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Verbeke K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fox MR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Fox MR",
+  "title": "Update on lactose malabsorption and intolerance: pathogenesis, diagnosis and clinical management.",
+  "sorttitle": "update on lactose malabsorption and intolerance pathogenesis diagnosis and clinical management",
+  "volume": "68",
+  "issue": "11",
+  "pages": "2080-2091",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985108R",
+  "issn": "0017-5749",
+  "essn": "1468-3288",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31427404"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "gutjnl-2019-318404"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/gutjnl-2019-318404"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6839734"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31427404"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31427404"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6839734;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/05/07 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/06/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/06/21 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/08/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/11/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/08/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Gut",
+  "elocationid": "doi: 10.1136/gutjnl-2019-318404",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/11/01 00:00",
+  "sortfirstauthor": "Misselwitz B",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,116 @@
+{
+  "uid": "2266683",
+  "pubdate": "1990 Nov",
+  "epubdate": "",
+  "source": "Kidney Int",
+  "authors": [
+    {
+      "name": "Mehta RL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McDonald BR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aguilar MM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ward DM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ward DM",
+  "title": "Regional citrate anticoagulation for continuous arteriovenous hemodialysis in critically ill patients.",
+  "sorttitle": "regional citrate anticoagulation for continuous arteriovenous hemodialysis in critically ill patients",
+  "volume": "38",
+  "issue": "5",
+  "pages": "976-81",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0323470",
+  "issn": "0085-2538",
+  "essn": "1523-1755",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "2266683"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0085-2538(15)57045-2"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/ki.1990.300"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "2266683"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "2266683"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1990/11/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1990/11/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1990/11/01 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Blood Purif. 2016;42(3):194-201",
+      "reftype": "Comment in",
+      "pmid": 27352175,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 39,
+  "fulljournalname": "Kidney international",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1990/11/01 00:00",
+  "sortfirstauthor": "Mehta RL",
+  "vernaculartitle": ""
+}

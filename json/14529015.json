@@ -1,0 +1,97 @@
+{
+  "uid": "14529015",
+  "pubdate": "2003 Sep",
+  "epubdate": "",
+  "source": "Best Pract Res Clin Anaesthesiol",
+  "authors": [
+    {
+      "name": "Pollock JE",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Pollock JE",
+  "title": "Neurotoxicity of intrathecal local anaesthetics and transient neurological symptoms.",
+  "sorttitle": "neurotoxicity of intrathecal local anaesthetics and transient neurological symptoms",
+  "volume": "17",
+  "issue": "3",
+  "pages": "471-84",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101121446",
+  "issn": "1521-6896",
+  "essn": "1878-1608",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14529015"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1521-6896(02)00113-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/s1521-6896(02)00113-1"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14529015"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14529015"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/10/08 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/03/12 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/10/08 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Best practice & research. Clinical anaesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/09/01 00:00",
+  "sortfirstauthor": "Pollock JE",
+  "vernaculartitle": ""
+}

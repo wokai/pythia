@@ -1,0 +1,117 @@
+{
+  "uid": "10540084",
+  "pubdate": "1999 Oct",
+  "epubdate": "",
+  "source": "Anaesthesia",
+  "authors": [
+    {
+      "name": "Kar GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ali SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stacey RG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Samsoon G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Samsoon G",
+  "title": "Nausea and vomiting during Caesarean section.",
+  "sorttitle": "nausea and vomiting during caesarean section",
+  "volume": "54",
+  "issue": "10",
+  "pages": "1021-2",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370524",
+  "issn": "0003-2409",
+  "essn": "1365-2044",
+  "pubtype": [
+    "Comment",
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "10540084"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ana1133y"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1046/j.1365-2044.1999.1133y.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "10540084"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "10540084"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1999/10/30 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1999/10/30 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1999/10/30 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anaesthesia. 1999 May;54(5):479-82",
+      "reftype": "Comment on",
+      "pmid": 10995148,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "Anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1999/10/01 00:00",
+  "sortfirstauthor": "Kar GS",
+  "vernaculartitle": ""
+}

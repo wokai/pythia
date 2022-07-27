@@ -1,0 +1,128 @@
+{
+  "uid": "25757552",
+  "pubdate": "2015 Mar",
+  "epubdate": "2015 Mar 11",
+  "source": "Anaesthesist",
+  "authors": [
+    {
+      "name": "Heller AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heger J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gama de Abreu M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Müller MP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Müller MP",
+  "title": "Cafedrine/theodrenaline in anaesthesia: influencing factors in restoring arterial blood pressure.",
+  "sorttitle": "cafedrine theodrenaline in anaesthesia influencing factors in restoring arterial blood pressure",
+  "volume": "64",
+  "issue": "3",
+  "pages": "190-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370525",
+  "issn": "0003-2417",
+  "essn": "1432-055X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25757552"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00101-015-0005-y"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4383809"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25757552"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25757552"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4383809;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/08/08 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/12/17 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2014/12/16 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2015/03/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/03/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/12/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Der Anaesthesist",
+  "elocationid": "doi: 10.1007/s00101-015-0005-y",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/03/01 00:00",
+  "sortfirstauthor": "Heller AR",
+  "vernaculartitle": ""
+}

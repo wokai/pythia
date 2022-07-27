@@ -1,0 +1,112 @@
+{
+  "uid": "27274044",
+  "pubdate": "2016 Jun 7",
+  "epubdate": "",
+  "source": "Proc Natl Acad Sci U S A",
+  "authors": [
+    {
+      "name": "Roebroeks W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Soressi M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Soressi M",
+  "title": "Neandertals revised.",
+  "sorttitle": "neandertals revised",
+  "volume": "113",
+  "issue": "23",
+  "pages": "6372-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7505876",
+  "issn": "0027-8424",
+  "essn": "1091-6490",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27274044"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1521269113"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1073/pnas.1521269113"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4988603"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27274044"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27274044"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4988603;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/06/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/06/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/01/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 15,
+  "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+  "elocationid": "doi: 10.1073/pnas.1521269113",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/06/07 00:00",
+  "sortfirstauthor": "Roebroeks W",
+  "vernaculartitle": ""
+}

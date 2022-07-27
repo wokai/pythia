@@ -1,0 +1,150 @@
+{
+  "uid": "35148313",
+  "pubdate": "2022 Feb",
+  "epubdate": "2022 Feb 11",
+  "source": "PLoS Negl Trop Dis",
+  "authors": [
+    {
+      "name": "Bunge EM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hoet B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Chen L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lienert F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weidenthaler H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baer LR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Steffen R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Steffen R",
+  "title": "The changing epidemiology of human monkeypox-A potential threat? A systematic review.",
+  "sorttitle": "changing epidemiology of human monkeypox a potential threat a systematic review",
+  "volume": "16",
+  "issue": "2",
+  "pages": "e0010141",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101291488",
+  "issn": "1935-2727",
+  "essn": "1935-2735",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "35148313"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1371/journal.pntd.0010141"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "PNTD-D-21-00919"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8870502"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "35148313"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "35148313"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8870502;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/06/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2022/01/04 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2022/02/24 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2022/02/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2022/03/12 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2022/02/11 17:11"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "PLoS neglected tropical diseases",
+  "elocationid": "doi: 10.1371/journal.pntd.0010141",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2022/02/11 00:00",
+  "sortfirstauthor": "Bunge EM",
+  "vernaculartitle": ""
+}

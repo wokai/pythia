@@ -1,0 +1,116 @@
+{
+  "uid": "31562390",
+  "pubdate": "2019 Nov",
+  "epubdate": "2019 Sep 27",
+  "source": "Nat Rev Gastroenterol Hepatol",
+  "authors": [
+    {
+      "name": "Lynch SV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ng SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shanahan F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tilg H",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tilg H",
+  "title": "Translating the gut microbiome: ready for the clinic?",
+  "sorttitle": "translating the gut microbiome ready for the clinic",
+  "volume": "16",
+  "issue": "11",
+  "pages": "656-661",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101500079",
+  "issn": "1759-5045",
+  "essn": "1759-5053",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31562390"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41575-019-0204-0"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41575-019-0204-0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31562390"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31562390"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2019/08/19 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/09/29 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/11/26 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/09/29 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Nature reviews. Gastroenterology & hepatology",
+  "elocationid": "doi: 10.1038/s41575-019-0204-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/11/01 00:00",
+  "sortfirstauthor": "Lynch SV",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,102 @@
+{
+  "uid": "29246735",
+  "pubdate": "2018 Feb",
+  "epubdate": "2017 Dec 13",
+  "source": "Semin Perinatol",
+  "authors": [
+    {
+      "name": "Kikuchi J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Deering S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Deering S",
+  "title": "Cardiac arrest in pregnancy.",
+  "sorttitle": "cardiac arrest in pregnancy",
+  "volume": "42",
+  "issue": "1",
+  "pages": "33-38",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7801132",
+  "issn": "0146-0005",
+  "essn": "1558-075X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29246735"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0146-0005(17)30131-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1053/j.semperi.2017.11.007"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29246735"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29246735"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/12/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/03/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/12/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Seminars in perinatology",
+  "elocationid": "doi: 10.1053/j.semperi.2017.11.007",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/02/01 00:00",
+  "sortfirstauthor": "Kikuchi J",
+  "vernaculartitle": ""
+}

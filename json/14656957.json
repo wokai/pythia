@@ -1,0 +1,183 @@
+{
+  "uid": "14656957",
+  "pubdate": "2003 Dec",
+  "epubdate": "2003 Dec 1",
+  "source": "Hypertension",
+  "authors": [
+    {
+      "name": "Chobanian AV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bakris GL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Black HR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cushman WC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Green LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Izzo JL Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jones DW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Materson BJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Oparil S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wright JT Jr",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roccella EJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure. National Heart, Lung, and Blood Institute.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    },
+    {
+      "name": "National High Blood Pressure Education Program Coordinating Committee.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Roccella EJ",
+  "title": "Seventh report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure.",
+  "sorttitle": "seventh report of the joint national committee on prevention detection evaluation and treatment of high blood pressure",
+  "volume": "42",
+  "issue": "6",
+  "pages": "1206-52",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7906255",
+  "issn": "0194-911X",
+  "essn": "1524-4563",
+  "pubtype": [
+    "Guideline",
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "14656957"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1161/01.HYP.0000107251.49515.c2"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "01.HYP.0000107251.49515.c2"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "14656957"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "14656957"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2003/12/06 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/01/06 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2003/12/06 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Hypertension. 2004 Jan;43(1):1-3",
+      "reftype": "Comment in",
+      "pmid": 14676222,
+      "note": ""
+    },
+    {
+      "refsource": "Hypertension. 2004 Apr;43(4):e28;; author reply e28",
+      "reftype": "Comment in",
+      "pmid": 14981060,
+      "note": ""
+    },
+    {
+      "refsource": "Hypertension. 2004 Apr;43(4):e27; author reply e27",
+      "reftype": "Comment in",
+      "pmid": 14981061,
+      "note": ""
+    },
+    {
+      "refsource": "Hypertension. 2004 May;43(5):e31; author reply e31",
+      "reftype": "Comment in",
+      "pmid": 15037559,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2759,
+  "fulljournalname": "Hypertension (Dallas, Tex. : 1979)",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2003/12/01 00:00",
+  "sortfirstauthor": "Chobanian AV",
+  "vernaculartitle": ""
+}

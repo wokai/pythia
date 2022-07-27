@@ -1,0 +1,96 @@
+{
+  "uid": "22040949",
+  "pubdate": "2011 Nov",
+  "epubdate": "",
+  "source": "Health Serv Manage Res",
+  "authors": [
+    {
+      "name": "Williams I",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Williams I",
+  "title": "Organizational readiness for innovation in health care: some lessons from the recent literature.",
+  "sorttitle": "organizational readiness for innovation in health care some lessons from the recent literature",
+  "volume": "24",
+  "issue": "4",
+  "pages": "213-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8811549",
+  "issn": "0951-4848",
+  "essn": "1758-1044",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22040949"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "24/4/213"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1258/hsmr.2011.011014"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22040949"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22040949"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/11/02 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/11/02 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/03/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 19,
+  "fulljournalname": "Health services management research",
+  "elocationid": "doi: 10.1258/hsmr.2011.011014",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/11/01 00:00",
+  "sortfirstauthor": "Williams I",
+  "vernaculartitle": ""
+}

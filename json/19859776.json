@@ -1,0 +1,115 @@
+{
+  "uid": "19859776",
+  "pubdate": "2010 Jan",
+  "epubdate": "2009 Oct 27",
+  "source": "Can J Anaesth",
+  "authors": [
+    {
+      "name": "Banerjee A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stocche RM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Angle P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Halpern SH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Halpern SH",
+  "title": "Preload or coload for spinal anesthesia for elective Cesarean delivery: a meta-analysis.",
+  "sorttitle": "preload or coload for spinal anesthesia for elective cesarean delivery a meta analysis",
+  "volume": "57",
+  "issue": "1",
+  "pages": "24-31",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8701709",
+  "issn": "0832-610X",
+  "essn": "1496-8975",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19859776"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s12630-009-9206-7"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19859776"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19859776"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2009/07/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2009/10/13 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2009/10/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/10/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/03/31 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+  "elocationid": "doi: 10.1007/s12630-009-9206-7",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/01/01 00:00",
+  "sortfirstauthor": "Banerjee A",
+  "vernaculartitle": ""
+}

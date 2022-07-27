@@ -1,0 +1,135 @@
+{
+  "uid": "33985541",
+  "pubdate": "2021 May 13",
+  "epubdate": "2021 May 13",
+  "source": "Scand J Trauma Resusc Emerg Med",
+  "authors": [
+    {
+      "name": "Avery P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morton S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Raitt J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lossius HM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lockey D",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lockey D",
+  "title": "Rapid sequence induction: where did the consensus go?",
+  "sorttitle": "rapid sequence induction where did the consensus go",
+  "volume": "29",
+  "issue": "1",
+  "pages": "64",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101477511",
+  "issn": "",
+  "essn": "1757-7241",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33985541"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13049-021-00883-5"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13049-021-00883-5"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8116824"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33985541"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33985541"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8116824;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/03/04 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/04/28 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/05/14 05:40"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/05/15 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/07/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Scandinavian journal of trauma, resuscitation and emergency medicine",
+  "elocationid": "doi: 10.1186/s13049-021-00883-5",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/05/13 00:00",
+  "sortfirstauthor": "Avery P",
+  "vernaculartitle": ""
+}

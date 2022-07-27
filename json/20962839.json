@@ -1,0 +1,114 @@
+{
+  "uid": "20962839",
+  "pubdate": "2010 Oct 21",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Lane N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin W",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Martin W",
+  "title": "The energetics of genome complexity.",
+  "sorttitle": "energetics of genome complexity",
+  "volume": "467",
+  "issue": "7318",
+  "pages": "929-34",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20962839"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature09486"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature09486"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20962839"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20962839"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/10/22 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/10/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/12/14 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Proc Natl Acad Sci U S A. 2016 Feb 9;113(6):E667-8",
+      "reftype": "Comment in",
+      "pmid": 26811483,
+      "note": ""
+    },
+    {
+      "refsource": "Proc Natl Acad Sci U S A. 2016 Feb 9;113(6):E666",
+      "reftype": "Comment in",
+      "pmid": 26811484,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 315,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature09486",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/10/21 00:00",
+  "sortfirstauthor": "Lane N",
+  "vernaculartitle": ""
+}

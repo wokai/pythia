@@ -1,0 +1,145 @@
+{
+  "uid": "23337416",
+  "pubdate": "2013 Jul",
+  "epubdate": "2013 Jan 21",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Murphy GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Szokol JW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Avram MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greenberg SB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shear T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vender JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gray J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Landry E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Landry E",
+  "title": "Postoperative residual neuromuscular blockade is associated with impaired clinical recovery.",
+  "sorttitle": "postoperative residual neuromuscular blockade is associated with impaired clinical recovery",
+  "volume": "117",
+  "issue": "1",
+  "pages": "133-41",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23337416"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ANE.0b013e3182742e75"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0b013e3182742e75"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23337416"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23337416"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/01/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/01/23 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/08/28 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2014 Mar;118(3):691",
+      "reftype": "Comment in",
+      "pmid": 24557116,
+      "note": ""
+    },
+    {
+      "refsource": "Anesth Analg. 2014 Mar;118(3):692-3",
+      "reftype": "Comment in",
+      "pmid": 24557118,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 35,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0b013e3182742e75",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/07/01 00:00",
+  "sortfirstauthor": "Murphy GS",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,170 @@
+{
+  "uid": "30575845",
+  "pubdate": "2019 Feb 1",
+  "epubdate": "",
+  "source": "JAMA Intern Med",
+  "authors": [
+    {
+      "name": "Fang F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tang J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lunsford LD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tang R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "He J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xu P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Faramand A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Xu J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "You C",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "You C",
+  "title": "Association of Corticosteroid Treatment With Outcomes in Adult Patients With Sepsis: A Systematic Review and Meta-analysis.",
+  "sorttitle": "association of corticosteroid treatment with outcomes in adult patients with sepsis a systematic review and meta analysis",
+  "volume": "179",
+  "issue": "2",
+  "pages": "213-223",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101589534",
+  "issn": "2168-6106",
+  "essn": "2168-6114",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30575845"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2719197"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jamainternmed.2018.5849"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6439648"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30575845"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30575845"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6439648;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/12/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/23 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/12/22 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA Intern Med. 2019 Jun 1;179(6):845",
+      "reftype": "Comment in",
+      "pmid": 31157838,
+      "note": ""
+    },
+    {
+      "refsource": "JAMA Intern Med. 2019 Jun 1;179(6):845",
+      "reftype": "Comment in",
+      "pmid": 31157848,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 20,
+  "fulljournalname": "JAMA internal medicine",
+  "elocationid": "doi: 10.1001/jamainternmed.2018.5849",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/02/01 00:00",
+  "sortfirstauthor": "Fang F",
+  "vernaculartitle": ""
+}

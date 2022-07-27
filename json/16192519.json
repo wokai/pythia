@@ -1,0 +1,106 @@
+{
+  "uid": "16192519",
+  "pubdate": "2005 Oct",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Fujimoto T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nishiyama T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hanaoka K",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hanaoka K",
+  "title": "Inhibitory effects of intravenous anesthetics on mast cell function.",
+  "sorttitle": "inhibitory effects of intravenous anesthetics on mast cell function",
+  "volume": "101",
+  "issue": "4",
+  "pages": "1054-9, table of contents",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16192519"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "101/4/1054"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/01.ane.0000166955.97368.80"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16192519"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16192519"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/09/30 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/10/22 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/09/30 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/10/01 00:00",
+  "sortfirstauthor": "Fujimoto T",
+  "vernaculartitle": ""
+}

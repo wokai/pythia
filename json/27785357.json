@@ -1,0 +1,111 @@
+{
+  "uid": "27785357",
+  "pubdate": "2016",
+  "epubdate": "2016 Oct 11",
+  "source": "F1000Res",
+  "authors": [
+    {
+      "name": "Jakobsson J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Johnson MZ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Johnson MZ",
+  "title": "Perioperative regional anaesthesia and postoperative longer-term outcomes.",
+  "sorttitle": "perioperative regional anaesthesia and postoperative longer term outcomes",
+  "volume": "5",
+  "issue": "",
+  "pages": "",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101594320",
+  "issn": "",
+  "essn": "2046-1402",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27785357"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.12688/f1000research.9100.1"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC5063036"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27785357"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27785357"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC5063036;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2016/10/10 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/10/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/10/28 06:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2016/10/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "F1000Research",
+  "elocationid": "pii: F1000 Faculty Rev-2501",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/10/11 00:00",
+  "sortfirstauthor": "Jakobsson J",
+  "vernaculartitle": ""
+}

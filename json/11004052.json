@@ -1,0 +1,110 @@
+{
+  "uid": "11004052",
+  "pubdate": "2000 Oct",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Kallio H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paloheimo M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maunuksela EL",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Maunuksela EL",
+  "title": "Hyaluronidase as an adjuvant in bupivacaine-lidocaine mixture for retrobulbar/peribulbar block.",
+  "sorttitle": "hyaluronidase as an adjuvant in bupivacaine lidocaine mixture for retrobulbar peribulbar block",
+  "volume": "91",
+  "issue": "4",
+  "pages": "934-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11004052"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000539-200010000-00031"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11004052"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11004052"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2000/09/27 11:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2000/10/21 11:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2000/09/27 11:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesth Analg. 2001 Feb;92(2):560",
+      "reftype": "Comment in",
+      "pmid": 11159276,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/10/01 00:00",
+  "sortfirstauthor": "Kallio H",
+  "vernaculartitle": ""
+}

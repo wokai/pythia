@@ -1,0 +1,124 @@
+{
+  "uid": "35079346",
+  "pubdate": "2022 Jan",
+  "epubdate": "2022 Jan 18",
+  "source": "Clin Transl Allergy",
+  "authors": [
+    {
+      "name": "Anderson J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maina N",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Maina N",
+  "title": "Reviewing clinical considerations and guideline recommendations of C1 inhibitor prophylaxis for hereditary angioedema.",
+  "sorttitle": "reviewing clinical considerations and guideline recommendations of c1 inhibitor prophylaxis for hereditary angioedema",
+  "volume": "12",
+  "issue": "1",
+  "pages": "e12092",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101576043",
+  "issn": "",
+  "essn": "2045-7022",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "35079346"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/clt2.12092"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "CLT212092"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC8764638"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "35079346"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "35079346"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC8764638;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/08/03 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2021/10/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/12/07 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2022/01/26 05:30"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2022/01/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2022/01/27 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Clinical and translational allergy",
+  "elocationid": "doi: 10.1002/clt2.12092",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2022/01/18 00:00",
+  "sortfirstauthor": "Anderson J",
+  "vernaculartitle": ""
+}

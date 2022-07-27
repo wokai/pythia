@@ -1,0 +1,134 @@
+{
+  "uid": "17676060",
+  "pubdate": "2007 Sep",
+  "epubdate": "2007 Aug 5",
+  "source": "Nat Neurosci",
+  "authors": [
+    {
+      "name": "Lazarus M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yoshida K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coppari R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bass CE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mochizuki T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lowell BB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Saper CB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Saper CB",
+  "title": "EP3 prostaglandin receptors in the median preoptic nucleus are critical for fever responses.",
+  "sorttitle": "ep3 prostaglandin receptors in the median preoptic nucleus are critical for fever responses",
+  "volume": "10",
+  "issue": "9",
+  "pages": "1131-3",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9809671",
+  "issn": "1097-6256",
+  "essn": "1546-1726",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17676060"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nn1949"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nn1949"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17676060"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17676060"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2007/05/28 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2007/06/28 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/08/07 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2008/01/05 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/08/07 09:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 122,
+  "fulljournalname": "Nature neuroscience",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/09/01 00:00",
+  "sortfirstauthor": "Lazarus M",
+  "vernaculartitle": ""
+}

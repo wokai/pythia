@@ -1,0 +1,123 @@
+{
+  "uid": "32519064",
+  "pubdate": "2020 Jun 9",
+  "epubdate": "2020 Jun 9",
+  "source": "Ann Intensive Care",
+  "authors": [
+    {
+      "name": "Tobin MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laghi F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jubran A",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Jubran A",
+  "title": "Caution about early intubation and mechanical ventilation in COVID-19.",
+  "sorttitle": "caution about early intubation and mechanical ventilation in covid 19",
+  "volume": "10",
+  "issue": "1",
+  "pages": "78",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101562873",
+  "issn": "",
+  "essn": "2110-5820",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32519064"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s13613-020-00692-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s13613-020-00692-6"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7281696"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32519064"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32519064"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7281696;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/05/22 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/05/30 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/06/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/06/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/06/11 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 43,
+  "fulljournalname": "Annals of intensive care",
+  "elocationid": "doi: 10.1186/s13613-020-00692-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/06/09 00:00",
+  "sortfirstauthor": "Tobin MJ",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,108 @@
+{
+  "uid": "1311535",
+  "pubdate": "1992 Mar",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Diefenbach C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mellinghoff H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lynch J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Buzello W",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Buzello W",
+  "title": "Mivacurium: dose-response relationship and administration by repeated injection or infusion.",
+  "sorttitle": "mivacurium dose response relationship and administration by repeated injection or infusion",
+  "volume": "74",
+  "issue": "3",
+  "pages": "420-3",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "1311535"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/00000539-199203000-00018"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "1311535"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "1311535"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1992/03/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1992/03/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1992/03/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1992/03/01 00:00",
+  "sortfirstauthor": "Diefenbach C",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,134 @@
+{
+  "uid": "30916028",
+  "pubdate": "2019 May",
+  "epubdate": "2019 Mar 11",
+  "source": "Br J Anaesth",
+  "authors": [
+    {
+      "name": "Grandville B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Petak F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Albu G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bayat S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pichon I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Habre W",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Habre W",
+  "title": "High inspired oxygen fraction impairs lung volume and ventilation heterogeneity in healthy children: a double-blind randomised controlled trial.",
+  "sorttitle": "high inspired oxygen fraction impairs lung volume and ventilation heterogeneity in healthy children a double blind randomised controlled trial",
+  "volume": "122",
+  "issue": "5",
+  "pages": "682-691",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372541",
+  "issn": "0007-0912",
+  "essn": "1471-6771",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30916028"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0007-0912(19)30091-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.bja.2019.01.036"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30916028"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30916028"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/09/20 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/01/23 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/01/23 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/03/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/04/23 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/03/28 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "British journal of anaesthesia",
+  "elocationid": "doi: 10.1016/j.bja.2019.01.036",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/05/01 00:00",
+  "sortfirstauthor": "Grandville B",
+  "vernaculartitle": ""
+}

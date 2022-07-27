@@ -1,0 +1,124 @@
+{
+  "uid": "15023108",
+  "pubdate": "2004 Apr",
+  "epubdate": "",
+  "source": "Anaesthesia",
+  "authors": [
+    {
+      "name": "Krause T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gerbershagen MU",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fiege M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Weisshorn R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wappler F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Wappler F",
+  "title": "Dantrolene--a review of its pharmacology, therapeutic use and new developments.",
+  "sorttitle": "dantrolene a review of its pharmacology therapeutic use and new developments",
+  "volume": "59",
+  "issue": "4",
+  "pages": "364-73",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0370524",
+  "issn": "0003-2409",
+  "essn": "1365-2044",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15023108"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1365-2044.2004.03658.x"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "ANA3658"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15023108"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15023108"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/03/17 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/05/05 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/03/17 05:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anaesthesia. 2004 Nov;59(11):1139; author reply 1139-40",
+      "reftype": "Comment in",
+      "pmid": 15479327,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 87,
+  "fulljournalname": "Anaesthesia",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/04/01 00:00",
+  "sortfirstauthor": "Krause T",
+  "vernaculartitle": ""
+}

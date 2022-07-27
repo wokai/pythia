@@ -1,0 +1,174 @@
+{
+  "uid": "33190109",
+  "pubdate": "2021 Jan",
+  "epubdate": "2020 Nov 6",
+  "source": "J Stroke Cerebrovasc Dis",
+  "authors": [
+    {
+      "name": "Dakay K",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cooper J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bloomfield J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Overby P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mayer SA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nuoman R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sahni R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gulko E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaur G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Santarelli J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gandhi CD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Al-Mufti F",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Al-Mufti F",
+  "title": "Cerebral Venous Sinus Thrombosis in COVID-19 Infection: A Case Series and Review of The Literature.",
+  "sorttitle": "cerebral venous sinus thrombosis in covid 19 infection a case series and review of the literature",
+  "volume": "30",
+  "issue": "1",
+  "pages": "105434",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9111633",
+  "issn": "1052-3057",
+  "essn": "1532-8511",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33190109"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S1052-3057(20)30852-1"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.jstrokecerebrovasdis.2020.105434"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7833244"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33190109"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33190109"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7833244;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/08/10 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2020/09/14 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/10/27 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/29 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/15 20:35"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 3,
+  "fulljournalname": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+  "elocationid": "doi: 10.1016/j.jstrokecerebrovasdis.2020.105434",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/01/01 00:00",
+  "sortfirstauthor": "Dakay K",
+  "vernaculartitle": ""
+}

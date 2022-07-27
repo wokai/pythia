@@ -1,0 +1,171 @@
+{
+  "uid": "31273118",
+  "pubdate": "2019 Jul 5",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Masson N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Keeley TP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Giuntoli B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "White MD",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Puerta ML",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Perata P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hopkinson RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Flashman E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Licausi F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ratcliffe PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ratcliffe PJ",
+  "title": "Conserved N-terminal cysteine dioxygenases transduce responses to hypoxia in animals and plants.",
+  "sorttitle": "conserved n terminal cysteine dioxygenases transduce responses to hypoxia in animals and plants",
+  "volume": "365",
+  "issue": "6448",
+  "pages": "65-69",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31273118"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "365/6448/65"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.aaw0112"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6715447"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "EMS84171"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31273118"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31273118"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6715447;manuscript-id: EMS84171;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/11/09 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/06/12 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/07/06 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/07/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/03/26 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cell. 2020 Jan 9;180(1):22-24",
+      "reftype": "Comment in",
+      "pmid": 31785834,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 24,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "doi: 10.1126/science.aaw0112",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/07/05 00:00",
+  "sortfirstauthor": "Masson N",
+  "vernaculartitle": ""
+}

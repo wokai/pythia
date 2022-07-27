@@ -1,0 +1,197 @@
+{
+  "uid": "24115443",
+  "pubdate": "2013 Oct 11",
+  "epubdate": "",
+  "source": "Science",
+  "authors": [
+    {
+      "name": "Brandt G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Haak W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Adler CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roth C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Szécsényi-Nagy A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Karimnia S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Möller-Rieker S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Meller H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ganslmeier R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Friederich S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dresely V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nicklisch N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pickrell JK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sirocko F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reich D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cooper A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Alt KW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Genographic Consortium.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Alt KW",
+  "title": "Ancient DNA reveals key stages in the formation of central European mitochondrial genetic diversity.",
+  "sorttitle": "ancient dna reveals key stages in the formation of central european mitochondrial genetic diversity",
+  "volume": "342",
+  "issue": "6155",
+  "pages": "257-61",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0404511",
+  "issn": "0036-8075",
+  "essn": "1095-9203",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24115443"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "342/6155/257"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1126/science.1241844"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4039305"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS584043"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24115443"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24115443"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4039305;manuscript-id: NIHMS584043;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/10/12 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/10/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/11/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 82,
+  "fulljournalname": "Science (New York, N.Y.)",
+  "elocationid": "doi: 10.1126/science.1241844",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/10/11 00:00",
+  "sortfirstauthor": "Brandt G",
+  "vernaculartitle": ""
+}

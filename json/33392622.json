@@ -1,0 +1,120 @@
+{
+  "uid": "33392622",
+  "pubdate": "2021 Feb",
+  "epubdate": "2021 Jan 4",
+  "source": "Psychopharmacology (Berl)",
+  "authors": [
+    {
+      "name": "Anderson GM",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Anderson GM",
+  "title": "Fluvoxamine, melatonin and COVID-19.",
+  "sorttitle": "fluvoxamine melatonin and covid 19",
+  "volume": "238",
+  "issue": "2",
+  "pages": "611",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7608025",
+  "issn": "0033-3158",
+  "essn": "1432-2072",
+  "pubtype": [
+    "Comment",
+    "Letter"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33392622"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00213-020-05753-z"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00213-020-05753-z"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7779245"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33392622"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33392622"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7779245;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/11/19 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/12/14 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/01/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/01/29 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/01/04 05:32"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "JAMA. 2020 Dec 8;324(22):2292-2300",
+      "reftype": "Comment on",
+      "pmid": 33180097,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Psychopharmacology",
+  "elocationid": "doi: 10.1007/s00213-020-05753-z",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/01 00:00",
+  "sortfirstauthor": "Anderson GM",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,116 @@
+{
+  "uid": "3383316",
+  "pubdate": "1988 May",
+  "epubdate": "",
+  "source": "Can J Anaesth",
+  "authors": [
+    {
+      "name": "Bourreli B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pinaud M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Passuti N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gunst JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Drouet JC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Remi JP",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Remi JP",
+  "title": "Additive effects of dihydralazine during enflurane or isoflurane hypotensive anaesthesia for spinal fusion.",
+  "sorttitle": "additive effects of dihydralazine during enflurane or isoflurane hypotensive anaesthesia for spinal fusion",
+  "volume": "35",
+  "issue": "3 ( Pt 1)",
+  "pages": "242-8",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8701709",
+  "issn": "0832-610X",
+  "essn": "1496-8975",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "3383316"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/BF03010617"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "3383316"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "3383316"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1988/05/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1988/05/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1988/05/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1988/05/01 00:00",
+  "sortfirstauthor": "Bourreli B",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,169 @@
+{
+  "uid": "32265391",
+  "pubdate": "2020 May",
+  "epubdate": "",
+  "source": "Eur J Anaesthesiol",
+  "authors": [
+    {
+      "name": "Lamperti M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Biasucci DG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Disma N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Pittiruti M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Breschan C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vailati D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Subert M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Traškaitė V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Macas A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Estebe JP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fuzier R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Boselli E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hopkins P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Hopkins P",
+  "title": "European Society of Anaesthesiology guidelines on peri-operative use of ultrasound-guided for vascular access (PERSEUS vascular access).",
+  "sorttitle": "european society of anaesthesiology guidelines on peri operative use of ultrasound guided for vascular access perseus vascular access",
+  "volume": "37",
+  "issue": "5",
+  "pages": "344-376",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8411711",
+  "issn": "0265-0215",
+  "essn": "1365-2346",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32265391"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/EJA.0000000000001180"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00003643-202005000-00002"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32265391"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32265391"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/04/09 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/04/09 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/04/09 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Eur J Anaesthesiol. 2020 May;37(5):341-343",
+      "reftype": "Comment in",
+      "pmid": 32265390,
+      "note": ""
+    },
+    {
+      "refsource": "Eur J Anaesthesiol. 2020 Jul;37(7):623",
+      "reftype": "Erratum in",
+      "pmid": 32516183,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "European journal of anaesthesiology",
+  "elocationid": "doi: 10.1097/EJA.0000000000001180",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/05/01 00:00",
+  "sortfirstauthor": "Lamperti M",
+  "vernaculartitle": ""
+}

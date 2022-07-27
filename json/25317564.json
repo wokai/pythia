@@ -1,0 +1,181 @@
+{
+  "uid": "25317564",
+  "pubdate": "2015 Jan 1",
+  "epubdate": "2014 Oct 15",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Nelson-Sathi S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sousa FL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Roettger M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lozada-Chávez N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Thiergart T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Janssen A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bryant D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Landan G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schönheit P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Siebers B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "McInerney JO",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Martin WF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Martin WF",
+  "title": "Origins of major archaeal clades correspond to gene acquisitions from bacteria.",
+  "sorttitle": "origins of major archaeal clades correspond to gene acquisitions from bacteria",
+  "volume": "517",
+  "issue": "7532",
+  "pages": "77-80",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25317564"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature13805"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature13805"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC4285555"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "EMS60199"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25317564"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25317564"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC4285555;manuscript-id: EMS60199;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2014/06/04 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2014/08/28 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2014/10/16 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/10/16 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/01/27 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Trends Ecol Evol. 2015 Mar;30(3):127-9",
+      "reftype": "Comment in",
+      "pmid": 25601290,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 91,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/nature13805",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/01/01 00:00",
+  "sortfirstauthor": "Nelson-Sathi S",
+  "vernaculartitle": ""
+}

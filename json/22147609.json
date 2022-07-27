@@ -1,0 +1,112 @@
+{
+  "uid": "22147609",
+  "pubdate": "2011 Nov",
+  "epubdate": "2011 Dec 6",
+  "source": "Anasthesiol Intensivmed Notfallmed Schmerzther",
+  "authors": [
+    {
+      "name": "Wetsch WA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lahm T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hinkelbein J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Happel CM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Padosch SA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Padosch SA",
+  "title": "[Cardiac insufficiency: acute right heart failure].",
+  "sorttitle": "cardiac insufficiency acute right heart failure",
+  "volume": "46",
+  "issue": "11-12",
+  "pages": "718-25",
+  "lang": [
+    "ger"
+  ],
+  "nlmuniqueid": "9109478",
+  "issn": "0939-2661",
+  "essn": "1439-1074",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "22147609"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1055/s-0031-1297178"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "22147609"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "22147609"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/12/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/12/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2012/04/19 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Anasthesiologie, Intensivmedizin, Notfallmedizin, Schmerztherapie : AINS",
+  "elocationid": "doi: 10.1055/s-0031-1297178",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/11/01 00:00",
+  "sortfirstauthor": "Wetsch WA",
+  "vernaculartitle": "Herzinsuffizienz - Das akute Rechtsherzversagen."
+}

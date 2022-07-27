@@ -1,0 +1,94 @@
+{
+  "uid": "26809201",
+  "pubdate": "2016 Apr 19",
+  "epubdate": "2016 Jan 26",
+  "source": "Ann Intern Med",
+  "authors": [
+    {
+      "name": "Sim I",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Sim I",
+  "title": "Two Ways of Knowing: Big Data and Evidence-Based Medicine.",
+  "sorttitle": "two ways of knowing big data and evidence based medicine",
+  "volume": "164",
+  "issue": "8",
+  "pages": "562-3",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0372351",
+  "issn": "0003-4819",
+  "essn": "1539-3704",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26809201"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2484291"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.7326/M15-2970"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26809201"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26809201"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/01/27 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/01/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/08/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 11,
+  "fulljournalname": "Annals of internal medicine",
+  "elocationid": "doi: 10.7326/M15-2970",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/04/19 00:00",
+  "sortfirstauthor": "Sim I",
+  "vernaculartitle": ""
+}

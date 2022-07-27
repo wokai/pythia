@@ -1,0 +1,97 @@
+{
+  "uid": "6391360",
+  "pubdate": "1984 Sep",
+  "epubdate": "",
+  "source": "Ann Clin Biochem",
+  "authors": [
+    {
+      "name": "Vanstapel FJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lissens WD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lissens WD",
+  "title": "Free ionised calcium--a critical survey.",
+  "sorttitle": "free ionised calcium a critical survey",
+  "volume": "21 ( Pt 5)",
+  "issue": "",
+  "pages": "339-51",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0324055",
+  "issn": "0004-5632",
+  "essn": "1758-1001",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "6391360"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1177/000456328402100501"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "6391360"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "6391360"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1984/09/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1984/09/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1984/09/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Annals of clinical biochemistry",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1984/09/01 00:00",
+  "sortfirstauthor": "Vanstapel FJ",
+  "vernaculartitle": ""
+}

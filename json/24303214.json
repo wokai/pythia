@@ -1,0 +1,119 @@
+{
+  "uid": "24303214",
+  "pubdate": "2013",
+  "epubdate": "2013 Nov 4",
+  "source": "Thrombosis",
+  "authors": [
+    {
+      "name": "Kaneko T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Aranki SF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Aranki SF",
+  "title": "Anticoagulation for prosthetic valves.",
+  "sorttitle": "anticoagulation for prosthetic valves",
+  "volume": "2013",
+  "issue": "",
+  "pages": "346752",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101566937",
+  "issn": "2090-1488",
+  "essn": "2090-1496",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "24303214"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1155/2013/346752"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3835169"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "24303214"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "24303214"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3835169;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2013/07/27 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2013/09/14 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2013/10/03 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2013/12/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/12/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/12/05 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Thrombosis",
+  "elocationid": "doi: 10.1155/2013/346752",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/01/01 00:00",
+  "sortfirstauthor": "Kaneko T",
+  "vernaculartitle": ""
+}

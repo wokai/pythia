@@ -1,0 +1,97 @@
+{
+  "uid": "27601718",
+  "pubdate": "2016 Oct",
+  "epubdate": "2016 Sep 6",
+  "source": "Respir Care",
+  "authors": [
+    {
+      "name": "Siobal MS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Siobal MS",
+  "title": "Monitoring Exhaled Carbon Dioxide.",
+  "sorttitle": "monitoring exhaled carbon dioxide",
+  "volume": "61",
+  "issue": "10",
+  "pages": "1397-416",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7510357",
+  "issn": "0020-1324",
+  "essn": "1943-3654",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "27601718"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "respcare.04919"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.4187/respcare.04919"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "27601718"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "27601718"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2016/09/08 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2016/09/08 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/08/30 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 21,
+  "fulljournalname": "Respiratory care",
+  "elocationid": "doi: 10.4187/respcare.04919",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2016/10/01 00:00",
+  "sortfirstauthor": "Siobal MS",
+  "vernaculartitle": ""
+}

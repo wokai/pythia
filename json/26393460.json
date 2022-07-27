@@ -1,0 +1,90 @@
+{
+  "uid": "26393460",
+  "pubdate": "2015 Oct",
+  "epubdate": "",
+  "source": "Obstet Gynecol",
+  "authors": [],
+  "lastauthor": "",
+  "title": "Committee Opinion No. 644: The Apgar Score.",
+  "sorttitle": "committee opinion no 644 the apgar score",
+  "volume": "126",
+  "issue": "4",
+  "pages": "e52-e55",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0401101",
+  "issn": "0029-7844",
+  "essn": "1873-233X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "26393460"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/AOG.0000000000001108"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00006250-201510000-00054"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "26393460"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "26393460"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/09/23 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/09/24 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2016/01/09 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 22,
+  "fulljournalname": "Obstetrics and gynecology",
+  "elocationid": "doi: 10.1097/AOG.0000000000001108",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/10/01 00:00",
+  "sortfirstauthor": "",
+  "vernaculartitle": ""
+}

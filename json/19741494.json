@@ -1,0 +1,134 @@
+{
+  "uid": "19741494",
+  "pubdate": "2009 Oct",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Dyer RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reed AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van Dyk D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Arcache MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hodges O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lombard CJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Greenwood J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "James MF",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "James MF",
+  "title": "Hemodynamic effects of ephedrine, phenylephrine, and the coadministration of phenylephrine with oxytocin during spinal anesthesia for elective cesarean delivery.",
+  "sorttitle": "hemodynamic effects of ephedrine phenylephrine and the coadministration of phenylephrine with oxytocin during spinal anesthesia for elective cesarean delivery",
+  "volume": "111",
+  "issue": "4",
+  "pages": "753-65",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "19741494"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0b013e3181b437e0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "19741494"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "19741494"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2009/09/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2009/09/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2010/01/13 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Anesthesiology. 2010 May;112(5):1287-8; author reply 1288-94",
+      "reftype": "Comment in",
+      "pmid": 20418708,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 28,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0b013e3181b437e0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2009/10/01 00:00",
+  "sortfirstauthor": "Dyer RA",
+  "vernaculartitle": ""
+}

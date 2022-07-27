@@ -1,0 +1,117 @@
+{
+  "uid": "31425208",
+  "pubdate": "2019 Sep",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Kawakami H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nakajima D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mihara T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sato H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Goto T",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Goto T",
+  "title": "Effectiveness of Magnesium in Preventing Shivering in Surgical Patients: A Systematic Review and Meta-analysis.",
+  "sorttitle": "effectiveness of magnesium in preventing shivering in surgical patients a systematic review and meta analysis",
+  "volume": "129",
+  "issue": "3",
+  "pages": "689-700",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31425208"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000004024"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201909000-00014"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31425208"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31425208"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2019/08/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/08/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/02/18 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000004024",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/09/01 00:00",
+  "sortfirstauthor": "Kawakami H",
+  "vernaculartitle": ""
+}

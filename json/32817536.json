@@ -1,0 +1,131 @@
+{
+  "uid": "32817536",
+  "pubdate": "2020 Sep 1",
+  "epubdate": "2020 Aug 17",
+  "source": "Proc Natl Acad Sci U S A",
+  "authors": [
+    {
+      "name": "Bard E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heaton TJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Talamo S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kromer B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reimer RW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reimer PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Reimer PJ",
+  "title": "Extended dilation of the radiocarbon time scale between 40,000 and 48,000 y BP and the overlap between Neanderthals and <i>Homo sapiens</i>.",
+  "sorttitle": "extended dilation of the radiocarbon time scale between 40 000 and 48 000 y bp and the overlap between neanderthals and i homo sapiens i",
+  "volume": "117",
+  "issue": "35",
+  "pages": "21005-21007",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7505876",
+  "issn": "0027-8424",
+  "essn": "1091-6490",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32817536"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "2012307117"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1073/pnas.2012307117"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7474600"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32817536"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32817536"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7474600;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/08/21 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/10/30 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/08/21 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+  "elocationid": "doi: 10.1073/pnas.2012307117",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/01 00:00",
+  "sortfirstauthor": "Bard E",
+  "vernaculartitle": ""
+}

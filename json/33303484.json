@@ -1,0 +1,89 @@
+{
+  "uid": "33303484",
+  "pubdate": "2020 Dec 10",
+  "epubdate": "2020 Dec 10",
+  "source": "BMJ",
+  "authors": [
+    {
+      "name": "Mahase E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mahase E",
+  "title": "Covid-19: People with history of significant allergic reactions should not receive Pfizer vaccine, says regulator.",
+  "sorttitle": "covid 19 people with history of significant allergic reactions should not receive pfizer vaccine says regulator",
+  "volume": "371",
+  "issue": "",
+  "pages": "m4780",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8900488",
+  "issn": "0959-8138",
+  "essn": "1756-1833",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33303484"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/bmj.m4780"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33303484"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33303484"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/12/11 05:50"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/12/12 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/12/12 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "BMJ (Clinical research ed.)",
+  "elocationid": "doi: 10.1136/bmj.m4780",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/10 00:00",
+  "sortfirstauthor": "Mahase E",
+  "vernaculartitle": ""
+}

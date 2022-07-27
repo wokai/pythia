@@ -1,0 +1,139 @@
+{
+  "uid": "17495282",
+  "pubdate": "2007 May-Jun",
+  "epubdate": "",
+  "source": "Radiographics",
+  "authors": [
+    {
+      "name": "Jeong YJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim KI",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Seo IJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee CH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee KN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim KN",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kim JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kwon WJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kwon WJ",
+  "title": "Eosinophilic lung diseases: a clinical, radiologic, and pathologic overview.",
+  "sorttitle": "eosinophilic lung diseases a clinical radiologic and pathologic overview",
+  "volume": "27",
+  "issue": "3",
+  "pages": "617-37; discussion 637-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8302501",
+  "issn": "0271-5333",
+  "essn": "1527-1323",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "17495282"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "27/3/617"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1148/rg.273065051"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "17495282"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "17495282"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2007/05/15 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2007/06/06 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2007/05/15 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Radiographics. 2008 Sep-Oct;28(5):1460",
+      "reftype": "Comment in",
+      "pmid": 18794319,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 69,
+  "fulljournalname": "Radiographics : a review publication of the Radiological Society of North America, Inc",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2007/05/01 00:00",
+  "sortfirstauthor": "Jeong YJ",
+  "vernaculartitle": ""
+}

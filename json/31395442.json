@@ -1,0 +1,134 @@
+{
+  "uid": "31395442",
+  "pubdate": "2019 Aug 17",
+  "epubdate": "2019 Aug 5",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Ginsburg GS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wu RR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Orlando LA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Orlando LA",
+  "title": "Family health history: underused for actionable risk assessment.",
+  "sorttitle": "family health history underused for actionable risk assessment",
+  "volume": "394",
+  "issue": "10198",
+  "pages": "596-603",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31395442"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(19)31275-9"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(19)31275-9"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6822265"
+    },
+    {
+      "idtype": "mid",
+      "idtypen": 8,
+      "value": "NIHMS1056421"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31395442"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31395442"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6822265;manuscript-id: NIHMS1056421;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/12/17 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/04/04 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/05/16 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/08/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/09/04 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/08/10 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(19)31275-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/08/17 00:00",
+  "sortfirstauthor": "Ginsburg GS",
+  "vernaculartitle": ""
+}

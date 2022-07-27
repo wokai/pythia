@@ -1,0 +1,105 @@
+{
+  "uid": "23839768",
+  "pubdate": "2013 Jul 9",
+  "epubdate": "2013 Jul 9",
+  "source": "Cochrane Database Syst Rev",
+  "authors": [
+    {
+      "name": "Massel DR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Little SH",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Little SH",
+  "title": "Antiplatelet and anticoagulation for patients with prosthetic heart valves.",
+  "sorttitle": "antiplatelet and anticoagulation for patients with prosthetic heart valves",
+  "volume": "",
+  "issue": "7",
+  "pages": "CD003464",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100909747",
+  "issn": "",
+  "essn": "1469-493X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23839768"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/14651858.CD003464.pub2"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23839768"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23839768"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/07/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/07/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/12/21 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cochrane Database Syst Rev. 2003;(4):CD003464",
+      "reftype": "Update of",
+      "pmid": 14583979,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "The Cochrane database of systematic reviews",
+  "elocationid": "doi: 10.1002/14651858.CD003464.pub2",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/07/09 00:00",
+  "sortfirstauthor": "Massel DR",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,119 @@
+{
+  "uid": "28676904",
+  "pubdate": "2017 Dec",
+  "epubdate": "2017 Jul 4",
+  "source": "J Artif Organs",
+  "authors": [
+    {
+      "name": "Premuzic V",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Basic-Jukic N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jelakovic B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kes P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kes P",
+  "title": "Differences in CVVH vs. CVVHDF in the management of sepsis-induced acute kidney injury in critically ill patients.",
+  "sorttitle": "differences in cvvh vs cvvhdf in the management of sepsis induced acute kidney injury in critically ill patients",
+  "volume": "20",
+  "issue": "4",
+  "pages": "326-334",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9815648",
+  "issn": "1434-7229",
+  "essn": "1619-0904",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28676904"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s10047-017-0970-9"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s10047-017-0970-9"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28676904"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28676904"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/03/16 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/06/25 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/07/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/06/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/07/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Journal of artificial organs : the official journal of the Japanese Society for Artificial Organs",
+  "elocationid": "doi: 10.1007/s10047-017-0970-9",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/12/01 00:00",
+  "sortfirstauthor": "Premuzic V",
+  "vernaculartitle": ""
+}

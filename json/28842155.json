@@ -1,0 +1,120 @@
+{
+  "uid": "28842155",
+  "pubdate": "2017 Jul",
+  "epubdate": "2017 May 31",
+  "source": "J Anesth Hist",
+  "authors": [
+    {
+      "name": "McGrath B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tennuci C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lee G",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lee G",
+  "title": "The History of One-Lung Anesthesia and the Double-Lumen Tube.",
+  "sorttitle": "history of one lung anesthesia and the double lumen tube",
+  "volume": "3",
+  "issue": "3",
+  "pages": "76-86",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101651624",
+  "issn": "2352-4529",
+  "essn": "2352-4537",
+  "pubtype": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28842155"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S2352-4529(17)30006-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.janh.2017.05.002"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28842155"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28842155"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2017/01/15 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2017/04/02 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2017/05/26 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/08/27 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/08/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/08/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Journal of anesthesia history",
+  "elocationid": "doi: 10.1016/j.janh.2017.05.002",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/07/01 00:00",
+  "sortfirstauthor": "McGrath B",
+  "vernaculartitle": ""
+}

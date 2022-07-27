@@ -1,0 +1,181 @@
+{
+  "uid": "10551711",
+  "pubdate": "1999 Nov 1",
+  "epubdate": "",
+  "source": "J Am Coll Cardiol",
+  "authors": [
+    {
+      "name": "Mittal S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ayati S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stein KM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Knight BP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Morady F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwartzman D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cavlovich D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Platia EV",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Calkins H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tchou PJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Miller JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wharton JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sung RJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Slotwiner DJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Markowitz SM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lerman BB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lerman BB",
+  "title": "Comparison of a novel rectilinear biphasic waveform with a damped sine wave monophasic waveform for transthoracic ventricular defibrillation. ZOLL Investigators.",
+  "sorttitle": "comparison of a novel rectilinear biphasic waveform with a damped sine wave monophasic waveform for transthoracic ventricular defibrillation zoll investigators",
+  "volume": "34",
+  "issue": "5",
+  "pages": "1595-601",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8301365",
+  "issn": "0735-1097",
+  "essn": "1558-3597",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "10551711"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0735109799003630"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/s0735-1097(99)00363-0"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "10551711"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "10551711"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1999/11/07 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1999/11/07 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1999/11/07 00:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "J Am Coll Cardiol. 2001 May;37(6):1753-4",
+      "reftype": "Comment in",
+      "pmid": 11345396,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Journal of the American College of Cardiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1999/11/01 00:00",
+  "sortfirstauthor": "Mittal S",
+  "vernaculartitle": ""
+}

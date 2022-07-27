@@ -1,0 +1,114 @@
+{
+  "uid": "16251950",
+  "pubdate": "2005 Oct 27",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Saper CB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Scammell TE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lu J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Lu J",
+  "title": "Hypothalamic regulation of sleep and circadian rhythms.",
+  "sorttitle": "hypothalamic regulation of sleep and circadian rhythms",
+  "volume": "437",
+  "issue": "7063",
+  "pages": "1257-63",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "16251950"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nature04284"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nature04284"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "16251950"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "16251950"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2005/10/28 09:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/12/13 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2005/10/28 09:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Nature. 2005 Oct 27;437(7063):1207",
+      "reftype": "Comment in",
+      "pmid": 16251909,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 593,
+  "fulljournalname": "Nature",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2005/10/27 00:00",
+  "sortfirstauthor": "Saper CB",
+  "vernaculartitle": ""
+}

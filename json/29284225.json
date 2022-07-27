@@ -1,0 +1,121 @@
+{
+  "uid": "29284225",
+  "pubdate": "2017 Dec 23",
+  "epubdate": "2017 May 11",
+  "source": "Ann Agric Environ Med",
+  "authors": [
+    {
+      "name": "Anand JS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zając M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Waldman W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wojtyła A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Biliński P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jaworska-Łuczak B",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Jaworska-Łuczak B",
+  "title": "Correlation between the single, high dose of ingested baclofen and clinical symptoms.",
+  "sorttitle": "correlation between the single high dose of ingested baclofen and clinical symptoms",
+  "volume": "24",
+  "issue": "4",
+  "pages": "566-569",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9500166",
+  "issn": "1232-1966",
+  "essn": "1898-2263",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29284225"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "72571"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.5604/12321966.1230735"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29284225"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29284225"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/12/30 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/12/30 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2018/01/06 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Annals of agricultural and environmental medicine : AAEM",
+  "elocationid": "doi: 10.5604/12321966.1230735",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/12/23 00:00",
+  "sortfirstauthor": "Anand JS",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,219 @@
+{
+  "uid": "32454513",
+  "pubdate": "2020 Aug",
+  "epubdate": "2020 May 26",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Ju B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang Q",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ge J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sun J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ge X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yu J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shan S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Song S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tang X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yu J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lan J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Yuan J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhao J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shi X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Liu L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhao J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wang X",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhang L",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zhang L",
+  "title": "Human neutralizing antibodies elicited by SARS-CoV-2 infection.",
+  "sorttitle": "human neutralizing antibodies elicited by sars cov 2 infection",
+  "volume": "584",
+  "issue": "7819",
+  "pages": "115-119",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32454513"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41586-020-2380-z"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41586-020-2380-z"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32454513"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32454513"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/03/13 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/05/18 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/05/27 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/08/13 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/05/27 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 308,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/s41586-020-2380-z",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/08/01 00:00",
+  "sortfirstauthor": "Ju B",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,130 @@
+{
+  "uid": "31130877",
+  "pubdate": "2019",
+  "epubdate": "2019 May 3",
+  "source": "Front Physiol",
+  "authors": [
+    {
+      "name": "Hody S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Croisier JL",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bury T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rogister B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Leprince P",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Leprince P",
+  "title": "Eccentric Muscle Contractions: Risks and Benefits.",
+  "sorttitle": "eccentric muscle contractions risks and benefits",
+  "volume": "10",
+  "issue": "",
+  "pages": "536",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101549006",
+  "issn": "",
+  "essn": "1664-042X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed",
+  "pubstatus": "258",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31130877"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.3389/fphys.2019.00536"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6510035"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31130877"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31130877"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6510035;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/12/10 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/04/15 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/05/28 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/05/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/05/28 06:01"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 26,
+  "fulljournalname": "Frontiers in physiology",
+  "elocationid": "doi: 10.3389/fphys.2019.00536",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/05/03 00:00",
+  "sortfirstauthor": "Hody S",
+  "vernaculartitle": ""
+}

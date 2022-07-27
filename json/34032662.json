@@ -1,0 +1,99 @@
+{
+  "uid": "34032662",
+  "pubdate": "2021 Jun 1",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Schober P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vetter TR",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Vetter TR",
+  "title": "Linear Mixed-Effects Models in Medical Research.",
+  "sorttitle": "linear mixed effects models in medical research",
+  "volume": "132",
+  "issue": "6",
+  "pages": "1592-1593",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "34032662"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000005541"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-202106000-00013"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "34032662"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "34032662"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2021/05/25 13:52"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/05/26 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/05/26 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": "",
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000005541",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/06/01 00:00",
+  "sortfirstauthor": "Schober P",
+  "vernaculartitle": ""
+}

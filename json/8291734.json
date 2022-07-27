@@ -1,0 +1,116 @@
+{
+  "uid": "8291734",
+  "pubdate": "1994 Jan",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Weinger MB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Herndon OW",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zornow MH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Paulus MP",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gaba DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dallen LT",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Dallen LT",
+  "title": "An objective methodology for task analysis and workload assessment in anesthesia providers.",
+  "sorttitle": "objective methodology for task analysis and workload assessment in anesthesia providers",
+  "volume": "80",
+  "issue": "1",
+  "pages": "77-92",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "8291734"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-199401000-00015"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "8291734"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "8291734"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1994/01/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1994/01/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1994/01/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 23,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1994/01/01 00:00",
+  "sortfirstauthor": "Weinger MB",
+  "vernaculartitle": ""
+}

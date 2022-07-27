@@ -1,0 +1,123 @@
+{
+  "uid": "15087615",
+  "pubdate": "2004 Apr",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "White PF",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ma H",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tang J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wender RH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sloninsky A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kariger R",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Kariger R",
+  "title": "Does the use of electroencephalographic bispectral index or auditory evoked potential index monitoring facilitate recovery after desflurane anesthesia in the ambulatory setting?",
+  "sorttitle": "does the use of electroencephalographic bispectral index or auditory evoked potential index monitoring facilitate recovery after desflurane anesthesia in the ambulatory setting",
+  "volume": "100",
+  "issue": "4",
+  "pages": "811-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15087615"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000542-200404000-00010"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/00000542-200404000-00010"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15087615"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15087615"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/04/17 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2004/05/27 05:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/04/17 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/04/01 00:00",
+  "sortfirstauthor": "White PF",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,124 @@
+{
+  "uid": "29929213",
+  "pubdate": "2018 Oct",
+  "epubdate": "2018 Jul 17",
+  "source": "Diabetes Metab Res Rev",
+  "authors": [
+    {
+      "name": "Zheng P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Li Z",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Zhou Z",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Zhou Z",
+  "title": "Gut microbiome in type 1 diabetes: A comprehensive review.",
+  "sorttitle": "gut microbiome in type 1 diabetes a comprehensive review",
+  "volume": "34",
+  "issue": "7",
+  "pages": "e3043",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100883450",
+  "issn": "1520-7552",
+  "essn": "1520-7560",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29929213"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1002/dmrr.3043"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6220847"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29929213"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29929213"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6220847;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/02/06 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2018/06/06 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/06/14 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/06/22 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/03/13 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/06/22 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 18,
+  "fulljournalname": "Diabetes/metabolism research and reviews",
+  "elocationid": "doi: 10.1002/dmrr.3043",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "Zheng P",
+  "vernaculartitle": ""
+}

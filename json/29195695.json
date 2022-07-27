@@ -1,0 +1,107 @@
+{
+  "uid": "29195695",
+  "pubdate": "2018 Feb",
+  "epubdate": "2017 Nov 28",
+  "source": "Semin Perinatol",
+  "authors": [
+    {
+      "name": "Belfort MA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Shamshirsaz AA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fox KA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Fox KA",
+  "title": "The diagnosis and management of morbidly adherent placenta.",
+  "sorttitle": "diagnosis and management of morbidly adherent placenta",
+  "volume": "42",
+  "issue": "1",
+  "pages": "49-58",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7801132",
+  "issn": "0146-0005",
+  "essn": "1558-075X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "29195695"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0146-0005(17)30133-7"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1053/j.semperi.2017.11.009"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "29195695"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "29195695"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/12/03 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/03/02 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2017/12/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 1,
+  "fulljournalname": "Seminars in perinatology",
+  "elocationid": "doi: 10.1053/j.semperi.2017.11.009",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/02/01 00:00",
+  "sortfirstauthor": "Belfort MA",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,94 @@
+{
+  "uid": "30510254",
+  "pubdate": "2018 Dec",
+  "epubdate": "",
+  "source": "Nat Med",
+  "authors": [
+    {
+      "name": "Manolio TA",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Manolio TA",
+  "title": "UK Biobank debuts as a powerful resource for genomic research.",
+  "sorttitle": "uk biobank debuts as a powerful resource for genomic research",
+  "volume": "24",
+  "issue": "12",
+  "pages": "1792-1794",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9502015",
+  "issn": "1078-8956",
+  "essn": "1546-170X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30510254"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/s41591-018-0276-3"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/s41591-018-0276-3"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30510254"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30510254"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/12/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/05/09 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/12/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "Nature medicine",
+  "elocationid": "doi: 10.1038/s41591-018-0276-3",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/12/01 00:00",
+  "sortfirstauthor": "Manolio TA",
+  "vernaculartitle": ""
+}

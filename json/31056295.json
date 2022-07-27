@@ -1,0 +1,252 @@
+{
+  "uid": "31056295",
+  "pubdate": "2019 Jun 22",
+  "epubdate": "2019 May 2",
+  "source": "Lancet",
+  "authors": [
+    {
+      "name": "Piccolo R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bonaa KH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Efthimiou O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Varenne O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Baldo A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Urban P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Kaiser C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Remkes W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Räber L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de Belder A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "van 't Hof AWJ",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stankovic G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lemos PA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wilsgaard T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Reifart J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rodriguez AE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ribeiro EE",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Serruys PWJC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Abizaid A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sabaté M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Byrne RA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "de la Torre Hernandez JM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wijns W",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jüni P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Windecker S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Valgimigli M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Coronary Stent Trialists' Collaboration.",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Valgimigli M",
+  "title": "Drug-eluting or bare-metal stents for percutaneous coronary intervention: a systematic review and individual patient data meta-analysis of randomised clinical trials.",
+  "sorttitle": "drug eluting or bare metal stents for percutaneous coronary intervention a systematic review and individual patient data meta analysis of randomised clinical trials",
+  "volume": "393",
+  "issue": "10190",
+  "pages": "2503-2510",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985213R",
+  "issn": "0140-6736",
+  "essn": "1474-547X",
+  "pubtype": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31056295"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0140-6736(19)30474-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/S0140-6736(19)30474-X"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31056295"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31056295"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/01/19 00:00"
+    },
+    {
+      "pubstatus": "revised",
+      "date": "2019/02/19 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/02/21 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/05/06 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/07/23 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/05/07 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Lancet. 2019 Jun 22;393(10190):2472-2474",
+      "reftype": "Comment in",
+      "pmid": 31056294,
+      "note": ""
+    },
+    {
+      "refsource": "Lancet. 2019 Jun 22;393(10190):2492",
+      "reftype": "Erratum in",
+      "pmid": 31174832,
+      "note": ""
+    }
+  ],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 9,
+  "fulljournalname": "Lancet (London, England)",
+  "elocationid": "doi: 10.1016/S0140-6736(19)30474-X",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/06/22 00:00",
+  "sortfirstauthor": "Piccolo R",
+  "vernaculartitle": ""
+}

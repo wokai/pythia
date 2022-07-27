@@ -1,0 +1,92 @@
+{
+  "uid": "15341719",
+  "pubdate": "2004 Oct",
+  "epubdate": "",
+  "source": "Curr Gastroenterol Rep",
+  "authors": [
+    {
+      "name": "Saunders MD",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Saunders MD",
+  "title": "Acute colonic pseudoobstruction.",
+  "sorttitle": "acute colonic pseudoobstruction",
+  "volume": "6",
+  "issue": "5",
+  "pages": "410-6",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100888896",
+  "issn": "1522-8037",
+  "essn": "1534-312X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "15341719"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s11894-004-0059-5"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "15341719"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "15341719"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2004/09/03 05:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2005/02/03 09:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2004/09/03 05:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "Current gastroenterology reports",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2004/10/01 00:00",
+  "sortfirstauthor": "Saunders MD",
+  "vernaculartitle": ""
+}

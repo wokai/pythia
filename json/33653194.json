@@ -1,0 +1,106 @@
+{
+  "uid": "33653194",
+  "pubdate": "2021 Mar 3",
+  "epubdate": "2021 Mar 3",
+  "source": "J Intensive Care Med",
+  "authors": [
+    {
+      "name": "Geli J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Capoccia M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maybauer DM",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Maybauer MO",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Maybauer MO",
+  "title": "Argatroban Anticoagulation for Adult Extracorporeal Membrane Oxygenation: A Systematic Review.",
+  "sorttitle": "argatroban anticoagulation for adult extracorporeal membrane oxygenation a systematic review",
+  "volume": "",
+  "issue": "",
+  "pages": "885066621993739",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "8610344",
+  "issn": "0885-0666",
+  "essn": "1525-1489",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33653194"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1177/0885066621993739"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33653194"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33653194"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2021/03/03 05:32"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/03/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Journal of intensive care medicine",
+  "elocationid": "doi: 10.1177/0885066621993739",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/03/03 00:00",
+  "sortfirstauthor": "Geli J",
+  "vernaculartitle": ""
+}

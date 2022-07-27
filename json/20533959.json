@@ -1,0 +1,107 @@
+{
+  "uid": "20533959",
+  "pubdate": "2010 Jul",
+  "epubdate": "2010 Jun 1",
+  "source": "Headache",
+  "authors": [
+    {
+      "name": "Bezov D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lipton RB",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ashina S",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Ashina S",
+  "title": "Post-dural puncture headache: part I diagnosis, epidemiology, etiology, and pathophysiology.",
+  "sorttitle": "post dural puncture headache part i diagnosis epidemiology etiology and pathophysiology",
+  "volume": "50",
+  "issue": "7",
+  "pages": "1144-52",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "2985091R",
+  "issn": "0017-8748",
+  "essn": "1526-4610",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "20533959"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "HED1699"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/j.1526-4610.2010.01699.x"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "20533959"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "20533959"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2010/06/11 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2010/06/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/08/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 48,
+  "fulljournalname": "Headache",
+  "elocationid": "doi: 10.1111/j.1526-4610.2010.01699.x",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2010/07/01 00:00",
+  "sortfirstauthor": "Bezov D",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,117 @@
+{
+  "uid": "28099325",
+  "pubdate": "2017 Feb",
+  "epubdate": "",
+  "source": "Anesth Analg",
+  "authors": [
+    {
+      "name": "Nair BG",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Gabel E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hofer I",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schwid HA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cannesson M",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Cannesson M",
+  "title": "Intraoperative Clinical Decision Support for Anesthesia: A Narrative Review of Available Systems.",
+  "sorttitle": "intraoperative clinical decision support for anesthesia a narrative review of available systems",
+  "volume": "124",
+  "issue": "2",
+  "pages": "603-617",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1310650",
+  "issn": "0003-2999",
+  "essn": "1526-7598",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "28099325"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1213/ANE.0000000000001636"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "00000539-201702000-00035"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "28099325"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "28099325"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2017/01/19 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2017/01/19 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2017/07/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 8,
+  "fulljournalname": "Anesthesia and analgesia",
+  "elocationid": "doi: 10.1213/ANE.0000000000001636",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2017/02/01 00:00",
+  "sortfirstauthor": "Nair BG",
+  "vernaculartitle": ""
+}

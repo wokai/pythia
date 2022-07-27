@@ -1,0 +1,102 @@
+{
+  "uid": "32901123",
+  "pubdate": "2020 Sep",
+  "epubdate": "",
+  "source": "Nature",
+  "authors": [
+    {
+      "name": "Callaway E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Callaway E",
+  "title": "The coronavirus is mutating - does it matter?",
+  "sorttitle": "coronavirus is mutating does it matter",
+  "volume": "585",
+  "issue": "7824",
+  "pages": "174-177",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0410462",
+  "issn": "0028-0836",
+  "essn": "1476-4687",
+  "pubtype": [
+    "Comment",
+    "News"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "32901123"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/d41586-020-02544-6"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1038/d41586-020-02544-6"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "32901123"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "32901123"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2020/09/09 05:29"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/09/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/09/15 06:00"
+    }
+  ],
+  "references": [
+    {
+      "refsource": "Cell. 2020 Aug 20;182(4):794-795",
+      "reftype": "Comment on",
+      "pmid": 32697970,
+      "note": ""
+    }
+  ],
+  "attributes": [],
+  "pmcrefcount": 12,
+  "fulljournalname": "Nature",
+  "elocationid": "doi: 10.1038/d41586-020-02544-6",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/09/01 00:00",
+  "sortfirstauthor": "Callaway E",
+  "vernaculartitle": ""
+}

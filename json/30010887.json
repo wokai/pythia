@@ -1,0 +1,119 @@
+{
+  "uid": "30010887",
+  "pubdate": "2018 Sep 1",
+  "epubdate": "",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Everson J",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Adler-Milstein J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Adler-Milstein J",
+  "title": "Gaps in health information exchange between hospitals that treat many shared patients.",
+  "sorttitle": "gaps in health information exchange between hospitals that treat many shared patients",
+  "volume": "25",
+  "issue": "9",
+  "pages": "1114-1121",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30010887"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "5051765"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1093/jamia/ocy089"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7646909"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30010887"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30010887"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7646909;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2018/03/21 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2018/06/14 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/07/17 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/12/18 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/07/17 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 6,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1093/jamia/ocy089",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/09/01 00:00",
+  "sortfirstauthor": "Everson J",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,107 @@
+{
+  "uid": "9404765",
+  "pubdate": "1997 Dec",
+  "epubdate": "",
+  "source": "Chest",
+  "authors": [
+    {
+      "name": "Bryan CS",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Talwani R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stinson MS",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Stinson MS",
+  "title": "Penicillin dosing for pneumococcal pneumonia.",
+  "sorttitle": "penicillin dosing for pneumococcal pneumonia",
+  "volume": "112",
+  "issue": "6",
+  "pages": "1657-64",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "0231335",
+  "issn": "0012-3692",
+  "essn": "1931-3543",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "9404765"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0012-3692(15)47376-3"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1378/chest.112.6.1657"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "9404765"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "9404765"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1997/12/24 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1997/12/24 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1997/12/24 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 2,
+  "fulljournalname": "Chest",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1997/12/01 00:00",
+  "sortfirstauthor": "Bryan CS",
+  "vernaculartitle": ""
+}

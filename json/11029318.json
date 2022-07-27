@@ -1,0 +1,96 @@
+{
+  "uid": "11029318",
+  "pubdate": "2000 Oct",
+  "epubdate": "",
+  "source": "Am J Respir Crit Care Med",
+  "authors": [
+    {
+      "name": "Jubran A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Tobin MJ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Tobin MJ",
+  "title": "Effect of isocapnic hypoxia on variational activity of breathing.",
+  "sorttitle": "effect of isocapnic hypoxia on variational activity of breathing",
+  "volume": "162",
+  "issue": "4 Pt 1",
+  "pages": "1202-9",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9421642",
+  "issn": "1073-449X",
+  "essn": "1535-4970",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "11029318"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1164/ajrccm.162.4.9907003"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "11029318"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "11029318"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "2000/10/13 11:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2001/02/28 10:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2000/10/13 11:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 5,
+  "fulljournalname": "American journal of respiratory and critical care medicine",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2000/10/01 00:00",
+  "sortfirstauthor": "Jubran A",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,91 @@
+{
+  "uid": "2193720",
+  "pubdate": "1990 May",
+  "epubdate": "",
+  "source": "Can J Anaesth",
+  "authors": [
+    {
+      "name": "Weeks SK",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Weeks SK",
+  "title": "Spinal headache--prevention and treatment.",
+  "sorttitle": "spinal headache prevention and treatment",
+  "volume": "37",
+  "issue": "4 Pt 2",
+  "pages": "Sliii-Slxiii",
+  "lang": [
+    "eng",
+    "fre"
+  ],
+  "nlmuniqueid": "8701709",
+  "issn": "0832-610X",
+  "essn": "1496-8975",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "2193720"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/BF03006274"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "2193720"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "2193720"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1990/05/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1990/05/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1990/05/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 2,
+  "fulljournalname": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1990/05/01 00:00",
+  "sortfirstauthor": "Weeks SK",
+  "vernaculartitle": ""
+}

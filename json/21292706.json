@@ -1,0 +1,121 @@
+{
+  "uid": "21292706",
+  "pubdate": "2011 Mar-Apr",
+  "epubdate": "2011 Feb 2",
+  "source": "J Am Med Inform Assoc",
+  "authors": [
+    {
+      "name": "Hripcsak G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vawdrey DK",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fred MR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Bostwick SB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bostwick SB",
+  "title": "Use of electronic clinical documentation: time spent and team interactions.",
+  "sorttitle": "use of electronic clinical documentation time spent and team interactions",
+  "volume": "18",
+  "issue": "2",
+  "pages": "112-7",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9430800",
+  "issn": "1067-5027",
+  "essn": "1527-974X",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "21292706"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "jamia.2010.008441"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1136/jamia.2010.008441"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC3116265"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "21292706"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "21292706"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC3116265;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2011/02/05 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2011/02/05 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2011/07/20 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 60,
+  "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+  "elocationid": "doi: 10.1136/jamia.2010.008441",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2011/03/01 00:00",
+  "sortfirstauthor": "Hripcsak G",
+  "vernaculartitle": ""
+}

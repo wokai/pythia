@@ -1,0 +1,99 @@
+{
+  "uid": "25285407",
+  "pubdate": "2014 Dec",
+  "epubdate": "",
+  "source": "JAMA Pediatr",
+  "authors": [
+    {
+      "name": "Fleischman AR",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Solomon MZ",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Solomon MZ",
+  "title": "Comparative effectiveness research: ethical and regulatory guidance.",
+  "sorttitle": "comparative effectiveness research ethical and regulatory guidance",
+  "volume": "168",
+  "issue": "12",
+  "pages": "1089-90",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101589544",
+  "issn": "2168-6203",
+  "essn": "2168-6211",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25285407"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "1913575"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1001/jamapediatrics.2014.1764"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25285407"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25285407"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2014/10/07 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2014/10/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/02/03 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 1,
+  "fulljournalname": "JAMA pediatrics",
+  "elocationid": "doi: 10.1001/jamapediatrics.2014.1764",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2014/12/01 00:00",
+  "sortfirstauthor": "Fleischman AR",
+  "vernaculartitle": ""
+}

@@ -1,0 +1,120 @@
+{
+  "uid": "31133031",
+  "pubdate": "2019 May 27",
+  "epubdate": "2019 May 27",
+  "source": "Virol J",
+  "authors": [
+    {
+      "name": "Schoeman D",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Fielding BC",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Fielding BC",
+  "title": "Coronavirus envelope protein: current knowledge.",
+  "sorttitle": "coronavirus envelope protein current knowledge",
+  "volume": "16",
+  "issue": "1",
+  "pages": "69",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "101231645",
+  "issn": "",
+  "essn": "1743-422X",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "3",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "31133031"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1186/s12985-019-1182-0"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1186/s12985-019-1182-0"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6537279"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "31133031"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "31133031"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6537279;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2019/03/13 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2019/05/16 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2019/05/29 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2019/05/28 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/08/16 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 391,
+  "fulljournalname": "Virology journal",
+  "elocationid": "doi: 10.1186/s12985-019-1182-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2019/05/27 00:00",
+  "sortfirstauthor": "Schoeman D",
+  "vernaculartitle": ""
+}

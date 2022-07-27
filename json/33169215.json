@@ -1,0 +1,175 @@
+{
+  "uid": "33169215",
+  "pubdate": "2020 Dec",
+  "epubdate": "2020 Nov 9",
+  "source": "Intensive Care Med",
+  "authors": [
+    {
+      "name": "Demoule A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Brochard L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Dres M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Heunks L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Jubran A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Laghi F",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mekontso-Dessap A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Nava S",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Ouanes-Besbes L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Peñuelas O",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Piquilloud L",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Vassilakopoulos T",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mancebo J",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Mancebo J",
+  "title": "How to ventilate obstructive and asthmatic patients.",
+  "sorttitle": "how to ventilate obstructive and asthmatic patients",
+  "volume": "46",
+  "issue": "12",
+  "pages": "2436-2449",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "7704851",
+  "issn": "0342-4642",
+  "essn": "1432-1238",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - in process",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33169215"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1007/s00134-020-06291-0"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "10.1007/s00134-020-06291-0"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC7652057"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33169215"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33169215"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC7652057;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2020/09/12 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2020/10/12 00:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2020/11/11 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2020/11/11 06:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2020/11/10 05:46"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "Intensive care medicine",
+  "elocationid": "doi: 10.1007/s00134-020-06291-0",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2020/12/01 00:00",
+  "sortfirstauthor": "Demoule A",
+  "vernaculartitle": ""
+}

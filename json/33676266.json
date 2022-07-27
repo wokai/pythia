@@ -1,0 +1,194 @@
+{
+  "uid": "33676266",
+  "pubdate": "2021 Feb 10",
+  "epubdate": "2021 Feb 10",
+  "source": "Eur J Cancer",
+  "authors": [
+    {
+      "name": "Giesen N",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sprute R",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Rüthrich M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Khodamoradi Y",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Mellinghoff SC",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Beutel G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Lueck C",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Koldehoff M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hentrich M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Sandherr M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "von Bergwelt-Baildon M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wolf HH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hirsch HH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Wörmann B",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Cornely OA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Köhler P",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Schalk E",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "von Lilienfeld-Toal M",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "COVID-19 guideline panel of the Infectious Diseases Working Party (AGIHO) of the German Society for Haematology and Medical Oncology (DGHO).",
+      "authtype": "CollectiveName",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "von Lilienfeld-Toal M",
+  "title": "2021 update of the AGIHO guideline on evidence-based management of COVID-19 in patients with cancer regarding diagnostics, viral shedding, vaccination and therapy.",
+  "sorttitle": "2021 update of the agiho guideline on evidence based management of covid 19 in patients with cancer regarding diagnostics viral shedding vaccination and therapy",
+  "volume": "147",
+  "issue": "",
+  "pages": "154-160",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9005373",
+  "issn": "0959-8049",
+  "essn": "1879-0852",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - as supplied by publisher",
+  "pubstatus": "10",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "33676266"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "S0959-8049(21)00054-X"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1016/j.ejca.2021.01.033"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "33676266"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "33676266"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "received",
+      "date": "2021/01/15 00:00"
+    },
+    {
+      "pubstatus": "accepted",
+      "date": "2021/01/24 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2021/03/06 20:18"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2021/03/07 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2021/03/07 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": "",
+  "fulljournalname": "European journal of cancer (Oxford, England : 1990)",
+  "elocationid": "doi: 10.1016/j.ejca.2021.01.033",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2021/02/10 00:00",
+  "sortfirstauthor": "Giesen N",
+  "vernaculartitle": ""
+}

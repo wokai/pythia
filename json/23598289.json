@@ -1,0 +1,112 @@
+{
+  "uid": "23598289",
+  "pubdate": "2013 Sep",
+  "epubdate": "",
+  "source": "Anesthesiology",
+  "authors": [
+    {
+      "name": "Rosseland LA",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Hauge TH",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Grindheim G",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Stubhaug A",
+      "authtype": "Author",
+      "clusterid": ""
+    },
+    {
+      "name": "Langesæter E",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Langesæter E",
+  "title": "Changes in blood pressure and cardiac output during cesarean delivery: the effects of oxytocin and carbetocin compared with placebo.",
+  "sorttitle": "changes in blood pressure and cardiac output during cesarean delivery the effects of oxytocin and carbetocin compared with placebo",
+  "volume": "119",
+  "issue": "3",
+  "pages": "541-51",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "1300217",
+  "issn": "0003-3022",
+  "essn": "1528-1175",
+  "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "23598289"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1097/ALN.0b013e31829416dd"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "23598289"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "23598289"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2013/04/20 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2013/04/20 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2013/11/05 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 14,
+  "fulljournalname": "Anesthesiology",
+  "elocationid": "doi: 10.1097/ALN.0b013e31829416dd",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2013/09/01 00:00",
+  "sortfirstauthor": "Rosseland LA",
+  "vernaculartitle": ""
+}
