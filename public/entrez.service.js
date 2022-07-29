@@ -184,8 +184,7 @@ app.factory('EntrezService', function($http) {
       pmid: p
     };
     
-    /// Restore: remove /diff
-    $http.post('/entrez/diff', data).then(function(response){
+    $http.post('/entrez/', data).then(function(response){
 
       // Clear article array
       pubMed.refs.length = 0; 

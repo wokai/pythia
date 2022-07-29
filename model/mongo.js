@@ -29,12 +29,18 @@ class MongoQuery {
   
   constructor(){ }
   
+  /**
+   * @param{uid: array.numeric}
+   * @param{uid: array.numeric}
+   **/
   contained = (uid, pubmed) => {
+    console.log(`[mongo.js] contained: uid: ${uid.length}, pubmed: ${pubmed.length}`);
     let ui=0, pi=0;
     let contained = [];
-    let unknown = [];
+    let unknown   = [];
     
     while(ui < uid.length && pi < pubmed.length){
+      //console.log(`[mongo.js] contained: uid: ${uid[ui]}, pmid: ${pubmed[pi].uid}`);
       if      (uid[ui] < pubmed[pi].uid) { unknown.push(uid[ui++]); }
       else if (pubmed[pi].ui > uid[ui])   { ++pi; }
       else    { contained.push(pubmed[pi]); ++ui; ++ pi; }
@@ -42,25 +48,26 @@ class MongoQuery {
     return { contained : contained, unknown: unknown }
   }
   
-  async filterDatasets(){
-    return client.connect(config.database.url)
-      .then(con => {
-        return con.db(config.database.dataBaseName)
-        .collection(config.database.collectionName)
-        .find({})
-        .toArray()
-      })
+  
+  /***
+   * @param
+   **/
+  async filterDatasets(collection, pmids){
+    /// find returns a *cursor* not a document
+    return collection.find({ uid: { $in: pmids }}, { projection: { uid: 1, _id: 0 , pubdate: 1} })
+      .toArray()
       .then(res => res.map(r => { r.uid = parseInt(r.uid); return r; }))
-      .then(res => res.sort((a, b) => a.uid > b.uid))
+      .then(res => res.sort( (a, b) => a.uid-b.uid )) /// Prevent lexicographical sort
   }
   
   /***
+   * @param{collection: Mongodb.collection}
    * @param{pmids: array.numeric}  - { integral values: pubmed-id's }
    * @returns{object} - ({ contained: full-objects, unknown: numeric})
    **/
-  async getFilteredDatasets(pmids){
-    return this.filterDatasets()
-      .then(res => this.contained(pmids, res));
+  async getFilteredDatasets(collection, pmids){
+    return this.filterDatasets(collection, pmids)
+      //.then(res => { this.contained(pmids, res) });
   }
   
 }
