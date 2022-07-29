@@ -47,8 +47,7 @@ class MongoQuery {
       .then(con => {
         return con.db(config.database.dataBaseName)
         .collection(config.database.collectionName)
-        .find({}, { projection: { uid: 1, _id: 1, pubdate: 1} })
-        .limit(10)
+        .find({})
         .toArray()
       })
       .then(res => res.map(r => { r.uid = parseInt(r.uid); return r; }))

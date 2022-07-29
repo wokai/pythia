@@ -22,7 +22,7 @@
 
 const path   = require('path');
 const client = require('mongodb').MongoClient;
-const config = require(path.join(__dirname, '..', 'config'));
+const config = require(path.join(__dirname, '..', 'config', 'config'));
 const colors = require('colors');
 
 /// ////////////////////////////////////////////////////////////////////////////
@@ -105,5 +105,5 @@ class MongoClient {
 const pmids = [ 10000, 13682, 100000, 137732, 1000000, 1147311, 1148073, 1148076, 1311535, 1404801, 1469157,  1500000, 1520054, 1549988 ];
 
 const mongo = new MongoClient();
-mongo.findUids(pmids).then(res => console.log(res));
+//mongo.findUids(pmids).then(res => console.log(res));
 mongo.getFilteredDatasets(pmids).then(res => console.log(res));

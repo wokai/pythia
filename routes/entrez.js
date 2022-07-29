@@ -171,39 +171,58 @@ router.post('/', (request, result, next) => {
 });
 
 
+// curl -d "{\"pmid\": [10000] }" -X POST http://localhost:9000/entrez/diff -H "Content-Type: application/json"
+// { pmid: [ 10000 ] }
+
+
 router.post('/diff', (request, result, next) => {
   
   console.log('[entrez] diff'.brightCyan);
+  console.log(request.body);
   
-  /// Ensure, that only integral numbers are processed
-  const pmint = request.body.pmid.map(function(x) { return parseInt(x); } );
-  const pmid = pmint.filter(function (x) { return !Number.isNaN(x); });
-  const pms = pmid.join();
-  
-  var url = config.pubmed.baseUrl + pms;
-  console.log('[entrez] POST: %s'.green, pms);
-  console.log('[entrez] POST url: %s'.green, url);
-  fetch(url)
-    .then(res => res.json())
-    .then(json => {
-      let pmids = json.result.uids;
-      pmids.forEach(p =>{
-        writeJson(json.result[p], p)
-          .then(() => (console.log('[entrez] File %s written.'.brightYellow, p)))
-          .catch(reason => {console.log('[entrez.js] writeJson Rejected: %s'.brightRed, reason) });
-        try{
-          /// Insert into database without check ...
-          request.app.locals.col.insertOne(json.result[p])
-            .catch(e => console.log('[entrez.js] Database insert of PMID %s failed.'.brightRed, p, e.message))
-          console.log('[entrez] Database PMID %s written.'.brightGreen, p)
-        } catch(error) {
-          console.log('[entrez.js] Database insert of PMID %s failed.'.brightRed, p)
-        }
-        
+  if(request.body.pmid){
+    /// Ensure, that only integral numbers are processed
+    const pmint = request.body.pmid.map(function(x) { return parseInt(x); } );
+    const pmid = pmint.filter(function (x) { return !Number.isNaN(x); });
+    const pms = pmid.join();
+    
+    query.getFilteredDatasets(pms)
+      .then(res => {
+        console.log(`[pythia.routes] diff: contained ${res.contained.length}, unknown: ${res.unkown.length}. `);
       });
-      result.send(json)
-    })
-    .catch(err => result.send(err.toString()));
+    
+    var url = config.pubmed.baseUrl + pms;
+    console.log('[entrez] POST: %s'.green, pms);
+    console.log('[entrez] POST url: %s'.green, url);
+    fetch(url)
+      .then(res => res.json())
+      .then(json => {
+        let pmids = json.result.uids;
+        pmids.forEach(p =>{
+          writeJson(json.result[p], p)
+            .then(() => (console.log('[entrez] File %s written.'.brightYellow, p)))
+            .catch(reason => {console.log('[entrez.js] writeJson Rejected: %s'.brightRed, reason) });
+          try{
+            /// Insert into database without check ...
+            request.app.locals.col.insertOne(json.result[p])
+              .catch(e => console.log('[entrez.js] Database insert of PMID %s failed.'.brightRed, p, e.message))
+            console.log('[entrez] Database PMID %s written.'.brightGreen, p)
+          } catch(error) {
+            console.log('[entrez.js] Database insert of PMID %s failed.'.brightRed, p)
+          }
+          
+        });
+        result.send(json)
+      })
+      .catch(err => result.send(err.toString()));
+    
+    
+    
+  } else {
+    result.json({ status: 'Error', message: 'No pmid provided' });
+  }
+  
+
 });
 
 
