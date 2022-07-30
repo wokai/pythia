@@ -1,0 +1,84 @@
+{
+  "uid": "123456",
+  "pubdate": "1975 Apr",
+  "epubdate": "",
+  "source": "Bol Oficina Sanit Panam",
+  "authors": [
+    {
+      "name": "Grados OB",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Grados OB",
+  "title": "[The laboratory in programs for enteric infection control].",
+  "sorttitle": "laboratory in programs for enteric infection control",
+  "volume": "78",
+  "issue": "4",
+  "pages": "318-22",
+  "lang": [
+    "spa"
+  ],
+  "nlmuniqueid": "0414762",
+  "issn": "0030-0632",
+  "essn": "",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "123456"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "123456"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "123456"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "pubmed",
+      "date": "1975/04/01 00:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "1975/04/01 00:01"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "1975/04/01 00:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 2,
+  "fulljournalname": "Boletin de la Oficina Sanitaria Panamericana. Pan American Sanitary Bureau",
+  "elocationid": "",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "1975/04/01 00:00",
+  "sortfirstauthor": "Grados OB",
+  "vernaculartitle": "El laboratorio en los programas de control de las infecciones entéricas"
+}

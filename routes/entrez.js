@@ -27,7 +27,7 @@ const fs        = require('fs/promises');
 const colors    = require('colors');
 
 const config    = require(path.join(__dirname, '..', 'config', 'config'));    /// Database
-const { query } = require(path.join(__dirname, '..', 'model', 'mongo'));
+const { mongo } = require(path.join(__dirname, '..', 'model', 'mongo'));
 
 const router = express.Router();
 
@@ -136,15 +136,14 @@ router.get('/pmc/:pmcid', function(request, result, next) {
 
 
 router.post('/', (request, result, next) => {
-  
-  console.log('[pythia] post query');
-  
+   
   /// Ensure, that only integral numbers are processed
   const pmint = request.body.pmid.map(function(x) { return parseInt(x); } );
   const pmid = pmint.filter(function (x) { return !Number.isNaN(x); });
   const pms = pmid.join();
   
   var url = config.pubmed.baseUrl + pms;
+  console.log('[pythia] POST: '.green, request.body.pmid);
   console.log('[pythia] POST: %s'.green, pms);
   console.log('[pythia] POST url: %s'.green, url);
   fetch(url)
@@ -171,25 +170,15 @@ router.post('/', (request, result, next) => {
 });
 
 
-// curl -d "{ \"pmid\": [10000, 13682, 1148076] }" -X POST http://localhost:9000/entrez/diff -H "Content-Type: application/json"
+// curl -d "{ \"pmid\": [1, 10000, 13682, 100000, 1148076, 234567] }" -X POST http://localhost:9000/entrez/diff -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
 // [{"uid":"10000"},{"uid":"1148076"},{"uid":"13682"}]
 
 
 router.post('/diff', (request, result, next) => {
   
   if(request.body.pmid){
-    /// Ensure, that only integral numbers are processed
-    const pmint = request.body.pmid.map(function(x) { return parseInt(x); } );
-    const pmid  = pmint.filter(function (x) { return !Number.isNaN(x); });
-    const pms   = pmid.join();
-    
-    console.log(`[pythia] diff. pmid.length: ${pmid.length}`.brightCyan);
-    console.log(request.body.pmid);
-    
-    /// Array required..
-    query.getFilteredDatasets(request.app.locals.col, request.body.pmid.map(p => p.toString()))
+    mongo.getFilteredDatasets(request.app.locals.col, mongo.toPmidArray(request.body.pmid))
       .then(res => {
-          //console.log(`[pythia.routes] diff: contained ${res.contained.length}, unknown: ${res.unkown.length}. `);
         result.status(200).json(res);
       });
     

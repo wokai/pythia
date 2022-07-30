@@ -29,12 +29,33 @@ class MongoQuery {
   
   constructor(){ }
   
+  isInt = (val) => { return Number.isNaN(parseInt(val)); }
+  
+  
   /**
-   * @param{uid: array.numeric}
-   * @param{uid: array.numeric}
+   * @param{pmid: array of numeric}
+   * @returns{Sorted array with Pubmed-Id (strings)}
    **/
-  contained = (uid, pubmed) => {
-    console.log(`[mongo.js] contained: uid: ${uid.length}, pubmed: ${pubmed.length}`);
+  
+  toPmidArray = (pmid) => {
+    /// Eventually convert to array
+    if(!Array.isArray(pmid)){ val = [0].fill(pmid); }
+    /// Ensure, that only integral numbers are processed
+    const pmint = pmid.map(x => parseInt(x));
+    const pminf = pmint.filter(x => !Number.isNaN(x));
+    return pminf.map(x => x.toString()).sort();
+  }
+  
+  
+  /**
+   * @param{uid}      - (array of pubmed-id's. Output of toPmidArray)
+   * @param{pubmed}   - (Array of pubmed-records)
+   * @returns{object} - ({ contained: pubmed-records, unknown: pubmed-id's })
+   **/
+  setDifference = (uid, pubmed) => {
+    //console.log(`[mongo.js] contained: uid: ${uid.length}, pubmed: ${pubmed.length}:`);
+    //console.log(uid)
+    //console.log(pubmed);
     let ui=0, pi=0;
     let contained = [];
     let unknown   = [];
@@ -42,32 +63,36 @@ class MongoQuery {
     while(ui < uid.length && pi < pubmed.length){
       //console.log(`[mongo.js] contained: uid: ${uid[ui]}, pmid: ${pubmed[pi].uid}`);
       if      (uid[ui] < pubmed[pi].uid) { unknown.push(uid[ui++]); }
-      else if (pubmed[pi].ui > uid[ui])   { ++pi; }
+      else if (uid[ui] > pubmed[pi].uid) { ++pi; }
       else    { contained.push(pubmed[pi]); ++ui; ++ pi; }
     }
+    
+    while(ui < uid.length){ unknown.push(uid[ui++]); }
+    
+    console.log(contained);
     return { contained : contained, unknown: unknown }
   }
   
   
   /***
-   * @param
-   **/
-  async filterDatasets(collection, pmids){
+   * @param{collection} - (mongodb collection)
+   * @param{pmids}      - (array of string. Output of toPmidArray)
+   ***/
+  async getMongoDatasets(collection, pmids){
     /// find returns a *cursor* not a document
     return collection.find({ uid: { $in: pmids }}, { projection: { uid: 1, _id: 0 , pubdate: 1} })
       .toArray()
-      .then(res => res.map(r => { r.uid = parseInt(r.uid); return r; }))
-      .then(res => res.sort( (a, b) => a.uid-b.uid )) /// Prevent lexicographical sort
+      .then(res => res.sort()) /// Sort lexicographically 
   }
   
   /***
    * @param{collection: Mongodb.collection}
    * @param{pmids: array.numeric}  - { integral values: pubmed-id's }
-   * @returns{object} - ({ contained: full-objects, unknown: numeric})
+   * @returns{object} - ({ contained: pubmed-records, unknown: Array of Pubmed-Id's (string)})
    **/
   async getFilteredDatasets(collection, pmids){
-    return this.filterDatasets(collection, pmids)
-      //.then(res => { this.contained(pmids, res) });
+    return this.getMongoDatasets(collection, pmids)
+      .then(pubmed => this.setDifference(pmids, pubmed));
   }
   
 }
@@ -75,6 +100,6 @@ class MongoQuery {
 const mongoQuery = new MongoQuery;
 
 module.exports = {
-  query : mongoQuery
+  mongo : mongoQuery
 }
 
