@@ -1,6 +1,9 @@
 # This directory is large and needs to be locally ceated using 'npm install'
 /node_modules
 
+# This directory contains a (large) local copy of data
+/json 
+
 # Local development files
 /local
 
