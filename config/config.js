@@ -35,7 +35,7 @@ const config = {
     "base" : "/home/wolfgang/science/science_lit"
   },
   json: {
-    "base" : path.join(__dirname, 'json')
+    dir : path.join(__dirname, 'json')
   },
   pubmed: {
     "baseUrl" : "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=",

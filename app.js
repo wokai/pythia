@@ -69,7 +69,7 @@ app.use('/feather',   express.static(path.join(__dirname, 'node_modules', 'feath
 app.use('/angular',   express.static(path.join(__dirname, 'node_modules', 'angular')));
 app.use('/icons',     express.static(path.join(__dirname, 'node_modules', 'bootstrap-icons', 'icons')));
 app.use('/chart',     express.static(path.join(__dirname, 'node_modules', 'chart.js', 'dist')));
-app.use('/json',      express.static(config.json.base));
+app.use('/json',      express.static(config.json.dir));
 app.use('/pdf',       express.static(config.pdf.base));     /// Base directory for retrieval of PDF documents
 
 

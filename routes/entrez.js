@@ -26,8 +26,10 @@ const path      = require('path');
 const fs        = require('fs/promises');
 const colors    = require('colors');
 
-const config    = require(path.join(__dirname, '..', 'config', 'config'));    /// Database
-const { mongo } = require(path.join(__dirname, '..', 'model', 'mongo'));
+const config      = require(path.join(__dirname, '..', 'config', 'config'));    /// Database
+const { mongo }   = require(path.join(__dirname, '..', 'model', 'mongo'));
+const { json  }   = require(path.join(__dirname, '..', 'model', 'json'));
+const { entrez }  = require(path.join(__dirname, '..', 'model', 'entrez'));
 
 const router = express.Router();
 
@@ -142,7 +144,7 @@ router.post('/', (request, result, next) => {
   const pmid = pmint.filter(function (x) { return !Number.isNaN(x); });
   const pms = pmid.join();
   
-  var url = config.pubmed.baseUrl + pms;
+  let url = config.pubmed.baseUrl + pms;
   console.log('[pythia] POST: '.green, request.body.pmid);
   console.log('[pythia] POST: %s'.green, pms);
   console.log('[pythia] POST url: %s'.green, url);
@@ -171,7 +173,8 @@ router.post('/', (request, result, next) => {
 
 
 // curl -d "{ \"pmid\": [1, 10000, 13682, 100000, 1148076, 234567] }" -X POST http://localhost:9000/entrez/diff -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
-// [{"uid":"10000"},{"uid":"1148076"},{"uid":"13682"}]
+// curl -d "{ \"pmid\": [ 19343057 ] }" -X POST http://localhost:9000/entrez/diff -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
+// {"contained":[{"uid":"10000"},{"uid":"1148076"},{"uid":"13682"}],"unknown":["1","100000","234567"]}
 
 
 router.post('/diff', (request, result, next) => {
@@ -179,6 +182,16 @@ router.post('/diff', (request, result, next) => {
   if(request.body.pmid){
     mongo.getFilteredDatasets(request.app.locals.col, mongo.toPmidArray(request.body.pmid))
       .then(res => {
+        console.log('[diff] unknown: %s'.yellow, res.unknown)
+        entrez.fetch(res.unknown)
+         .then(e => {
+            console.log(e);
+            res.entrez = e;
+            return res;
+          })
+      })
+      .then(res => {
+        /// { contained: [], unknown: [] }
         result.status(200).json(res);
       });
     

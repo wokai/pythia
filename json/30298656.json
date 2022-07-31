@@ -1,0 +1,106 @@
+{
+  "uid": "30298656",
+  "pubdate": "2018 Oct",
+  "epubdate": "",
+  "source": "Nephrology (Carlton)",
+  "authors": [
+    {
+      "name": "Qian Q",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Qian Q",
+  "title": "Salt, water and nephron: Mechanisms of action and link to hypertension and chronic kidney disease.",
+  "sorttitle": "salt water and nephron mechanisms of action and link to hypertension and chronic kidney disease",
+  "volume": "23 Suppl 4",
+  "issue": "",
+  "pages": "44-49",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "9615568",
+  "issn": "1320-5358",
+  "essn": "1440-1797",
+  "pubtype": [
+    "Journal Article",
+    "Review"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "4",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "30298656"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1111/nep.13465"
+    },
+    {
+      "idtype": "pmc",
+      "idtypen": 8,
+      "value": "PMC6221012"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "30298656"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "30298656"
+    },
+    {
+      "idtype": "pmcid",
+      "idtypen": 5,
+      "value": "pmc-id: PMC6221012;"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "accepted",
+      "date": "2018/07/30 00:00"
+    },
+    {
+      "pubstatus": "entrez",
+      "date": "2018/10/10 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2018/10/10 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2019/01/08 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [
+    "Has Abstract"
+  ],
+  "pmcrefcount": 13,
+  "fulljournalname": "Nephrology (Carlton, Vic.)",
+  "elocationid": "doi: 10.1111/nep.13465",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2018/10/01 00:00",
+  "sortfirstauthor": "Qian Q",
+  "vernaculartitle": ""
+}

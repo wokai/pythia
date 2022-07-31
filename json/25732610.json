@@ -1,0 +1,94 @@
+{
+  "uid": "25732610",
+  "pubdate": "2015 Apr",
+  "epubdate": "2015 Mar 3",
+  "source": "Nat Rev Genet",
+  "authors": [
+    {
+      "name": "Bahcall OG",
+      "authtype": "Author",
+      "clusterid": ""
+    }
+  ],
+  "lastauthor": "Bahcall OG",
+  "title": "Metagenomics: Urban microbiome.",
+  "sorttitle": "metagenomics urban microbiome",
+  "volume": "16",
+  "issue": "4",
+  "pages": "194",
+  "lang": [
+    "eng"
+  ],
+  "nlmuniqueid": "100962779",
+  "issn": "1471-0056",
+  "essn": "1471-0064",
+  "pubtype": [
+    "Journal Article"
+  ],
+  "recordstatus": "PubMed - indexed for MEDLINE",
+  "pubstatus": "256",
+  "articleids": [
+    {
+      "idtype": "pubmed",
+      "idtypen": 1,
+      "value": "25732610"
+    },
+    {
+      "idtype": "pii",
+      "idtypen": 4,
+      "value": "nrg3921"
+    },
+    {
+      "idtype": "doi",
+      "idtypen": 3,
+      "value": "10.1038/nrg3921"
+    },
+    {
+      "idtype": "rid",
+      "idtypen": 8,
+      "value": "25732610"
+    },
+    {
+      "idtype": "eid",
+      "idtypen": 8,
+      "value": "25732610"
+    }
+  ],
+  "history": [
+    {
+      "pubstatus": "entrez",
+      "date": "2015/03/04 06:00"
+    },
+    {
+      "pubstatus": "pubmed",
+      "date": "2015/03/04 06:00"
+    },
+    {
+      "pubstatus": "medline",
+      "date": "2015/09/04 06:00"
+    }
+  ],
+  "references": [],
+  "attributes": [],
+  "pmcrefcount": 3,
+  "fulljournalname": "Nature reviews. Genetics",
+  "elocationid": "doi: 10.1038/nrg3921",
+  "doctype": "citation",
+  "srccontriblist": [],
+  "booktitle": "",
+  "medium": "",
+  "edition": "",
+  "publisherlocation": "",
+  "publishername": "",
+  "srcdate": "",
+  "reportnumber": "",
+  "availablefromurl": "",
+  "locationlabel": "",
+  "doccontriblist": [],
+  "docdate": "",
+  "bookname": "",
+  "chapter": "",
+  "sortpubdate": "2015/04/01 00:00",
+  "sortfirstauthor": "Bahcall OG",
+  "vernaculartitle": ""
+}

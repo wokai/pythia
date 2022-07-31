@@ -27,7 +27,7 @@
 
 class MongoQuery {
   
-  constructor(){ }
+  constructor(){}
   
   isInt = (val) => { return Number.isNaN(parseInt(val)); }
   
@@ -36,7 +36,6 @@ class MongoQuery {
    * @param{pmid: array of numeric}
    * @returns{Sorted array with Pubmed-Id (strings)}
    **/
-  
   toPmidArray = (pmid) => {
     /// Eventually convert to array
     if(!Array.isArray(pmid)){ val = [0].fill(pmid); }
