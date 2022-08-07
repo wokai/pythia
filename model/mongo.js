@@ -67,8 +67,7 @@ class MongoQuery {
     }
     
     while(ui < uid.length){ unknown.push(uid[ui++]); }
-    
-    console.log(contained);
+    console.log(`[model/mongo] Found pmid's ${contained.map(p => p.uid).join()}`.green);
     return { contained : contained, unknown: unknown }
   }
   

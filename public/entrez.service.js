@@ -204,6 +204,34 @@ app.factory('EntrezService', function($http) {
       console.error('[EntrezService.queryEntrez] Error: ' + error);
     });
   }
+  
+  /// //////////////////////////////////////////////////////////////////////////
+  ///  Query Entrez for Pubmed-ID's via local endpoint
+  /// //////////////////////////////////////////////////////////////////////////
+  var queryDiff = function(p){
+    var data = {
+      pmid: p
+    };
+    
+    $http.post('/entrez/', data).then(function(response){
+
+      // Clear article array
+      pubMed.refs.length = 0; 
+      // Raw object
+      // uids property contains array of received pmid's
+      pubMed.uids = response.data.result.uids;
+      // Populate elements array
+      pubMed.uids.forEach(function(uid) {
+        processAuthorNames(response.data.result[uid]);
+        pubMed.refs.push(response.data.result[uid]);
+      });
+      console.log('[EntrezService.queryDiff]  %i elements processed.', pubMed.uids.length);
+    }, function(response) {
+      console.log('[EntrezService.queryDiff] Notification: ', response)
+    }).catch(function(error){
+      console.error('[EntrezService.queryDiff] Error: ' + error);
+    });
+  }
  
   var getLocalRef = function(){
     var url = '/local';

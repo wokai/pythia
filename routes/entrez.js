@@ -180,49 +180,16 @@ router.post('/', (request, result, next) => {
 router.post('/diff', (request, result, next) => {
   
   if(request.body.pmid){
+    console.log(`[routes/entrez] Post /diff: pmid's: ${request.body.pmid}`.yellow)
     mongo.getFilteredDatasets(request.app.locals.col, mongo.toPmidArray(request.body.pmid))
       .then(res => {
-        console.log('[diff] unknown: %s'.yellow, res.unknown)
+        console.log('[routes/entrez] /diff unknown: %s'.yellow, res.unknown)
         entrez.fetch(res.unknown)
          .then(e => {
-            console.log(e);
             res.entrez = e;
-            return res;
+            result.status(200).json(res);
           })
       })
-      .then(res => {
-        /// { contained: [], unknown: [] }
-        result.status(200).json(res);
-      });
-    
-    /*
-    var url = config.pubmed.baseUrl + pms;
-    console.log('[pythia] POST: %s'.green, pms);
-    console.log('[pythia] POST url: %s'.green, url);
-    fetch(url)
-      .then(res => res.json())
-      .then(json => {
-        let pmids = json.result.uids;
-        pmids.forEach(p =>{
-          writeJson(json.result[p], p)
-            .then(() => (console.log('[pythia] File %s written.'.brightYellow, p)))
-            .catch(reason => {console.log('[entrez.js] writeJson Rejected: %s'.brightRed, reason) });
-          try{
-            /// Insert into database without check ...
-            request.app.locals.col.insertOne(json.result[p])
-              .catch(e => console.log('[entrez.js] Database insert of PMID %s failed.'.brightRed, p, e.message))
-            console.log('[pythia] Database PMID %s written.'.brightGreen, p)
-          } catch(error) {
-            console.log('[entrez.js] Database insert of PMID %s failed.'.brightRed, p)
-          }
-          
-        });
-        result.status(200).send(json)
-      })
-      .catch(err => result.send(err.toString()));
-    */
-    
-    
   } else {
     result.status(200).json({ status: 'Error', message: 'No pmid provided' });
   }

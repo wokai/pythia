@@ -39,9 +39,16 @@ class Entrez {
    **/
   fetch = async (pmids) => {
     let url = config.pubmed.baseUrl + pmids.join();
-    console.log(`[model/entrez] Fetching ${pmids.length} datasets`.blue);
+    console.log(`[model/entrez] Fetching ${pmids.length} datasets:${pmids.join()} `.green);
     console.log(`[model/entrez] POST url: ${url}`.blue);
-    return fetch(url).then(res => res.json());
+    return fetch(url).then(res => res.json())
+      .then(json => {
+        let pmids = json.result.uids;
+        let a = [];
+        console.log(`[model/entrez] Received pmid's:  ${pmids.join()}`.green)
+        pmids.forEach(p => { a.push(json.result[p]); });
+        return a;
+      })
   }
 }
 
