@@ -1,6 +1,6 @@
 /*******************************************************************************
  * The MIT License
- * Copyright 2020, Wolfgang Kaisers
+ * Copyright 2022, Wolfgang Kaisers
  * Permission is hereby granted, free of charge, to any person obtaining a 
  * copy of this software and associated documentation files (the "Software"), 
  * to deal in the Software without restriction, including without limitation 
@@ -213,7 +213,7 @@ app.factory('EntrezService', function($http) {
       pmid: p
     };
     
-    $http.post('/entrez/', data).then(function(response){
+    $http.post('/entrez/diff', data).then(function(response){
 
       // Clear article array
       pubMed.refs.length = 0; 
@@ -277,6 +277,7 @@ app.factory('EntrezService', function($http) {
     getDbPubMedIds: getDbPubMedIds,
     dbPubMed: dbPubMed,
     queryTitles: queryTitles,
+    queryDiff: queryDiff,
     queryPmid: queryPmid,
     queryAuthors: queryAuthors,
     qryResult: qryResult

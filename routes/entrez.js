@@ -48,8 +48,6 @@ function writeJson(obj, name){
   if(!obj.hasOwnProperty('title')){
     throw new Error('[entrez.writeJson] Required property *title* not found.'); 
   }
-  
-  
   /// Include spacer for readability
   let js = JSON.stringify(obj, null, 2);
   return fs.writeFile(filename, js);
@@ -154,8 +152,8 @@ router.post('/', (request, result, next) => {
       let pmids = json.result.uids;
       pmids.forEach(p =>{
         writeJson(json.result[p], p)
-          .then(() => (console.log('[pythia] File %s written.'.brightYellow, p)))
-          .catch(reason => {console.log('[entrez.js] writeJson Rejected: %s'.brightRed, reason) });
+          .then(() => (console.log('[routes/entrez] File %s written.'.brightYellow, p)))
+          .catch(reason => {console.log('[routes/entrez] writeJson Rejected: %s'.brightRed, reason) });
         try{
           /// Insert into database without check ...
           request.app.locals.col.insertOne(json.result[p])
@@ -171,7 +169,9 @@ router.post('/', (request, result, next) => {
     .catch(err => result.send(err.toString()));
 });
 
+ 
 
+/// curl -d "{ \"pmid\": [ 28969617 ] }" -X POST http://localhost:9000/entrez/diff -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
 // curl -d "{ \"pmid\": [1, 10000, 13682, 100000, 1148076, 234567] }" -X POST http://localhost:9000/entrez/diff -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
 // curl -d "{ \"pmid\": [ 19343057 ] }" -X POST http://localhost:9000/entrez/diff -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
 // {"contained":[{"uid":"10000"},{"uid":"1148076"},{"uid":"13682"}],"unknown":["1","100000","234567"]}

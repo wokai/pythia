@@ -27,15 +27,38 @@
 const colors    = require('colors');
 const path      = require('path');
 const fetch     = require('node-fetch');
+const fs        = require('fs/promises');
 const config = require(path.join(__dirname, '..', 'config', 'config'));
 
 class Entrez {
   
   constructor(){}
-   
+  
+  
   /**
-   * @param{pmids}  - (Array with Pubme-Id's)
-   * @returns{Promise}
+   * @param{obj}  - (object: Entrez record)
+   * @param{name} - (string: Basename of file)
+   * @returns{promise}
+   **/
+  writeJson = async (obj, name) => {
+    let filename = path.join(config.json.dir, name + '.json');
+    
+    /// //////////////////////////////////////////////////////////////////////////
+    /// Object validation
+    /// Failing validation will impede insertion into MongoDb collection
+    /// //////////////////////////////////////////////////////////////////////////
+    if(!obj.hasOwnProperty('title')){
+      throw new Error('[model/entrez.writeJson] Required property *title* not found.'); 
+    }
+    /// Include spacer for readability
+    let js = JSON.stringify(obj, null, 2);
+    return fs.writeFile(filename, js);
+  }
+    
+  
+  /**
+   * @param{pmids}     - (Array with Pubmed-Id's)
+   * @returns{Promise} - (Array with Pubmed objects)
    **/
   fetch = async (pmids) => {
     let url = config.pubmed.baseUrl + pmids.join();
@@ -46,7 +69,12 @@ class Entrez {
         let pmids = json.result.uids;
         let a = [];
         console.log(`[model/entrez] Received pmid's:  ${pmids.join()}`.green)
-        pmids.forEach(p => { a.push(json.result[p]); });
+        pmids.forEach(p => { 
+          a.push(json.result[p]);
+          this.writeJson(json.result[p], p)
+          .then(() => (console.log(`[model/entrez] File ${p} written.`.yellow)))
+          .catch(reason => {console.log(`[model/entrez] writeJson Rejected: ${reason}`.brightRed) });
+        });
         return a;
       })
   }
