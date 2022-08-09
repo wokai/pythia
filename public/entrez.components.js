@@ -60,6 +60,41 @@ app.component('pmidQuery', {
   }
 });
 
+
+app.component('diffQuery', {
+  bindings: { 
+    out: '&'
+  },
+  templateUrl: 'diffQuery.html',
+  controller: function($scope, $element, EntrezService){
+    
+    console.log('[diffQuery.component] controller.');
+    
+    var preprocess = function(x) {
+      x = x.trim();
+      // Replace all commas by empty space
+      x = x.replace(/,/g, ' ');
+      // Replace multiple empty spaces (tabs, ...) with one space
+      x = x.replace(/\s\s+/g, ' ');
+      // Split string into array
+      var a = x.split(' ');
+      // Parse array elements to Integer
+      a = a.map(x => Number.parseInt(x));
+      // Remove NaN (non integral)
+      return a.filter(x => !Number.isNaN(x));
+    }
+    
+    this.doQuery = function() {
+      EntrezService.queryDiff(preprocess(this.qry));
+    }
+    
+    this.clear = function() {
+      this.qry = '';
+      $element.find('input').focus();
+    }
+  }
+});
+
 app.component('titleQuery', {
   templateUrl: 'titleQuery.html',
   controller: function($scope, $element, EntrezService){
@@ -226,6 +261,24 @@ app.component('pmidDetail', {
     
   }
 });
+
+app.component('diffDetail', {
+  templateUrl: 'diffDetail.html',
+  bindings: {
+    data: '='
+  },
+  controller: function(EntrezService){
+    const ctrl = this;
+    
+    
+    // Lifecycle hook of component: Called on each digest cycle
+    ctrl.$doCheck = function() { 
+  
+    }
+    
+  }
+});
+
 
 app.directive('ngEnter', function () {
   return function (scope, element, attrs) {

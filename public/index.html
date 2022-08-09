@@ -17,9 +17,13 @@
       $scope.entrez = '';
       
       //----------------------------------------------------------------------//
-      $scope.queryEntrez = EntrezService.queryEntrez;
-      $scope.pmids = EntrezService.pubMed.uids;
-      $scope.elements = EntrezService.pubMed.refs;
+      $scope.queryEntrez  = EntrezService.queryEntrez;
+      $scope.pmids        = EntrezService.pubMed.uids;
+      $scope.elements     = EntrezService.pubMed.refs;
+      
+      //----------------------------------------------------------------------//
+      $scope.queryDiff    = EntrezService.queryDiff;
+      $scope.diffPubMed   = EntrezService.diffPubMed;
 
       //----------------------------------------------------------------------//
       $scope.localfiles = EntrezService.localPubMed.filenames;
@@ -149,6 +153,21 @@
           </div>                
           
         </div><!--- card  --->
+        
+        
+        <!--- Diff query --->
+        <div class="card shadow-sm">
+          <div class="card-header">
+            <diff-query></diff-query>
+          </div>
+          <div class="card-body">
+            <div class="text-secondary ml-1" style="font-size:small;">Entrez articles: {{diffPubMed.entrez.length}}</div>
+            <span ng-if="diffPubMed.entrez.length == 0" class="text-secondary">
+              (Empty result)
+            </span>
+            <diff-detail data="p" ng-repeat="p in diffPubMed.entrez"></diff-detail>
+          </div>
+        </div>
         
       </div>
       

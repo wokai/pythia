@@ -41,6 +41,12 @@ app.factory('EntrezService', function($http) {
     refs: []
   }
   
+  let diffPubMed = {
+    contained: [],
+    unknown: [],
+    entrez: []
+  }
+  
   var localPubMed = {
     filenames: [],
     refs: []
@@ -215,17 +221,21 @@ app.factory('EntrezService', function($http) {
     
     $http.post('/entrez/diff', data).then(function(response){
 
-      // Clear article array
-      pubMed.refs.length = 0; 
-      // Raw object
-      // uids property contains array of received pmid's
-      pubMed.uids = response.data.result.uids;
-      // Populate elements array
-      pubMed.uids.forEach(function(uid) {
-        processAuthorNames(response.data.result[uid]);
-        pubMed.refs.push(response.data.result[uid]);
-      });
-      console.log('[EntrezService.queryDiff]  %i elements processed.', pubMed.uids.length);
+      /// Clear data
+      diffPubMed.contained.length = 0;
+      diffPubMed.unknown.length = 0;
+      diffPubMed.entrez.length = 0;
+
+      console.log(response.data);
+
+      diffPubMed.contained.push(...response.data.contained);
+      diffPubMed.unknown.push(...response.data.unknown);
+      diffPubMed.entrez.push(...response.data.entrez);
+
+      
+      console.log(`[EntrezService.queryDiff] Contained: ${diffPubMed.contained.length}`);
+      console.log(`[EntrezService.queryDiff] Unknown: ${diffPubMed.unknown.length}`);
+      console.log(`[EntrezService.queryDiff] Entrez: ${diffPubMed.entrez.length}`);
     }, function(response) {
       console.log('[EntrezService.queryDiff] Notification: ', response)
     }).catch(function(error){
@@ -267,6 +277,7 @@ app.factory('EntrezService', function($http) {
     
   return {
     pubMed : pubMed,
+    diffPubMed: diffPubMed,
     queryEntrez: queryEntrez,
     localPubMed: localPubMed,
     clearFileRef: clearFileRef,

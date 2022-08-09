@@ -1,0 +1,24 @@
+<div>
+  <div class="text-secondary" style="font-size:small;">PMID: {{ $ctrl.data.uid }}</div>
+  <div class="panel panel-default">
+  <table class="table table-sm" >
+    <tbody>
+      <tr>
+        <th scope="row" style="white-space:nowrap; width: 15%;">Title</th>
+        <td>{{ $ctrl.data.title }}</td>
+      </tr>
+      <tr>
+        <th scope="row" style="white-space:nowrap; width: 15%;">Publication</th>
+        <td>
+          {{ $ctrl.data.pubdate }}
+        </td>
+      </tr>
+      <tr>
+        <th scope="row" style="white-space:nowrap; width: 15%;">Source</th>
+        <td>{{ $ctrl.data.source }}</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+  
+</div>
