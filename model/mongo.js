@@ -67,7 +67,11 @@ class MongoQuery {
     }
     
     while(ui < uid.length){ unknown.push(uid[ui++]); }
-    console.log(`[model/mongo] Found pmid's ${contained.map(p => p.uid).join()}`.green);
+    if(contained.length > 0){
+      console.log(`[model/mongo] Found pmid's ${contained.map(p => p.uid).join()}`.green);
+    } else {
+      console.log('[model/mongo] No pmid found in local database.'.green);
+    }
     return { contained : contained, unknown: unknown }
   }
   

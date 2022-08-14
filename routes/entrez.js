@@ -184,11 +184,19 @@ router.post('/diff', (request, result, next) => {
     mongo.getFilteredDatasets(request.app.locals.col, mongo.toPmidArray(request.body.pmid))
       .then(res => {
         console.log('[routes/entrez] /diff unknown: %s'.yellow, res.unknown)
-        entrez.fetch(res.unknown)
-         .then(e => {
-            res.entrez = e;
-            result.status(200).json(res);
-          })
+        
+        if(res.unknown.length > 0) {
+          entrez.fetch(res.unknown)
+           .then(e => {
+              res.entrez = e;
+              result.status(200).json(res);
+            })
+        } else {
+          res.entrez = [];
+          result.status(200).json(res);
+        }
+        
+
       })
   } else {
     result.status(200).json({ status: 'Error', message: 'No pmid provided' });
