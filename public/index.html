@@ -162,6 +162,7 @@
           </div>
           <div class="card-body">
             <div class="text-secondary ml-1" style="font-size:small;">Entrez articles: {{diffPubMed.entrez.length}}</div>
+            <div class="text-secondary ml-1" style="font-size:small;">Database articles: {{diffPubMed.contained.length}}</div>
             <span ng-if="diffPubMed.entrez.length == 0" class="text-secondary">
               (Empty result)
             </span>
