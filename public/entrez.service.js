@@ -226,7 +226,13 @@ app.factory('EntrezService', function($http) {
       diffPubMed.unknown.length = 0;
       diffPubMed.entrez.length = 0;
 
-      console.log(response.data);
+
+      console.log(diffPubMed.contained)
+      console.log(Array.isArray(diffPubMed.contained));
+      //console.log(diffPubMed.contained);
+      diffPubMed.contained.forEach(c => console.log(c));
+      //diffPubMed.contained.forEach(c => processAuthorNames(c));
+      //diffPubMed.entrez.forEach(e => processAuthorNames(e));
 
       diffPubMed.contained.push(...response.data.contained);
       diffPubMed.unknown.push(...response.data.unknown);

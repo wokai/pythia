@@ -200,7 +200,7 @@ app.component('pmidDetail', {
       
       // Compose 
       // <ref name="..."> ... </ref> 
-      // reference element for use as wikimedia reference
+      // reference element for use as mediawiki reference
       
       // Pubmed-id
       const pmid = ctrl.data.uid;
@@ -259,6 +259,8 @@ app.component('pmidDetail', {
       prepareBibTexElement();
     }
     
+
+    
   }
 });
 
@@ -270,10 +272,75 @@ app.component('diffDetail', {
   controller: function(EntrezService){
     const ctrl = this;
     
+    ctrl.refElem = '(empty)';
+    ctrl.bibTexElem = '(empty)';
+    
+    function prepareReferenceElement(){
+      
+      if(ctrl.data.error){
+        ctrl.refElem = 'Error: ' + ctrl.data.error;
+        return;
+      }
+      
+      // Compose 
+      // <ref name="..."> ... </ref> 
+      // reference element for use as mediawiki reference
+      
+      // Pubmed-id
+      const pmid = ctrl.data.uid;
+      
+      // Left element delimiter including name attribute
+      const left_delim = '<ref name="pmid' + pmid + '">';
+      
+      // Reference element
+      var ref_elem = ctrl.data.title + ' ' + ctrl.data.fulljournalname + '. ' + ctrl.data.pubdate + '; ' + ctrl.data.volume;
+      
+      // Add issue when present
+      if(ctrl.data.issue & ctrl.data.issue.length > 0){
+        ref_elem = ref_elem + '(' + ctrl.data.issue + ')';
+      }
+      ref_elem = ref_elem + '. p.' + ctrl.data.pages;
+      
+      // Link of reference on Pubmed Server
+      const pmid_link = ' [https://www.ncbi.nlm.nih.gov/pubmed/' + pmid + ' PubMed ' + pmid + '] ';
+      
+      // Link to pdf in local directory
+      const pdf_link = '[http://{{SERVERNAME}}/lit/' + pmid + '.pdf PDF]';
+      
+      // Right element delimiter
+      const right_delim = '</ref>';
+      
+      // Copy composition to property
+      ctrl.refElem = left_delim + ref_elem + pmid_link + pdf_link + right_delim;
+    }
+    
+    function prepareBibTexElement(){
+      
+      if(ctrl.data.error){
+        ctrl.bibTexElem = 'Error: ' + ctrl.data.error;
+        return;
+      }
+      
+      const prefix = '@Article{pmid' + ctrl.data.uid + ',\n\t';
+      const title = 'Title="{' + ctrl.data.title + '}",\n\t';
+      const journal = 'Journal={' + ctrl.data.fulljournalname + '},\n\t';
+      const year = 'Year="' + ctrl.data.pubdate.substring(0, 4) + '",\n\t';
+      const volume = 'Volume="' + ctrl.data.volume + '",\n\t';
+      const number = 'Number="' + ctrl.data.issue + '",\n\t';
+      const pages = 'Pages="' + ctrl.data.pages + '",\n\t';
+      const month = 'Month="' + ctrl.data.pubdate.substring(5) + '"\n}'; 
+      
+      const authorlist = ctrl.data.authors.map(author => { return author.lastname + ', ' + author.firstnames.join('. ') + '.'});
+      const author = 'Author="' + authorlist.join(' and ') + '",\n\t';
+      
+      ctrl.bibTexElem = prefix + author + title + journal + year + volume + number + pages + month;
+    }
+    
     
     // Lifecycle hook of component: Called on each digest cycle
     ctrl.$doCheck = function() { 
-  
+      prepareReferenceElement();
+      prepareBibTexElement();
     }
     
   }

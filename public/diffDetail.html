@@ -17,6 +17,14 @@
         <th scope="row" style="white-space:nowrap; width: 15%;">Source</th>
         <td>{{ $ctrl.data.source }}</td>
       </tr>
+      <tr>
+        <th scope="row" style="white-space:nowrap; width: 15%;"></th>
+        <td>
+          <a class="btn btn-sm btn-outline-danger ml-2" href="http://localhost/lit/{{$ctrl.data.uid}}.pdf">PDF</a>
+          <button class="btn btn-outline-success btn-sm ml-2" ng-click-copy="{{ $ctrl.refElem }}">Copy Mediawiki</button>
+          <button class="btn btn-outline-success btn-sm ml-2" ng-click-copy="{{ $ctrl.bibTexElem }}">Copy BibTex</button>
+        </td>
+      </tr>
     </tbody>
   </table>
   </div>

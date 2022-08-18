@@ -178,7 +178,6 @@ router.post('/', (request, result, next) => {
 
 
 router.post('/diff', (request, result, next) => {
-  
   if(request.body.pmid){
     console.log(`[routes/entrez] Post /diff: pmid's: ${request.body.pmid}`.yellow)
     mongo.getFilteredDatasets(request.app.locals.col, mongo.toPmidArray(request.body.pmid))
@@ -189,23 +188,26 @@ router.post('/diff', (request, result, next) => {
           entrez.fetch(res.unknown)
            .then(e => {
               res.entrez = e;
+              e.forEach(p => {
+                try {
+                  /// Insert into database without check ...
+                  request.app.locals.col.insertOne(p)
+                    .catch(e => console.log(`[routes/entrez/diff] Database insert of PMID ${p} failed.`.brightRed, e.message))
+                } catch(error) {
+                  console.log(`[routes/entrez/diff] Database insert of PMID ${p} failed.`.brightRed)
+                }
+              });
               result.status(200).json(res);
             })
         } else {
           res.entrez = [];
           result.status(200).json(res);
         }
-        
-
       })
   } else {
     result.status(200).json({ status: 'Error', message: 'No pmid provided' });
   }
-  
-
 });
-
-
 
 
 module.exports = router;

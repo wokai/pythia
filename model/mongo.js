@@ -82,7 +82,7 @@ class MongoQuery {
    ***/
   async getMongoDatasets(collection, pmids){
     /// find returns a *cursor* not a document
-    return collection.find({ uid: { $in: pmids }}, { projection: { uid: 1, _id: 0 , pubdate: 1} })
+    return collection.find({ uid: { $in: pmids }}) ///, { projection: { uid: 1, _id: 0 , pubdate: 1} })
       .toArray()
       .then(res => res.sort()) /// Sort lexicographically 
   }
