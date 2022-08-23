@@ -67,7 +67,9 @@ app.factory('EntrezService', function($http) {
   /// //////////////////////////////////////////////////////////////////////////
   
   /// Split name and provide lastname and firstnames
+  /// @param{data}-(object: contains authors member)
   var processAuthorNames = function(data){
+    
     data.authors = data.authors.map(a => {
       /// Split name at any number of white spaces
       /// "name": "Andersson ML"
@@ -226,22 +228,12 @@ app.factory('EntrezService', function($http) {
       diffPubMed.unknown.length = 0;
       diffPubMed.entrez.length = 0;
 
-
-      console.log(diffPubMed.contained)
-      console.log(Array.isArray(diffPubMed.contained));
-      //console.log(diffPubMed.contained);
-      diffPubMed.contained.forEach(c => console.log(c));
-      //diffPubMed.contained.forEach(c => processAuthorNames(c));
-      //diffPubMed.entrez.forEach(e => processAuthorNames(e));
-
       diffPubMed.contained.push(...response.data.contained);
       diffPubMed.unknown.push(...response.data.unknown);
       diffPubMed.entrez.push(...response.data.entrez);
 
-      
-      console.log(`[EntrezService.queryDiff] Contained: ${diffPubMed.contained.length}`);
-      console.log(`[EntrezService.queryDiff] Unknown: ${diffPubMed.unknown.length}`);
-      console.log(`[EntrezService.queryDiff] Entrez: ${diffPubMed.entrez.length}`);
+      diffPubMed.contained.forEach(c => processAuthorNames(c));
+      diffPubMed.entrez.forEach(e => processAuthorNames(e));
     }, function(response) {
       console.log('[EntrezService.queryDiff] Notification: ', response)
     }).catch(function(error){

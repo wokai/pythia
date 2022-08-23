@@ -246,6 +246,7 @@ app.component('pmidDetail', {
       const pages = 'Pages="' + ctrl.data.pages + '",\n\t';
       const month = 'Month="' + ctrl.data.pubdate.substring(5) + '"\n}'; 
       
+           
       const authorlist = ctrl.data.authors.map(author => { return author.lastname + ', ' + author.firstnames.join('. ') + '.'});
       const author = 'Author="' + authorlist.join(' and ') + '",\n\t';
       
@@ -330,6 +331,7 @@ app.component('diffDetail', {
       const pages = 'Pages="' + ctrl.data.pages + '",\n\t';
       const month = 'Month="' + ctrl.data.pubdate.substring(5) + '"\n}'; 
       
+      /// Requires preprocessing of author names in entrez.service
       const authorlist = ctrl.data.authors.map(author => { return author.lastname + ', ' + author.firstnames.join('. ') + '.'});
       const author = 'Author="' + authorlist.join(' and ') + '",\n\t';
       

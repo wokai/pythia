@@ -31,14 +31,11 @@ app.factory('SessionService', function($http) {
     config : {}
   }
   
-  
   var getGlobalConfig = function(){
     $http.get('/config').then(function(response){
         global.config = response.data;
-        console.log('[getGlobalConfig] Success.')
       }, function(repsonse) {
         console.log('[getGlobalConfig] Notification: ', response)
-    
     }).catch(function(error) {
       console.log('[getGlobalConfig] Error: ', error.message);
     });
@@ -49,9 +46,7 @@ app.factory('SessionService', function($http) {
   return {
     global: global
   }
-
 });                 /// SessionService
-
 
 app.component('sessionConfig', {
   templateUrl: 'sessionConfig.html',
@@ -59,7 +54,6 @@ app.component('sessionConfig', {
     this.global = SessionService.global;
   }
 });
-
 
 })(window.angular); /// function(angular)
 
