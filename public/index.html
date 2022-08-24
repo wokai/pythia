@@ -160,21 +160,20 @@
             <diff-query></diff-query>
           </div>
           <div class="card-body">
-            <div class="text-secondary ml-1" style="font-size:small;">Entrez articles: {{diffPubMed.entrez.length}}</div>
-            <span ng-if="diffPubMed.entrez.length == 0" class="text-secondary">
-              (Empty result)
-            </span>
-            <diff-detail data="p" ng-repeat="p in diffPubMed.entrez"></diff-detail>
-          </div>
-          <div class="card-body">
             <div class="text-secondary ml-1" style="font-size:small;">Database articles: {{diffPubMed.contained.length}}</div>
             <span ng-if="diffPubMed.contained.length == 0" class="text-secondary">
               (Empty result)
             </span>
             <diff-detail data="p" ng-repeat="p in diffPubMed.contained"></diff-detail>
           </div>
+          <div class="card-body">
+            <div class="text-secondary ml-1" style="font-size:small;">Entrez articles: {{diffPubMed.entrez.length}}</div>
+            <span ng-if="diffPubMed.entrez.length == 0" class="text-secondary">
+              (Empty result)
+            </span>
+            <diff-detail data="p" ng-repeat="p in diffPubMed.entrez"></diff-detail>
+          </div>
         </div>
-        
       </div>
       
       <!--- Panel Pubmed local JSON --->
@@ -238,7 +237,6 @@
             <pmid-detail data="f" ng-repeat="f in qryResult.documents"></pmid-detail>
           </div>
         </div><!--- card --->
-        
       </div>
       
       <!--- Panel Config --->
@@ -255,8 +253,6 @@
 
     </div> 
     
- 
-
   </div>  <!--- col-10 --->
 </div> <!--- row --->
 </div>
