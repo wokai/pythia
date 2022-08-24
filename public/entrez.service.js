@@ -41,7 +41,7 @@ app.factory('EntrezService', function($http) {
     refs: []
   }
   
-  let diffPubMed = {
+  let twoStepPubMed = {
     contained: [],
     unknown: [],
     entrez: []
@@ -216,7 +216,7 @@ app.factory('EntrezService', function($http) {
   /// //////////////////////////////////////////////////////////////////////////
   ///  Query Entrez for Pubmed-ID's via local endpoint
   /// //////////////////////////////////////////////////////////////////////////
-  var queryDiff = function(p){
+  var queryTwoStep = function(p){
     var data = {
       pmid: p
     };
@@ -224,20 +224,20 @@ app.factory('EntrezService', function($http) {
     $http.post('/entrez/diff', data).then(function(response){
 
       /// Clear data
-      diffPubMed.contained.length = 0;
-      diffPubMed.unknown.length = 0;
-      diffPubMed.entrez.length = 0;
+      twoStepPubMed.contained.length = 0;
+      twoStepPubMed.unknown.length = 0;
+      twoStepPubMed.entrez.length = 0;
 
-      diffPubMed.contained.push(...response.data.contained);
-      diffPubMed.unknown.push(...response.data.unknown);
-      diffPubMed.entrez.push(...response.data.entrez);
+      twoStepPubMed.contained.push(...response.data.contained);
+      twoStepPubMed.unknown.push(...response.data.unknown);
+      twoStepPubMed.entrez.push(...response.data.entrez);
 
-      diffPubMed.contained.forEach(c => processAuthorNames(c));
-      diffPubMed.entrez.forEach(e => processAuthorNames(e));
+      twoStepPubMed.contained.forEach(c => processAuthorNames(c));
+      twoStepPubMed.entrez.forEach(e => processAuthorNames(e));
     }, function(response) {
-      console.log('[EntrezService.queryDiff] Notification: ', response)
+      console.log('[EntrezService.queryTwoStep] Notification: ', response)
     }).catch(function(error){
-      console.error('[EntrezService.queryDiff] Error: ' + error);
+      console.error('[EntrezService.queryTwoStep] Error: ' + error);
     });
   }
  
@@ -275,7 +275,7 @@ app.factory('EntrezService', function($http) {
     
   return {
     pubMed : pubMed,
-    diffPubMed: diffPubMed,
+    twoStepPubMed: twoStepPubMed,
     queryEntrez: queryEntrez,
     localPubMed: localPubMed,
     clearFileRef: clearFileRef,
@@ -286,7 +286,7 @@ app.factory('EntrezService', function($http) {
     getDbPubMedIds: getDbPubMedIds,
     dbPubMed: dbPubMed,
     queryTitles: queryTitles,
-    queryDiff: queryDiff,
+    queryTwoStep: queryTwoStep,
     queryPmid: queryPmid,
     queryAuthors: queryAuthors,
     qryResult: qryResult

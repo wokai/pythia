@@ -21,8 +21,8 @@
       $scope.elements     = EntrezService.pubMed.refs;
       
       //----------------------------------------------------------------------//
-      $scope.queryDiff    = EntrezService.queryDiff;
-      $scope.diffPubMed   = EntrezService.diffPubMed;
+      $scope.queryTwoStep    = EntrezService.queryTwoStep;
+      $scope.twoStepPubMed   = EntrezService.twoStepPubMed;
 
       //----------------------------------------------------------------------//
       $scope.localfiles = EntrezService.localPubMed.filenames;
@@ -160,18 +160,18 @@
             <diff-query></diff-query>
           </div>
           <div class="card-body">
-            <div class="text-secondary ml-1" style="font-size:small;">Database articles: {{diffPubMed.contained.length}}</div>
-            <span ng-if="diffPubMed.contained.length == 0" class="text-secondary">
+            <div class="text-secondary ml-1" style="font-size:small;">Database articles: {{twoStepPubMed.contained.length}}</div>
+            <span ng-if="twoStepPubMed.contained.length == 0" class="text-secondary">
               (Empty result)
             </span>
-            <diff-detail data="p" ng-repeat="p in diffPubMed.contained"></diff-detail>
+            <diff-detail data="p" ng-repeat="p in twoStepPubMed.contained"></diff-detail>
           </div>
           <div class="card-body">
-            <div class="text-secondary ml-1" style="font-size:small;">Entrez articles: {{diffPubMed.entrez.length}}</div>
-            <span ng-if="diffPubMed.entrez.length == 0" class="text-secondary">
+            <div class="text-secondary ml-1" style="font-size:small;">Entrez articles: {{twoStepPubMed.entrez.length}}</div>
+            <span ng-if="twoStepPubMed.entrez.length == 0" class="text-secondary">
               (Empty result)
             </span>
-            <diff-detail data="p" ng-repeat="p in diffPubMed.entrez"></diff-detail>
+            <diff-detail data="p" ng-repeat="p in twoStepPubMed.entrez"></diff-detail>
           </div>
         </div>
       </div>

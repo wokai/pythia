@@ -85,7 +85,7 @@ app.component('diffQuery', {
     }
     
     this.doQuery = function() {
-      EntrezService.queryDiff(preprocess(this.qry));
+      EntrezService.queryTwoStep(preprocess(this.qry));
     }
     
     this.clear = function() {
