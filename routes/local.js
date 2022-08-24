@@ -22,7 +22,6 @@ function writeJson(obj, name){
 /// Facilitates usage in db-module.
 var localJsonPaths = function(request) {
   return fs.promises.readdir(request.app.locals.json)
-  .then(filenames => { return filenames.map(name => path.parse(name)); })
   /// { base: '12.js', ext: '.js', name: '12' }
 }
 
@@ -31,7 +30,7 @@ router.get('/paths', function(request, result, next) {
   localJsonPaths(request)
     .then(paths => {
       console.log(paths[0]);
-      result.status(200).json(paths)}
+      result.status(200).json(paths.slice(0, 10))}
     )
   .catch(reason => {
     console.log('[local.js] Rejected: %s'.brightRed, reason);

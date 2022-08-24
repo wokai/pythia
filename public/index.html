@@ -73,12 +73,12 @@
 <div class="row">
   <div class="col-2 bg-ncbi rounded-bottom" id="sidebar">
     <!-- Sidebar  -->
-    <nav>
-      <div class="sidebar-header">
-        <h5>Local Repository</h5>
-      </div>
-      
+    <nav>      
       <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+        
+        <div class="sidebar-header">
+          <h5>Query local DB + Entrez</h5>
+        </div>
         
         <button class="nav-link active" id="v-pills-entrez-online-tab" 
           data-bs-toggle="pill" data-bs-target="#v-pills-entrez-online" 
@@ -86,6 +86,10 @@
           aria-selected="true">
           Entrez online
         </button>
+
+        <div class="sidebar-header mt-3">
+          <h5>Query local repository</h5>
+        </div>
         
         <button class="nav-link" id="v-pills-local-json-tab" 
           data-bs-toggle="pill" data-bs-target="#v-pills-local-json" 
@@ -107,25 +111,8 @@
           aria-selected="false">
           Config
         </button>
-        
-        <button class="nav-link" id="v-pills-chart-tab" 
-          data-bs-toggle="pill" data-bs-target="#v-pills-chart" 
-          type="button" role="tab" aria-controls="v-pills-chart" 
-          aria-selected="false">
-          Chart
-        </button>
-        
+              
       </div>      
-
-      <ul class="list-unstyled CTAs">
-        <li>
-          <a href="#" class="download" ng-click="postDatabase({id: 3})">Post Database</a>
-        </li>
-        <li>
-          <a href="#" class="article" ng-click="transfer([10066724])">Transfer</a>
-        </li>
-      </ul>
-      
     </nav>
     
     
@@ -133,52 +120,33 @@
 
   <!--- Main display area ----------------------------------------------------->
   <div class="col-10">
-    
-    <div class="tab-content p-1" id="v-pills-tabContent">
+    <div class="tab-content">
       
-      <!--- Panel entrez online --->
       <div class="tab-pane fade show active" id="v-pills-entrez-online" role="tabpanel" aria-labelledby="v-pills-entrez-online-tab">
-        
+        <!--- Two step query (first MongoDb, then PubMed) --->
         <div class="card shadow-sm">
           <div class="card-header">
-            <pmid-query out="queryEntrez(message)"></pmid-query>
-          </div>
-          <div class="card-body">
-            <div class="text-secondary ml-1" style="font-size:small;">Number of articles: {{elements.length}}</div>
-            <span ng-if="elements.length == 0" class="text-secondary">
-              (Empty result)
-            </span>
-            <pmid-detail data="p" ng-repeat="p in elements"></pmid-detail>
-          </div>                
-          
-        </div><!--- card  --->
-        
-        
-        <!--- Diff query --->
-        <div class="card shadow-sm">
-          <div class="card-header">
-            <diff-query></diff-query>
+            <two-step-query></two-step-query>
           </div>
           <div class="card-body">
             <div class="text-secondary ml-1" style="font-size:small;">Database articles: {{twoStepPubMed.contained.length}}</div>
             <span ng-if="twoStepPubMed.contained.length == 0" class="text-secondary">
               (Empty result)
             </span>
-            <diff-detail data="p" ng-repeat="p in twoStepPubMed.contained"></diff-detail>
+            <two-step-detail data="p" ng-repeat="p in twoStepPubMed.contained"></two-step-detail>
           </div>
           <div class="card-body">
             <div class="text-secondary ml-1" style="font-size:small;">Entrez articles: {{twoStepPubMed.entrez.length}}</div>
             <span ng-if="twoStepPubMed.entrez.length == 0" class="text-secondary">
               (Empty result)
             </span>
-            <diff-detail data="p" ng-repeat="p in twoStepPubMed.entrez"></diff-detail>
+            <two-step-detail data="p" ng-repeat="p in twoStepPubMed.entrez"></two-step-detail>
           </div>
         </div>
       </div>
-      
+          
       <!--- Panel Pubmed local JSON --->
       <div class="tab-pane fade" id="v-pills-local-json" role="tabpanel" aria-labelledby="v-pills-local-json-tab">
-        
         <div class="card shadow-sm">
           <div class="card-header">
             Pubmed Local JSON Files
@@ -210,23 +178,19 @@
             <pmid-detail data="f" ng-repeat="f in localPubMed.refs"></pmid-detail>
           </div>
         </div><!--- card --->
-        
       </div>
-      
+        
       <!--- Panel Local Mongo DB --->
       <div class="tab-pane fade" id="v-pills-local-mongo" role="tabpanel" aria-labelledby="v-pills-local-mongo-tab">
-        
         <div class="card shadow-sm">
           <div class="card-header">
             <div id="panel3Header">Local Mongo DB</div>
           </div>      
-          
           <div class="card-body" >
             <title-query></title-query>
             <pmid-db-query></pmid-db-query>
             <author-db-query></author-db-query>
           </div>
-
           <div class="card-body border-top">
             <span class="text-secondary" style="font-size:small;">
               Number of articles {{ qryResult.documents.length }}
@@ -238,23 +202,15 @@
           </div>
         </div><!--- card --->
       </div>
-      
+        
       <!--- Panel Config --->
       <div class="tab-pane fade" id="v-pills-config" role="tabpanel" aria-labelledby="v-pills-config-tab">
         <session-config></session-config>
       </div>
-
-      <!--- Panel charts --->
-      <div class="tab-pane fade" id="v-pills-chart" role="tabpanel" aria-labelledby="v-pills-chart-tab">
-        <div >
-          Canvas
-        </div>
-      </div>
-
-    </div> 
     
+    </div><!--- tab-content --->
   </div>  <!--- col-10 --->
-</div> <!--- row --->
+</div>    <!--- row --->
 </div>
 
 

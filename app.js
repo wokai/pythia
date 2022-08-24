@@ -39,7 +39,7 @@ MongoClient.connect(config.database.url,  {
 })
 .then(connection => {
   
-  app.locals.json = config.json.base;
+  app.locals.json = config.json.dir;
   
   /// Accessible within the whole application
   app.locals.con = connection.db(config.database.dataBaseName);

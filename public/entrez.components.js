@@ -24,51 +24,14 @@
 
 var app = angular.module('globalModule');
 
-
-app.component('pmidQuery', {
+app.component('twoStepQuery', {
   bindings: { 
     out: '&'
   },
-  templateUrl: 'pmidQuery.html',
+  templateUrl: 'twoStepQuery.html',
   controller: function($scope, $element, EntrezService){
     
-    console.log('[pmidQuery.component] controller.');
-    
-    var preprocess = function(x) {
-      x = x.trim();
-      // Replace all commas by empty space
-      x = x.replace(/,/g, ' ');
-      // Replace multiple empty spaces (tabs, ...) with one space
-      x = x.replace(/\s\s+/g, ' ');
-      // Split string into array
-      var a = x.split(' ');
-      // Parse array elements to Integer
-      a = a.map(x => Number.parseInt(x));
-      // Remove NaN (non integral)
-      return a.filter(x => !Number.isNaN(x));
-    }
-    
-    this.doQuery = function() {
-      //this.out({ message: preprocess(this.qry) });
-      EntrezService.queryEntrez(preprocess(this.qry));
-    }
-    
-    this.clear = function() {
-      this.qry = '';
-      $element.find('input').focus();
-    }
-  }
-});
-
-
-app.component('diffQuery', {
-  bindings: { 
-    out: '&'
-  },
-  templateUrl: 'diffQuery.html',
-  controller: function($scope, $element, EntrezService){
-    
-    console.log('[diffQuery.component] controller.');
+    console.log('[twoStepQuery.component] controller.');
     
     var preprocess = function(x) {
       x = x.trim();
@@ -150,7 +113,6 @@ app.component('pmidSelector', {
 
 
 // https://stackoverflow.com/questions/34071097/angularjs-binding-a-javascript-object-to-a-directive-attribute
-
 app.component('bibTexItem',{
   templateUrl: 'bibTexItem.html',
   bindings: { data: '='},
@@ -176,8 +138,6 @@ app.component('bibTexItem',{
  
   }
 });
-
-
 
 app.component('pmidDetail', {
   templateUrl: 'pmidDetail.html',
@@ -260,13 +220,11 @@ app.component('pmidDetail', {
       prepareBibTexElement();
     }
     
-
-    
   }
 });
 
-app.component('diffDetail', {
-  templateUrl: 'diffDetail.html',
+app.component('twoStepDetail', {
+  templateUrl: 'twoStepDetail.html',
   bindings: {
     data: '='
   },
@@ -291,7 +249,7 @@ app.component('diffDetail', {
       const pmid = ctrl.data.uid;
       
       // Left element delimiter including name attribute
-      const left_delim = '<ref name="pmid' + pmid + '">';
+      const left_delim = `<ref name="pmid${pmid}">`;
       
       // Reference element
       var ref_elem = ctrl.data.title + ' ' + ctrl.data.fulljournalname + '. ' + ctrl.data.pubdate + '; ' + ctrl.data.volume;
