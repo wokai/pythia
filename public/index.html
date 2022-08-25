@@ -128,15 +128,15 @@
           <div class="card-header">
             <two-step-query></two-step-query>
           </div>
-          <div class="card-body">
-            <div class="text-secondary ml-1" style="font-size:small;">Database articles: {{twoStepPubMed.contained.length}}</div>
+          <div class="card-body border">
+            <div class="text-success ml-1">Database articles: {{twoStepPubMed.contained.length}}</div>
             <span ng-if="twoStepPubMed.contained.length == 0" class="text-secondary">
               (Empty result)
             </span>
             <two-step-detail data="p" ng-repeat="p in twoStepPubMed.contained"></two-step-detail>
           </div>
-          <div class="card-body">
-            <div class="text-secondary ml-1" style="font-size:small;">Entrez articles: {{twoStepPubMed.entrez.length}}</div>
+          <div class="card-body border">
+            <div class="text-primary ml-1" >Entrez articles: {{twoStepPubMed.entrez.length}}</div>
             <span ng-if="twoStepPubMed.entrez.length == 0" class="text-secondary">
               (Empty result)
             </span>

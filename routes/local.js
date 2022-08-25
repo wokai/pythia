@@ -25,7 +25,7 @@ var localJsonPaths = function(request) {
   /// { base: '12.js', ext: '.js', name: '12' }
 }
 
-/// curl http://localhost:9000/local/paths
+/// curl http://localhost:9000/local/paths -w '\nDownloaded %{size_download} bytes\n'
 router.get('/paths', function(request, result, next) {
   localJsonPaths(request)
     .then(paths => {

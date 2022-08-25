@@ -242,10 +242,9 @@ app.factory('EntrezService', function($http) {
   }
  
   var getLocalRef = function(){
-    var url = '/local';
+    var url = '/local/paths';
     $http.get(url).then(function(response){
       // Raw object
-      console.log(response.data);
       localPubMed.filenames.length = 0;
       Array.prototype.push.apply(localPubMed.filenames, response.data);
     }, function(result){
@@ -260,9 +259,10 @@ app.factory('EntrezService', function($http) {
     localPubMed.refs.length = 0;
   }
   
-  var getFileRef = function(pmid){
+  var getFileRef = function(filename){
+    let pmid = filename.replace(/\.[^/.]+$/, "")    
     $http.get('/local/' + pmid).then(function(response){
-      //localPubMed.refs.length = 0;
+      processAuthorNames(response.data);
       localPubMed.refs.push(response.data);
     }, function(result){
       console.info('[EntrezService.getFileRef] Notification');

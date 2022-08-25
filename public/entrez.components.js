@@ -100,6 +100,7 @@ app.component('authorDbQuery', {
     this.submit = function(){
       EntrezService.queryAuthors(this.qry);
     }
+    this.clear = function(){ this.qry = '' }
   }
 });
 
@@ -135,7 +136,6 @@ app.component('bibTexItem',{
       this.month = doc.pubdate.substring(5);
       this.firstAuthor = doc.authors[0].lastname;
     }
- 
   }
 });
 
