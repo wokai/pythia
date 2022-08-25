@@ -31,8 +31,6 @@ app.component('twoStepQuery', {
   templateUrl: 'twoStepQuery.html',
   controller: function($scope, $element, EntrezService){
     
-    console.log('[twoStepQuery.component] controller.');
-    
     var preprocess = function(x) {
       x = x.trim();
       // Replace all commas by empty space

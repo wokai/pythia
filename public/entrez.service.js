@@ -149,8 +149,6 @@ app.factory('EntrezService', function($http) {
   var getDbPubMedIds = function(){
     $http.get('/db/pmids').then(function(response) {
       dbPubMed.pmids = response.data.pmids;
-      console.log('[EntrezService.getDbPubMedIds] Success.');
-      //console.log(response.data.pmids);
     }, function(response){
       console.log('[EntrezService.getDbPubMedIds] Notification: ', response); 
     }).catch(function(error) {
@@ -267,9 +265,22 @@ app.factory('EntrezService', function($http) {
     }, function(result){
       console.info('[EntrezService.getFileRef] Notification');
       }, function(result){
+      console.error('[EntrezService.getFileRef] Error: ' + result);
     }).catch(function(error){
       console.error('[EntrezService.getFileRef] Error: ' + error);
     });
+  }
+  
+  var checkPdfAccess = function(filename) {
+    $http.get('/local/exists/' + filename).then(function(response) {
+      return response.data;
+      }, function(result){
+        console.info('[EntrezService.checkPdfAccess] Notification');
+      }, function(result){
+        console.info('[EntrezService.checkPdfAccess] Error: ' + result);
+      }).catch(function(error){
+        console.info('[EntrezService.checkPdfAccess] Error: ' + error);
+      });
   }
     
     

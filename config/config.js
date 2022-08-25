@@ -32,7 +32,7 @@ const config = {
     "dbUserPassword" : "mongo-user-password"
   },
   pdf: {
-    "base" : "/home/wolfgang/science/science_lit"
+    "base" : "path/to/pdf/files"
   },
   json: {
     dir : path.join(__dirname, 'json')
