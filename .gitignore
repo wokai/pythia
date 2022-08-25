@@ -7,6 +7,9 @@
 # Local development files
 /local
 
+# Contains many data files
+/json
+
 # There are many changes in this file
 package-lock.json
 
