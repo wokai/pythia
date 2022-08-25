@@ -33,7 +33,7 @@ router.get('/paths', function(request, result, next) {
       result.status(200).json(paths.slice(0, 10))}
     )
     .catch(reason => {
-      console.log('[local.js] Rejected: %s'.brightRed, reason);
+      console.log('[local.js] /paths Rejected: %s'.brightRed, reason);
       result.status(500).json({ message: reason });
     });
 });
@@ -47,7 +47,7 @@ router.get('/:pmid', function(request, result, next){
       result.json(JSON.parse(content));
     })
     .catch(reason => {
-      console.log('[local.js] Rejected: %s'.brightRed, reason);
+      console.log('[local.js] /:pmid Rejected: %s'.brightRed, reason);
       result.status(404).send('Not found');
     });
 });

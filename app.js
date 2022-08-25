@@ -17,7 +17,7 @@ const db      = require('./routes/db');
 
 
 /// Database configuration
-const config  = require('./config/config');
+const config  = require(path.join(__dirname, 'config', 'config'));
 
 const app = express();
 
