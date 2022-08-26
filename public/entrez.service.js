@@ -272,7 +272,11 @@ app.factory('EntrezService', function($http) {
   }
   
   var checkPdfAccess = function(filename) {
-    $http.get('/local/exists/' + filename).then(function(response) {
+    return $http.get('/local/exists/' + filename)
+    
+    /*.then(function(response) {
+      console.info('[EntrezService.checkPdfAccess] Success: ');
+      console.log(response.data);
       return response.data;
       }, function(result){
         console.info('[EntrezService.checkPdfAccess] Notification');
@@ -281,26 +285,28 @@ app.factory('EntrezService', function($http) {
       }).catch(function(error){
         console.info('[EntrezService.checkPdfAccess] Error: ' + error);
       });
+      */
   }
     
     
   return {
-    pubMed : pubMed,
-    twoStepPubMed: twoStepPubMed,
-    queryEntrez: queryEntrez,
-    localPubMed: localPubMed,
+    checkPdfAccess: checkPdfAccess,
     clearFileRef: clearFileRef,
+    dbPubMed: dbPubMed,
+    getDbPubMedIds: getDbPubMedIds,
     getLocalRef: getLocalRef,
     getFileRef: getFileRef,
-    postDatabase: postDatabase,
-    transferRecord: transferRecord,
-    getDbPubMedIds: getDbPubMedIds,
-    dbPubMed: dbPubMed,
+    localPubMed: localPubMed,
+    postDatabase: postDatabase,    
+    pubMed : pubMed,
+    queryEntrez: queryEntrez,
     queryTitles: queryTitles,
     queryTwoStep: queryTwoStep,
     queryPmid: queryPmid,
     queryAuthors: queryAuthors,
-    qryResult: qryResult
+    qryResult: qryResult,
+    transferRecord: transferRecord,
+    twoStepPubMed: twoStepPubMed
   }
 });                   /// EntrezService
 })(window.angular);   /// function(angular)

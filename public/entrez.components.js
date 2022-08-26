@@ -56,6 +56,40 @@ app.component('twoStepQuery', {
   }
 });
 
+
+app.component('checkPdfAccess', {
+  bindings: { 
+    file: '='
+  },
+  template: '<button class="btn btn-sm ml-2" ng-class="$ctrl.btnclass" ng-click="$ctrl.submit()">{{$ctrl.btntext}}</button>',
+  controller: function($scope, $element, EntrezService){
+    
+    let ctrl=this;
+    
+    this.btnclass = "btn-outline-secondary"
+    this.btntext  = "Check PDF"
+    this.submit = function() {
+      console.log(`[checkPdfAccess] Submit File: ${this.file}`)
+      this.btnclass = "btn-outline-success"
+      EntrezService.checkPdfAccess(this.file)
+        .then(function(response) {
+          console.log(response.data.exists);
+          if(response.data.exists == 1){
+            ctrl.btnclass="btn-outline-success"
+            ctrl.btntext="PDF found"
+          } else {
+            ctrl.btnclass="btn-outline-danger"
+            ctrl.btntext="PDF missing"
+          }
+          
+          }, function(response) {
+          }, function(error) {
+          });
+    }
+  }
+});
+
+
 app.component('titleQuery', {
   templateUrl: 'titleQuery.html',
   controller: function($scope, $element, EntrezService){
