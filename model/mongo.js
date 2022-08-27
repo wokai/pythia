@@ -52,15 +52,11 @@ class MongoQuery {
    * @returns{object} - ({ contained: pubmed-records, unknown: pubmed-id's })
    **/
   setDifference = (uid, pubmed) => {
-    //console.log(`[mongo.js] contained: uid: ${uid.length}, pubmed: ${pubmed.length}:`);
-    //console.log(uid)
-    //console.log(pubmed);
     let ui=0, pi=0;
     let contained = [];
     let unknown   = [];
     
     while(ui < uid.length && pi < pubmed.length){
-      //console.log(`[mongo.js] contained: uid: ${uid[ui]}, pmid: ${pubmed[pi].uid}`);
       if      (uid[ui] < pubmed[pi].uid) { unknown.push(uid[ui++]); }
       else if (uid[ui] > pubmed[pi].uid) { ++pi; }
       else    { contained.push(pubmed[pi]); ++ui; ++ pi; }

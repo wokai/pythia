@@ -273,19 +273,6 @@ app.factory('EntrezService', function($http) {
   
   var checkPdfAccess = function(filename) {
     return $http.get('/local/exists/' + filename)
-    
-    /*.then(function(response) {
-      console.info('[EntrezService.checkPdfAccess] Success: ');
-      console.log(response.data);
-      return response.data;
-      }, function(result){
-        console.info('[EntrezService.checkPdfAccess] Notification');
-      }, function(result){
-        console.info('[EntrezService.checkPdfAccess] Error: ' + result);
-      }).catch(function(error){
-        console.info('[EntrezService.checkPdfAccess] Error: ' + error);
-      });
-      */
   }
     
     

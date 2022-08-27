@@ -63,9 +63,7 @@ app.component('checkPdfAccess', {
   },
   template: '<button class="btn btn-sm ml-2" ng-class="$ctrl.btnclass" ng-click="$ctrl.submit()">{{$ctrl.btntext}}</button>',
   controller: function($scope, $element, EntrezService){
-    
     let ctrl=this;
-    
     this.btnclass = "btn-outline-secondary"
     this.btntext  = "Check PDF"
     this.submit = function() {
@@ -81,10 +79,11 @@ app.component('checkPdfAccess', {
             ctrl.btnclass="btn-outline-danger"
             ctrl.btntext="PDF missing"
           }
-          
-          }, function(response) {
-          }, function(error) {
-          });
+        }, function(response) {
+          console.info('[checkPdfAccess] Notification: ', response)
+        }, function(error) {
+          console.error(`[checkPdfAccess] Error: ${error}`)
+        });
     }
   }
 });
@@ -93,7 +92,6 @@ app.component('checkPdfAccess', {
 app.component('titleQuery', {
   templateUrl: 'titleQuery.html',
   controller: function($scope, $element, EntrezService){
-    
     
     this.submit = function() {
       EntrezService.queryTitles(this.qry);
@@ -145,7 +143,6 @@ app.component('pmidSelector', {
 });
 
 
-// https://stackoverflow.com/questions/34071097/angularjs-binding-a-javascript-object-to-a-directive-attribute
 app.component('bibTexItem',{
   templateUrl: 'bibTexItem.html',
   bindings: { data: '='},
@@ -245,7 +242,6 @@ app.component('pmidDetail', {
       ctrl.bibTexElem = prefix + author + title + journal + year + volume + number + pages + month;
     }
     
-    
     // Lifecycle hook of component: Called on each digest cycle
     ctrl.$doCheck = function() { 
       prepareReferenceElement();
@@ -328,13 +324,11 @@ app.component('twoStepDetail', {
       ctrl.bibTexElem = prefix + author + title + journal + year + volume + number + pages + month;
     }
     
-    
     // Lifecycle hook of component: Called on each digest cycle
     ctrl.$doCheck = function() { 
       prepareReferenceElement();
       prepareBibTexElement();
     }
-    
   }
 });
 

@@ -74,10 +74,6 @@ router.get('/stats', (request, result, next) => {
 });
 
 
-
-
-/// https://stackoverflow.com/questions/5667888/counting-the-occurrences-frequency-of-array-elements
-
 /// //////////////////////////////////////////////////////////////////////// ///
 /// Returns name of all collections in database
 /// curl http://localhost:9000/db/collections  
