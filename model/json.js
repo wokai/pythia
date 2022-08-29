@@ -26,14 +26,18 @@
 
 const colors    = require('colors');
 const path      = require('path');
-const fs        = require('fs/promises');
+const fs        = require('fs');
 
 const config = require(path.join(__dirname, '..', 'config', 'config'));
 
 
 class JsonRepository {
   
-  constructor(){}
+  #nFiles
+  
+  constructor(){
+    this.#nFiles = 0;
+  }
    
   
   /**
@@ -52,8 +56,11 @@ class JsonRepository {
     }
     /// Include spacer for readability
     let js = JSON.stringify(obj, null, 2);
-    return fs.writeFile(filename, js)
-        .then(() => (console.log(`[json.js] File ${p} written.`.brightYellow)))
+    return fs.promises.writeFile(filename, js)
+        .then(() => {
+          ++this.#nFiles;
+          console.log(`[json.js] File ${p} written.`.brightYellow)
+        })
         .catch(reason => {console.log('[model/json.js] writeSingleJson: writeFile Rejected: %s'.brightRed, reason) });
   }
 
