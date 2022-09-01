@@ -5,9 +5,10 @@
 const express       = require('express');
 const path          = require('path');
 const cookieParser  = require('cookie-parser');
-const logger        = require('morgan');
+const morgan        = require('morgan');
 const fetch         = require('node-fetch');
 const colors        = require('colors');
+const fs            = require('fs');
 const MongoClient   = require('mongodb').MongoClient;
 
 const index   = require('./routes/index');
@@ -21,6 +22,23 @@ const config  = require(path.join(__dirname, 'config', 'config'));
 
 const app = express();
 
+
+/// //////////////////////////////////////////////////////////////////////// ///
+/// Logger
+/// //////////////////////////////////////////////////////////////////////// ///
+
+const win = require('./logger/logger');
+
+/// //////////////////////////////////////////////////////////////////////// ///
+/// morgan
+/// //////////////////////////////////////////////////////////////////////// ///
+
+/// Daily rotating write stream
+const filename = `morgan_${new Date().toISOString().substr(0, 10)}.log`;
+const log = fs.createWriteStream(path.join(__dirname, 'logfiles', filename), { flags: 'a' })
+app.use(morgan(':method :url :status :res[content-length] - :response-time ms', { 
+  stream: log
+}));
 
 
 /// ////////////////////////////////////////////////////////////////////////////
@@ -45,6 +63,11 @@ MongoClient.connect(config.database.url,  {
   app.locals.con = connection.db(config.database.dataBaseName);
   app.locals.col = app.locals.con.collection(config.database.collectionName);
   
+  app.locals.con.stats().then(res => {
+    win.def.log({ level: 'info', file: 'app', func: 'DB setup', message: `DB setup: Database: ${res.db}, Objects: ${res.objects}, Data-size: ${res.dataSize}`});
+  });
+  
+  
   app.use('/', index);
   app.use('/entrez', entrez);
   app.use('/local', local);
@@ -54,7 +77,7 @@ MongoClient.connect(config.database.url,  {
 
 /// Middleware before routes (order matters)
 app.use(express.static('views', {'extensions': ['html']}));
-app.use(logger('dev'));
+//app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());

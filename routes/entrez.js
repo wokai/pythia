@@ -27,6 +27,7 @@ const fs        = require('fs/promises');
 const colors    = require('colors');
 
 const config      = require(path.join(__dirname, '..', 'config', 'config'));    /// Database
+const win         = require(path.join(__dirname, '..', 'logger', 'logger'));
 const { mongo }   = require(path.join(__dirname, '..', 'model', 'mongo'));
 const { json  }   = require(path.join(__dirname, '..', 'model', 'json'));
 const { entrez }  = require(path.join(__dirname, '..', 'model', 'entrez'));
@@ -46,7 +47,8 @@ function writeJson(obj, name){
   /// Failing validation will impede insertion into MongoDb collection
   /// //////////////////////////////////////////////////////////////////////////
   if(!obj.hasOwnProperty('title')){
-    throw new Error('[entrez.writeJson] Required property *title* not found.'); 
+    throw new Error('[entrez.writeJson] Required property *title* not found.');
+    win.def.log({ level: 'warn', file: 'entrez', func: 'writeJson', message: `Required property *title* not found`});
   }
   /// Include spacer for readability
   let js = JSON.stringify(obj, null, 2);
@@ -171,18 +173,19 @@ router.post('/', (request, result, next) => {
 
  
 
-/// curl -d "{ \"pmid\": [ 28969617 ] }" -X POST http://localhost:9000/entrez/diff -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
-// curl -d "{ \"pmid\": [1, 10000, 13682, 100000, 1148076, 234567] }" -X POST http://localhost:9000/entrez/diff -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
-// curl -d "{ \"pmid\": [ 19343057 ] }" -X POST http://localhost:9000/entrez/diff -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
-// {"contained":[{"uid":"10000"},{"uid":"1148076"},{"uid":"13682"}],"unknown":["1","100000","234567"]}
+/// curl -d "{ \"pmid\": [ 28969617 ] }" -X POST http://localhost:9000/entrez/twostep -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
+/// curl -d "{ \"pmid\": [1, 10000, 13682, 100000, 1148076, 234567] }" -X POST http://localhost:9000/entrez/twostep -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
+/// curl -d "{ \"pmid\": [ 19343057 ] }" -X POST http://localhost:9000/entrez/twostep -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
+/// {"contained":[{"uid":"10000"},{"uid":"1148076"},{"uid":"13682"}],"unknown":["1","100000","234567"]}
 
-
-router.post('/diff', (request, result, next) => {
+router.post('/twostep', (request, result, next) => {
   if(request.body.pmid){
-    console.log(`[routes/entrez] Post /diff: pmid's: ${request.body.pmid}`.yellow)
+    win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `PMID's: ${request.body.pmid}`});
+    console.log(`[routes/entrez] Post /twostep: pmid's: ${request.body.pmid}`.yellow)
     mongo.getFilteredDatasets(request.app.locals.col, mongo.toPmidArray(request.body.pmid))
       .then(res => {
-        console.log('[routes/entrez] /diff unknown: %s'.yellow, res.unknown)
+        win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `Fetching from Entrez because unknown: ${res.unknown}.`});
+        console.log('[routes/entrez] /twostep unknown: %s'.yellow, res.unknown)
         
         if(res.unknown.length > 0) {
           entrez.fetch(res.unknown)
@@ -192,9 +195,13 @@ router.post('/diff', (request, result, next) => {
                 try {
                   /// Insert into database without check ...
                   request.app.locals.col.insertOne(p)
-                    .catch(e => console.log(`[routes/entrez/diff] Database insert of PMID ${p} failed.`.brightRed, e.message))
+                    .catch(e => {
+                      win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${p} failed.`});
+                      //console.log(`[routes/entrez/twostep] Database insert of PMID ${p} failed.`.brightRed, e.message)
+                    })
                 } catch(error) {
-                  console.log(`[routes/entrez/diff] Database insert of PMID ${p} failed.`.brightRed)
+                  win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${p} failed.`});
+                  //console.log(`[routes/entrez/twostep] Database insert of PMID ${p} failed.`.brightRed)
                 }
               });
               result.status(200).json(res);
@@ -205,6 +212,7 @@ router.post('/diff', (request, result, next) => {
         }
       })
   } else {
+    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Error: No PUBMED-id provided`});
     result.status(200).json({ status: 'Error', message: 'No pmid provided' });
   }
 });
