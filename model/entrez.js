@@ -66,16 +66,16 @@ class Entrez {
     console.log(`[model/entrez] POST url: ${url}`.blue);
     return fetch(url).then(res => res.json())
       .then(json => {
-        let pmids = json.result.uids;
-        let a = [];
-        console.log(`[model/entrez] Received pmid's:  ${pmids.join()}`.green)
-        pmids.forEach(p => { 
-          a.push(json.result[p]);
-          this.writeJson(json.result[p], p)
-          .then(() => (console.log(`[model/entrez] File ${p} written.`.yellow)))
-          .catch(reason => {console.log(`[model/entrez] writeJson Rejected: ${reason}`.brightRed) });
-        });
-        return a;
+          let pmids = json.result.uids;
+          let a = [];
+          console.log(`[model/entrez] Received pmid's:  ${pmids.join()}`.green)
+          pmids.forEach(p => { 
+            a.push(json.result[p]);
+            this.writeJson(json.result[p], p)
+            .then(() => (console.log(`[model/entrez] File ${p} written.`.yellow)))
+            .catch(reason => {console.log(`[model/entrez] writeJson Rejected: ${reason}`.brightRed) });
+          });
+          return a;
       })
   }
 }

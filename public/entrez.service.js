@@ -76,7 +76,11 @@ app.factory('EntrezService', function($http) {
       let name = a.name.split(/\s+/);
       a.lastname = name[0];
       /// Convert to character array
-      a.firstnames = Array.from(name[1]);
+      if(name.length > 1) {
+        a.firstnames = Array.from(name[1]);
+      } else {
+        a.firstnames = [];
+      }
       return a;
       });
       
