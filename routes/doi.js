@@ -38,14 +38,16 @@ const router = express.Router();
 /// https://www.ncbi.nlm.nih.gov/pmc/tools/id-converter-api/
 /// ////////////////////////////////////////////////////////////////////////////
 
-/// Get PMID from DOI
-/// curl  -X POST https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/?ids=10.1016/j.ajhg.2010.04.006&format=json
+/// ////////////////////////////////////////////////////////////////////////////
+/// Description of REST API
+/// https://www.doi.org/factsheets/DOIProxy.html#rest-api
+/// Example: 
+/// https://doi.org/api/handles/10.1000/1
+/// curl -H "Content-Type: application/json" https://doi.org/api/handles/10.1000/1 -w"\n"
+/// curl -H "Content-Type: application/json" https://doi.org/api/handles/10.1038/nrd842 -w"\n"
+/// curl -LH "Accept: text/bibliography; style=bibtex" http://dx.doi.org/10.1038/nrd842 -w"\n"
 
-
-/// DOI: https://www.doi.org/factsheets/DOIProxy.html
-/// Get bibtex from DOI
-/// curl -LH "Accept: text/bibliography; style=bibtex" http://dx.doi.org/10.1038/nrd842
-/// curl -LH "Accept: text/bibliography; style=json" http://dx.doi.org/10.1038/nrd842
+/// ////////////////////////////////////////////////////////////////////////////
 
 
 function writeJson(obj, name){
@@ -57,7 +59,7 @@ function writeJson(obj, name){
   /// //////////////////////////////////////////////////////////////////////////
   if(!obj.hasOwnProperty('title')){
     throw new Error('[entrez.writeJson] Required property *title* not found.');
-    win.def.log({ level: 'warn', file: 'routes/entrez', func: 'writeJson', message: `Required property *title* not found`});
+    win.def.log({ level: 'warn', file: 'entrez', func: 'writeJson', message: `Required property *title* not found`});
   }
   /// Include spacer for readability
   let js = JSON.stringify(obj, null, 2);
@@ -187,8 +189,6 @@ router.post('/', (request, result, next) => {
 /// curl -d "{ \"pmid\": [ 19343057 ] }" -X POST http://localhost:9000/entrez/twostep -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
 /// {"contained":[{"uid":"10000"},{"uid":"1148076"},{"uid":"13682"}],"unknown":["1","100000","234567"]}
 
-
-
 router.post('/twostep', (request, result, next) => {
   if(request.body.pmid){
     win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `PMID's: ${request.body.pmid}`});
@@ -201,24 +201,21 @@ router.post('/twostep', (request, result, next) => {
         if(res.unknown.length > 0) {
           entrez.fetch(res.unknown)
            .then(e => {
-              if(e !== undefined){
-                res.entrez = e;
-                e.forEach(p => {
-                  try {
-                    /// Insert into database without check ...
-                    request.app.locals.col.insertOne(p)
-                      .catch(e => {
-                        win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${p} failed.`});
-                      })
-                  } catch(error) {
-                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${p} failed.`});
-                  }
-                });
-                result.status(200).json(res);                
-              } else {
-                res.entrez = [];
-                result.status(200).json(res);
-              }
+              res.entrez = e;
+              e.forEach(p => {
+                try {
+                  /// Insert into database without check ...
+                  request.app.locals.col.insertOne(p)
+                    .catch(e => {
+                      win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${p} failed.`});
+                      //console.log(`[routes/entrez/twostep] Database insert of PMID ${p} failed.`.brightRed, e.message)
+                    })
+                } catch(error) {
+                  win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${p} failed.`});
+                  //console.log(`[routes/entrez/twostep] Database insert of PMID ${p} failed.`.brightRed)
+                }
+              });
+              result.status(200).json(res);
             })
         } else {
           res.entrez = [];

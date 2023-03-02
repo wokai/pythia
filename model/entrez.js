@@ -28,7 +28,8 @@ const colors    = require('colors');
 const path      = require('path');
 const fetch     = require('node-fetch');
 const fs        = require('fs/promises');
-const config = require(path.join(__dirname, '..', 'config', 'config'));
+const config    = require(path.join(__dirname, '..', 'config', 'config'));
+const win       = require(path.join(__dirname, '..', 'logger', 'logger'));
 
 class Entrez {
   
@@ -48,6 +49,7 @@ class Entrez {
     /// Failing validation will impede insertion into MongoDb collection
     /// //////////////////////////////////////////////////////////////////////////
     if(!obj.hasOwnProperty('title')){
+      win.def.log({ level: 'warn', file: 'model/entrez', func: 'writeJson', message: `Required property *title* not found`});
       throw new Error('[model/entrez.writeJson] Required property *title* not found.'); 
     }
     /// Include spacer for readability
@@ -66,16 +68,24 @@ class Entrez {
     console.log(`[model/entrez] POST url: ${url}`.blue);
     return fetch(url).then(res => res.json())
       .then(json => {
-          let pmids = json.result.uids;
-          let a = [];
-          console.log(`[model/entrez] Received pmid's:  ${pmids.join()}`.green)
-          pmids.forEach(p => { 
-            a.push(json.result[p]);
-            this.writeJson(json.result[p], p)
-            .then(() => (console.log(`[model/entrez] File ${p} written.`.yellow)))
-            .catch(reason => {console.log(`[model/entrez] writeJson Rejected: ${reason}`.brightRed) });
-          });
-          return a;
+          if(json.result !== undefined){
+            let pmids = json.result.uids;
+            let a = [];
+            console.log(`[model/entrez] Received pmid's:  ${pmids.join()}`.green)
+            pmids.forEach(p => { 
+              a.push(json.result[p]);
+              this.writeJson(json.result[p], p)
+              .then(() => (console.log(`[model/entrez] File ${p} written.`.yellow)))
+              .catch(reason => {
+                win.def.log({ level: 'warn', file: 'model/entrez', func: 'writeJson', message: `Rejected: ${reason}`});
+                console.log(`[model/entrez] writeJson Rejected: ${reason}`.brightRed)
+               });
+            });
+            return a;            
+          } else {
+            win.def.log({ level: 'info', file: 'model/entrez', func: 'fetch', message: `No result returned (host unreachable?)`});
+            console.log(`[model/entrez] No result returned (host unreachable?)`.brightYellow);
+          }
       })
   }
 }
