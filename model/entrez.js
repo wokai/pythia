@@ -1,7 +1,7 @@
 'use strict';
 /*******************************************************************************
  * The MIT License
- * Copyright 2022, Wolfgang Kaisers
+ * Copyright 2023, Wolfgang Kaisers
  * Permission is hereby granted, free of charge, to any person obtaining a 
  * copy of this software and associated documentation files (the "Software"), 
  * to deal in the Software without restriction, including without limitation 
@@ -71,11 +71,13 @@ class Entrez {
           if(json.result !== undefined){
             let pmids = json.result.uids;
             let a = [];
-            console.log(`[model/entrez] Received pmid's:  ${pmids.join()}`.green)
+            win.def.log({ level: 'info', file: 'model/entrez', func: 'fetch', message: `Received pmid's:  ${pmids.join()}`});
             pmids.forEach(p => { 
               a.push(json.result[p]);
               this.writeJson(json.result[p], p)
-              .then(() => (console.log(`[model/entrez] File ${p} written.`.yellow)))
+              .then(() => { 
+                win.def.log({ level: 'info', file: 'model/entrez', func: 'fetch', message: `File ${p} written.`});
+              })
               .catch(reason => {
                 win.def.log({ level: 'warn', file: 'model/entrez', func: 'writeJson', message: `Rejected: ${reason}`});
                 console.log(`[model/entrez] writeJson Rejected: ${reason}`.brightRed)
