@@ -40,13 +40,18 @@ const win       = require(path.join(__dirname, '..', 'logger', 'logger'));
 /// https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1007/bf00197367&format=json
 ///
 
+/// URL Endoding 
+/// https://www.eso.org/~ndelmott/url_encode.html
 
 /// HELP: https://europepmc.org/help
 /// PMIDs are unique when used in conjunction with a data source.
 /// When searching for a PMID that yields more than one result, 
-/// the data source can be specified to find the exact match,
+/// the data source can be specified to find the exact match.
+/// Specifying the data source using the 'SRC:' search term, 
+/// along with the PMID will find a unique result, 
 /// https://europepmc.org/search?query=EXT_ID%3A526631%20AND%20SRC%3AMED
-/// https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A526631%20AND%20SRC%3AMED&format=json
+/// https://europepmc.org/search?query=ext_id%3a526631%20and%20src%3amed
+/// https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=ext_id%3a526631%20and%20src%3amed&format=json
 /// ////////////////////////////////////////////////////////////////////
 
 class Entrez {
