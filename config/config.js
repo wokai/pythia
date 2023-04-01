@@ -46,6 +46,9 @@ const config = {
   pmc: {
     "baseUrl" : "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pmc&retmode=json&id=",
     "example" : "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pmc&retmode=json&id=2048009"
+  },
+  europe: {
+    "baseUrl" : ""
   }
 };
 

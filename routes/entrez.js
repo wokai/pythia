@@ -115,7 +115,7 @@ router.get('/:pmid', function(request, result, next){
 router.get('/pmc/:pmcid', function(request, result, next) {
   
   var url = config.pmc.baseUrl + request.params.pmcid;
-  console.log(`[pythia] GET PMC: ${request.params.pmid}`.green);
+  console.log(`[pythia] GET PMC: ${request.params.pmcid}`.green);
   
   let status;
   fetch(url)

@@ -11,10 +11,11 @@ const colors        = require('colors');
 const fs            = require('fs');
 const MongoClient   = require('mongodb').MongoClient;
 
-const index   = require('./routes/index');
-const entrez  = require('./routes/entrez');
-const local   = require('./routes/local');
-const db      = require('./routes/db');
+const index   = require(path.join(__dirname, 'routes', 'index'));
+const entrez  = require(path.join(__dirname, 'routes', 'entrez'));
+const europe  = require(path.join(__dirname, 'routes', 'europe'));
+const local   = require(path.join(__dirname, 'routes', 'local'));
+const db      = require(path.join(__dirname, 'routes', 'db'));
 
 
 /// Database configuration
@@ -70,6 +71,7 @@ MongoClient.connect(config.database.url,  {
   
   app.use('/', index);
   app.use('/entrez', entrez);
+  app.use('/europe', europe);
   app.use('/local', local);
   app.use('/db', db);
   
