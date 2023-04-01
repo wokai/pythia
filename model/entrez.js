@@ -31,6 +31,24 @@ const fs        = require('fs/promises');
 const config    = require(path.join(__dirname, '..', 'config', 'config'));
 const win       = require(path.join(__dirname, '..', 'logger', 'logger'));
 
+/// ////////////////////////////////////////////////////////////////////
+/// Europe-PMC
+/// https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=p53&format=json
+/// Query pubmed:
+/// https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=25404529&format=json
+/// Query DOI
+/// https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1007/bf00197367&format=json
+///
+
+
+/// HELP: https://europepmc.org/help
+/// PMIDs are unique when used in conjunction with a data source.
+/// When searching for a PMID that yields more than one result, 
+/// the data source can be specified to find the exact match,
+/// https://europepmc.org/search?query=EXT_ID%3A526631%20AND%20SRC%3AMED
+/// https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A526631%20AND%20SRC%3AMED&format=json
+/// ////////////////////////////////////////////////////////////////////
+
 class Entrez {
   
   constructor(){}
