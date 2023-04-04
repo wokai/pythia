@@ -67,26 +67,51 @@ app.factory('EntrezService', function($http) {
   /// //////////////////////////////////////////////////////////////////////////
   
   /// Split name and provide lastname and firstnames
+  /// and re-assemble in BibTex style
   /// @param{data}-(object: contains authors member)
   var processAuthorNames = function(data){
     
     data.authors = data.authors.map(a => {
-      /// Split name at any number of white spaces
-      /// "name": "Andersson ML"
-      let name = a.name.split(/\s+/);
-      a.lastname = name[0];
-      /// Convert to character array
-      if(name.length > 1) {
-        a.firstnames = Array.from(name[1]);
+      if(a.authtype == "Author") {
+        /// Split name at any number of white spaces
+        /// "name": "Anders Johnson AA"        
+        let name = a.name.split(/\s+/);
+        
+        if(name.length > 1) {
+          let initiales = name.pop();
+          
+          /// Re-assemble last names
+          a.lastname = name.join("");
+                    
+          /// Convert into array of initiales
+          a.firstnames = Array.from(initiales);  
+        } else {
+          /// No white spaces
+          a.lastname = a.name;
+          a.firstnames = [];
+        }
       } else {
+        /// Example: "CollectiveName"
+        
+        /// Remove trailing period
+        if (a.name[a.name.length-1] === ".")
+          a.name = a.name.slice(0,-1);
+        
+        a.lastname = a.name;
         a.firstnames = [];
       }
       return a;
-      });
+    });
       
     /// Construct author string in bibtex style
     const authorlist = data.authors.map(author => 
-      { return author.lastname + ', ' + author.firstnames.join('. ') + '.'});
+      { 
+        if(author.firstnames.length) {
+          return author.lastname + ', ' + author.firstnames.join('. ') + '.'
+        } else {
+          return author.lastname;
+        }
+      });
     data.author = authorlist.join(' and ');
   }
   

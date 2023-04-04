@@ -12,3 +12,7 @@ Additionally, (local) reference links to PDF's are maintained.
 When article PDF's are stored in a configured directory using the PMID as
 file name, the PDF are linked from **Pythia** search and the Mediawiki
 reference.
+
+# Documentation
+
+ - [NCBI Entrez](https://www.ncbi.nlm.nih.gov/books/NBK25499/)

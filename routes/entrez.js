@@ -78,6 +78,18 @@ router.get('/', function(request, result, next) {
     
 });
 
+
+router.get('/dblist', function(request, result, next) {
+  entrez.fetchDbNames().then(json => {
+    result.status(200).json(json); 
+  })
+  .catch(err => {
+    console.log('[pythia] Error while fetching Database names: %s'.brightRed, err.message)
+    result.send(err.toString())
+  });
+});
+
+
 router.get('/:pmid', function(request, result, next){
   var url = config.baseUrl + request.params.pmid;
   console.log('[pythia] GET pmid: %s'.green, request.params.pmid);
@@ -110,7 +122,6 @@ router.get('/:pmid', function(request, result, next){
       result.send(err.toString())
     });
 });
-
 
 router.get('/pmc/:pmcid', function(request, result, next) {
   

@@ -37,6 +37,9 @@ const config = {
   json: {
     dir : path.join(__dirname, 'json')
   },
+  entrez: {
+     "baseUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/einfo.fcgi"
+  },
   pubmed: {
     "baseUrl" : "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=",
     "example" : "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=23819905,23819906",
