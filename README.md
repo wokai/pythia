@@ -4,7 +4,7 @@
 **Pythia** is a NodeJs Server (based on Express) for management of scientific literature:
 
  - Citation data is downloaded directly from [NCBI](https://www.ncbi.nlm.nih.gov/search/) from Pubmed ID's.
- - Citations are stored in a local (MySql) database
+ - Citations are stored in a local (MongoDB) database
  - Local citations can be queried (Title full text)
  - Mediawiki references can be obtained from each citation via copy and paste
 
