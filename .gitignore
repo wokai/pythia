@@ -1,14 +1,11 @@
 # This directory is large and needs to be locally ceated using 'npm install'
 /node_modules
 
-# This directory contains a (large) local copy of data
+# This directory contains a (large) local copy of data (many data files)
 /json 
 
 # Local development files
 /local
-
-# Contains many data files
-/json
 
 # There are many changes in this file
 package-lock.json
@@ -18,5 +15,5 @@ package-lock.json
 *.log
 
 # Local configuration file containing database passwords 
-# which supersedes defaults in 'general.js'
+# which supersedes defaults in 'config.js'
 /config/local.config.js
