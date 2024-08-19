@@ -16,3 +16,4 @@ reference.
 # Documentation
 
  - [NCBI Entrez](https://www.ncbi.nlm.nih.gov/books/NBK25499/)
+ - [Europe PMC RESTful API](https://europepmc.org/RestfulWebService)
