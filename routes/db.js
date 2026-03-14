@@ -9,7 +9,8 @@ const colors      = require('colors');
 const path        = require('path');
 const fs          = require('fs/promises');
 
-const config = require(path.join('.', '..', 'config', 'config'));
+const config	  = require(path.join('.', '..', 'config', 'config'));
+const win     	  = require(path.join('.', '..', 'logger', 'logger'));
 
 /// ////////////////////////////////////////////////////////////////////////////
 /// B Local utils
@@ -446,7 +447,13 @@ MongoClient.connect(config.database.url,  {
   
   
 })
-.catch(error => { throw new Error(error); })
+.catch(error => {
+	win.def.log({ level: 'error', file: 'routes/db', func: 'MongoClient.connect', message: `${error.codeName} (code: ${error.code})`});
+	console.log(`[routes/db] MongoClient.connect Error (${error.code}): ${error.codeName}`.brightRed)
+	console.log('[Exit process]'.brightYellow);
+	/// Gracefully
+	process.exit(0);
+})
 
 
 
