@@ -26,7 +26,7 @@
 
 const colors    = require('colors');
 const path      = require('path');
-const fs        = require('fs');
+const fsp       = require('fs').promises;
 
 const config = require(path.join(__dirname, '..', 'config', 'config'));
 
@@ -56,7 +56,7 @@ class JsonRepository {
     }
     /// Include spacer for readability
     let js = JSON.stringify(obj, null, 2);
-    return fs.promises.writeFile(filename, js)
+    return fsp.writeFile(filename, js)
         .then(() => {
           ++this.#nFiles;
           console.log(`[json.js] File ${p} written.`.brightYellow)
@@ -75,6 +75,8 @@ class JsonRepository {
     return Promise.all(promises);
   }
 
+
+  
 
 }
 

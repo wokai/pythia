@@ -7,7 +7,7 @@ const express     = require('express');
 const MongoClient = require('mongodb').MongoClient;
 const colors      = require('colors');
 const path        = require('path');
-const fs          = require('fs/promises');
+const fsp         = require('fs').promises;
 
 const config	  = require(path.join('.', '..', 'config', 'config'));
 const win     	  = require(path.join('.', '..', 'logger', 'logger'));
@@ -329,7 +329,7 @@ file.route('/').get(function (request, result) {
   const pmid = request.params.pmid;
   /// Get Content from file
   let filename = path.join(file_path, pmid + '.json')
-  fs.readFile(filename, "utf8")
+  fsp.readFile(filename, "utf8")
   .then(content => {
     result.json(JSON.parse(content));
   })
@@ -416,6 +416,7 @@ MongoClient.connect(config.database.url,  {
     const pmids = request.body.pmids;
     console.log('[db.rile.route.transfer] Received %i pmids.'.brightYellow, pmids.length);
     console.log(request.body);
+    result.status(200).json({ status: 'OK', body: request.body});
   });
   
   
@@ -431,7 +432,7 @@ MongoClient.connect(config.database.url,  {
     const pmid = request.params.pmid;
     /// Get Content from file
     let filename = path.join(file_path, pmid + '.json')
-    fs.readFile(filename, "utf8")
+    fsp.readFile(filename, "utf8")
     .then(content => { return col.insertOne(JSON.parse(content)); })
     .then(res => {
       console.log('[db.file.route] /transfer: Transferred %i. ID = %s', 
