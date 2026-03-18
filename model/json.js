@@ -1,7 +1,7 @@
 'use strict';
 /*******************************************************************************
  * The MIT License
- * Copyright 2022, Wolfgang Kaisers
+ * Copyright 2026, Wolfgang Kaisers
  * Permission is hereby granted, free of charge, to any person obtaining a 
  * copy of this software and associated documentation files (the "Software"), 
  * to deal in the Software without restriction, including without limitation 
@@ -75,7 +75,12 @@ class JsonRepository {
     return Promise.all(promises);
   }
 
-
+  /**
+   * @returns(Promise)
+   **/
+  getFileNames = async () => {
+	  return fsp.readdir(config.json.dir);
+  }
   
 
 }
@@ -83,6 +88,6 @@ class JsonRepository {
 const json = new JsonRepository;
 
 module.exports = {
-  json : json
+  repo : json
 }
 
