@@ -29,7 +29,7 @@ const colors      = require('colors');
 const path        = require('path');
 const fsp         = require('fs').promises;
 
-const repo		  = require(path.join('.', '..', 'model', 'json'));
+const json        = require(path.join('.', '..', 'model', 'json'));
 
 const config	  = require(path.join('.', '..', 'config', 'config'));
 const win     	  = require(path.join('.', '..', 'logger', 'logger'));
@@ -48,10 +48,9 @@ const router = express.Router();
 /// //////////////////////////////////////////////////////////////////////// ///
 
 router.get('/number', (request, result, next) => {
-  repo.json.getFileNames
-	.then(filenames => {
-		result.status(200).json({ number: filenames.length });
-    })
+  json.repo.getFileNames().then(filenames => {
+    result.status(200).json({ number: filenames.length });
+  })
     .catch(err => res.status(500).json({ message: err.message }));
 });
 
