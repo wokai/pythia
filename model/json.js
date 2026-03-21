@@ -37,6 +37,7 @@ class JsonRepository {
   
   constructor(){
     this.#nFiles = 0;
+    console.log(config.json.dir);
   }
    
   /**
@@ -44,11 +45,11 @@ class JsonRepository {
    * @returns{Promise}
    **/
   readFile = async (filename) => {
-    let f = path.join(file_path, pmid + '.json');
+    let f = path.join(config.json.dir, pmid + '.json');
     return new Promise((resolve, reject) => {
       path.exists(f, (exists) => {
         if(exists) {
-          fsp.readFile(f, "utf8").then(value => { resolve(JSON.parse(value)); });
+          fsp.readFile(f, "utf8").then(value => { resolve(JSON.parse(value)); });m
         } else {
           reject({ message: "File does not exist." });
         }

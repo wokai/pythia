@@ -350,7 +350,7 @@ file.route('/').get(function (request, result) {
   
   const pmid = request.params.pmid;
   /// Get Content from file
-  let filename = path.join(file_path, pmid + '.json')
+  let filename = path.join(config.json.dir, pmid + '.json')
   fsp.readFile(filename, "utf8")
   .then(content => {
     result.json(JSON.parse(content));
@@ -452,7 +452,7 @@ MongoClient.connect(config.database.url,  {
     
     const pmid = request.params.pmid;
     /// Get Content from file
-    let filename = path.join(file_path, pmid + '.json');
+    let filename = path.join(config.json.dir, pmid + '.json');
     
     try {
       fsp.readFile(filename, "utf8")
