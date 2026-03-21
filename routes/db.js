@@ -441,8 +441,7 @@ MongoClient.connect(config.database.url,  {
     result.status(200).json({ status: 'OK', body: request.body});
   });
   
-  
-  
+
   /// //////////////////////////////////////////////////////////////////////////
   /// Transfer content of JSON-file to Mongo database
   /// curl http://localhost:9000/db/10066724/file/transfer
@@ -453,29 +452,27 @@ MongoClient.connect(config.database.url,  {
     
     const pmid = request.params.pmid;
     /// Get Content from file
-    let filename = path.join(file_path, pmid + '.json')
-    fsp.readFile(filename, "utf8")
-    .then(content => { return col.insertOne(JSON.parse(content)); })
-    .then(res => {
-      console.log('[db.file.route] /transfer: Transferred %i. ID = %s', 
-        res.insertedCount, res.insertedId);
-        
-      result.json(res.result);
-    })
-    .catch(reason => {
-      /// Caught by Express ...
-      throw new Error(reason);
-    });
-  });
-  
-  
+    let filename = path.join(file_path, pmid + '.json');
+    
+    try {
+      fsp.readFile(filename, "utf8")
+        .then(content => { return col.insertOne(JSON.parse(content)); })
+        .then(res => {
+          console.log('[db.file.route] /transfer: Transferred %i. ID = %s', 
+          res.insertedCount, res.insertedId);
+          result.status(200).json({ status: 'OK', result: res.result});
+        })
+    } catch(reason) {
+      result.status(500).json({ status: 'Error', reason: reason });
+    };
+  })
 })
 .catch(error => {
-	win.def.log({ level: 'error', file: 'routes/db', func: 'MongoClient.connect', message: `${error.codeName} (code: ${error.code})`});
-	console.log(`[routes/db] MongoClient.connect Error (${error.code}): ${error.codeName}`.brightRed)
-	console.log('[Exit process]'.brightYellow);
-	/// Gracefully
-	process.exit(0);
+  win.def.log({ level: 'error', file: 'routes/db', func: 'MongoClient.connect', message: `${error.codeName} (code: ${error.code})`});
+  console.log(`[routes/db] MongoClient.connect Error (${error.code}): ${error.codeName}`.brightRed)
+  console.log('[Exit process]'.brightYellow);
+  /// Gracefully
+  process.exit(0);
 })
 
 
