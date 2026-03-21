@@ -44,8 +44,16 @@ class JsonRepository {
    * @returns{Promise}
    **/
   readFile = async (filename) => {
-    return fsp.readFile(filename, "utf8")
-      .then(value => { JSON.parse(value); }, error => { error });
+    let f = path.join(file_path, pmid + '.json');
+    return new Promise((resolve, reject) => {
+      path.exists(f, (exists) => {
+        if(exists) {
+          fsp.readFile(f, "utf8").then(value => { resolve(JSON.parse(value)); });
+        } else {
+          reject({ message: "File does not exist." });
+        }
+      });
+    });
   };
 
   
