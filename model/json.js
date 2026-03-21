@@ -39,6 +39,15 @@ class JsonRepository {
     this.#nFiles = 0;
   }
    
+  /**
+   * @param{filename}   : (String: name of [json] file)
+   * @returns{Promise}
+   **/
+  readFile = async (filename) => {
+    return fsp.readFile(filename, "utf8")
+      .then(value => { JSON.parse(value); }, error => { error });
+  };
+
   
   /**
    * @param{obj}  - (Object representing Pubmed record)

@@ -30,10 +30,9 @@ const colors      = require('colors');
 const path        = require('path');
 const fsp         = require('fs').promises;
 
-const repo		  = require(path.join('.', '..', 'model', 'json'));
-
-const config	  = require(path.join('.', '..', 'config', 'config'));
-const win     	  = require(path.join('.', '..', 'logger', 'logger'));
+const repo        = require(path.join('.', '..', 'model', 'json'));
+const config      = require(path.join('.', '..', 'config', 'config'));
+const win         = require(path.join('.', '..', 'logger', 'logger'));
 
 /// ////////////////////////////////////////////////////////////////////////////
 /// B Local utils
