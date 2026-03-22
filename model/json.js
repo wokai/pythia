@@ -28,8 +28,8 @@ const colors    = require('colors');
 const path      = require('path');
 const fsp       = require('fs').promises;
 
-const config = require(path.join(__dirname, '..', 'config', 'config'));
-
+const config    = require(path.join(__dirname, '..', 'config', 'config'));
+const win       = require(path.join('.', '..', 'logger', 'logger'));
 
 class JsonRepository {
   
@@ -47,13 +47,17 @@ class JsonRepository {
   readFile = async (filename) => {
     let f = path.join(config.json.dir, `${filename}.json`);
     console.log(`[model/json] readFile: ${f}`.brightGreen);
+    win.def.log({ level: 'info', file: 'model/json', func: 'readFile', message: `filename: ${filename}`});
     return new Promise((resolve, reject) => {
       fsp.readFile(f, "utf8")
         .then(value => {
-          resolve(JSON.parse(value));
+          let j = JSON.parse(value);
+          console.log(`[model/json] readFile: Received uid ${j.uid}`.brightGreen);
+          resolve(j);
         })
         .catch(err => {
           if(err.code == 'ENOENT') {
+            win.def.log({ level: 'warn', file: 'model/json', func: 'readFile', message: `filename: ${f}: No such file`});
             reject({ filename: filename, code: err.code, call: err.syscall, message: 'No such file' });
           } else {
             reject({ filename: filename, code: err.code, call: err.syscall });

@@ -180,9 +180,6 @@ router.get('/all', (request, result, next) => {
     .catch(err => res.status(500).json({ message: err.message }));
 });
 
-
-/// 
-
 router.get('/journals', (request, result, next) => {
   request.app.locals.col.distinct('fulljournalname')
     .then(res => {
@@ -235,6 +232,8 @@ router.post('/insert', (request, result) => {
     .then((res) => {
       console.log('[db.post] Inserted %i records. ID = %s'.brightGreen, 
         res.insertedCount, res.insertedId);
+        win.def.log({ level: 'info', file: 'routes/db', func: 'post|insert', 
+          message: `Database insert id: ${res.insertedId}, ${res.insertedCount} records.`});
       result.status(200).json(res.insertedId);
     })
     .catch(err => result.status(500).json({ message: err.message }));
@@ -245,6 +244,7 @@ router.post('/insert', (request, result) => {
 /// Find single document by PMID
 /// //////////////////////////////////////////////////////////////////////// ///
 
+/**
 router.post('/query/pmid', (request, result) => {
   let qry = request.body;
   console.log('[db.post.query.pmid] Query pmid: %s'.brightGreen, qry)
@@ -259,20 +259,30 @@ router.post('/query/pmid', (request, result) => {
     })
   
 });
+**/
 
-
-/// Example: 
-/// http://localhost:9000/db/pmid/13682
+/// //////////////////////////////////////////////////////////////////////// ///
+/// Find single document by Pubmed-ID
+/// http://localhost:9000/db/pmid/622185
+/// //////////////////////////////////////////////////////////////////////// ///
 router.get('/pmid/:pmid', (request, result) => {
-  console.log('[db.get.pmid] Query pmid: %s'.brightGreen, request.params.pmid)
+  ///console.log('[db.get.pmid] Query pmid: %s'.brightGreen, request.params.pmid)
   
   request.app.locals.col.findOne({ uid : request.params.pmid })
     .then(doc => {
-      console.log('[db.get.pmid] Found id: %s'.brightGreen, doc._id)
-      result.status(201).json(doc) /// 201: Created
+      /// Returns null when no record is found.
+      result.status(200).json(doc)
     })
     .catch(error => {
-      console.log('[db.get.pmid] Error: %s'.brightRed, error.message);
+      /// 404 = Not found
+      result.status(500).json({ 
+        status: 'Error',
+        uid: request.params.pmid,
+        message: error.message
+      }); 
+      
+      win.def.log({ level: 'warn', file: 'routes/db', func: 'get|pmid|:pmid', 
+        message: `Uid: ${request.params.pmid} error. Message: ${error.message}.`});
     })
   
 });
@@ -338,38 +348,10 @@ router.post('/query/title', (request, result) => {
 });
 
 
-/// ////////////////////////////////////////////////////////////////////////////
-/// E Local JSON files
-/// ////////////////////////////////////////////////////////////////////////////
-
-/*******************************************************************************
- * Return file content as JSON (testing file access...)
- ******************************************************************************/
-
-/**
-file.route('/').get(function (request, result) {
-  console.log('[db.file.route] pmid: %s'.brightYellow, request.params.pmid);
-  
-  const pmid = request.params.pmid;
-  /// Get Content from file
-  let filename = path.join(config.json.dir, pmid + '.json')
-  fsp.readFile(filename, "utf8")
-  .then(content => {
-    result.json(JSON.parse(content));
-  })
-  .catch(reason => {
-    /// Caught by Express ...
-    throw new Error(reason);
-  });
-});
-/// curl http://localhost:9000/db/10066724/file/
-**/
-
-/*******************************************************************************
- * Share database connection:
- *  - Node server needs to be restarted when MongoDB-Service was down
- ******************************************************************************/
-
+/// //////////////////////////////////////////////////////////////////////// ///
+/// Share database connection
+/// Node server needs to be restarted when MongoDB-Service was down
+/// //////////////////////////////////////////////////////////////////////// ///
 
 MongoClient.connect(config.database.url,  {
     useNewUrlParser: true,
@@ -380,7 +362,6 @@ MongoClient.connect(config.database.url,  {
   const db = connection.db(config.database.dataBaseName);
   const col = db.collection(config.database.collectionName);
   var uidIndexName;
-  
   
   ///Async: Returns array with numeric pmid's from database
   const getPmids = function() {
@@ -399,7 +380,6 @@ MongoClient.connect(config.database.url,  {
     });
   }
   
-
   /// ////////////////////////////////////////////////////////////////////// ///
   /// Returns all pmids
   /// curl http://localhost:9000/db/pmids  
@@ -433,34 +413,55 @@ MongoClient.connect(config.database.url,  {
   /// Transfer of Pubmed datasets from file into database
   ///  - in Chunks of 500
   ///  - using collection.insertMany([ ... ])
-  /// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [30050694,30154345] }' -H 'content-type: application/json' http://localhost:9000/db/transfer
+  /// 
+  /// Prepare:
+  /// db.pubmed.deleteOne({ uid: "13168976" });
+  /// db.pubmed.deleteOne({ uid: "622185" });
+  /// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [13168976, 622185] }' -H 'content-type: application/json' http://localhost:9000/db/transfer
   /// ////////////////////////////////////////////////////////////////////// ///
   
+  
+  /// ToDo: allSettled will not use filled success and failure arrays
+  /// Alternative: Do one by one ?
+  /// Alternative: Import directly from files using mongo-tools
   router.post('/transfer', (request, result, next) => {
     const pmids = request.body.pmids;
     console.log(`[routes/db/transfer] Received ${pmids.length} pmids:`.brightYellow);
     let promises = [];
+    let success = [];
+    let failure = [];
 
     pmids.forEach((id) => {
-      console.log(`pmid: ${id}`);
+      //console.log(`[routes/db/transfer] pmid: ${id}`);
       json.repo.readFile(id).then(json => {
         let p = col.insertOne(json).then(ins => {
-            console.log(`[routes/db/transfer] Insertion ID: ${ins.insertedId}`.yellow);
+            success.push(id);
+            win.def.log({ level: 'info', file: 'routes/db', func: 'post|transfer', message: `Database insert id: ${ins.insertedId}`});
             resolve(ins.insertedId);
-          }).catch(insert_error => { });
+          }).catch(err => {
+            failure.push(err.keyValue.uid);
+            console.log(failure);
+            /// 11000 = DuplicateKey
+            win.def.log({ level: 'warn', file: 'routes/db', func: 'post|transfer', message: `Error code: ${err.code}, keyValue: ${ err.keyValue.uid }`});
+          });
         promises.push(p);
-      }).catch(file_error => { });
+      }).catch(err => {
+        failure.push(id);
+        win.def.log({ level: 'warn', file: 'routes/db', func: 'post|transfer', message: `id: ${id}: No such file`});
+        //console.log(`[routes/db/transfer] Error (filename ${err.filename}): ${err.message}`.yellow);
+      });
     });
     
-    Promise.all(promises).then((values) => {
-      result.status(200).json({ status: 'OK', body: { number: values.length}});
+    /// .all will terminate upon the first reject
+    Promise.allSettled(promises).then((values) => {
+      result.status(200).json({ status: 'OK', body: { number: pmids.length, success: success, failure: failure }});
     });
   });
   
 
   /// //////////////////////////////////////////////////////////////////////////
   /// Transfer content of JSON-file to Mongo database
-  /// curl http://localhost:9000/db/10066724/file/transfer
+  /// curl http://localhost:9000/db/31400638/file/transfer
   /// //////////////////////////////////////////////////////////////////////////
   
   file.route('/transfer').get((request, result) => {
@@ -476,7 +477,7 @@ MongoClient.connect(config.database.url,  {
         .then(res => {
           console.log('[db.file.route] /transfer: Transferred %i. ID = %s', 
           res.insertedCount, res.insertedId);
-          result.status(200).json({ status: 'OK', result: res.result});
+          result.status(200).json({ status: 'OK', result: res.result });
         })
     } catch(reason) {
       result.status(500).json({ status: 'Error', reason: reason });
