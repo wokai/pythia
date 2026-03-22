@@ -41,22 +41,26 @@ class JsonRepository {
   }
    
   /**
-   * @param{filename}   : (String: name of [json] file)
+   * @param{filename}   : Name [string] of file without path and extension
    * @returns{Promise}
    **/
   readFile = async (filename) => {
-    let f = path.join(config.json.dir, pmid + '.json');
+    let f = path.join(config.json.dir, `${filename}.json`);
+    console.log(`[model/json] readFile: ${f}`.brightGreen);
     return new Promise((resolve, reject) => {
-      path.exists(f, (exists) => {
-        if(exists) {
-          fsp.readFile(f, "utf8").then(value => { resolve(JSON.parse(value)); });m
-        } else {
-          reject({ message: "File does not exist." });
-        }
-      });
+      fsp.readFile(f, "utf8")
+        .then(value => {
+          resolve(JSON.parse(value));
+        })
+        .catch(err => {
+          if(err.code == 'ENOENT') {
+            reject({ filename: filename, code: err.code, call: err.syscall, message: 'No such file' });
+          } else {
+            reject({ filename: filename, code: err.code, call: err.syscall });
+          }
+        });
     });
   };
-
   
   /**
    * @param{obj}  - (Object representing Pubmed record)
@@ -97,7 +101,7 @@ class JsonRepository {
    * @returns(Promise)
    **/
   getFileNames = async () => {
-	  return fsp.readdir(config.json.dir);
+    return fsp.readdir(config.json.dir);
   }
   
 

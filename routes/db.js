@@ -30,7 +30,7 @@ const colors      = require('colors');
 const path        = require('path');
 const fsp         = require('fs').promises;
 
-const repo        = require(path.join('.', '..', 'model', 'json'));
+const json        = require(path.join('.', '..', 'model', 'json'));
 const config      = require(path.join('.', '..', 'config', 'config'));
 const win         = require(path.join('.', '..', 'logger', 'logger'));
 
@@ -99,7 +99,7 @@ router.get('/stats', (request, result, next) => {
 
 /// //////////////////////////////////////////////////////////////////////// ///
 /// Returns name of all collections in database
-/// curl http://localhost:9000/db/collections  
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/db/collections  
 /// //////////////////////////////////////////////////////////////////////// ///
 
 router.get('/collections', (request, result, next) => {
@@ -116,7 +116,7 @@ router.get('/collections', (request, result, next) => {
 
 /// //////////////////////////////////////////////////////////////////////// ///
 /// Return number of documents in collection
-/// curl http://localhost:9000/db/count  
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/db/count  
 /// //////////////////////////////////////////////////////////////////////// ///
 router.get('/count', (request, result, next) =>{
   
@@ -181,6 +181,8 @@ router.get('/all', (request, result, next) => {
 });
 
 
+/// 
+
 router.get('/journals', (request, result, next) => {
   request.app.locals.col.distinct('fulljournalname')
     .then(res => {
@@ -222,7 +224,6 @@ router.post('/authors', (request, result) => {
     result.status(500).json({ message: err.message });
   }
 });
-
 
 
 /// //////////////////////////////////////////////////////////////////////// ///
@@ -345,6 +346,7 @@ router.post('/query/title', (request, result) => {
  * Return file content as JSON (testing file access...)
  ******************************************************************************/
 
+/**
 file.route('/').get(function (request, result) {
   console.log('[db.file.route] pmid: %s'.brightYellow, request.params.pmid);
   
@@ -361,7 +363,7 @@ file.route('/').get(function (request, result) {
   });
 });
 /// curl http://localhost:9000/db/10066724/file/
-
+**/
 
 /*******************************************************************************
  * Share database connection:
@@ -431,14 +433,28 @@ MongoClient.connect(config.database.url,  {
   /// Transfer of Pubmed datasets from file into database
   ///  - in Chunks of 500
   ///  - using collection.insertMany([ ... ])
-  /// curl -XPOST -d '{"pmids": [30050694,30154345] }' -H 'content-type: application/json' http://localhost:9000/db/transfer
+  /// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [30050694,30154345] }' -H 'content-type: application/json' http://localhost:9000/db/transfer
   /// ////////////////////////////////////////////////////////////////////// ///
   
   router.post('/transfer', (request, result, next) => {
     const pmids = request.body.pmids;
-    console.log('[db.rile.route.transfer] Received %i pmids.'.brightYellow, pmids.length);
-    console.log(request.body);
-    result.status(200).json({ status: 'OK', body: request.body});
+    console.log(`[routes/db/transfer] Received ${pmids.length} pmids:`.brightYellow);
+    let promises = [];
+
+    pmids.forEach((id) => {
+      console.log(`pmid: ${id}`);
+      json.repo.readFile(id).then(json => {
+        let p = col.insertOne(json).then(ins => {
+            console.log(`[routes/db/transfer] Insertion ID: ${ins.insertedId}`.yellow);
+            resolve(ins.insertedId);
+          }).catch(insert_error => { });
+        promises.push(p);
+      }).catch(file_error => { });
+    });
+    
+    Promise.all(promises).then((values) => {
+      result.status(200).json({ status: 'OK', body: { number: values.length}});
+    });
   });
   
 

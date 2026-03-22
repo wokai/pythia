@@ -30,9 +30,8 @@ const path        = require('path');
 const fsp         = require('fs').promises;
 
 const json        = require(path.join('.', '..', 'model', 'json'));
-
-const config	  = require(path.join('.', '..', 'config', 'config'));
-const win     	  = require(path.join('.', '..', 'logger', 'logger'));
+const config      = require(path.join('.', '..', 'config', 'config'));
+const win         = require(path.join('.', '..', 'logger', 'logger'));
 
 /// ////////////////////////////////////////////////////////////////////////////
 /// C Configure two nested routers
@@ -44,15 +43,33 @@ const router = express.Router();
 
 /// //////////////////////////////////////////////////////////////////////// ///
 /// Return Collection statistics
-/// curl http://localhost:9000/db/stats
+/// curl http://localhost:9000/files/number
 /// //////////////////////////////////////////////////////////////////////// ///
 
 router.get('/number', (request, result, next) => {
   json.repo.getFileNames().then(filenames => {
     result.status(200).json({ number: filenames.length });
   })
-    .catch(err => res.status(500).json({ message: err.message }));
+  .catch(err => {
+    result.status(500).json({ message: err.message });
+  });
 });
 
+
+/// ////////////////////////////////////////////////////////////////////// ///
+/// Performs a full-text search on titles
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/read/19833758
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/read/19833759
+/// ////////////////////////////////////////////////////////////////////// ///
+  
+router.get('/read/:name', (request, result, next) => {
+  console.log(`[routes/files] Read file: ${request.params.name}`.brightGreen);
+  json.repo.readFile(request.params.name).then(json => {
+    result.status(200).json(json);
+  }).catch(err => {
+    /// 404 = Not found
+    result.status(404).json(err); 
+  });
+});
 
 module.exports = router;
