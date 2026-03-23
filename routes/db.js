@@ -61,6 +61,13 @@ const difference = function (a, b)
   return result;
 }
 
+/// ////////////////////////////////////////////////////////////////////////////
+/// B.1 transferOne:
+/// Reads one file from json directory and inserts content into mongodb
+/// ////////////////////////////////////////////////////////////////////////////
+
+
+
 
 /// ////////////////////////////////////////////////////////////////////////////
 /// C Configure two nested routers
@@ -408,6 +415,39 @@ MongoClient.connect(config.database.url,  {
     .catch(error => { next(error) });
   });
 
+  /// ////////////////////////////////////////////////////////////////////// ///
+  /// curl -w "\n" http://localhost:9000/db/delete/622185
+  /// ////////////////////////////////////////////////////////////////////// ///
+
+  router.get('/delete/:term', (request, result, next) => {
+    win.def.log({ level: 'info', file: 'routes/db', func: 'delete/:term', message: `Database deleted Id ${request.params.term}`});
+    col.deleteOne({ uid: request.params.term }).then(dbres => {
+        result.status(200).json({ deleted: dbres.deletedCount });
+    });
+  });
+  
+  /// ////////////////////////////////////////////////////////////////////// ///
+  /// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [13168976, 622185] }' -H 'content-type: application/json' http://localhost:9000/db/source
+  /// ////////////////////////////////////////////////////////////////////// ///
+  router.post('/source', (request, result, next) => {
+    const pmids = request.body.pmids;
+    console.log(`[routes/db/transfer] Received ${pmids.length} pmids:`.brightYellow);
+    
+    let promises = [];
+    let src = [];
+    pmids.forEach((id) => {
+      promises.push(
+        json.repo.readFile(id).then(json => {
+          console.log(`[routes/db/source] Received ${pmids.length} id's`.brightGreen);
+          src.push(json.source);
+        })); 
+    });
+    
+    console.log(`[routes/db/source] Number of promises: ${promises.length}`);
+    Promise.allSettled(promises).then((values) => {
+      
+    });
+  });
   
   /// ////////////////////////////////////////////////////////////////////// ///
   /// Transfer of Pubmed datasets from file into database
@@ -417,7 +457,7 @@ MongoClient.connect(config.database.url,  {
   /// Prepare:
   /// db.pubmed.deleteOne({ uid: "13168976" });
   /// db.pubmed.deleteOne({ uid: "622185" });
-  /// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [13168976, 622185] }' -H 'content-type: application/json' http://localhost:9000/db/transfer
+  /// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [13168976, 622185, 111222333] }' -H 'content-type: application/json' http://localhost:9000/db/transfer
   /// ////////////////////////////////////////////////////////////////////// ///
   
   
@@ -428,32 +468,49 @@ MongoClient.connect(config.database.url,  {
     const pmids = request.body.pmids;
     console.log(`[routes/db/transfer] Received ${pmids.length} pmids:`.brightYellow);
     let promises = [];
-    let success = [];
-    let failure = [];
 
     pmids.forEach((id) => {
-      //console.log(`[routes/db/transfer] pmid: ${id}`);
-      json.repo.readFile(id).then(json => {
-        let p = col.insertOne(json).then(ins => {
-            success.push(id);
-            win.def.log({ level: 'info', file: 'routes/db', func: 'post|transfer', message: `Database insert id: ${ins.insertedId}`});
-            resolve(ins.insertedId);
+      
+      let p = new Promise((resolve, reject) => {
+        
+        json.repo.readFile(id).then(json => {
+          col.insertOne(json).then(ins => {
+            console.log(`[Resolve] Insert id: ${id}`.brightGreen);
+            win.def.log({ level: 'info', file: 'routes/db', func: 'post|transfer', message: `Database insert success for id: ${id}.`});
+            resolve(id);
           }).catch(err => {
-            failure.push(err.keyValue.uid);
-            console.log(failure);
-            /// 11000 = DuplicateKey
-            win.def.log({ level: 'warn', file: 'routes/db', func: 'post|transfer', message: `Error code: ${err.code}, keyValue: ${ err.keyValue.uid }`});
-          });
-        promises.push(p);
-      }).catch(err => {
-        failure.push(id);
-        win.def.log({ level: 'warn', file: 'routes/db', func: 'post|transfer', message: `id: ${id}: No such file`});
-        //console.log(`[routes/db/transfer] Error (filename ${err.filename}): ${err.message}`.yellow);
+            console.log(`[Reject] Insert id: ${err.keyValue.uid}`.brightYellow);
+            win.def.log({ level: 'warn', file: 'routes/db', func: 'post|transfer', message: `Database insert failed for id: ${err.keyValue.uid}, code: ${err.code}.`});
+            reject({ id: id, message: `Database insert failed: ${err.code}` });
+          }) 
+        }).catch(err => {
+            console.log(`[Reject] readFile id: ${id}`.brightYellow);
+            win.def.log({ level: 'warn', file: 'routes/db', func: 'post|transfer', message: `id: ${id}: No such file`});
+            reject({ id: id, message: `File not found` });
+        });
+        
       });
-    });
+      promises.push(p);
+      
+    }); /// pmids.forEach
     
+    console.log(`[routes/db/transfer] Number of promises: ${promises.length}`.brightYellow);
+    
+    let success = [];
+    let failure = [];
     /// .all will terminate upon the first reject
-    Promise.allSettled(promises).then((values) => {
+
+    Promise.allSettled(promises).then((results) => {
+      results.forEach((result) => { 
+        console.log(result); 
+        if(result.status == 'rejected'){
+          failure.push(result.reason);
+        } else {
+          success.push(result.reason);
+        }
+      });
+      
+    }).then((value) => {
       result.status(200).json({ status: 'OK', body: { number: pmids.length, success: success, failure: failure }});
     });
   });
