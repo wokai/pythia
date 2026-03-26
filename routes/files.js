@@ -72,4 +72,44 @@ router.get('/read/:name', (request, result, next) => {
   });
 });
 
+
+/// ////////////////////////////////////////////////////////////////////// ///
+/// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [13168976, 622185] }' -H 'content-type: application/json' http://localhost:9000/files/read
+/// ////////////////////////////////////////////////////////////////////// ///
+router.post('/read', (request, result, next) => {
+  const pmids = request.body.pmids;
+  console.log(`[routes/files/read] Received ${pmids.length} PubMed Id's:`.brightYellow);
+  
+  let promises = [];
+  let success = [];
+  let failure = [];
+  
+  pmids.forEach((id) => {
+    let p = new Promise((resolve, reject) => {
+      json.repo.readFile(id).then(json => {
+        win.def.log({ level: 'info', file: 'routes/files', func: 'post|read', message: `Found json file for Pubmed Id: ${id}.`});
+        success.push(json);
+        resolve(id);
+      }).catch(err => {
+        win.def.log({ level: 'warn', file: 'routes/files', func: 'post|read', message: `id: ${id}: No such file`});
+        failure.push(id);
+        reject({ id: id, message: `File not found` });
+      }); 
+    }); /// Promise
+    promises.push(p);
+  });   /// forEach
+  
+
+  /// Promise.all will terminate upon the first reject
+  Promise.allSettled(promises).then((values) => {
+    /// Throw away results
+    result.status(200).json({ status: 'OK', body: { success: success, failure: failure }});
+  });
+
+});
+
+
 module.exports = router;
+/// //////////////////////////////////////////////////////////////// ///
+/// End of file
+/// //////////////////////////////////////////////////////////////// ///

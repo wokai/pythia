@@ -248,27 +248,6 @@ router.post('/insert', (request, result) => {
 
 
 /// //////////////////////////////////////////////////////////////////////// ///
-/// Find single document by PMID
-/// //////////////////////////////////////////////////////////////////////// ///
-
-/**
-router.post('/query/pmid', (request, result) => {
-  let qry = request.body;
-  console.log('[db.post.query.pmid] Query pmid: %s'.brightGreen, qry)
-  
-  request.app.locals.col.findOne({ uid : qry.search })
-    .then(doc => {
-      console.log('[db.post.query.pmid] Found id: %s'.brightGreen, doc._id)
-      result.status(201).json(doc) /// 201: Created
-    })
-    .catch(error => {
-      console.log('[db.post.query.pmid] Error: %s'.brightRed, error.message);
-    })
-  
-});
-**/
-
-/// //////////////////////////////////////////////////////////////////////// ///
 /// Find single document by Pubmed-ID
 /// http://localhost:9000/db/pmid/622185
 /// //////////////////////////////////////////////////////////////////////// ///
@@ -354,168 +333,94 @@ router.post('/query/title', (request, result) => {
 
 });
 
+/// ////////////////////////////////////////////////////////////////////// ///
+/// Performs a full-text search on titles
+/// curl http://localhost:9000/db/query/Syncytial   
+/// ////////////////////////////////////////////////////////////////////// ///
 
-/// //////////////////////////////////////////////////////////////////////// ///
-/// Share database connection
-/// Node server needs to be restarted when MongoDB-Service was down
-/// //////////////////////////////////////////////////////////////////////// ///
+router.get('/query/:term', (request, result, next) => {
+  console.log('Query term: %s '.brightGreen, request.params.term)
+  /// col.find({ $text: { $search: request.params.term }}, { projection: { _id: 0, uid: 1 } }).toArray()
+  request.app.locals.col.find({ $text: { $search: request.params.term }}).toArray()
+  .then(docs => {
+      console.log(docs);
+      result.status(200).json(docs);
+  })
+  .catch(error => { next(error) });
+});
 
-MongoClient.connect(config.database.url,  {
-    useNewUrlParser: true,
-    useUnifiedTopology: true
-})
-.then(connection => {
-  
-  const db = connection.db(config.database.dataBaseName);
-  const col = db.collection(config.database.collectionName);
-  var uidIndexName;
-  
-  ///Async: Returns array with numeric pmid's from database
-  const getPmids = function() {
-    return new Promise(function(resolve, reject) {
-     col.find({}, { projection: { _id: 0, uid: 1 } }).toArray()
-    .then(docs => {
-      return docs.filter(obj => { 
-        if(obj.uid)
-          return true;
-        return false;
-      });
-    })
-    .then(res => { return res.map(x => parseInt(x.uid)) })
-    .then(res => { console.log('[db.getPmids]'.brightGreen); resolve(res); })   
-    .catch(err => { reject(err.message); });
-    });
-  }
-  
-  /// ////////////////////////////////////////////////////////////////////// ///
-  /// Returns all pmids
-  /// curl http://localhost:9000/db/pmids  
-  /// ////////////////////////////////////////////////////////////////////// ///
-  
-  router.get('/pmids', (request, result, next) => {
-    getPmids()
-    .then(res => { result.status(200).json({ pmids: res }); })
-    .catch(error => { next(error) });
+/// ////////////////////////////////////////////////////////////////////// ///
+/// curl -w "\n" http://localhost:9000/db/delete/622185
+/// ////////////////////////////////////////////////////////////////////// ///
+
+router.get('/delete/:term', (request, result, next) => {
+  win.def.log({ level: 'info', file: 'routes/db', func: 'delete/:term', message: `Database deleted Id ${request.params.term}`});
+  request.app.locals.col.deleteOne({ uid: request.params.term }).then(dbres => {
+      result.status(200).json({ deleted: dbres.deletedCount });
   });
+});
 
-  
-  /// ////////////////////////////////////////////////////////////////////// ///
-  /// Performs a full-text search on titles
-  /// curl http://localhost:9000/db/query/Syncytial   
-  /// ////////////////////////////////////////////////////////////////////// ///
-  
-  router.get('/query/:term', (request, result, next) => {
-    console.log('Query term: %s '.brightGreen, request.params.term)
-    /// col.find({ $text: { $search: request.params.term }}, { projection: { _id: 0, uid: 1 } }).toArray()
-    col.find({ $text: { $search: request.params.term }}).toArray()
-    .then(docs => {
-        console.log(docs);
-        result.status(200).json(docs);
-    })
-    .catch(error => { next(error) });
-  });
 
-  /// ////////////////////////////////////////////////////////////////////// ///
-  /// curl -w "\n" http://localhost:9000/db/delete/622185
-  /// ////////////////////////////////////////////////////////////////////// ///
+/// ////////////////////////////////////////////////////////////////////// ///
+/// Transfer of Pubmed datasets from JSON- file into database
+/// 
+/// Prepare:
+/// db.pubmed.deleteOne({ uid: "13168976" });
+/// db.pubmed.deleteOne({ uid: "622185" });
+/// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [13168976, 622185, 111222333] }' -H 'content-type: application/json' http://localhost:9000/db/transfer
+/// ////////////////////////////////////////////////////////////////////// ///
 
-  router.get('/delete/:term', (request, result, next) => {
-    win.def.log({ level: 'info', file: 'routes/db', func: 'delete/:term', message: `Database deleted Id ${request.params.term}`});
-    col.deleteOne({ uid: request.params.term }).then(dbres => {
-        result.status(200).json({ deleted: dbres.deletedCount });
-    });
-  });
-  
-  /// ////////////////////////////////////////////////////////////////////// ///
-  /// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [13168976, 622185] }' -H 'content-type: application/json' http://localhost:9000/db/source
-  /// ////////////////////////////////////////////////////////////////////// ///
-  router.post('/source', (request, result, next) => {
-    const pmids = request.body.pmids;
-    console.log(`[routes/db/transfer] Received ${pmids.length} pmids:`.brightYellow);
+router.post('/transfer', (request, result, next) => {
+  const pmids = request.body.pmids;
+  console.log(`[routes/db/transfer] Received ${pmids.length} pmids:`.brightYellow);
+  let promises = [];
+
+  pmids.forEach((id) => {
     
-    let promises = [];
-    let src = [];
-    pmids.forEach((id) => {
-      promises.push(
-        json.repo.readFile(id).then(json => {
-          console.log(`[routes/db/source] Received ${pmids.length} id's`.brightGreen);
-          src.push(json.source);
-        })); 
-    });
-    
-    console.log(`[routes/db/source] Number of promises: ${promises.length}`);
-    Promise.allSettled(promises).then((values) => {
+    let p = new Promise((resolve, reject) => {
       
-    });
-  });
-  
-  /// ////////////////////////////////////////////////////////////////////// ///
-  /// Transfer of Pubmed datasets from file into database
-  ///  - in Chunks of 500
-  ///  - using collection.insertMany([ ... ])
-  /// 
-  /// Prepare:
-  /// db.pubmed.deleteOne({ uid: "13168976" });
-  /// db.pubmed.deleteOne({ uid: "622185" });
-  /// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [13168976, 622185, 111222333] }' -H 'content-type: application/json' http://localhost:9000/db/transfer
-  /// ////////////////////////////////////////////////////////////////////// ///
-  
-  
-  /// ToDo: allSettled will not use filled success and failure arrays
-  /// Alternative: Do one by one ?
-  /// Alternative: Import directly from files using mongo-tools
-  router.post('/transfer', (request, result, next) => {
-    const pmids = request.body.pmids;
-    console.log(`[routes/db/transfer] Received ${pmids.length} pmids:`.brightYellow);
-    let promises = [];
-
-    pmids.forEach((id) => {
-      
-      let p = new Promise((resolve, reject) => {
-        
-        json.repo.readFile(id).then(json => {
-          col.insertOne(json).then(ins => {
-            console.log(`[Resolve] Insert id: ${id}`.brightGreen);
-            win.def.log({ level: 'info', file: 'routes/db', func: 'post|transfer', message: `Database insert success for id: ${id}.`});
-            resolve(id);
-          }).catch(err => {
-            console.log(`[Reject] Insert id: ${err.keyValue.uid}`.brightYellow);
-            win.def.log({ level: 'warn', file: 'routes/db', func: 'post|transfer', message: `Database insert failed for id: ${err.keyValue.uid}, code: ${err.code}.`});
-            reject({ id: id, message: `Database insert failed: ${err.code}` });
-          }) 
+      json.repo.readFile(id).then(json => {
+        request.app.locals.col.insertOne(json).then(ins => {
+          console.log(`[Resolve] Insert id: ${id}`.brightGreen);
+          win.def.log({ level: 'info', file: 'routes/db', func: 'post|transfer', message: `Database insert success for id: ${id}.`});
+          resolve(id);
         }).catch(err => {
-            console.log(`[Reject] readFile id: ${id}`.brightYellow);
-            win.def.log({ level: 'warn', file: 'routes/db', func: 'post|transfer', message: `id: ${id}: No such file`});
-            reject({ id: id, message: `File not found` });
-        });
-        
-      });
-      promises.push(p);
-      
-    }); /// pmids.forEach
-    
-    console.log(`[routes/db/transfer] Number of promises: ${promises.length}`.brightYellow);
-    
-    let success = [];
-    let failure = [];
-    /// .all will terminate upon the first reject
-
-    Promise.allSettled(promises).then((results) => {
-      results.forEach((result) => { 
-        console.log(result); 
-        if(result.status == 'rejected'){
-          failure.push(result.reason);
-        } else {
-          success.push(result.reason);
-        }
+          console.log(`[Reject] Insert id: ${err.keyValue.uid}`.brightYellow);
+          win.def.log({ level: 'warn', file: 'routes/db', func: 'post|transfer', message: `Database insert failed for id: ${err.keyValue.uid}, code: ${err.code}.`});
+          reject({ id: id, message: `Database insert failed: ${err.code}` });
+        }) 
+      }).catch(err => {
+          console.log(`[Reject] readFile id: ${id}`.brightYellow);
+          win.def.log({ level: 'warn', file: 'routes/db', func: 'post|transfer', message: `id: ${id}: No such file`});
+          reject({ id: id, message: `File not found` });
       });
       
-    }).then((value) => {
-      result.status(200).json({ status: 'OK', body: { number: pmids.length, success: success, failure: failure }});
     });
-  });
+    promises.push(p);
+    
+  }); /// pmids.forEach
   
+  console.log(`[routes/db/transfer] Number of promises: ${promises.length}`.brightYellow);
+  
+  let success = [];
+  let failure = [];
+  /// Promise.all will terminate upon the first reject
+  Promise.allSettled(promises).then((results) => {
+    results.forEach((result) => { 
+      console.log(result); 
+      if(result.status == 'rejected'){
+        failure.push(result.reason);
+      } else {
+        success.push(result.reason);
+      }
+    });
+  }).then((value) => {
+    result.status(200).json({ status: 'OK', body: { number: pmids.length, success: success, failure: failure }});
+  });
+});
 
+/**
+ *
   /// //////////////////////////////////////////////////////////////////////////
   /// Transfer content of JSON-file to Mongo database
   /// curl http://localhost:9000/db/31400638/file/transfer
@@ -540,20 +445,50 @@ MongoClient.connect(config.database.url,  {
       result.status(500).json({ status: 'Error', reason: reason });
     };
   })
-})
-.catch(error => {
-  win.def.log({ level: 'error', file: 'routes/db', func: 'MongoClient.connect', message: `${error.codeName} (code: ${error.code})`});
-  console.log(`[routes/db] MongoClient.connect Error (${error.code}): ${error.codeName}`.brightRed)
-  console.log('[Exit process]'.brightYellow);
-  /// Gracefully
-  process.exit(0);
-})
+ *
+ **/
+ 
+  ///Async: Returns array with numeric pmid's from database
+  const getPmids = function(col) {
+    return new Promise(function(resolve, reject) {
+     col.find({}, { projection: { _id: 0, uid: 1 } }).toArray()
+    .then(docs => {
+      return docs.filter(obj => { 
+        if(obj.uid)
+          return true;
+        return false;
+      });
+    })
+    .then(res => { return res.map(x => parseInt(x.uid)) })
+    .then(res => { console.log('[db.getPmids]'.brightGreen); resolve(res); })   
+    .catch(err => { reject(err.message); });
+    });
+  }
+  
+/// ////////////////////////////////////////////////////////////////////// ///
+/// Returns all pmids
+/// curl http://localhost:9000/db/pmids  
+/// ////////////////////////////////////////////////////////////////////// ///
+
+router.get('/pmids', (request, result, next) => {
+  getPmids(request.app.locals.col)
+  
+  request.app.locals.col.find({}, { projection: { _id: 0, uid: 1 } }).toArray()
+    .then(docs => {
+      return docs.filter(obj => { 
+        if(obj.uid)
+          return true;
+        return false;
+      });
+    })
+    .then(res => { return res.map(x => parseInt(x.uid)) })
+    .then(res => { result.status(200).json({ pmids: res }); })
+    .catch(error => { next(error) });
+});
 
 
 
 module.exports = router;
-
-
-/// Test:
-/// curl -is http://localhost:9000/file/ -H 'accept: text/plain'
-
+/// //////////////////////////////////////////////////////////////// ///
+/// End of file
+/// //////////////////////////////////////////////////////////////// ///
