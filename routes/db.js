@@ -25,7 +25,7 @@
 /// ////////////////////////////////////////////////////////////////////////////
 
 const express     = require('express');
-const MongoClient = require('mongodb').MongoClient;
+//const MongoClient = require('mongodb').MongoClient;
 const colors      = require('colors');
 const path        = require('path');
 const fsp         = require('fs').promises;
@@ -109,6 +109,7 @@ router.get('/stats', (request, result, next) => {
 /// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/db/collections  
 /// //////////////////////////////////////////////////////////////////////// ///
 
+/**
 router.get('/collections', (request, result, next) => {
   request.app.locals.con.collections().then(cols => {
     return cols.map(c => c.collectionName)
@@ -120,18 +121,23 @@ router.get('/collections', (request, result, next) => {
     next(error)
   })
 });
+*/
 
 /// //////////////////////////////////////////////////////////////////////// ///
-/// Return number of documents in collection
+/// Return number of documents in database
 /// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/db/count  
 /// //////////////////////////////////////////////////////////////////////// ///
 router.get('/count', (request, result, next) =>{
   
+  result.status(200).json({ count: 0 });
+  
+  /**
   request.app.locals.con.stats()
     .then(r => { 
       result.status(200).json({ count: r.objects})
     })
     .catch(err => result.status(500).json({ message: err.message }));
+  */
 });
 /// curl http://localhost:9000/db/count
 
@@ -148,6 +154,7 @@ router.get('/count', (request, result, next) =>{
 /// curl http://localhost:9000/db/index  
 /// //////////////////////////////////////////////////////////////////////// ///
 
+/**
 router.get('/index', (request, result) => {
   request.app.locals.col.createIndex(
       {
@@ -172,12 +179,13 @@ router.get('/index', (request, result) => {
     });
   
 });
-
+*/
 
 /// //////////////////////////////////////////////////////////////////////// ///
 /// Returns all stored documents
 /// //////////////////////////////////////////////////////////////////////// ///
 
+/**
 router.get('/all', (request, result, next) => {
   request.app.locals.col.find()
     .then(res => {
@@ -186,21 +194,30 @@ router.get('/all', (request, result, next) => {
     })
     .catch(err => res.status(500).json({ message: err.message }));
 });
+*/
+
 
 router.get('/journals', (request, result, next) => {
+  
+  result.status(200).json({ journals: []});
+  
+  /**
   request.app.locals.col.distinct('fulljournalname')
     .then(res => {
       console.log('[db.js] Journals: Found %i items'.brightGreen, res.length)
       result.status(200).json(res);
     })
     .catch(err => res.status(500).json({ message: err.message }));
+    */
 });
 
 
 router.get('/authors/:name', (request, result, next) => {
   
   console.log('[db.get.authors] Name: %s '.brightGreen, request.params.name)
+  reult.status(200).json({ status: 'OK' });
   
+  /**
   try {
     request.app.locals.col.find({
       'authors.name': new RegExp(request.params.name) })
@@ -211,8 +228,10 @@ router.get('/authors/:name', (request, result, next) => {
   } catch(err) {
     result.status(500).json({ message: err.message });
   }
+  */
 });
 
+/**
 router.post('/authors', (request, result) => {
   let qry = request.body;
   
@@ -228,6 +247,7 @@ router.post('/authors', (request, result) => {
     result.status(500).json({ message: err.message });
   }
 });
+*/
 
 
 /// //////////////////////////////////////////////////////////////////////// ///
@@ -235,6 +255,10 @@ router.post('/authors', (request, result) => {
 /// //////////////////////////////////////////////////////////////////////// ///
 
 router.post('/insert', (request, result) => {
+  
+  result.status(200).json({ message: 'temporarily out of order' });
+  
+  /**
   request.app.locals.col.insertOne(request.body)
     .then((res) => {
       console.log('[db.post] Inserted %i records. ID = %s'.brightGreen, 
@@ -244,6 +268,7 @@ router.post('/insert', (request, result) => {
       result.status(200).json(res.insertedId);
     })
     .catch(err => result.status(500).json({ message: err.message }));
+  */
 });
 
 
@@ -254,6 +279,9 @@ router.post('/insert', (request, result) => {
 router.get('/pmid/:pmid', (request, result) => {
   ///console.log('[db.get.pmid] Query pmid: %s'.brightGreen, request.params.pmid)
   
+  result.status(200).json({ message: 'temporarily out of order' });
+  
+  /**
   request.app.locals.col.findOne({ uid : request.params.pmid })
     .then(doc => {
       /// Returns null when no record is found.
@@ -270,7 +298,7 @@ router.get('/pmid/:pmid', (request, result) => {
       win.def.log({ level: 'warn', file: 'routes/db', func: 'get|pmid|:pmid', 
         message: `Uid: ${request.params.pmid} error. Message: ${error.message}.`});
     })
-  
+  */
 });
 
 /// //////////////////////////////////////////////////////////////////////// ///
@@ -281,7 +309,7 @@ router.post('/query/title', (request, result) => {
   
   let qry = request.body;
   console.log('[db.post.query.title] Query term: %s '.brightGreen, qry)
-
+  result.status(200).json({ message: 'temporarily out of order' });
   
   /// ////////////////////////////////////////////////////////////////////// ///
   /// The default values for further settings are:
@@ -293,6 +321,7 @@ router.post('/query/title', (request, result) => {
   /// rules for the stemmer and tokenizer for the search string are applied.
   /// ////////////////////////////////////////////////////////////////////// ///
 
+  /**
   if(qry.type == 'text') {
     
     /// //////////////////////////////////////////////////////////////////// ///
@@ -329,7 +358,7 @@ router.post('/query/title', (request, result) => {
       .status(400)
       .send('[db.post.query.title] Unknown query type: ' + qry.type)
   }
-  
+  */
 
 });
 
@@ -340,6 +369,9 @@ router.post('/query/title', (request, result) => {
 
 router.get('/query/:term', (request, result, next) => {
   console.log('Query term: %s '.brightGreen, request.params.term)
+  result.status(200).json({ message: 'temporarily out of order' });
+  
+  /**
   /// col.find({ $text: { $search: request.params.term }}, { projection: { _id: 0, uid: 1 } }).toArray()
   request.app.locals.col.find({ $text: { $search: request.params.term }}).toArray()
   .then(docs => {
@@ -347,6 +379,7 @@ router.get('/query/:term', (request, result, next) => {
       result.status(200).json(docs);
   })
   .catch(error => { next(error) });
+  */
 });
 
 /// ////////////////////////////////////////////////////////////////////// ///
@@ -354,10 +387,13 @@ router.get('/query/:term', (request, result, next) => {
 /// ////////////////////////////////////////////////////////////////////// ///
 
 router.get('/delete/:term', (request, result, next) => {
+  result.status(200).json({ message: 'temporarily out of order' });
+  /**
   win.def.log({ level: 'info', file: 'routes/db', func: 'delete/:term', message: `Database deleted Id ${request.params.term}`});
   request.app.locals.col.deleteOne({ uid: request.params.term }).then(dbres => {
       result.status(200).json({ deleted: dbres.deletedCount });
   });
+  */
 });
 
 
@@ -375,6 +411,9 @@ router.post('/transfer', (request, result, next) => {
   console.log(`[routes/db/transfer] Received ${pmids.length} pmids:`.brightYellow);
   let promises = [];
 
+  result.status(200).json({ message: 'temporarily out of order' });
+  
+  /**
   pmids.forEach((id) => {
     
     let p = new Promise((resolve, reject) => {
@@ -417,39 +456,44 @@ router.post('/transfer', (request, result, next) => {
   }).then((value) => {
     result.status(200).json({ status: 'OK', body: { number: pmids.length, success: success, failure: failure }});
   });
-});
+  */
+});   /// End transfer
+
+
+
+/// //////////////////////////////////////////////////////////////////////////
+/// Transfer content of JSON-file to Mongo database
+/// curl http://localhost:9000/db/31400638/file/transfer
+/// //////////////////////////////////////////////////////////////////////////
 
 /**
- *
-  /// //////////////////////////////////////////////////////////////////////////
-  /// Transfer content of JSON-file to Mongo database
-  /// curl http://localhost:9000/db/31400638/file/transfer
-  /// //////////////////////////////////////////////////////////////////////////
+file.route('/transfer').get((request, result) => {
+  console.log('[db.file.route] pmid: %s'.brightYellow, request.params.pmid);
   
-  file.route('/transfer').get((request, result) => {
-    console.log('[db.file.route] pmid: %s'.brightYellow, request.params.pmid);
-    
-    const pmid = request.params.pmid;
-    /// Get Content from file
-    let filename = path.join(config.json.dir, pmid + '.json');
-    
-    try {
-      fsp.readFile(filename, "utf8")
-        .then(content => { return col.insertOne(JSON.parse(content)); })
-        .then(res => {
-          console.log('[db.file.route] /transfer: Transferred %i. ID = %s', 
-          res.insertedCount, res.insertedId);
-          result.status(200).json({ status: 'OK', result: res.result });
-        })
-    } catch(reason) {
-      result.status(500).json({ status: 'Error', reason: reason });
-    };
-  })
- *
- **/
+  const pmid = request.params.pmid;
+  /// Get Content from file
+  let filename = path.join(config.json.dir, pmid + '.json');
+  
+  try {
+    fsp.readFile(filename, "utf8")
+      .then(content => { return col.insertOne(JSON.parse(content)); })
+      .then(res => {
+        console.log('[db.file.route] /transfer: Transferred %i. ID = %s', 
+        res.insertedCount, res.insertedId);
+        result.status(200).json({ status: 'OK', result: res.result });
+      })
+  } catch(reason) {
+    result.status(500).json({ status: 'Error', reason: reason });
+  };
+})  // file.route
+
  
   ///Async: Returns array with numeric pmid's from database
   const getPmids = function(col) {
+    
+    result.status(200).json({ message: 'temporarily out of order' });
+    
+    /**
     return new Promise(function(resolve, reject) {
      col.find({}, { projection: { _id: 0, uid: 1 } }).toArray()
     .then(docs => {
@@ -463,8 +507,11 @@ router.post('/transfer', (request, result, next) => {
     .then(res => { console.log('[db.getPmids]'.brightGreen); resolve(res); })   
     .catch(err => { reject(err.message); });
     });
+    
   }
-  
+
+*/
+
 /// ////////////////////////////////////////////////////////////////////// ///
 /// Returns all pmids
 /// curl http://localhost:9000/db/pmids  
@@ -473,6 +520,9 @@ router.post('/transfer', (request, result, next) => {
 router.get('/pmids', (request, result, next) => {
   getPmids(request.app.locals.col)
   
+  result.status(200).json({ message: 'temporarily out of order' });
+  
+  /**
   request.app.locals.col.find({}, { projection: { _id: 0, uid: 1 } }).toArray()
     .then(docs => {
       return docs.filter(obj => { 
@@ -484,6 +534,7 @@ router.get('/pmids', (request, result, next) => {
     .then(res => { return res.map(x => parseInt(x.uid)) })
     .then(res => { result.status(200).json({ pmids: res }); })
     .catch(error => { next(error) });
+    */
 });
 
 

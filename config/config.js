@@ -26,7 +26,7 @@ const path = require('path');
 const config = {
   database: {
     "url" : 'mongodb://localhost:27017',
-    "dataBaseName" : "entrez",
+    "dataBaseName" : "pythia",
     "collectionName" : "pubmed",
     "dbUserName" : "mongo-database-user-name",
     "dbUserPassword" : "mongo-user-password"

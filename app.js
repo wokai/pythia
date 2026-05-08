@@ -31,7 +31,7 @@ const morgan        = require('morgan');
 const fetch         = require('node-fetch');
 const colors        = require('colors');
 const fs            = require('fs');
-const MongoClient   = require('mongodb').MongoClient;
+//const MongoClient   = require('mongodb').MongoClient;
 
 const index   = require(path.join(__dirname, 'routes', 'index'));
 const entrez  = require(path.join(__dirname, 'routes', 'entrez'));
@@ -74,15 +74,21 @@ app.use(morgan(':method :url :status :res[content-length] - :response-time ms', 
 /// - Node server needs to be restarted when MongoDB-Service was down
 /// ////////////////////////////////////////////////////////////////////////////
 
+app.locals.json = config.json.dir;
+app.use('/', index);
+app.use('/entrez', entrez);
+app.use('/europe', europe);
+app.use('/local', local);
+//app.use('/db', db);
+app.use('/files', files);
 
+/**
 MongoClient.connect(config.database.url,  {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
 .then(connection => {
-  
   app.locals.json = config.json.dir;
-  
   /// Accessible within the whole application
   app.locals.con = connection.db(config.database.dataBaseName);
   app.locals.col = app.locals.con.collection(config.database.collectionName);
@@ -91,15 +97,14 @@ MongoClient.connect(config.database.url,  {
     win.def.log({ level: 'info', file: 'app', func: 'DB setup', message: `DB setup: Database: ${res.db}, Objects: ${res.objects}, Data-size: ${res.dataSize}`});
   });
   
-  
   app.use('/', index);
   app.use('/entrez', entrez);
   app.use('/europe', europe);
   app.use('/local', local);
   app.use('/db', db);
   app.use('/files', files);
-  
 });
+*/
 
 /// Middleware before routes (order matters)
 app.use(express.static('views', {'extensions': ['html']}));
@@ -111,7 +116,7 @@ app.use(cookieParser());
 /// Static middleware
 app.use(express.static(path.join(__dirname, 'public')));
 /// Bootstrap
-app.use('/jquery',    express.static(path.join(__dirname , 'node_modules', 'jquery', 'dist')));
+app.use('/jquery',    express.static(path.join(__dirname, 'node_modules', 'jquery', 'dist')));
 app.use('/bootstrap', express.static(path.join(__dirname, 'node_modules', 'bootstrap', 'dist')));
 app.use('/css',       express.static(path.join(__dirname, 'node_modules', 'bootstrap', 'dist', 'css')));
 app.use('/feather',   express.static(path.join(__dirname, 'node_modules', 'feather-icons', 'dist')));
