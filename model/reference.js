@@ -49,45 +49,65 @@ class Reference {
   #epubdate
   #pmid
   #pmcid
-  #firstauthor
+  #fauth
+  #lauth
   #json     /// Internal json representation of current object
+
+  get id    ()        { return this.#id;    }
+  set id    (x)       { this.#id = x;     }
+  get type  ()        { return this.#type;  }
+  set type  (x)       { this.#type = x;   }
+  get title ()        { return this.#title; }
+  set title (x)       { this.#title = x;  }
+  get source()        { return this.#source;}
+  set source(x)       { this.#source = x; }
+  get year  ()        { return this.#year;  }
+  set year  (x)       { this.#year = x;   }
+  get epubdate()      { return this.#epubdate; }
+  set epubdate(x)     { this.#epubdate = x; }
+  get firstauthor()   { return this.#fauth; }
+  set firstauthor(x)  { this.#fauth = x; }
+  get lastauthor()    { return this.#lauth; }
+  set lastauthor(x)   { this.#lauth = x;       }
+  get json  ()        { return this.#json;  }
   
-  constructor(){
-    console.log(config.json.dir);
+  constructor(json){
+    //console.log(`[model/reference] constructor`.brightYellow);
+    this.#json = json;
   }
-   
+  
+  toString() {  return `[Reference] ID: ${this.id}`; }
+
   /**
    * @param{json}   : Json-Object as provided by Entrez (PubMed)
    * @returns{Reference}
    **/
-  static fromEntrez = (json) => {
-    this.#json = json;
+
+  static fromEntrez(j) {
+    //console.log(`[model/reference] static fromEntrez: Received uid ${j.uid}`.brightYellow);
+    const r = new Reference(j);
+    r.id = `pmid-${j.uid}`
+    r.type = 'pubmed';
+    r.title = j.title;
+    r.source = j.source;
+    r.year = j.pubdate;
+    r.epubdate = j.epubdate;
+    r.firstauthor = j.sortfirstauthor;
+    r.lastauthor = j.lastauthor;
     
-    this.#id = `pmid-${json.uid}`;
-    this.#type= "pubmed";
-    this.#title = json.title;
-    this.#source = json.source;
-    this.#year = json.pubdate;
-    this.#epubdate = json.epubdate;
-  }
-   
-   
- 
-  /**
-   * @returns(json-representation of current object)
-   **/
-  getJson = async () => {
-    return this.#json;
+    return r;
   }
   
+  static fromExtern(j) {
+    const r = new Reference(j);
+    
+    return r;
+  }
+};
 
-}
 
-const ref = new Reference;
+module.exports = Reference;
 
-module.exports = {
-  ref : ref
-}
 /// //////////////////////////////////////////////////////////////// ///
 /// End of file
 /// //////////////////////////////////////////////////////////////// ///

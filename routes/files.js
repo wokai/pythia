@@ -41,6 +41,7 @@ const win         = require(path.join('.', '..', 'logger', 'logger'));
 const router = express.Router();
 
 
+
 /// //////////////////////////////////////////////////////////////////////// ///
 /// Return Collection statistics
 /// curl http://localhost:9000/files/number
@@ -57,9 +58,11 @@ router.get('/number', (request, result, next) => {
 
 
 /// ////////////////////////////////////////////////////////////////////// ///
-/// Performs a full-text search on titles
+/// Reads json file from repository and returns json content
+/// Example (read not existing file):
 /// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/read/19833758
-/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/read/19833759
+/// Example (read existing file): 
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/read/24147111
 /// ////////////////////////////////////////////////////////////////////// ///
   
 router.get('/read/:name', (request, result, next) => {
@@ -69,6 +72,21 @@ router.get('/read/:name', (request, result, next) => {
   }).catch(err => {
     /// 404 = Not found
     result.status(404).json(err); 
+  });
+});
+
+/// ////////////////////////////////////////////////////////////////////// ///
+/// Reads json file from repository and returns json content
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/ref/19833758
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/ref/24147111
+/// ////////////////////////////////////////////////////////////////////// ///
+
+router.get('/ref/:name', (request, result, next) => {
+  console.log(`[routes/files] Read ref: ${request.params.name}`.brightGreen);
+  json.repo.readRef(request.params.name).then(ref => {
+    result.status(200).json(ref.json);
+  }).catch(err => {
+    result.status(404).json(err);
   });
 });
 

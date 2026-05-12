@@ -31,28 +31,30 @@ const fsp       = require('fs').promises;
 const config    = require(path.join(__dirname, '..', 'config', 'config'));
 const win       = require(path.join('.', '..', 'logger', 'logger'));
 
+const Reference = require(path.join(__dirname, 'reference'));
+
+
 class JsonRepository {
   
   #nFiles
   
   constructor(){
     this.#nFiles = 0;
-    console.log(config.json.dir);
   }
    
   /**
    * @param{filename}   : Name [string] of file without path and extension
-   * @returns{Promise}
+   * @returns{Promise}  : json object
    **/
   readFile = async (filename) => {
     let f = path.join(config.json.dir, `${filename}.json`);
-    console.log(`[model/json] readFile: ${f}`.brightGreen);
+    //console.log(`[model/json] readFile: ${f}`.brightGreen);
     win.def.log({ level: 'info', file: 'model/json', func: 'readFile', message: `filename: ${filename}`});
     return new Promise((resolve, reject) => {
       fsp.readFile(f, "utf8")
         .then(value => {
           let j = JSON.parse(value);
-          console.log(`[model/json] readFile: Received uid ${j.uid}`.brightGreen);
+          //console.log(`[model/json] readFile: Received uid ${j.uid}`.brightGreen);
           resolve(j);
         })
         .catch(err => {
@@ -64,7 +66,26 @@ class JsonRepository {
           }
         });
     });
-  };
+  }; /// readFile
+
+  /**
+   * @param{filename}   : Name [string] of file without path and extension
+   * @returns{Promise}  : Reference object
+   **/
+  readRef = async (filename) => {
+    return new Promise((resolve, reject) => {
+      //console.log(`[model/json] readRef: Received filename ${filename}`.brightCyan);
+      this.readFile(filename).then(j => {
+        //console.log(`[model/json] readRef: Received uid ${j.uid}`.brightCyan);
+        const r = Reference.fromEntrez(j);
+        //console.log(`[model/json] readRef.id: ${r.id}`.brightCyan);
+        resolve(r);
+      }).catch(err => {
+          reject(err);
+      }); /// readFile
+    });   /// Promise
+  };      /// readRef
+  
   
   /**
    * @param{obj}  - (Object representing Pubmed record)
