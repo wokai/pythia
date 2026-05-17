@@ -48,13 +48,13 @@ class JsonRepository {
    **/
   readFile = async (filename) => {
     let f = path.join(config.json.dir, `${filename}.json`);
-    //console.log(`[model/json] readFile: ${f}`.brightGreen);
+    console.log(`[model/json] readFile: ${f}`.brightGreen);
     win.def.log({ level: 'info', file: 'model/json', func: 'readFile', message: `filename: ${filename}`});
     return new Promise((resolve, reject) => {
       fsp.readFile(f, "utf8")
         .then(value => {
           let j = JSON.parse(value);
-          //console.log(`[model/json] readFile: Received uid ${j.uid}`.brightGreen);
+          console.log(`[model/json] readFile: Received uid ${j.uid}`.brightGreen);
           resolve(j);
         })
         .catch(err => {
@@ -74,11 +74,11 @@ class JsonRepository {
    **/
   readRef = async (filename) => {
     return new Promise((resolve, reject) => {
-      //console.log(`[model/json] readRef: Received filename ${filename}`.brightCyan);
+      console.log(`[model/json] readRef: Received filename ${filename}`.brightCyan);
       this.readFile(filename).then(j => {
-        //console.log(`[model/json] readRef: Received uid ${j.uid}`.brightCyan);
+        console.log(`[model/json] readRef: Received uid ${j.uid}`.brightCyan);
         const r = Reference.fromEntrez(j);
-        //console.log(`[model/json] readRef.id: ${r.id}`.brightCyan);
+        console.log(`[model/json] readRef.id: ${r.id}`.brightCyan);
         resolve(r);
       }).catch(err => {
           reject(err);

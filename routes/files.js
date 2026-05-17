@@ -78,13 +78,13 @@ router.get('/read/:name', (request, result, next) => {
 /// ////////////////////////////////////////////////////////////////////// ///
 /// Reads json file from repository and returns json content
 /// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/ref/19833758
-/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/ref/24147111
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/ref/24147111 | jq
 /// ////////////////////////////////////////////////////////////////////// ///
 
 router.get('/ref/:name', (request, result, next) => {
   console.log(`[routes/files] Read ref: ${request.params.name}`.brightGreen);
   json.repo.readRef(request.params.name).then(ref => {
-    result.status(200).json(ref.json);
+    result.status(200).json(ref.db);
   }).catch(err => {
     result.status(404).json(err);
   });

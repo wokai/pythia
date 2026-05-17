@@ -31,49 +31,120 @@ const fsp       = require('fs').promises;
 const config    = require(path.join(__dirname, '..', 'config', 'config'));
 const win       = require(path.join('.', '..', 'logger', 'logger'));
 
+
 /// ////////////////////////////////////////////////////////////////////////////
-/// Reference class objects represent the internal format of literatur
+/// Prepares a given DOI so that it can be used as a filename
+/// 1) Removes protocol (https://)
+/// 2) Removes leading 'doi.org/'
+/// 3) Replaces non char+digit wich minus ('-')
+/// 4) Adds leading 'doi-'
+/// ////////////////////////////////////////////////////////////////////////////
+
+
+function doiToFilename(doi) {
+  /// Remove url protocol:
+  const d1 = doi.replace(/^https?\:\/\//i, "");
+  /// Remove leading doi:
+  const d2 = d1.replace(/^doi.org\//g, "");
+  /// Anything that isn't a character, digit or underscore
+  return 'doi-' + d2.replaceAll(/\W/g, '-');
+}
+
+
+
+/// ////////////////////////////////////////////////////////////////////////////
+/// Reference class objects represent the internal format of literature
 /// references as stored in the database
-/// The main intention is to provide a standard subset of fields because
-/// it is unfeasible to store the full entrez object in
+/// The intention is to provide a standard subset of data-fields because
+/// it's unfeasible to store the full entrez object in an sql database
 /// ////////////////////////////////////////////////////////////////////////////
 
 
 class Reference {
   
-  #id       /// Textual uid which will be used as filename
-  #type     /// e.g. pubmed, dae, ai
-  #title
-  #source   /// Journal
-  #year
-  #epubdate
-  #pmid
-  #pmcid
-  #fauth
-  #lauth
-  #json     /// Internal json representation of current object
+  /// id = uid: Textual representation 
+  /// filename: Will usually be identical to id
+  /// type    : e.g. pubmet, dae, ai
+  /// source  : synonym for journal
+  
+  /// record as stored in dababase
+  #db
 
-  get id    ()        { return this.#id;    }
-  set id    (x)       { this.#id = x;     }
-  get type  ()        { return this.#type;  }
-  set type  (x)       { this.#type = x;   }
-  get title ()        { return this.#title; }
-  set title (x)       { this.#title = x;  }
-  get source()        { return this.#source;}
-  set source(x)       { this.#source = x; }
-  get year  ()        { return this.#year;  }
-  set year  (x)       { this.#year = x;   }
-  get epubdate()      { return this.#epubdate; }
-  set epubdate(x)     { this.#epubdate = x; }
-  get firstauthor()   { return this.#fauth; }
-  set firstauthor(x)  { this.#fauth = x; }
-  get lastauthor()    { return this.#lauth; }
-  set lastauthor(x)   { this.#lauth = x;       }
-  get json  ()        { return this.#json;  }
+  /// json representation used for construction
+  /// as given by e.g. entrez
+  #json     
+
+
+  /// public accessors
+  get json  ()        { return this.#json;          }
+  get db    ()        { return this.#db;            }
+
+  get id    ()        { return this.#db.id;         }
+  set id    (x)       { this.#db.id = x;            }
+  get filename()      { return this.#db.filename;   }
+  set filename(x)     { this.#db.filename = x;      }
+  get type  ()        { return this.#db.type;       }
+  set type  (x)       { this.#db.type = x;          }
+  
+  
+  get doi()           { return this.#db.doi;        }
+  set doi(x)          { this.#db.doi = x;           }
+  
+  get pmid()          { return this.#db.pm.pmid;    }
+  set pmid(x)         { this.#db.pm.pmid = x;       }
+  get pmcid()         { return this.#db.pm.pmcid;   }
+  set pmcid(x)        { this.#db.pm.pmcid = x;      }
+
+  get source()        { return this.#db.ref.source; }
+  set source(x)       { this.#db.ref.source = x;    }
+  get journal()       { return this.#db.ref.source; }
+  set journal(x)      { this.#db.ref.source = x;    }
+  get volume()        { return this.#db.ref.volume; }
+  set volume(x)       { this.#db.ref.volume = x;    }
+  get issue()         { return this.#db.ref.issue;  }
+  set issue(x)        { this.#db.ref.issue = x;     }
+  get pages()         { return this.#db.ref.pages;  }
+  set pages(x)        { this.#db.ref.pages = x;     }
+  get year()          { return this.#db.ref.year;   }
+  set year(x)         { this.#db.ref.year = x;      }
+  
+  get title ()        { return this.#db.art.title;  }
+  set title (x)       { this.#db.art.title = x;     }  
+  set year  (x)       { this.#db.ref.year = x;      }
+  get firstauthor()   { return this.#db.art.fAuthor;}
+  set firstauthor(x)  { this.#db.art.fAuthor = x;   }
+  get lastauthor()    { return this.#db.art.lAuthor;}
+  set lastauthor(x)   { this.#db.art.lAuthor = x;   }
+  get pubdate()       { return this.#db.art.pubdate;}
+  set pubdate(x)      { this.#db.art.pubdate = x;   }
+
   
   constructor(json){
-    //console.log(`[model/reference] constructor`.brightYellow);
     this.#json = json;
+    
+    this.#db = {
+      id:       null,
+      filename: null,
+      type:     null,
+      doi:      null,
+      pm: {
+        pmid:   null,
+        pmcid:  null
+      },
+      ref: {
+        source: null,
+        volume: null,
+        issue:  null,
+        pages:  null,
+        year:   null
+      },
+      art: {
+        title: null,
+        fAuthor: null,
+        lAuthor: null,
+        pubdate: null
+      } 
+    };
   }
   
   toString() {  return `[Reference] ID: ${this.id}`; }
@@ -86,21 +157,73 @@ class Reference {
   static fromEntrez(j) {
     //console.log(`[model/reference] static fromEntrez: Received uid ${j.uid}`.brightYellow);
     const r = new Reference(j);
-    r.id = `pmid-${j.uid}`
+
+    r.id = `pmid-${j.uid}`   
     r.type = 'pubmed';
-    r.title = j.title;
+    r.filename = j.uid;
+  
     r.source = j.source;
+    r.volume = j.volume;
+    r.issue  = j.issue;
+    r.pages  = j.pages;
     r.year = j.pubdate;
-    r.epubdate = j.epubdate;
+    
+    r.title = j.title;
     r.firstauthor = j.sortfirstauthor;
     r.lastauthor = j.lastauthor;
+    r.pubdate = j.epubdate;
+    r.doi = j.articleids.find(a => a.idtype == 'doi').value;
     
+    r.pmid = j.uid;
+    r.pmcid = j.articleids.find(a => a.idtype == 'pmc').value;
+
+    return r;
+  }
+  
+  //https://europepmc.org/RestfulWebService
+  
+  /**
+   * Create reference object from Json object
+   * {
+   *  type:   (string)              [ 'pmc', 'doi', 'prop' ]
+   *  id:     (string or numeric)
+   *  title:  (string)
+   *  source: (string)
+   *  year:   (numeric)
+   *  
+   * }
+   **/
+  
+  static fromDoi(j){
+    const r = new Reference(j);
+    r.id = doiToFilename(j.doi);
+    r.doi = j.doi;
+    r.type = j.type;
+    
+    r.year = j.year;
+
+    r.journal = j.journal;
+    
+    r.title = j.title;
+    r.firstauthor = j.firstauthor;
+    r.lastauthor = j.lastauthor;
     return r;
   }
   
   static fromExtern(j) {
     const r = new Reference(j);
-    
+    r.id = `prop-${j.uid}`
+    r.type = j.type;
+    r.doi = j.doi;
+
+    r.journal = j.journal;
+    r.year = j.year;
+
+    r.title = j.title;
+
+    r.pubdate = j.pubdate;
+    r.firstauthor = j.firstauthor;
+    r.lastauthor = j.lastauthor;
     return r;
   }
 };
