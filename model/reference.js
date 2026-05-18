@@ -50,15 +50,12 @@ function doiToFilename(doi) {
   return 'doi-' + d2.replaceAll(/\W/g, '-');
 }
 
-
-
 /// ////////////////////////////////////////////////////////////////////////////
 /// Reference class objects represent the internal format of literature
 /// references as stored in the database
 /// The intention is to provide a standard subset of data-fields because
 /// it's unfeasible to store the full entrez object in an sql database
 /// ////////////////////////////////////////////////////////////////////////////
-
 
 class Reference {
   
@@ -72,8 +69,7 @@ class Reference {
 
   /// json representation used for construction
   /// as given by e.g. entrez
-  #json     
-
+  #json
 
   /// public accessors
   get json  ()        { return this.#json;          }
