@@ -27,6 +27,7 @@ const config = {
   database: {
     "url" : 'mongodb://localhost:27017',
     "dataBaseName" : "pythia",
+    "tableName" : "references",
     "collectionName" : "pubmed",
     "dbUserName" : "mongo-database-user-name",
     "dbUserPassword" : "mongo-user-password"

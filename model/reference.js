@@ -59,8 +59,9 @@ function doiToFilename(doi) {
 
 class Reference {
   
-  /// id = uid: Textual representation 
-  /// filename: Will usually be identical to id
+  /// id      : Unique numeric identifier as created by database
+  /// txtid   : Textual unique identifier 
+  /// filename: Will usually be identical to txtid
   /// type    : e.g. pubmet, dae, ai
   /// source  : synonym for journal
   
@@ -77,6 +78,8 @@ class Reference {
 
   get id    ()        { return this.#db.id;         }
   set id    (x)       { this.#db.id = x;            }
+  get txtid  ()       { return this.#db.txtid;      }
+  set txtid  (x)      { this.#db.txtid = x;         }
   get filename()      { return this.#db.filename;   }
   set filename(x)     { this.#db.filename = x;      }
   get type  ()        { return this.#db.type;       }
@@ -119,7 +122,8 @@ class Reference {
     this.#json = json;
     
     this.#db = {
-      id:       null,
+      id:       0,
+      txtid:    null,
       filename: null,
       type:     null,
       doi:      null,
@@ -154,6 +158,7 @@ class Reference {
     //console.log(`[model/reference] static fromEntrez: Received uid ${j.uid}`.brightYellow);
     const r = new Reference(j);
 
+    
     r.id = `pmid-${j.uid}`   
     r.type = 'pubmed';
     r.filename = j.uid;
@@ -186,7 +191,6 @@ class Reference {
    *  title:  (string)
    *  source: (string)
    *  year:   (numeric)
-   *  
    * }
    **/
   
