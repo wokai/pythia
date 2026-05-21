@@ -31,16 +31,16 @@ const config          = require(path.join(__dirname, '..', 'config', 'config'));
 const win             = require(path.join('.', '..', 'logger', 'logger'));
 
 const { Sequelize, DataTypes, Model } = require('sequelize');
-const MariaDbDialect  = require('@sequelize/mariadb');
+//const { MariaDbDialect } = require('@sequelize/mariadb');
 
 const sequelize = new Sequelize({
-  dialect: MariaDbDialect,
-  database: confit.database.dataBaseName,
-  user: config.database.dbUserName,
-  password: config.database.dbUserPassword,
-  host: 'localhost',
-  port: 3306,
-  showWarnings: true,
+  dialect:        'mariadb',
+  database:       config.database.dataBaseName,
+  user:           config.database.dbUserName,
+  password:       config.database.dbUserPassword,
+  host:           'localhost',
+  port:           3306,
+  showWarnings:   true,
   connectTimeout: 1000,
 });
 
@@ -54,21 +54,21 @@ Refs.init(
       autoIncrement: true,
       primaryKey: true,
     },
-    txtid:    { DataTypes.STRING },
-    filename: { DataTypes.STRING },
-    type: { DataTypes.STRING },
-    doi: { DataTypes.STRING },
-    pmid: { DataTypes.INTEGER },
-    pmcid: { DataTypes.STRING },
-    source: { DataTypes.STRING },
-    issue: { DataTypes.STRING },
-    pages: { DataTypes.STRING },
-    year: { DataTypes.INTEGER },
-    title: { DataTypes.STRING },
-    firstauthor: { DataTypes.STRING },
-    lastauthor: { DataTypes.STRING },
-    pubdate: { DataTypes.STRING },
-    attr: { DataTypes.JSON }
+    txtid:        { type: DataTypes.STRING(100) },
+    filename:     { type: DataTypes.STRING },
+    type:         { type: DataTypes.STRING },
+    doi:          { type: DataTypes.STRING },
+    pmid:         { type: DataTypes.INTEGER },
+    pmcid:        { type: DataTypes.STRING },
+    source:       { type: DataTypes.STRING },
+    issue:        { type: DataTypes.STRING },
+    pages:        { type: DataTypes.STRING },
+    year:         { type: DataTypes.INTEGER },
+    title:        { type: DataTypes.STRING },
+    firstauthor:  { type: DataTypes.STRING },
+    lastauthor:   { type: DataTypes.STRING },
+    pubdate:      { type: DataTypes.STRING },
+    attr:         { type: DataTypes.JSON }
   },{ sequelize,
       modelName: 'Refs'
   }
@@ -77,12 +77,13 @@ Refs.init(
 
 /**
  * 
- * table name references ist not allowed
+ * table name 'references' ist not allowed
+ * 
 CREATE OR REPLACE TABLE Refs (
   id INT NOT NULL AUTO_INCREMENT,
-  refid VARCHAR(100),
+  txtid VARCHAR(100),
   type VARCHAR(20),
-  filename VARCHAR(100),
+  filename VARCHAR(100) UNIQUE,
   source VARCHAR(100),
   issue VARCHAR(20),
   pages VARCHAR(20),
@@ -100,40 +101,33 @@ CREATE OR REPLACE TABLE Refs (
  *
  */
 
-/*
-const mariadb = require('mariadb');
-const pool = mariadb.createPool({
-     host: config.database.url, 
-     user: config.database.dbUserName, 
-     password: config.database.dbUserPassword,
-     connectionLimit: 5
-});
-
-
-pool.getConnection()
-    .then(conn => {
-    
-      conn.query("SELECT 1 as val")
-        .then((rows) => {
-          console.log(rows); //[ {val: 1}, meta: ... ]
-          //Table must have been created before 
-          // " CREATE TABLE myTable (id int, val varchar(255)) "
-          return conn.query("INSERT INTO myTable value (?, ?)", [1, "mariadb"]);
-        })
-        .then((res) => {
-          console.log(res); // { affectedRows: 1, insertId: 1, warningStatus: 0 }
-          conn.end();
-          pool.end();
-        })
-        .catch(err => {
-          //handle error
-          console.log(err); 
-          conn.end();
-          pool.end();
-        })
-        
-    }).catch(err => {
-      //not connected
-      pool.end();
+class Database {
+  
+  static async createRef(ref){
+    return Refs.create({
+      txtid: ref.txtid,
+      type: ref.type,
+      filename: ref.filename,
+      type: ref.type,
+      doi: ref.doi,
+      pmid: ref.pmid,
+      pmcid: ref.pmcid,
+      source: ref.source,
+      issue: ref.issue,
+      pages: ref.pages,
+      year: ref.year,
+      title: ref.title,
+      firstauthor: ref.firstauthor,
+      lastauthor: ref.lastauthor,
+      pubdate: ref.pubdate,
+      attr: ref.json
     });
-*/
+  }
+  
+};
+
+
+module.exports = {
+  Database:  Database,
+  Refs: Refs
+}

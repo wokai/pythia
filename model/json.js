@@ -31,7 +31,8 @@ const fsp       = require('fs').promises;
 const config    = require(path.join(__dirname, '..', 'config', 'config'));
 const win       = require(path.join('.', '..', 'logger', 'logger'));
 
-const Reference = require(path.join(__dirname, 'reference'));
+const Reference     = require(path.join(__dirname, 'reference'));
+const { Database }  = require(path.join(__dirname, 'database'));
 
 
 class JsonRepository {
@@ -86,6 +87,19 @@ class JsonRepository {
     });   /// Promise
   };      /// readRef
   
+  
+  readAndSave = async (filename) => {
+    return new Promise((resolve, reject) => {
+      this.readRef(filename).then(ref => {
+        console.log(`[model/json] readAndSave: Received Ref`.brightCyan);
+        Database.createRef(ref).then(res => {
+          resolve(res);
+        });
+      }).catch(err => {
+          reject(err);
+      });
+    }); /// Promise
+  }     /// readAndSave
   
   /**
    * @param{obj}  - (Object representing Pubmed record)

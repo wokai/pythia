@@ -6,7 +6,6 @@
     "start": "DEBUG=pythia:* PORT=9000 node ./bin/www"
   },
   "dependencies": {
-    "@sequelize/mariadb": "^7.0.0-alpha.48",
     "angular": "^1.8.2",
     "bootstrap": "^5.1.3",
     "bootstrap-icons": "^1.7.2",

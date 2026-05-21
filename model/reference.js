@@ -60,9 +60,10 @@ function doiToFilename(doi) {
 class Reference {
   
   /// id      : Unique numeric identifier as created by database
-  /// txtid   : Textual unique identifier 
+  /// txtid   : Textual unique identifier e.g. 23147111 for pubmed 
+  ///           or doi-10-1126-science-124-3212-103 or s42256-019-0088-2
   /// filename: Will usually be identical to txtid
-  /// type    : e.g. pubmet, dae, ai
+  /// type    : e.g. pubmed, dae, ai
   /// source  : synonym for journal
   
   /// record as stored in dababase
@@ -159,7 +160,7 @@ class Reference {
     const r = new Reference(j);
 
     
-    r.id = `pmid-${j.uid}`   
+    r.txtid = j.uid /// `pmid-${j.uid}` will not be used initially
     r.type = 'pubmed';
     r.filename = j.uid;
   
