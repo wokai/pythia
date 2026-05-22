@@ -90,6 +90,19 @@ router.get('/ref/:name', (request, result, next) => {
   });
 });
 
+/// ////////////////////////////////////////////////////////////////////// ///
+/// Reads json file from repository and saves content to Database
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/readAndSave/24147111 | jq
+/// ////////////////////////////////////////////////////////////////////// ///
+router.get('/readAndSave/:name', (request, result, next) => {
+  console.log(`[routes/files] ReadAndSave ref: ${request.params.name}`.brightGreen);
+  json.repo.readAndSave(request.params.name).then(ref => {
+    result.status(200).json(ref);
+  }).catch(err => {
+    result.status(404).json(err);
+  });
+});
+
 
 /// ////////////////////////////////////////////////////////////////////// ///
 /// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [13168976, 622185] }' -H 'content-type: application/json' http://localhost:9000/files/read

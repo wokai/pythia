@@ -34,16 +34,25 @@ const { Sequelize, DataTypes, Model } = require('sequelize');
 //const { MariaDbDialect } = require('@sequelize/mariadb');
 
 const sequelize = new Sequelize({
+  host:           config.database.host,
   dialect:        'mariadb',
   database:       config.database.dataBaseName,
   user:           config.database.dbUserName,
   password:       config.database.dbUserPassword,
-  host:           'localhost',
+
   port:           3306,
   showWarnings:   true,
   connectTimeout: 1000,
 });
 
+
+sequelize.authenticate().then(() => {
+  console.log(`[model/database] Sequelize authenticate to ${config.database.host} success`.brightMagenta);
+}).catch (error => {
+  console.error(`[model/database] Sequelize authenticate to ${config.database.host} error`.brightMagenta, error);
+});
+
+console.log(`[model/database] Sequelize access: database ${config.database.dataBaseName}, user: ${config.database.dbUserName}, password: ${config.database.dbUserPassword}`.brightMagenta);
 
 class Refs extends Model {}
 
