@@ -132,31 +132,37 @@ class Database {
   
   static async createRef(ref){
     return new Promise((resolve, reject) => {
-      try {
-        const res = Refs.create({
-          txtid: ref.txtid,
-          type: ref.type,
-          filename: ref.filename,
-          type: ref.type,
-          doi: ref.doi,
-          pmid: ref.pmid,
-          pmcid: ref.pmcid,
-          source: ref.source,
-          issue: ref.issue,
-          pages: ref.pages,
-          year: ref.year,
-          title: ref.title,
-          firstauthor: ref.firstauthor,
-          lastauthor: ref.lastauthor,
-          pubdate: ref.pubdate,
-          attr: ref.json
-        });
-        console.log(`[model/database] createRef: ${res}`.brightYellow);
+      const res = Refs.create({
+        txtid: ref.txtid,
+        type: ref.type,
+        filename: ref.filename,
+        type: ref.type,
+        doi: ref.doi,
+        pmid: ref.pmid,
+        pmcid: ref.pmcid,
+        source: ref.source,
+        issue: ref.issue,
+        pages: ref.pages,
+        year: ref.year,
+        title: ref.title,
+        firstauthor: ref.firstauthor,
+        lastauthor: ref.lastauthor,
+        pubdate: ref.pubdate,
+        attr: ref.json
+      }).then((res) => {
+        win.def.log({ level: 'info', file: 'model/database', func: 'createRef', message: `Insert Record success.`});
+        //console.log(`[model/database] createRef resolve:`.brightYellow);
+        console.log(res);
         resolve(res);
-      } catch(error) {
-        reject(error);
-      };
-      
+      }).catch((e) => {
+        win.def.log({ level: 'error', file: 'model/database', func: 'createRef', message: `${e.name}: ${e.message}`, stack: e.stack});
+        //console.log(`[model/database] createRef reject: name ${e.name} | message: ${e.message}`.brightYellow);
+        reject({
+          status: 'Error',
+          name: e.name,
+          message: e.message
+        });
+      });
     }); /// Promise
   } /// Create Ref
   

@@ -93,10 +93,13 @@ class JsonRepository {
       this.readRef(filename).then(ref => {
         console.log(`[model/json] readAndSave: Received Ref`.brightCyan);
         Database.createRef(ref).then(res => {
+          win.def.log({ level: 'info', file: 'model/json', func: 'createRef', message: `Insert Record success.`});
           resolve(res);
+        }).catch((e) => {
+          //console.log(`[model/json] readAndSave Error: name ${e.name} | message: ${e.message}`.brightCyan);
+          win.def.log({ level: 'error', file: 'model/json', func: 'readAndSave', message: `${e.name}: ${e.message}`});
+          reject(e);
         });
-      }).catch(err => {
-          reject(err);
       });
     }); /// Promise
   }     /// readAndSave

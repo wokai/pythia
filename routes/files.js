@@ -98,8 +98,8 @@ router.get('/readAndSave/:name', (request, result, next) => {
   console.log(`[routes/files] ReadAndSave ref: ${request.params.name}`.brightGreen);
   json.repo.readAndSave(request.params.name).then(ref => {
     result.status(200).json(ref);
-  }).catch(err => {
-    result.status(404).json(err);
+  }).catch(e => {
+    result.status(404).json({ status: 'Error', name: e.name });
   });
 });
 
