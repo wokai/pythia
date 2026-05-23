@@ -45,9 +45,9 @@ const sequelize = new Sequelize(
 )
 
 sequelize.authenticate().then(() => {
-  console.log(`[model/database] Sequelize authenticate to ${config.database.host} success`.brightMagenta);
+  win.def.log({ level: 'info', file: 'model/database', func: 'toplevel', message: `Sequelize authenticate to ${config.database.host}.${config.database.dataBaseName} success`});
 }).catch (error => {
-  console.error(`[model/database] Sequelize authenticate to ${config.database.host} error`.brightMagenta, error);
+  win.def.log({ level: 'error', file: 'model/database', func: 'toplevel', message: `Sequelize authenticate to ${config.database.host}.${config.database.dataBaseName} failed`});
 });
 
 class Refs extends Model {}
@@ -101,33 +101,64 @@ CREATE OR REPLACE TABLE Refs (
   pmid INT,
   pmcid VARCHAR(20),
   attr JSON,
+  createdAt DATETIME,
+  updatedAt DATETIME,
   PRIMARY KEY (id)
 );
  *
+ * 
+ CREATE OR REPLACE TABLE Refs (
+  id INT NOT NULL AUTO_INCREMENT,
+  txtid VARCHAR(100),
+  type VARCHAR(20),
+  filename VARCHAR(100) UNIQUE,
+  source VARCHAR(100),
+  issue VARCHAR(20),
+  pages VARCHAR(20),
+  year INT,
+  title TEXT,
+  firstauthor VARCHAR(100),
+  lastauthor VARCHAR(100),
+  pubdate VARCHAR(20),
+  doi VARCHAR(100),
+  pmid INT,
+  pmcid VARCHAR(20),
+  attr JSON,
+  PRIMARY KEY (id)
+  );
  */
 
 class Database {
   
   static async createRef(ref){
-    return Refs.create({
-      txtid: ref.txtid,
-      type: ref.type,
-      filename: ref.filename,
-      type: ref.type,
-      doi: ref.doi,
-      pmid: ref.pmid,
-      pmcid: ref.pmcid,
-      source: ref.source,
-      issue: ref.issue,
-      pages: ref.pages,
-      year: ref.year,
-      title: ref.title,
-      firstauthor: ref.firstauthor,
-      lastauthor: ref.lastauthor,
-      pubdate: ref.pubdate,
-      attr: ref.json
-    });
-  }
+    return new Promise((resolve, reject) => {
+      try {
+        const res = Refs.create({
+          txtid: ref.txtid,
+          type: ref.type,
+          filename: ref.filename,
+          type: ref.type,
+          doi: ref.doi,
+          pmid: ref.pmid,
+          pmcid: ref.pmcid,
+          source: ref.source,
+          issue: ref.issue,
+          pages: ref.pages,
+          year: ref.year,
+          title: ref.title,
+          firstauthor: ref.firstauthor,
+          lastauthor: ref.lastauthor,
+          pubdate: ref.pubdate,
+          attr: ref.json
+        });
+        console.log(`[model/database] createRef: ${res}`.brightYellow);
+        resolve(res);
+      } catch(error) {
+        reject(error);
+      };
+      
+    }); /// Promise
+  } /// Create Ref
   
 };
 
