@@ -31,28 +31,24 @@ const config          = require(path.join(__dirname, '..', 'config', 'config'));
 const win             = require(path.join('.', '..', 'logger', 'logger'));
 
 const { Sequelize, DataTypes, Model } = require('sequelize');
-//const { MariaDbDialect } = require('@sequelize/mariadb');
 
-const sequelize = new Sequelize({
-  host:           config.database.host,
-  dialect:        'mariadb',
-  database:       config.database.dataBaseName,
-  user:           config.database.dbUserName,
-  password:       config.database.dbUserPassword,
-
-  port:           3306,
-  showWarnings:   true,
-  connectTimeout: 1000,
-});
-
+const sequelize = new Sequelize(
+  config.database.dataBaseName,
+  config.database.dbUserName,
+  config.database.dbUserPassword, 
+  {
+    host: config.database.host,
+    dialect: 'mariadb',
+    /// 'Change to false to disable logging
+    logging: false // console.log
+  }
+)
 
 sequelize.authenticate().then(() => {
   console.log(`[model/database] Sequelize authenticate to ${config.database.host} success`.brightMagenta);
 }).catch (error => {
   console.error(`[model/database] Sequelize authenticate to ${config.database.host} error`.brightMagenta, error);
 });
-
-console.log(`[model/database] Sequelize access: database ${config.database.dataBaseName}, user: ${config.database.dbUserName}, password: ${config.database.dbUserPassword}`.brightMagenta);
 
 class Refs extends Model {}
 
