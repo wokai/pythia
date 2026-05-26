@@ -92,6 +92,7 @@ class JsonRepository {
     return new Promise((resolve, reject) => {
       this.readRef(filename).then(ref => {
         console.log(`[model/json] readAndSave: Received Ref`.brightCyan);
+        //console.log(ref);
         Database.createRef(ref).then(res => {
           win.def.log({ level: 'info', file: 'model/json', func: 'createRef', message: `Insert Record success.`});
           resolve(res);

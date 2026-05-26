@@ -41,7 +41,16 @@ const win       = require(path.join('.', '..', 'logger', 'logger'));
 /// ////////////////////////////////////////////////////////////////////////////
 
 
+/// Usage: r.doi = getArticleId(j, 'doi');
+function getArticleId(j, field) {
+  const i = j.articleids.findIndex(a => a.idtype == field);
+  //console.log(`[getArticleId] get id ${field}. Index: ${i}`.yellow);
+  return i == (-1) ? null : j.articleids[i].value;
+}
+
 function doiToFilename(doi) {
+  if(doi == null) return null;
+  ///console.log(`[model/reference] doiToFilename: doi ${doi}`.brightYellow);
   /// Remove url protocol:
   const d1 = doi.replace(/^https?\:\/\//i, "");
   /// Remove leading doi:
@@ -168,16 +177,18 @@ class Reference {
     r.volume = j.volume;
     r.issue  = j.issue;
     r.pages  = j.pages;
-    r.year = j.pubdate;
+    r.year = j.pubdate.substr(0,4);
     
     r.title = j.title;
     r.firstauthor = j.sortfirstauthor;
     r.lastauthor = j.lastauthor;
     r.pubdate = j.epubdate;
-    r.doi = j.articleids.find(a => a.idtype == 'doi').value;
+    r.doi = getArticleId(j, 'doi');
+    //r.doi = j.articleids.find(a => a.idtype == 'doi').value;
     
     r.pmid = j.uid;
-    r.pmcid = j.articleids.find(a => a.idtype == 'pmc').value;
+    r.pmcid = getArticleId(j, 'pmc');
+    //r.pmcid = j.articleids.find(a => a.idtype == 'pmc').value;
 
     return r;
   }

@@ -106,31 +106,15 @@ CREATE OR REPLACE TABLE Refs (
   PRIMARY KEY (id)
 );
  *
- * 
- CREATE OR REPLACE TABLE Refs (
-  id INT NOT NULL AUTO_INCREMENT,
-  txtid VARCHAR(100),
-  type VARCHAR(20),
-  filename VARCHAR(100) UNIQUE,
-  source VARCHAR(100),
-  issue VARCHAR(20),
-  pages VARCHAR(20),
-  year INT,
-  title TEXT,
-  firstauthor VARCHAR(100),
-  lastauthor VARCHAR(100),
-  pubdate VARCHAR(20),
-  doi VARCHAR(100),
-  pmid INT,
-  pmcid VARCHAR(20),
-  attr JSON,
-  PRIMARY KEY (id)
-  );
+ * SELECT id, txtid, filename, createdAt FROM Refs;
  */
 
 class Database {
   
   static async createRef(ref){
+    //console.log(`[model/database] createRef`.brightYellow);
+    //console.log(ref);
+    
     return new Promise((resolve, reject) => {
       const res = Refs.create({
         txtid: ref.txtid,
@@ -152,8 +136,11 @@ class Database {
       }).then((res) => {
         win.def.log({ level: 'info', file: 'model/database', func: 'createRef', message: `Insert Record success.`});
         //console.log(`[model/database] createRef resolve:`.brightYellow);
-        console.log(res);
-        resolve(res);
+        //console.log(res.dataValues);
+        resolve({
+          status: 'OK',
+          id: res.dataValues.id,
+        });
       }).catch((e) => {
         win.def.log({ level: 'error', file: 'model/database', func: 'createRef', message: `${e.name}: ${e.message}`, stack: e.stack});
         //console.log(`[model/database] createRef reject: name ${e.name} | message: ${e.message}`.brightYellow);

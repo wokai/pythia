@@ -93,6 +93,7 @@ router.get('/ref/:name', (request, result, next) => {
 /// ////////////////////////////////////////////////////////////////////// ///
 /// Reads json file from repository and saves content to Database
 /// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/readAndSave/24147111 | jq
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/readAndSave/28 | jq
 /// ////////////////////////////////////////////////////////////////////// ///
 router.get('/readAndSave/:name', (request, result, next) => {
   console.log(`[routes/files] ReadAndSave ref: ${request.params.name}`.brightGreen);
