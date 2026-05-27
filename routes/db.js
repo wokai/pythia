@@ -116,36 +116,33 @@ router.get('/count', (request, result, next) =>{
 /// http://localhost:9000/db/pmid/622185
 /// //////////////////////////////////////////////////////////////////////// ///
 router.get('/pmid/:pmid', (request, result) => {
-  console.log('[db.get.pmid] Query pmid: %s'.brightGreen, request.params.pmid)
+  console.log('[routes/db] get/pmid: %s'.brightGreen, request.params.pmid)
   
   Database.getRecordByTxtId(request.params.pmid).then((res) => {
-    result.status(200).json(res);
-  }).catch((e) => {
-    result.status(404).json(e);
-  });
-  
-  //result.status(200).json({ message: 'temporarily out of order' });
-  
-  /**
-  request.app.locals.col.findOne({ uid : request.params.pmid })
-    .then(doc => {
-      /// Returns null when no record is found.
-      result.status(200).json(doc)
-    })
-    .catch(error => {
+    if(res.found){
+      result.status(200).json(res);
+    } else {
       /// 404 = Not found
-      result.status(500).json({ 
-        status: 'Error',
-        uid: request.params.pmid,
-        message: error.message
-      }); 
-      
-      win.def.log({ level: 'warn', file: 'routes/db', func: 'get|pmid|:pmid', 
-        message: `Uid: ${request.params.pmid} error. Message: ${error.message}.`});
-    })
-  */
+      result.status(404).json(res);
+    }
+  }).catch((e) => {
+    /// 500 = Internal server error
+    result.status(500).json(e);
+  });
 });
 
+/// //////////////////////////////////////////////////////////////////////// ///
+/// Find documents by title
+/// curl http://localhost:9000/db/title/Letter | jq
+/// curl http://localhost:9000/db/pmid/abcdefg | jq
+/// http://localhost:9000/db/pmid/622185
+/// //////////////////////////////////////////////////////////////////////// ///
+router.get('/title/:title', (request, result) => {
+  console.log(`[routes/db] get/title: ${request.params.title}`.brightGreen);
+  Database.getRecordsByTitle(request.params.title).then((res) => {
+    result.status(200).json(res);
+  });
+});
 
 
 /// //////////////////////////////////////////////////////////////////////// ///

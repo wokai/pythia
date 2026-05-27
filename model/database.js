@@ -30,7 +30,7 @@ const fsp             = require('fs').promises;
 const config          = require(path.join(__dirname, '..', 'config', 'config'));
 const win             = require(path.join('.', '..', 'logger', 'logger'));
 
-const { Sequelize, DataTypes, Model } = require('sequelize');
+const { Sequelize, DataTypes, Model, Op } = require('sequelize');
 
 const sequelize = new Sequelize(
   config.database.dataBaseName,
@@ -40,14 +40,24 @@ const sequelize = new Sequelize(
     host: config.database.host,
     dialect: 'mariadb',
     /// 'Change to false to disable logging
-    logging: false // console.log
+    logging: false // console.log // false
   }
 )
 
 sequelize.authenticate().then(() => {
-  win.def.log({ level: 'info', file: 'model/database', func: 'toplevel', message: `Sequelize authenticate to ${config.database.host}.${config.database.dataBaseName} success`});
+  win.def.log({ 
+    level: 'info', 
+    file: 'model/database',
+    func: 'toplevel', 
+    message: `Sequelize authenticate to ${config.database.host}.${config.database.dataBaseName} success`
+  });
 }).catch (error => {
-  win.def.log({ level: 'error', file: 'model/database', func: 'toplevel', message: `Sequelize authenticate to ${config.database.host}.${config.database.dataBaseName} failed`});
+  win.def.log({ 
+    level: 'error',
+    file: 'model/database',
+    func: 'toplevel',
+    message: `Sequelize authenticate to ${config.database.host}.${config.database.dataBaseName} failed`
+  });
 });
 
 class Refs extends Model {}
@@ -175,30 +185,57 @@ class Database {
   }         /// count
   
   static async getRecordByTxtId(txtId) {
-    console.log(`[model/database] getRecordByTxtId. Received txtId ${txtId}`.brightYellow);
     return new Promise((resolve, reject) => {
-      const res = Refs.findAll({
-        where: {
-          txtId: id
+      /// findAll returns array, findOne returns a single object of type Refs
+      Refs.findOne({ where: { txtid: txtId } }).then((res) => {
+        if(res === null) {
+          resolve({ found: 0, message: `txtId ${txtId} not found.`});
+        } else {
+          resolve({ found: 1, data: res.attr });
         }
-      }).then((res) => {
-        console.log(`[model/database] getRecordByTxtId. Success`.brightYellow);
-        console.log(res);
-        resolve(res);
-      }).catch((e) => {
-        console.log(`[model/database] getRecordByTxtId. Failed`.brightYellow);
+      }).catch((err) => {
+        win.def.log({ 
+          level: 'error', 
+          file: 'model/database', 
+          func: 'getRecordByTxtId', 
+          message: `${err.name}: ${err.message}`,
+          stack: err.stack
+        });
+        
         reject({
           status: 'Failed',
-          name: e.name,
-          message: e.message
+          name: err.name,
+          message: err.message
         });
       });
     });
   }
   
+  static async getRecordsByTitle(regexp) {
+    return new Promise((resolve, reject) => {
+      Refs.findAll({
+        where: { title: { [Op.regexp]: regexp } }
+      }).then((res) => {
+        console.log(`[model/database] getRecordsByTitle. Title: ${regexp}`.brightYellow);
+        resolve(res);
+      }).catch((err) => {
+          win.def.log({ 
+            level: 'error', 
+            file: 'model/database', 
+            func: 'getRecordsByTitle', 
+            message: `${err.name}: ${err.message}`,
+            stack: err.stack
+          });
+          reject({
+            status: 'Failed',
+            name: err.name,
+            message: err.message
+          });
+      }); /// catch
+    });   /// Promise
+  }       /// getRecordsByTitle
   
-};
-
+} /// class Database
 
 module.exports = {
   Database:  Database,
