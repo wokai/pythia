@@ -31,7 +31,6 @@ const morgan        = require('morgan');
 const fetch         = require('node-fetch');
 const colors        = require('colors');
 const fs            = require('fs');
-//const MongoClient   = require('mongodb').MongoClient;
 
 const index   = require(path.join(__dirname, 'routes', 'index'));
 const entrez  = require(path.join(__dirname, 'routes', 'entrez'));
@@ -79,7 +78,7 @@ app.use('/', index);
 app.use('/entrez', entrez);
 app.use('/europe', europe);
 app.use('/local', local);
-//app.use('/db', db);
+app.use('/db', db);
 app.use('/files', files);
 
 /**

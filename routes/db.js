@@ -25,11 +25,11 @@
 /// ////////////////////////////////////////////////////////////////////////////
 
 const express     = require('express');
-//const MongoClient = require('mongodb').MongoClient;
 const colors      = require('colors');
 const path        = require('path');
 const fsp         = require('fs').promises;
 
+const { Database }= require(path.join('.', '..', 'model', 'database'));
 const json        = require(path.join('.', '..', 'model', 'json'));
 const config      = require(path.join('.', '..', 'config', 'config'));
 const win         = require(path.join('.', '..', 'logger', 'logger'));
@@ -86,8 +86,66 @@ router.use('/:pmid/file', file);
 
 
 /// ////////////////////////////////////////////////////////////////////////////
-/// D Access to MongoDB
+/// D Query database structure
 /// ////////////////////////////////////////////////////////////////////////////
+
+/// //////////////////////////////////////////////////////////////////////// ///
+/// Return number of documents in database
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/db/count
+/// curl http://localhost:9000/db/count | jq
+/// //////////////////////////////////////////////////////////////////////// ///
+router.get('/count', (request, result, next) =>{
+  
+  Database.count().then((res) => {
+    result.status(200).json(res);
+  }).catch((e) => {
+    result.status(404).json(e);
+  });
+  
+});
+
+
+/// ////////////////////////////////////////////////////////////////////////////
+/// D Query records
+/// ////////////////////////////////////////////////////////////////////////////
+
+/// //////////////////////////////////////////////////////////////////////// ///
+/// Find single document by Pubmed-ID
+/// curl http://localhost:9000/db/pmid/622185 | jq
+/// curl http://localhost:9000/db/pmid/24147111 | jq
+/// http://localhost:9000/db/pmid/622185
+/// //////////////////////////////////////////////////////////////////////// ///
+router.get('/pmid/:pmid', (request, result) => {
+  console.log('[db.get.pmid] Query pmid: %s'.brightGreen, request.params.pmid)
+  
+  Database.getRecordByTxtId(request.params.pmid).then((res) => {
+    result.status(200).json(res);
+  }).catch((e) => {
+    result.status(404).json(e);
+  });
+  
+  //result.status(200).json({ message: 'temporarily out of order' });
+  
+  /**
+  request.app.locals.col.findOne({ uid : request.params.pmid })
+    .then(doc => {
+      /// Returns null when no record is found.
+      result.status(200).json(doc)
+    })
+    .catch(error => {
+      /// 404 = Not found
+      result.status(500).json({ 
+        status: 'Error',
+        uid: request.params.pmid,
+        message: error.message
+      }); 
+      
+      win.def.log({ level: 'warn', file: 'routes/db', func: 'get|pmid|:pmid', 
+        message: `Uid: ${request.params.pmid} error. Message: ${error.message}.`});
+    })
+  */
+});
+
 
 
 /// //////////////////////////////////////////////////////////////////////// ///
@@ -95,6 +153,7 @@ router.use('/:pmid/file', file);
 /// curl http://localhost:9000/db/stats
 /// //////////////////////////////////////////////////////////////////////// ///
 
+/**
 router.get('/stats', (request, result, next) => {
   request.app.locals.con.stats()
     .then(r => {
@@ -102,7 +161,7 @@ router.get('/stats', (request, result, next) => {
     })
     .catch(err => res.status(500).json({ message: err.message }));
 });
-
+*/
 
 /// //////////////////////////////////////////////////////////////////////// ///
 /// Returns name of all collections in database
@@ -123,23 +182,7 @@ router.get('/collections', (request, result, next) => {
 });
 */
 
-/// //////////////////////////////////////////////////////////////////////// ///
-/// Return number of documents in database
-/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/db/count  
-/// //////////////////////////////////////////////////////////////////////// ///
-router.get('/count', (request, result, next) =>{
-  
-  result.status(200).json({ count: 0 });
-  
-  /**
-  request.app.locals.con.stats()
-    .then(r => { 
-      result.status(200).json({ count: r.objects})
-    })
-    .catch(err => result.status(500).json({ message: err.message }));
-  */
-});
-/// curl http://localhost:9000/db/count
+
 
 /// //////////////////////////////////////////////////////////////////////// ///
 /// Creates two indexes:
@@ -272,34 +315,6 @@ router.post('/insert', (request, result) => {
 });
 
 
-/// //////////////////////////////////////////////////////////////////////// ///
-/// Find single document by Pubmed-ID
-/// http://localhost:9000/db/pmid/622185
-/// //////////////////////////////////////////////////////////////////////// ///
-router.get('/pmid/:pmid', (request, result) => {
-  ///console.log('[db.get.pmid] Query pmid: %s'.brightGreen, request.params.pmid)
-  
-  result.status(200).json({ message: 'temporarily out of order' });
-  
-  /**
-  request.app.locals.col.findOne({ uid : request.params.pmid })
-    .then(doc => {
-      /// Returns null when no record is found.
-      result.status(200).json(doc)
-    })
-    .catch(error => {
-      /// 404 = Not found
-      result.status(500).json({ 
-        status: 'Error',
-        uid: request.params.pmid,
-        message: error.message
-      }); 
-      
-      win.def.log({ level: 'warn', file: 'routes/db', func: 'get|pmid|:pmid', 
-        message: `Uid: ${request.params.pmid} error. Message: ${error.message}.`});
-    })
-  */
-});
 
 /// //////////////////////////////////////////////////////////////////////// ///
 /// Find documents by text search in titles

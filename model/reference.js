@@ -67,13 +67,16 @@ function doiToFilename(doi) {
 /// ////////////////////////////////////////////////////////////////////////////
 
 class Reference {
-  
+  /// ------------------------------------------------------------------
   /// id      : Unique numeric identifier as created by database
   /// txtid   : Textual unique identifier e.g. 23147111 for pubmed 
   ///           or doi-10-1126-science-124-3212-103 or s42256-019-0088-2
   /// filename: Will usually be identical to txtid
   /// type    : e.g. pubmed, dae, ai
   /// source  : synonym for journal
+
+  /// ------------------------------------------------------------------
+  /// Properties
   
   /// record as stored in dababase
   #db
@@ -82,6 +85,7 @@ class Reference {
   /// as given by e.g. entrez
   #json
 
+  /// ------------------------------------------------------------------
   /// public accessors
   get json  ()        { return this.#json;          }
   get db    ()        { return this.#db;            }
@@ -126,8 +130,11 @@ class Reference {
   set lastauthor(x)   { this.#db.art.lAuthor = x;   }
   get pubdate()       { return this.#db.art.pubdate;}
   set pubdate(x)      { this.#db.art.pubdate = x;   }
-
   
+  toString() {  return `[Reference] ID: ${this.id}`; }
+
+  /// ------------------------------------------------------------------
+  /// Constructors
   constructor(json){
     this.#json = json;
     
@@ -156,8 +163,7 @@ class Reference {
       } 
     };
   }
-  
-  toString() {  return `[Reference] ID: ${this.id}`; }
+
 
   /**
    * @param{json}   : Json-Object as provided by Entrez (PubMed)
@@ -167,7 +173,6 @@ class Reference {
   static fromEntrez(j) {
     //console.log(`[model/reference] static fromEntrez: Received uid ${j.uid}`.brightYellow);
     const r = new Reference(j);
-
     
     r.txtid = j.uid /// `pmid-${j.uid}` will not be used initially
     r.type = 'pubmed';
@@ -184,11 +189,9 @@ class Reference {
     r.lastauthor = j.lastauthor;
     r.pubdate = j.epubdate;
     r.doi = getArticleId(j, 'doi');
-    //r.doi = j.articleids.find(a => a.idtype == 'doi').value;
     
     r.pmid = j.uid;
     r.pmcid = getArticleId(j, 'pmc');
-    //r.pmcid = j.articleids.find(a => a.idtype == 'pmc').value;
 
     return r;
   }
@@ -205,7 +208,6 @@ class Reference {
    *  year:   (numeric)
    * }
    **/
-  
   static fromDoi(j){
     const r = new Reference(j);
     r.id = doiToFilename(j.doi);
@@ -215,7 +217,6 @@ class Reference {
     r.year = j.year;
 
     r.journal = j.journal;
-    
     r.title = j.title;
     r.firstauthor = j.firstauthor;
     r.lastauthor = j.lastauthor;

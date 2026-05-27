@@ -105,7 +105,12 @@ CREATE OR REPLACE TABLE Refs (
   updatedAt DATETIME,
   PRIMARY KEY (id)
 );
- *
+
+CREATE OR REPLACE UNIQUE INDEX refs_txtid_idx ON Refs (txtid);
+
+
+ * 
+ * 
  * SELECT id, txtid, filename, createdAt FROM Refs;
  */
 
@@ -113,7 +118,6 @@ class Database {
   
   static async createRef(ref){
     //console.log(`[model/database] createRef`.brightYellow);
-    //console.log(ref);
     
     return new Promise((resolve, reject) => {
       const res = Refs.create({
@@ -134,16 +138,13 @@ class Database {
         pubdate: ref.pubdate,
         attr: ref.json
       }).then((res) => {
-        win.def.log({ level: 'info', file: 'model/database', func: 'createRef', message: `Insert Record success.`});
-        //console.log(`[model/database] createRef resolve:`.brightYellow);
-        //console.log(res.dataValues);
+        win.def.log({ level: 'info', file: 'model/database', func: 'createRef', message: `Insert of record id ${res.dataValues.id}.`});
         resolve({
           status: 'OK',
           id: res.dataValues.id,
         });
       }).catch((e) => {
         win.def.log({ level: 'error', file: 'model/database', func: 'createRef', message: `${e.name}: ${e.message}`, stack: e.stack});
-        //console.log(`[model/database] createRef reject: name ${e.name} | message: ${e.message}`.brightYellow);
         reject({
           status: 'Error',
           name: e.name,
@@ -151,7 +152,50 @@ class Database {
         });
       });
     }); /// Promise
-  } /// Create Ref
+  }     /// Create Ref
+  
+  
+  /// ------------------------------------------------------------------
+  /// Query database
+  /// ------------------------------------------------------------------
+   
+  /// https://sequelize.org/docs/v6/core-concepts/model-querying-basics/
+  static async count() {
+    return new Promise((resolve, reject) => {
+      const res = Refs.count({}).then((res) => {
+        resolve({ count: res });
+      }).catch((e) => {
+        reject({
+          status: 'Failed',
+          name: e.name,
+          message: e.message
+        });
+      });
+    });     /// Promise
+  }         /// count
+  
+  static async getRecordByTxtId(txtId) {
+    console.log(`[model/database] getRecordByTxtId. Received txtId ${txtId}`.brightYellow);
+    return new Promise((resolve, reject) => {
+      const res = Refs.findAll({
+        where: {
+          txtId: id
+        }
+      }).then((res) => {
+        console.log(`[model/database] getRecordByTxtId. Success`.brightYellow);
+        console.log(res);
+        resolve(res);
+      }).catch((e) => {
+        console.log(`[model/database] getRecordByTxtId. Failed`.brightYellow);
+        reject({
+          status: 'Failed',
+          name: e.name,
+          message: e.message
+        });
+      });
+    });
+  }
+  
   
 };
 
