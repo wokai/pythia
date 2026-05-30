@@ -28,8 +28,11 @@ const colors    = require('colors');
 
 const config      = require(path.join(__dirname, '..', 'config', 'config'));    /// Database
 const win         = require(path.join(__dirname, '..', 'logger', 'logger'));
-const { json  }   = require(path.join(__dirname, '..', 'model', 'json'));
-const { entrez }  = require(path.join(__dirname, '..', 'model', 'entrez'));
+
+const { json  }     = require(path.join(__dirname, '..', 'model', 'json'));
+const { entrez }    = require(path.join(__dirname, '..', 'model', 'entrez'));
+const Reference     = require(path.join(__dirname, '..', 'model', 'reference'));
+const { Database }  = require(path.join(__dirname, '..', 'model', 'database'));
 
 const router = express.Router();
 
@@ -45,6 +48,7 @@ const router = express.Router();
 /// Get bibtex from DOI
 /// curl -LH "Accept: text/bibliography; style=bibtex" http://dx.doi.org/10.1038/nrd842
 /// curl -LH "Accept: text/bibliography; style=json" http://dx.doi.org/10.1038/nrd842
+/// curl https://api.crossref.org/works/10.1038/nrd842 | jq
 
 
 function writeJson(obj, name){
@@ -177,11 +181,20 @@ router.post('/', (request, result, next) => {
           .catch(reason => {console.log('[routes/entrez] writeJson Rejected: %s'.brightRed, reason) });
         try{
           /// Insert into database without check ...
-          request.app.locals.col.insertOne(json.result[p])
-            .catch(e => console.log('[entrez.js] Database insert of PMID %s failed.'.brightRed, p, e.message))
+          const r = Reference.fromPubmed(json.result[p]);
+          Database.createRef(ref).then(res => {
+            win.def.log({ level: 'info', file: 'model/json', func: 'createRef', message: `Insert Record success.`});
+            result.status(200).json(res);
+          }).catch((err) => {
+            win.def.log({ level: 'error', file: 'model/json', func: 'readAndSave', message: `${err.name}: ${err.message}`});
+            result.status(500).json(err);
+          });
+          //request.app.locals.col.insertOne(json.result[p])
+          //  .catch(e => console.log('[entrez.js] Database insert of PMID %s failed.'.brightRed, p, e.message))
           console.log('[pythia] Database PMID %s written.'.brightGreen, p)
-        } catch(error) {
-          console.log('[entrez.js] Database insert of PMID %s failed.'.brightRed, p)
+        } catch(err) {
+          win.def.log({ level: 'error', file: 'model/json', func: 'readAndSave', message: `${err.name}: ${err.message}`});
+          result.status(500).json(err);
         }
         
       });
