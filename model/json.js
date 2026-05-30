@@ -28,9 +28,8 @@ const colors    = require('colors');
 const path      = require('path');
 const fsp       = require('fs').promises;
 
-const config    = require(path.join(__dirname, '..', 'config', 'config'));
-const win       = require(path.join('.', '..', 'logger', 'logger'));
-
+const config        = require(path.join(__dirname, '..', 'config', 'config'));
+const win           = require(path.join(__dirname, '..', 'logger', 'logger'));
 const Reference     = require(path.join(__dirname, 'reference'));
 const { Database }  = require(path.join(__dirname, 'database'));
 
@@ -71,18 +70,18 @@ class JsonRepository {
 
   /**
    * @param{filename}   : Name [string] of file without path and extension
-   * @returns{Promise}  : Reference object
+   * @returns{Promise}  : Resolves to Reference object
    **/
   readRef = async (filename) => {
     return new Promise((resolve, reject) => {
       console.log(`[model/json] readRef: Received filename ${filename}`.brightCyan);
       this.readFile(filename).then(j => {
         console.log(`[model/json] readRef: Received uid ${j.uid}`.brightCyan);
-        const r = Reference.fromEntrez(j);
+        const r = Reference.fromPubmed(j);
         console.log(`[model/json] readRef.id: ${r.id}`.brightCyan);
         resolve(r);
       }).catch(err => {
-          reject(err);
+        reject(err);
       }); /// readFile
     });   /// Promise
   };      /// readRef

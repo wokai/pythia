@@ -28,7 +28,6 @@ const colors    = require('colors');
 
 const config      = require(path.join(__dirname, '..', 'config', 'config'));    /// Database
 const win         = require(path.join(__dirname, '..', 'logger', 'logger'));
-// const { mongo }   = require(path.join(__dirname, '..', 'model', 'mongo'));
 const { json  }   = require(path.join(__dirname, '..', 'model', 'json'));
 const { entrez }  = require(path.join(__dirname, '..', 'model', 'entrez'));
 

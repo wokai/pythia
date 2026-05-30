@@ -29,6 +29,7 @@ const colors      = require('colors');
 const path        = require('path');
 const fsp         = require('fs').promises;
 
+const Reference   = require(path.join('.', '..', 'model', 'reference'));
 const { Database }= require(path.join('.', '..', 'model', 'database'));
 const json        = require(path.join('.', '..', 'model', 'json'));
 const config      = require(path.join('.', '..', 'config', 'config'));
@@ -118,7 +119,7 @@ router.get('/count', (request, result, next) =>{
 router.get('/pmid/:pmid', (request, result) => {
   console.log('[routes/db] get/pmid: %s'.brightGreen, request.params.pmid)
   
-  Database.getRecordByTxtId(request.params.pmid).then((res) => {
+  Database.getOneRecordByTxtId(request.params.pmid).then((res) => {
     if(res.found){
       result.status(200).json(res);
     } else {
@@ -126,7 +127,7 @@ router.get('/pmid/:pmid', (request, result) => {
       result.status(404).json(res);
     }
   }).catch((e) => {
-    /// 500 = Internal server error
+    /// 500 = Internal server errorF
     result.status(500).json(e);
   });
 });
@@ -144,6 +145,37 @@ router.get('/title/:title', (request, result) => {
   });
 });
 
+
+/// //////////////////////////////////////////////////////////////////////// ///
+/// Inserts one new object into entrez collection and returns ID
+/// //////////////////////////////////////////////////////////////////////// ///
+
+router.post('/insert/pubmed', (request, result) => {
+  console.log(`[routes/db] post/insert/entrez`.brightGreen);
+  Database.createRef(Reference.fromPubmed(request.body)).then((res) => {
+    result.status(200).json(res);
+  }).catch((err) => {
+    result.status(500).json(err);
+  });
+});
+
+router.post('/insert/doi', (request, result) => {
+  console.log(`[routes/db] post/insert/entrez`.brightGreen);
+  Database.createRef(Reference.fromDoi(request.body)).then((res) => {
+    result.status(200).json(res);
+  }).catch((err) => {
+    result.status(500).json(err);
+  });
+});
+
+router.post('/insert/prop', (request, result) => {
+  console.log(`[routes/db] post/insert/entrez`.brightGreen);
+  Database.createRef(Reference.fromProprietary(request.body)).then((res) => {
+    result.status(200).json(res);
+  }).catch((err) => {
+    result.status(500).json(err);
+  });
+});
 
 /// //////////////////////////////////////////////////////////////////////// ///
 /// Return Collection statistics
@@ -288,28 +320,6 @@ router.post('/authors', (request, result) => {
   }
 });
 */
-
-
-/// //////////////////////////////////////////////////////////////////////// ///
-/// Inserts one new object into entrez collection and returns ID
-/// //////////////////////////////////////////////////////////////////////// ///
-
-router.post('/insert', (request, result) => {
-  
-  result.status(200).json({ message: 'temporarily out of order' });
-  
-  /**
-  request.app.locals.col.insertOne(request.body)
-    .then((res) => {
-      console.log('[db.post] Inserted %i records. ID = %s'.brightGreen, 
-        res.insertedCount, res.insertedId);
-        win.def.log({ level: 'info', file: 'routes/db', func: 'post|insert', 
-          message: `Database insert id: ${res.insertedId}, ${res.insertedCount} records.`});
-      result.status(200).json(res.insertedId);
-    })
-    .catch(err => result.status(500).json({ message: err.message }));
-  */
-});
 
 
 

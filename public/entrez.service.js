@@ -29,8 +29,6 @@
 
 var app = angular.module('globalModule');
 
-
-
 /// ////////////////////////////////////////////////////////////////////////////
 app.factory('EntrezService', function($http) {
 

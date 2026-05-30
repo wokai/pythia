@@ -167,11 +167,12 @@ class Reference {
 
   /**
    * @param{json}   : Json-Object as provided by Entrez (PubMed)
+   * @usedBy        : model/json.ReadRef
    * @returns{Reference}
    **/
 
-  static fromEntrez(j) {
-    //console.log(`[model/reference] static fromEntrez: Received uid ${j.uid}`.brightYellow);
+  static fromPubmed(j) {
+    //console.log(`[model/reference] static fromPubmed: Received uid ${j.uid}`.brightYellow);
     const r = new Reference(j);
     
     r.txtid = j.uid /// `pmid-${j.uid}` will not be used initially
@@ -201,7 +202,7 @@ class Reference {
   /**
    * Create reference object from Json object
    * {
-   *  type:   (string)              [ 'pmc', 'doi', 'prop' ]
+   *  type:   (string)              [ 'pubmed', 'doi', 'eup', 'prop' ]
    *  id:     (string or numeric)
    *  title:  (string)
    *  source: (string)
@@ -223,7 +224,7 @@ class Reference {
     return r;
   }
   
-  static fromExtern(j) {
+  static fromProprietary(j) {
     const r = new Reference(j);
     r.id = `prop-${j.uid}`
     r.type = j.type;

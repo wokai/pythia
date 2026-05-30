@@ -125,6 +125,11 @@ CREATE OR REPLACE UNIQUE INDEX refs_txtid_idx ON Refs (txtid);
  */
 
 class Database {
+
+  /**
+   * @params    : Reference object
+   * 
+   **/
   
   static async createRef(ref){
     //console.log(`[model/database] createRef`.brightYellow);
@@ -184,9 +189,17 @@ class Database {
     });     /// Promise
   }         /// count
   
-  static async getRecordByTxtId(txtId) {
+  
+  /**
+   * @usedBy    { get: /pmid/:pmid} + (routes/db)
+   * @param     { txtid: Record Id - String }
+   * @returns   { json from attr column as returned by findOne }
+   * @throws    { Nothing. Promise will be rejected }
+   **/
+  
+  static async getOneRecordByTxtId(txtId) {
     return new Promise((resolve, reject) => {
-      /// findAll returns array, findOne returns a single object of type Refs
+      /// findOne returns a single object of type Refs
       Refs.findOne({ where: { txtid: txtId } }).then((res) => {
         if(res === null) {
           resolve({ found: 0, message: `txtId ${txtId} not found.`});
@@ -197,7 +210,7 @@ class Database {
         win.def.log({ 
           level: 'error', 
           file: 'model/database', 
-          func: 'getRecordByTxtId', 
+          func: 'getOneRecordByTxtId', 
           message: `${err.name}: ${err.message}`,
           stack: err.stack
         });
@@ -206,10 +219,40 @@ class Database {
           status: 'Failed',
           name: err.name,
           message: err.message
-        });
-      });
+        }); /// reject
+      });   /// catch
     });
   }
+  
+  /**
+   * @usedBy    { get: /pmid/:pmid} + (routes/db)
+   * @param     { txtIds: Array of txtId's - String }
+   * @returns   { Array of database records as returned by findAll }
+   * @throws    { Nothing. Promise will be rejected }
+   **/
+  
+  static async getRecordsByTxtId(txtIds) {
+    return new Promise((resolve, reject) => {
+      /// findAll returns array
+      Refs.findAll({ where: { txtid: txtIds } }).then((res) => {
+        resolve(res);
+      }).catch((err) => {
+        win.def.log({ 
+          level: 'error', 
+          file: 'model/database', 
+          func: 'getRecordsByTxtId', 
+          message: `${err.name}: ${err.message}`,
+          stack: err.stack
+        });
+        
+        reject({
+          status: 'Failed',
+          name: err.name,
+          message: err.message
+        }); /// reject
+      });   /// catch
+    });     /// Promise
+  }         /// getAllRecordsByTxtId
   
   static async getRecordsByTitle(regexp) {
     return new Promise((resolve, reject) => {
