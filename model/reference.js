@@ -87,6 +87,8 @@ class Reference {
 
   /// ------------------------------------------------------------------
   /// public accessors
+  /// ------------------------------------------------------------------
+  
   get json  ()        { return this.#json;          }
   get db    ()        { return this.#db;            }
 
@@ -133,8 +135,10 @@ class Reference {
   
   toString() {  return `[Reference] ID: ${this.id}`; }
 
+
   /// ------------------------------------------------------------------
-  /// Constructors
+  /// Constructor
+  /// ------------------------------------------------------------------
   constructor(json){
     this.#json = json;
     
@@ -164,6 +168,10 @@ class Reference {
     };
   }
 
+
+  /// ------------------------------------------------------------------
+  /// Static constructor methods
+  /// ------------------------------------------------------------------
 
   /**
    * @param{json}   : Json-Object as provided by Entrez (PubMed)

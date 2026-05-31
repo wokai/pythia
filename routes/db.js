@@ -30,7 +30,7 @@ const path        = require('path');
 const fsp         = require('fs').promises;
 
 const Reference   = require(path.join('.', '..', 'model', 'reference'));
-const { Database }= require(path.join('.', '..', 'model', 'database'));
+const { database }= require(path.join('.', '..', 'model', 'database'));
 const json        = require(path.join('.', '..', 'model', 'json'));
 const config      = require(path.join('.', '..', 'config', 'config'));
 const win         = require(path.join('.', '..', 'logger', 'logger'));
@@ -97,7 +97,7 @@ router.use('/:pmid/file', file);
 /// //////////////////////////////////////////////////////////////////////// ///
 router.get('/count', (request, result, next) =>{
   
-  Database.count().then((res) => {
+  database.count().then((res) => {
     result.status(200).json(res);
   }).catch((e) => {
     result.status(404).json(e);
@@ -119,7 +119,7 @@ router.get('/count', (request, result, next) =>{
 router.get('/pmid/:pmid', (request, result) => {
   console.log('[routes/db] get/pmid: %s'.brightGreen, request.params.pmid)
   
-  Database.getOneRecordByTxtId(request.params.pmid).then((res) => {
+  database.getOneRecordByTxtId(request.params.pmid).then((res) => {
     if(res.found){
       result.status(200).json(res);
     } else {
@@ -140,7 +140,7 @@ router.get('/pmid/:pmid', (request, result) => {
 /// //////////////////////////////////////////////////////////////////////// ///
 router.get('/title/:title', (request, result) => {
   console.log(`[routes/db] get/title: ${request.params.title}`.brightGreen);
-  Database.getRecordsByTitle(request.params.title).then((res) => {
+  database.getRecordsByTitle(request.params.title).then((res) => {
     result.status(200).json(res);
   });
 });
@@ -152,7 +152,7 @@ router.get('/title/:title', (request, result) => {
 
 router.post('/insert/pubmed', (request, result) => {
   console.log(`[routes/db] post/insert/entrez`.brightGreen);
-  Database.createRef(Reference.fromPubmed(request.body)).then((res) => {
+  database.createRef(Reference.fromPubmed(request.body)).then((res) => {
     result.status(200).json(res);
   }).catch((err) => {
     result.status(500).json(err);
@@ -161,7 +161,7 @@ router.post('/insert/pubmed', (request, result) => {
 
 router.post('/insert/doi', (request, result) => {
   console.log(`[routes/db] post/insert/entrez`.brightGreen);
-  Database.createRef(Reference.fromDoi(request.body)).then((res) => {
+  database.createRef(Reference.fromDoi(request.body)).then((res) => {
     result.status(200).json(res);
   }).catch((err) => {
     result.status(500).json(err);
@@ -170,7 +170,7 @@ router.post('/insert/doi', (request, result) => {
 
 router.post('/insert/prop', (request, result) => {
   console.log(`[routes/db] post/insert/entrez`.brightGreen);
-  Database.createRef(Reference.fromProprietary(request.body)).then((res) => {
+  database.createRef(Reference.fromProprietary(request.body)).then((res) => {
     result.status(200).json(res);
   }).catch((err) => {
     result.status(500).json(err);
@@ -411,7 +411,7 @@ router.get('/query/:term', (request, result, next) => {
 router.get('/delete/:term', (request, result, next) => {
   result.status(200).json({ message: 'temporarily out of order' });
   /**
-  win.def.log({ level: 'info', file: 'routes/db', func: 'delete/:term', message: `Database deleted Id ${request.params.term}`});
+  win.def.log({ level: 'info', file: 'routes/db', func: 'delete/:term', message: `database deleted Id ${request.params.term}`});
   request.app.locals.col.deleteOne({ uid: request.params.term }).then(dbres => {
       result.status(200).json({ deleted: dbres.deletedCount });
   });
@@ -443,12 +443,12 @@ router.post('/transfer', (request, result, next) => {
       json.repo.readFile(id).then(json => {
         request.app.locals.col.insertOne(json).then(ins => {
           console.log(`[Resolve] Insert id: ${id}`.brightGreen);
-          win.def.log({ level: 'info', file: 'routes/db', func: 'post|transfer', message: `Database insert success for id: ${id}.`});
+          win.def.log({ level: 'info', file: 'routes/db', func: 'post|transfer', message: `database insert success for id: ${id}.`});
           resolve(id);
         }).catch(err => {
           console.log(`[Reject] Insert id: ${err.keyValue.uid}`.brightYellow);
-          win.def.log({ level: 'warn', file: 'routes/db', func: 'post|transfer', message: `Database insert failed for id: ${err.keyValue.uid}, code: ${err.code}.`});
-          reject({ id: id, message: `Database insert failed: ${err.code}` });
+          win.def.log({ level: 'warn', file: 'routes/db', func: 'post|transfer', message: `database insert failed for id: ${err.keyValue.uid}, code: ${err.code}.`});
+          reject({ id: id, message: `database insert failed: ${err.code}` });
         }) 
       }).catch(err => {
           console.log(`[Reject] readFile id: ${id}`.brightYellow);

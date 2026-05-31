@@ -26,13 +26,13 @@ const path      = require('path');
 const fs        = require('fs/promises');
 const colors    = require('colors');
 
-const config      = require(path.join(__dirname, '..', 'config', 'config'));    /// Database
+const config      = require(path.join(__dirname, '..', 'config', 'config'));    /// database
 const win         = require(path.join(__dirname, '..', 'logger', 'logger'));
 
 const { json  }     = require(path.join(__dirname, '..', 'model', 'json'));
 const { entrez }    = require(path.join(__dirname, '..', 'model', 'entrez'));
 const Reference     = require(path.join(__dirname, '..', 'model', 'reference'));
-const { Database }  = require(path.join(__dirname, '..', 'model', 'database'));
+const { database }  = require(path.join(__dirname, '..', 'model', 'database'));
 
 const router = express.Router();
 
@@ -87,7 +87,7 @@ router.get('/dblist', function(request, result, next) {
     result.status(200).json(json); 
   })
   .catch(err => {
-    console.log('[pythia] Error while fetching Database names: %s'.brightRed, err.message)
+    console.log('[pythia] Error while fetching database names: %s'.brightRed, err.message)
     result.send(err.toString())
   });
 });
@@ -182,7 +182,7 @@ router.post('/', (request, result, next) => {
         try{
           /// Insert into database without check ...
           const r = Reference.fromPubmed(json.result[p]);
-          Database.createRef(ref).then(res => {
+          database.createRef(ref).then(res => {
             win.def.log({ level: 'info', file: 'model/json', func: 'createRef', message: `Insert Record success.`});
             result.status(200).json(res);
           }).catch((err) => {
@@ -190,8 +190,8 @@ router.post('/', (request, result, next) => {
             result.status(500).json(err);
           });
           //request.app.locals.col.insertOne(json.result[p])
-          //  .catch(e => console.log('[entrez.js] Database insert of PMID %s failed.'.brightRed, p, e.message))
-          console.log('[pythia] Database PMID %s written.'.brightGreen, p)
+          //  .catch(e => console.log('[entrez.js] database insert of PMID %s failed.'.brightRed, p, e.message))
+          console.log('[pythia] database PMID %s written.'.brightGreen, p)
         } catch(err) {
           win.def.log({ level: 'error', file: 'model/json', func: 'readAndSave', message: `${err.name}: ${err.message}`});
           result.status(500).json(err);
@@ -215,7 +215,7 @@ router.post('/', (request, result, next) => {
 router.post('/twostep', (request, result, next) => {
   if(request.body.pmid){
     win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `PMID's: ${request.body.pmid}`});
-    console.log(`[routes/entrez] Post /twostep: pmid's: ${request.body.pmid}`.yellow)
+    //console.log(`[routes/entrez] Post /twostep: pmid's: ${request.body.pmid}`.yellow)
     mongo.getFilteredDatasets(request.app.locals.col, mongo.toPmidArray(request.body.pmid))
       .then(res => {
         win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `Fetching from Entrez because unknown: ${res.unknown}.`});
@@ -231,13 +231,13 @@ router.post('/twostep', (request, result, next) => {
                     /// Insert into database without check ...
                     request.app.locals.col.insertOne(p)
                       .catch(e => {
-                        win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${p} failed.`});
+                        win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `database insert of PMID ${p} failed.`});
                       })
                   } catch(error) {
-                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${p} failed.`});
+                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `database insert of PMID ${p} failed.`});
                   }
                 });
-                result.status(200).json(res);                
+                result.status(200).json(res);
               } else {
                 res.entrez = [];
                 result.status(200).json(res);

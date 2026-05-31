@@ -117,21 +117,74 @@ CREATE OR REPLACE TABLE Refs (
 );
 
 CREATE OR REPLACE UNIQUE INDEX refs_txtid_idx ON Refs (txtid);
-
-
- * 
  * 
  * SELECT id, txtid, filename, createdAt FROM Refs;
  */
 
+/**
+ * @usedBy    - (routes/entrez, routes/db, model/json)
+ **/
+
 class Database {
+  
+  constructor(){}
+  
+
+  /// ------------------------------------------------------------------
+  /// 
+  /// ------------------------------------------------------------------
+
+  isInt = (val) => { return Number.isNaN(parseInt(val)); }
 
   /**
-   * @params    : Reference object
-   * 
+   * @param         - {pmid: array of numeric}
+   * @returns       - {Sorted array with Pubmed-Id (strings)}
    **/
+  toPmidArray = (pmid) => {
+    /// Eventually convert to array
+    if(!Array.isArray(pmid)){ val = [0].fill(pmid); }
+    /// Ensure, that only integral numbers are processed
+    const pmint = pmid.map(x => parseInt(x));
+    const pminf = pmint.filter(x => !Number.isNaN(x));
+    return pminf.map(x => x.toString()).sort();
+  }
   
-  static async createRef(ref){
+  
+  /**
+   * @param{uid}      - (array of pubmed-id's. Output of toPmidArray)
+   * @param{pubmed}   - (Array of pubmed-records)
+   * @returns{object} - ({ contained: pubmed-records, unknown: pubmed-id's })
+   **/
+  setDifference = (uid, pubmed) => {
+    let ui=0, pi=0;
+    let contained = [];
+    let unknown   = [];
+    
+    while(ui < uid.length && pi < pubmed.length){
+      if      (uid[ui] < pubmed[pi].uid) { unknown.push(uid[ui++]); }
+      else if (uid[ui] > pubmed[pi].uid) { ++pi; }
+      else    { contained.push(pubmed[pi]); ++ui; ++ pi; }
+    }
+    
+    while(ui < uid.length){ unknown.push(uid[ui++]); }
+    if(contained.length > 0){
+      console.log(`[model/mongo] Found pmid's ${contained.map(p => p.uid).join()}`.green);
+    } else {
+      console.log('[model/mongo] No pmid found in local database.'.green);
+    }
+    return { contained : contained, unknown: unknown }
+  }
+  
+  
+  /// ------------------------------------------------------------------
+  /// Insert routines
+  /// ------------------------------------------------------------------
+
+  /**
+   * @param{ref}      - (Reference object)
+   * @returns         - (Promise: resolved provides id)
+   **/
+  async createRef(ref){
     //console.log(`[model/database] createRef`.brightYellow);
     
     return new Promise((resolve, reject) => {
@@ -175,7 +228,7 @@ class Database {
   /// ------------------------------------------------------------------
    
   /// https://sequelize.org/docs/v6/core-concepts/model-querying-basics/
-  static async count() {
+  async count() {
     return new Promise((resolve, reject) => {
       const res = Refs.count({}).then((res) => {
         resolve({ count: res });
@@ -197,7 +250,7 @@ class Database {
    * @throws    { Nothing. Promise will be rejected }
    **/
   
-  static async getOneRecordByTxtId(txtId) {
+  async getOneRecordByTxtId(txtId) {
     return new Promise((resolve, reject) => {
       /// findOne returns a single object of type Refs
       Refs.findOne({ where: { txtid: txtId } }).then((res) => {
@@ -231,7 +284,7 @@ class Database {
    * @throws    { Nothing. Promise will be rejected }
    **/
   
-  static async getRecordsByTxtId(txtIds) {
+  async getRecordsByTxtId(txtIds) {
     return new Promise((resolve, reject) => {
       /// findAll returns array
       Refs.findAll({ where: { txtid: txtIds } }).then((res) => {
@@ -254,7 +307,7 @@ class Database {
     });     /// Promise
   }         /// getAllRecordsByTxtId
   
-  static async getRecordsByTitle(regexp) {
+  async getRecordsByTitle(regexp) {
     return new Promise((resolve, reject) => {
       Refs.findAll({
         where: { title: { [Op.regexp]: regexp } }
@@ -280,7 +333,10 @@ class Database {
   
 } /// class Database
 
+const database = Object.freeze(new Database);
+
 module.exports = {
-  Database:  Database,
+  database: database,
+  //Database: Database,
   Refs: Refs
 }
