@@ -142,10 +142,11 @@ class Database {
    **/
   toPmidArray = (pmid) => {
     /// Eventually convert to array
-    if(!Array.isArray(pmid)){ val = [0].fill(pmid); }
+    if(!Array.isArray(pmid)){ val = [].fill(pmid); }
     /// Ensure, that only integral numbers are processed
     const pmint = pmid.map(x => parseInt(x));
     const pminf = pmint.filter(x => !Number.isNaN(x));
+    /// Convert back to string
     return pminf.map(x => x.toString()).sort();
   }
   
@@ -174,7 +175,6 @@ class Database {
     }
     return { contained : contained, unknown: unknown }
   }
-  
   
   /// ------------------------------------------------------------------
   /// Insert routines
@@ -288,6 +288,7 @@ class Database {
     return new Promise((resolve, reject) => {
       /// findAll returns array
       Refs.findAll({ where: { txtid: txtIds } }).then((res) => {
+        /// Array of records
         resolve(res);
       }).catch((err) => {
         win.def.log({ 
@@ -330,7 +331,21 @@ class Database {
       }); /// catch
     });   /// Promise
   }       /// getRecordsByTitle
-  
+
+  /**
+   * @param     - (refs: Array of Pubmed ID's: numeric)
+   **/
+  async queryPubMedArray(refs) {
+    return new Promise((resolve, reject) => {
+      const pmids = toPmidArray(refs);
+      this.getRecordsByTxtId(pmids).then((dbrefs) => {
+        
+      }).catch((err) => {
+        
+      });
+    }); /// Promise
+  }     /// pubMedArray
+
 } /// class Database
 
 const database = Object.freeze(new Database);

@@ -133,6 +133,20 @@ router.get('/pmid/:pmid', (request, result) => {
 });
 
 /// //////////////////////////////////////////////////////////////////////// ///
+/// Find documents by pubmed-id array
+/// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [17, 28, 114 ] }' -H 'content-type: application/json' http://localhost:9000/db/pmid
+/// //////////////////////////////////////////////////////////////////////// ///
+
+router.post('/pmid', (request, result) => {
+  console.log('[routes/db] post/pmid: %s'.brightGreen, request.params.pmid);
+  database.getRecordsByTxtId(request.body).then((res) => {
+    result.status(200).json(res);
+  }).catch((err) => {
+    result.status(500).json(err);
+  });
+});
+
+/// //////////////////////////////////////////////////////////////////////// ///
 /// Find documents by title
 /// curl http://localhost:9000/db/title/Letter | jq
 /// curl http://localhost:9000/db/pmid/abcdefg | jq
