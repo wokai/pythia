@@ -134,16 +134,27 @@ router.get('/pmid/:pmid', (request, result) => {
 
 /// //////////////////////////////////////////////////////////////////////// ///
 /// Find documents by pubmed-id array
-/// curl -w "\nstatus=%{http_code}\n" -XPOST -d '{"pmids": [17, 28, 114 ] }' -H 'content-type: application/json' http://localhost:9000/db/pmid
+/// curl -w "\nstatus=%{http_code}\n" -X POST -d '{"pmid": [17, 28, 114 ] }' -H 'content-type: application/json' http://localhost:9000/db/pmid
+/// curl -X POST http://localhost:9000/db/pmid -H "Content-Type: application/json" -d '{"pmid": [17, 28, 114 ] }' | jq
+/// curl -d "user=user1&pass=abcd" -X POST http://localhost:9000/db/pmid
+
+/// curl -d '{"pmid": [17, 28, 114] }' -H "Content-Type: application/json" -X POST http://localhost:9000/db/pmid | jq
 /// //////////////////////////////////////////////////////////////////////// ///
 
 router.post('/pmid', (request, result) => {
-  console.log('[routes/db] post/pmid: %s'.brightGreen, request.params.pmid);
-  database.getRecordsByTxtId(request.body).then((res) => {
-    result.status(200).json(res);
-  }).catch((err) => {
-    result.status(500).json(err);
-  });
+  const param = request.body.pmid;
+  if(!Array.isArray(param)) {
+    result.status(400).json({
+      status: 'Error',
+      message: 'request.body.pmid must contain an array'
+    });
+  } else {
+    database.getRecordsByTxtId(request.body.pmid).then((res) => {
+      result.status(200).json(res);
+    }).catch((err) => {
+      result.status(500).json(err);
+    });
+  };
 });
 
 /// //////////////////////////////////////////////////////////////////////// ///

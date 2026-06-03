@@ -204,19 +204,20 @@ router.post('/', (request, result, next) => {
 });
 
  
-
+/// ////////////////////////////////////////////////////////////////////
 /// curl -d "{ \"pmid\": [ 28969617 ] }" -X POST http://localhost:9000/entrez/twostep -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
 /// curl -d "{ \"pmid\": [1, 10000, 13682, 100000, 1148076, 234567] }" -X POST http://localhost:9000/entrez/twostep -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
 /// curl -d "{ \"pmid\": [ 19343057 ] }" -X POST http://localhost:9000/entrez/twostep -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
 /// {"contained":[{"uid":"10000"},{"uid":"1148076"},{"uid":"13682"}],"unknown":["1","100000","234567"]}
-
+/// ////////////////////////////////////////////////////////////////////
 
 
 router.post('/twostep', (request, result, next) => {
   if(request.body.pmid){
     win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `PMID's: ${request.body.pmid}`});
-    //console.log(`[routes/entrez] Post /twostep: pmid's: ${request.body.pmid}`.yellow)
-    mongo.getFilteredDatasets(request.app.locals.col, mongo.toPmidArray(request.body.pmid))
+    console.log(`[routes/entrez] Post /twostep: pmid's: ${request.body.pmid}`.yellow);
+    
+    database.getRecordsByTxtId(request.body.pmid)
       .then(res => {
         win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `Fetching from Entrez because unknown: ${res.unknown}.`});
         console.log('[routes/entrez] /twostep unknown: %s'.yellow, res.unknown)
@@ -227,15 +228,12 @@ router.post('/twostep', (request, result, next) => {
               if(e !== undefined){
                 res.entrez = e;
                 e.forEach(p => {
-                  try {
-                    /// Insert into database without check ...
-                    request.app.locals.col.insertOne(p)
-                      .catch(e => {
-                        win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `database insert of PMID ${p} failed.`});
-                      })
-                  } catch(error) {
-                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `database insert of PMID ${p} failed.`});
-                  }
+                  /// Insert into database without check ...
+                  database.createRef(Reference.fromPubmed(p)).then((res) => {
+                    win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `Fetching from Entrez because unknown: ${res.unknown}.`});
+                  }).catch((err) => {
+                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `database insert of PMID ${p} failed. Name: ${err.name}. Message: ${err.message}.`});
+                  });
                 });
                 result.status(200).json(res);
               } else {

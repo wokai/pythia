@@ -30,7 +30,7 @@ const cookieParser  = require('cookie-parser');
 const morgan        = require('morgan');
 const fetch         = require('node-fetch');
 const colors        = require('colors');
-const fs            = require('fs');
+const fs            = require('fs'); 
 
 const index   = require(path.join(__dirname, 'routes', 'index'));
 const entrez  = require(path.join(__dirname, 'routes', 'entrez'));
@@ -39,22 +39,34 @@ const local   = require(path.join(__dirname, 'routes', 'local'));
 const db      = require(path.join(__dirname, 'routes', 'db'));
 const files   = require(path.join(__dirname, 'routes', 'files'));
 
-
-/// Database configuration
+/// Configuration
 const config  = require(path.join(__dirname, 'config', 'config'));
 
+/// ////////////////////////////////////////////////////////////////////
+/// Express 
+/// ////////////////////////////////////////////////////////////////////
 const app = express();
 
+app.locals.json = config.json.dir;
 
-/// //////////////////////////////////////////////////////////////////////// ///
+/// Middleware before routes (order matters)
+app.use(express.static('views', {'extensions': ['html']}));
+//app.use(logger('dev'));
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+app.use(cookieParser());
+
+app.set('view engine', 'handlebars');
+
+
+/// ////////////////////////////////////////////////////////////////////
 /// Logger
-/// //////////////////////////////////////////////////////////////////////// ///
-
+/// ////////////////////////////////////////////////////////////////////
 const win = require('./logger/logger');
 
-/// //////////////////////////////////////////////////////////////////////// ///
+/// ////////////////////////////////////////////////////////////////////
 /// morgan
-/// //////////////////////////////////////////////////////////////////////// ///
+/// ////////////////////////////////////////////////////////////////////
 
 /// Daily rotating write stream
 const filename = `morgan_${new Date().toISOString().substr(0, 10)}.log`;
@@ -64,53 +76,9 @@ app.use(morgan(':method :url :status :res[content-length] - :response-time ms', 
 }));
 
 
-/// ////////////////////////////////////////////////////////////////////////////
-/// B Establish Database connection and install routes
-/// ////////////////////////////////////////////////////////////////////////////
-
-/// ////////////////////////////////////////////////////////////////////////////
-/// Share database connection:
-/// - Node server needs to be restarted when MongoDB-Service was down
-/// ////////////////////////////////////////////////////////////////////////////
-
-app.locals.json = config.json.dir;
-app.use('/', index);
-app.use('/entrez', entrez);
-app.use('/europe', europe);
-app.use('/local', local);
-app.use('/db', db);
-app.use('/files', files);
-
-/**
-MongoClient.connect(config.database.url,  {
-    useNewUrlParser: true,
-    useUnifiedTopology: true
-})
-.then(connection => {
-  app.locals.json = config.json.dir;
-  /// Accessible within the whole application
-  app.locals.con = connection.db(config.database.dataBaseName);
-  app.locals.col = app.locals.con.collection(config.database.collectionName);
-  
-  app.locals.con.stats().then(res => {
-    win.def.log({ level: 'info', file: 'app', func: 'DB setup', message: `DB setup: Database: ${res.db}, Objects: ${res.objects}, Data-size: ${res.dataSize}`});
-  });
-  
-  app.use('/', index);
-  app.use('/entrez', entrez);
-  app.use('/europe', europe);
-  app.use('/local', local);
-  app.use('/db', db);
-  app.use('/files', files);
-});
-*/
-
-/// Middleware before routes (order matters)
-app.use(express.static('views', {'extensions': ['html']}));
-//app.use(logger('dev'));
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
-app.use(cookieParser());
+/// ////////////////////////////////////////////////////////////////////
+/// B Static routes
+/// ////////////////////////////////////////////////////////////////////
 
 /// Static middleware
 app.use(express.static(path.join(__dirname, 'public')));
@@ -125,7 +93,16 @@ app.use('/chart',     express.static(path.join(__dirname, 'node_modules', 'chart
 app.use('/json',      express.static(config.json.dir));
 app.use('/pdf',       express.static(config.pdf.base));     /// Base directory for retrieval of PDF documents
 
+/// ////////////////////////////////////////////////////////////////////
+/// C Routes
+/// ////////////////////////////////////////////////////////////////////
 
+app.use('/', index);
+app.use('/entrez', entrez);
+app.use('/europe', europe);
+app.use('/local', local);
+app.use('/db', db);
+app.use('/files', files);
 
 app.get('/config', (request, result) => {
   result.status(200).json({
@@ -136,7 +113,6 @@ app.get('/config', (request, result) => {
     pubmed : config.pubmed.baseUrl
   });
 })
-
 
 
 /// ////////////////////////////////////////////////////////////////////////////
@@ -150,3 +126,6 @@ app.use((err, req, res, next) => {
 
 
 module.exports = app;
+/// ////////////////////////////////////////////////////////////////////
+/// End of file
+/// ////////////////////////////////////////////////////////////////////
