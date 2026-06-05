@@ -278,6 +278,60 @@ class Database {
   }
   
   /**
+   * 
+   * @param{pmids}    - (Array<String> or single String representing Pubmed ID's)
+   **/
+  
+  async getRecordsByPubmedIds(pmids) {
+    
+    /// Eventually convert to array
+    if(!Array.isArray(pmids)){ pmids = [].fill(pmids); }
+    
+    /// Ensure, that only integral numbers are processed
+    const pInt =  pmids.map(x => parseInt(x)).filter(x => !Number.isNaN(x));
+    /// Convert to Set: Remove doublettes
+    const IntSet = new Set(pInt);
+    /// Convert back to Array of Strings (required for findAll)
+    pmids = [...IntSet].map(x => x.toString());
+    
+    return new Promise((resolve, reject) => {
+      Refs.findAll({ where: { txtid: pmids } }).then((res) => {
+        
+        /// res = Array of database records
+        const pFound = res.map(x => { return x.txtid });
+        console.log('[model/database] getRecordsByPubmedIds. Found. pmids: %s'.brightGreen, pFound);
+
+        /// Construct returned json
+        const target = new Set(pmids);
+        const query = new Set(pFound);
+        const dbResult = {
+            found: res,
+            unknown: [...target.difference(query)]
+          }
+        resolve(dbResult);
+        
+      }).catch((err) => {
+        
+        win.def.log({ 
+          level: 'error', 
+          file: 'model/database', 
+          func: 'getRecordsByPubmedIds', 
+          message: `${err.name}: ${err.message}`,
+          stack: err.stack
+        });
+        reject({
+          status: 'Failed',
+          file: 'model/database',
+          func: 'getRecordsByPubmedIds',
+          name: err.name,
+          message: err.message
+        }); /// reject
+      });   /// catch
+      
+    });     /// Promise
+  }         /// getRecordsByPubmedIds
+  
+  /**
    * @usedBy    { get: /pmid/:pmid} + (routes/db)
    * @param     { txtIds: Array of txtId's - String }
    * @returns   { Array of database records as returned by findAll }
@@ -288,6 +342,7 @@ class Database {
     return new Promise((resolve, reject) => {
       /// findAll returns array
       Refs.findAll({ where: { txtid: txtIds } }).then((res) => {
+        
         /// Array of records
         resolve(res);
       }).catch((err) => {

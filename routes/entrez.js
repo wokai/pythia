@@ -217,7 +217,7 @@ router.post('/twostep', (request, result, next) => {
     win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `PMID's: ${request.body.pmid}`});
     console.log(`[routes/entrez] Post /twostep: pmid's: ${request.body.pmid}`.yellow);
     
-    database.getRecordsByTxtId(request.body.pmid)
+    database.getRecordsByPubmedIds(request.body.pmid)
       .then(res => {
         win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `Fetching from Entrez because unknown: ${res.unknown}.`});
         console.log('[routes/entrez] /twostep unknown: %s'.yellow, res.unknown)

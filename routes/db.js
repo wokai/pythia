@@ -138,7 +138,7 @@ router.get('/pmid/:pmid', (request, result) => {
 /// curl -X POST http://localhost:9000/db/pmid -H "Content-Type: application/json" -d '{"pmid": [17, 28, 114 ] }' | jq
 /// curl -d "user=user1&pass=abcd" -X POST http://localhost:9000/db/pmid
 
-/// curl -d '{"pmid": [17, 28, 114] }' -H "Content-Type: application/json" -X POST http://localhost:9000/db/pmid | jq
+/// curl -d '{"pmid": [17, 28, 114, 37707379, 41408835, 36919944] }' -H "Content-Type: application/json" -X POST http://localhost:9000/db/pmid | jq
 /// //////////////////////////////////////////////////////////////////////// ///
 
 router.post('/pmid', (request, result) => {
@@ -149,7 +149,8 @@ router.post('/pmid', (request, result) => {
       message: 'request.body.pmid must contain an array'
     });
   } else {
-    database.getRecordsByTxtId(request.body.pmid).then((res) => {
+    database.getRecordsByPubmedIds(request.body.pmid).then((res) => {
+    //database.getRecordsByTxtId(request.body.pmid).then((res) => {
       result.status(200).json(res);
     }).catch((err) => {
       result.status(500).json(err);
@@ -565,7 +566,7 @@ file.route('/transfer').get((request, result) => {
 /// ////////////////////////////////////////////////////////////////////// ///
 
 router.get('/pmids', (request, result, next) => {
-  getPmids(request.app.locals.col)
+  //getPmids(request.app.locals.col)
   
   result.status(200).json({ message: 'temporarily out of order' });
   
