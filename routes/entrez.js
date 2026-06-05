@@ -220,34 +220,55 @@ router.post('/twostep', (request, result, next) => {
     database.getRecordsByPubmedIds(request.body.pmid)
       .then(res => {
         win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `Fetching from Entrez because unknown: ${res.unknown}.`});
-        console.log('[routes/entrez] /twostep unknown: %s'.yellow, res.unknown)
+        console.log('[routes/entrez] /twostep res'.yellow);
+        console.log(res);
         
+        res.entrez = [];
         if(res.unknown.length > 0) {
           entrez.fetch(res.unknown)
            .then(e => {
               if(e !== undefined){
-                res.entrez = e;
                 e.forEach(p => {
                   /// Insert into database without check ...
-                  database.createRef(Reference.fromPubmed(p)).then((res) => {
-                    win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `Fetching from Entrez because unknown: ${res.unknown}.`});
+                  let ref = Reference.fromPubmed(p);
+                  res.entrez.push(p);
+                  database.createRef(ref).then((cr) => {
+                    win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${cr.id} success.`});
                   }).catch((err) => {
-                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `database insert of PMID ${p} failed. Name: ${err.name}. Message: ${err.message}.`});
+                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${ref.txtid} failed. Name: ${err.name}. Message: ${err.message}.`});
                   });
                 });
-                result.status(200).json(res);
+                console.log(`[routes/entrez] /twostep success: Found ${res.found.length}, Entrez: ${res.entrez.length}`.yellow);
+                result.status(200).json({
+                  status: 'OK',
+                  contained: res.contained,
+                  unknown:   res.unknown,
+                  entrez:    res.entrez
+                }); /// result
               } else {
-                res.entrez = [];
-                result.status(200).json(res);
+                win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `entrez.fetch returned unknown.`});
+                console.log(`[routes/entrez] /twostep Error: entrez.fetch returned unknown`.yellow);
+                result.status(200).json({
+                  status: 'Error',
+                  message: '[entrez/twostep] entrez.fetch returned unknown'
+                });
               }
-            })
+            }) /// fetch.then()
         } else {
-          res.entrez = [];
-          result.status(200).json(res);
+          /// res.unknown.length = 0
+          console.log(`[routes/entrez] /twostep success: res.unknown is empty`.yellow);
+          result.status(200).json({
+            status: 'OK',
+            contained: res.contained,
+            unknown: [],
+            entrez: []
+          });
         }
-      })
+      })  /// getRecordsByPubmedIds.then();
   } else {
+    /// request.body.pmid empty
     win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Error: No PUBMED-id provided`});
+    console.log(`[routes/entrez] /twostep Error: request body is empty`.yellow);
     result.status(200).json({ status: 'Error', message: 'No pmid provided' });
   }
 });

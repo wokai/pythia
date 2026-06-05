@@ -298,14 +298,14 @@ class Database {
       Refs.findAll({ where: { txtid: pmids } }).then((res) => {
         
         /// res = Array of database records
-        const pFound = res.map(x => { return x.txtid });
-        console.log('[model/database] getRecordsByPubmedIds. Found. pmids: %s'.brightGreen, pFound);
+        const pContained = res.map(x => { return x.txtid });
+        console.log('[model/database] getRecordsByPubmedIds. Found. pmids: %s'.brightGreen, pContained);
 
         /// Construct returned json
         const target = new Set(pmids);
-        const query = new Set(pFound);
+        const query = new Set(pContained);
         const dbResult = {
-            found: res,
+            contained: res,
             unknown: [...target.difference(query)]
           }
         resolve(dbResult);

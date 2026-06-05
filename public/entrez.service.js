@@ -248,6 +248,8 @@ app.factory('EntrezService', function($http) {
     
     $http.post('/entrez/twostep', data).then(function(response){
 
+      console.log(response.data.data);
+
       /// Clear data
       twoStepPubMed.contained.length = 0;
       twoStepPubMed.unknown.length = 0;
