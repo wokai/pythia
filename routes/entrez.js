@@ -205,16 +205,16 @@ router.post('/', (request, result, next) => {
 
  
 /// ////////////////////////////////////////////////////////////////////
-/// curl -d "{ \"pmid\": [ 28969617 ] }" -X POST http://localhost:9000/entrez/twostep -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
-/// curl -d "{ \"pmid\": [1, 10000, 13682, 100000, 1148076, 234567] }" -X POST http://localhost:9000/entrez/twostep -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
-/// curl -d "{ \"pmid\": [ 19343057 ] }" -X POST http://localhost:9000/entrez/twostep -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
+/// curl -d "{ \"pmid\": [ 28969617 ] }" -X POST http://localhost:9000/entrez/twostage -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
+/// curl -d "{ \"pmid\": [1, 10000, 13682, 100000, 1148076, 234567] }" -X POST http://localhost:9000/entrez/twostage -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
+/// curl -d "{ \"pmid\": [ 19343057 ] }" -X POST http://localhost:9000/entrez/twostage -H "Content-Type: application/json" -w "\nSize: %{size_download} bytes\n"
 /// {"contained":[{"uid":"10000"},{"uid":"1148076"},{"uid":"13682"}],"unknown":["1","100000","234567"]}
 /// ////////////////////////////////////////////////////////////////////
 
 
-router.post('/twostep', (request, result, next) => {
+router.post('/twostage', (request, result, next) => {
   if(request.body.pmid){
-    win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `PMID's: ${request.body.pmid}`});
+    win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostage', message: `PMID's: ${request.body.pmid}`});
     
     database.getRecordsByPubmedIds(request.body.pmid)
       .then(dbres => {
@@ -230,9 +230,9 @@ router.post('/twostep', (request, result, next) => {
                   dbres.entrez.push(p);
                   /// Insert into database without further check ...
                   database.createRef(Reference.fromPubmed(p)).then((cr) => {
-                    win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${cr.id} success.`});
+                    win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostage', message: `Database insert of PMID ${cr.id} success.`});
                   }).catch((err) => {
-                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${dbref.txtid} failed. Name: ${err.name}. Message: ${err.message}.`});
+                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostage', message: `Database insert of PMID ${dbref.txtid} failed. Name: ${err.name}. Message: ${err.message}.`});
                   });
                 });
                 result.status(200).json({
@@ -242,16 +242,16 @@ router.post('/twostep', (request, result, next) => {
                   entrez:    dbres.entrez
                 }); /// result
               } else {
-                win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `entrez.fetch returned unknown.`});
+                win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostage', message: `entrez.fetch returned unknown.`});
                 result.status(200).json({
                   status: 'Error',
-                  message: '[entrez/twostep] entrez.fetch returned unknown'
+                  message: '[entrez/twostage] entrez.fetch returned unknown'
                 });
               }
             }) /// fetch.then()
         } else {
           /// res.unknown.length = 0
-          console.log(`[routes/entrez] /twostep success: dbres.unknown is empty`.yellow);
+          console.log(`[routes/entrez] /twostage success: dbres.unknown is empty`.yellow);
           result.status(200).json({
             status: 'OK',
             contained: dbres.contained.map(r => r.attr),
@@ -262,8 +262,8 @@ router.post('/twostep', (request, result, next) => {
       })  /// getRecordsByPubmedIds.then();
   } else {
     /// request.body.pmid empty
-    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Error: No PUBMED-id provided`});
-    console.log(`[routes/entrez] /twostep Error: request body is empty`.yellow);
+    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostage', message: `Error: No PUBMED-id provided`});
+    console.log(`[routes/entrez] /twostage Error: request body is empty`.yellow);
     result.status(200).json({ status: 'Error', message: 'No pmid provided' });
   }
 });

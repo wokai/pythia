@@ -1,6 +1,6 @@
 /*******************************************************************************
  * The MIT License
- * Copyright 2022, Wolfgang Kaisers
+ * Copyright 2026, Wolfgang Kaisers
  * Permission is hereby granted, free of charge, to any person obtaining a 
  * copy of this software and associated documentation files (the "Software"), 
  * to deal in the Software without restriction, including without limitation 
@@ -39,7 +39,7 @@ app.factory('EntrezService', function($http) {
     refs: []
   }
   
-  let twoStepPubMed = {
+  let twostagePubMed = {
     contained: [],
     unknown: [],
     entrez: []
@@ -241,30 +241,30 @@ app.factory('EntrezService', function($http) {
   /// //////////////////////////////////////////////////////////////////////////
   ///  Query Entrez for Pubmed-ID's via local endpoint
   /// //////////////////////////////////////////////////////////////////////////
-  var queryTwoStep = function(p){
+  var queryTwoStage = function(p){
     var data = {
       pmid: p
     };
     
-    $http.post('/entrez/twostep', data).then(function(response){
+    $http.post('/entrez/twostage', data).then(function(response){
 
-      console.log('[EntrezService.queryTwoStep response.data.status:', response.data.status);
+      console.log('[EntrezService.queryTwoStage response.data.status:', response.data.status);
 
       /// Clear data
-      twoStepPubMed.contained.length = 0;
-      twoStepPubMed.unknown.length = 0;
-      twoStepPubMed.entrez.length = 0;
+      twostagePubMed.contained.length = 0;
+      twostagePubMed.unknown.length = 0;
+      twostagePubMed.entrez.length = 0;
 
-      twoStepPubMed.contained.push(...response.data.contained);
-      twoStepPubMed.unknown.push(...response.data.unknown);
-      twoStepPubMed.entrez.push(...response.data.entrez);
+      twostagePubMed.contained.push(...response.data.contained);
+      twostagePubMed.unknown.push(...response.data.unknown);
+      twostagePubMed.entrez.push(...response.data.entrez);
 
-      twoStepPubMed.contained.forEach(c => processAuthorNames(c));
-      twoStepPubMed.entrez.forEach(e => processAuthorNames(e));
+      twostagePubMed.contained.forEach(c => processAuthorNames(c));
+      twostagePubMed.entrez.forEach(e => processAuthorNames(e));
     }, function(response) {
-      console.log('[EntrezService.queryTwoStep] Notification: ', response)
+      console.log('[EntrezService.querytwostage] Notification: ', response)
     }).catch(function(error){
-      console.error('[EntrezService.queryTwoStep] Error: ' + error);
+      console.error('[EntrezService.querytwostage] Error: ' + error);
     });
   }
  
@@ -317,12 +317,12 @@ app.factory('EntrezService', function($http) {
     pubMed : pubMed,
     queryEntrez: queryEntrez,
     queryTitles: queryTitles,
-    queryTwoStep: queryTwoStep,
+    queryTwoStage: queryTwoStage,
     queryPmid: queryPmid,
     queryAuthors: queryAuthors,
     qryResult: qryResult,
     transferRecord: transferRecord,
-    twoStepPubMed: twoStepPubMed
+    twostagePubMed: twostagePubMed
   }
 });                   /// EntrezService
 })(window.angular);   /// function(angular)

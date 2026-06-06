@@ -22,8 +22,8 @@
       $scope.elements     = EntrezService.pubMed.refs;
       
       //----------------------------------------------------------------------//
-      $scope.queryTwoStep    = EntrezService.queryTwoStep;
-      $scope.twoStepPubMed   = EntrezService.twoStepPubMed;
+      $scope.querytwostage    = EntrezService.querytwostage;
+      $scope.twostagePubMed   = EntrezService.twostagePubMed;
 
       //----------------------------------------------------------------------//
       $scope.localfiles = EntrezService.localPubMed.filenames;
@@ -124,21 +124,21 @@
         <!--- Two step query (first MongoDb, then PubMed) --->
         <div class="card shadow-sm">
           <div class="card-header">
-            <two-step-query></two-step-query>
+            <two-stage-query></two-stage-query>
           </div>
           <div class="card-body border">
-            <div class="text-success ml-1">Database articles: {{twoStepPubMed.contained.length}}</div>
-            <span ng-if="twoStepPubMed.contained.length == 0" class="text-secondary">
+            <div class="text-success ml-1">Database articles: {{twostagePubMed.contained.length}}</div>
+            <span ng-if="twostagePubMed.contained.length == 0" class="text-secondary">
               (Empty result)
             </span>
-            <two-step-detail data="p" ng-repeat="p in twoStepPubMed.contained"></two-step-detail>
+            <two-stage-detail data="p" ng-repeat="p in twostagePubMed.contained"></two-stage-detail>
           </div>
           <div class="card-body border">
-            <div class="text-primary ml-1" >Entrez articles: {{twoStepPubMed.entrez.length}}</div>
-            <span ng-if="twoStepPubMed.entrez.length == 0" class="text-secondary">
+            <div class="text-primary ml-1" >Entrez articles: {{twostagePubMed.entrez.length}}</div>
+            <span ng-if="twostagePubMed.entrez.length == 0" class="text-secondary">
               (Empty result)
             </span>
-            <two-step-detail data="p" ng-repeat="p in twoStepPubMed.entrez"></two-step-detail>
+            <two-stage-detail data="p" ng-repeat="p in twostagePubMed.entrez"></two-stage-detail>
           </div>
         </div>
       </div>

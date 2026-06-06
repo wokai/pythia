@@ -1,7 +1,7 @@
 'use strict';
 /*******************************************************************************
  * The MIT License
- * Copyright 2023, Wolfgang Kaisers
+ * Copyright 2026, Wolfgang Kaisers
  * Permission is hereby granted, free of charge, to any person obtaining a 
  * copy of this software and associated documentation files (the "Software"), 
  * to deal in the Software without restriction, including without limitation 
@@ -28,7 +28,6 @@ const colors    = require('colors');
 
 const config      = require(path.join(__dirname, '..', 'config', 'config'));    /// Database
 const win         = require(path.join(__dirname, '..', 'logger', 'logger'));
-//const { mongo }   = require(path.join(__dirname, '..', 'model', 'mongo'));
 const { json  }   = require(path.join(__dirname, '..', 'model', 'json'));
 const { europe }  = require(path.join(__dirname, '..', 'model', 'europe'));
 
@@ -41,8 +40,16 @@ router.get('/', function(request, result, next) {
 
 router.get('/pmid/:pmid', function(request, result, next) {
   console.log(`[pythia] GET Europe-PMC PMID: ${request.params.pmid}`.green);
-  europe.fetch(request.params.pmid).then(res => { result.status(200).json(res)});
-  //result.status(200).json({ status: 'OK' });
+  europe.fetch(request.params.pmid).then(res => {
+    win.def.log({ level: 'info', file: '/routes/europe', func: 'Get /pmid/:pmid', message: `success`});
+    result.status(200).json(res);
+  }).catch((err) => {
+    win.def.log({ level: 'warn', file: '/routes/europe', func: 'Get /pmid/:pmid', message: `error: ${err.message}`});
+    result.status(500).json({
+      status: 'Error',
+      message: err.message
+    });
+  });
 });
 
 module.exports = router;

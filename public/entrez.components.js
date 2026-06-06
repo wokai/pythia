@@ -24,11 +24,11 @@
 
 var app = angular.module('globalModule');
 
-app.component('twoStepQuery', {
+app.component('twoStageQuery', {
   bindings: { 
     out: '&'
   },
-  templateUrl: 'twoStepQuery.html',
+  templateUrl: 'twoStageQuery.html',
   controller: function($scope, $element, EntrezService){
     
     var preprocess = function(x) {
@@ -46,7 +46,7 @@ app.component('twoStepQuery', {
     }
     
     this.doQuery = function() {
-      EntrezService.queryTwoStep(preprocess(this.qry));
+      EntrezService.queryTwoStage(preprocess(this.qry));
     }
     
     this.clear = function() {
@@ -251,8 +251,8 @@ app.component('pmidDetail', {
   }
 });
 
-app.component('twoStepDetail', {
-  templateUrl: 'twoStepDetail.html',
+app.component('twoStageDetail', {
+  templateUrl: 'twoStageDetail.html',
   bindings: {
     data: '='
   },

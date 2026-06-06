@@ -149,9 +149,8 @@ router.post('/pmid', (request, result) => {
       message: 'request.body.pmid must contain an array'
     });
   } else {
-    database.getRecordsByPubmedIds(request.body.pmid).then((res) => {
-    //database.getRecordsByTxtId(request.body.pmid).then((res) => {
-      result.status(200).json(res);
+    database.getRecordsByPubmedIds(request.body.pmid).then((dbres) => {
+      result.status(200).json(dbres);
     }).catch((err) => {
       result.status(500).json(err);
     });
