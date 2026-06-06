@@ -45,7 +45,6 @@ class Entrez {
   
   constructor(){}
   
-  
   /**
    * @param{obj}  - (object: Entrez record)
    * @param{name} - (string: Basename of file)
@@ -87,20 +86,22 @@ class Entrez {
               this.writeJson(json.result[p], p)
               .then(() => { 
                 win.def.log({ level: 'info', file: 'model/entrez', func: 'fetch', message: `File ${p} written.`});
-              })
-              .catch(reason => {
+              }).catch(reason => {
                 win.def.log({ level: 'warn', file: 'model/entrez', func: 'writeJson', message: `Rejected: ${reason}`});
-                console.log(`[model/entrez] writeJson Rejected: ${reason}`.brightRed)
-               });
-            });
+              });   /// writeJson
+            });     /// pmids.forEach
             return a;            
           } else {
             win.def.log({ level: 'info', file: 'model/entrez', func: 'fetch', message: `No result returned (host unreachable?)`});
-            console.log(`[model/entrez] No result returned (host unreachable?)`.brightYellow);
+            return [];
           }
-      })
-  }
-  
+      }).catch((err) => {
+        win.def.log({ level: 'warn', file: 'model/entrez', func: 'fetch(url)', message: `Failed: ${err.message}`});
+        return [];
+      });
+  } /// fetch
+
+
   fetchDbNames = async () => {
     return fetch(config.entrez.baseUrl)
      .then(res => res.text())

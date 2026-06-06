@@ -59,8 +59,8 @@ function writeJson(obj, name){
   /// Failing validation will impede insertion into MongoDb collection
   /// //////////////////////////////////////////////////////////////////////////
   if(!obj.hasOwnProperty('title')){
-    throw new Error('[entrez.writeJson] Required property *title* not found.');
-    win.def.log({ level: 'warn', file: 'routes/entrez', func: 'writeJson', message: `Required property *title* not found`});
+    throw new Error('[entrez.writeJson] Required property *title* not contained.');
+    win.def.log({ level: 'warn', file: 'routes/entrez', func: 'writeJson', message: `Required property *title* not contained`});
   }
   /// Include spacer for readability
   let js = JSON.stringify(obj, null, 2);
@@ -215,39 +215,34 @@ router.post('/', (request, result, next) => {
 router.post('/twostep', (request, result, next) => {
   if(request.body.pmid){
     win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `PMID's: ${request.body.pmid}`});
-    console.log(`[routes/entrez] Post /twostep: pmid's: ${request.body.pmid}`.yellow);
     
     database.getRecordsByPubmedIds(request.body.pmid)
-      .then(res => {
-        win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `Fetching from Entrez because unknown: ${res.unknown}.`});
-        console.log('[routes/entrez] /twostep res'.yellow);
-        console.log(res);
-        
-        res.entrez = [];
-        if(res.unknown.length > 0) {
-          entrez.fetch(res.unknown)
+      .then(dbres => {
+        /// Fetch unknown records from public Entrez Pubmed database,
+        /// then write new records into DB and return them to client   
+        dbres.entrez = [];
+        if(dbres.unknown.length > 0) {
+          entrez.fetch(dbres.unknown)
            .then(e => {
               if(e !== undefined){
                 e.forEach(p => {
-                  /// Insert into database without check ...
-                  let ref = Reference.fromPubmed(p);
-                  res.entrez.push(p);
-                  database.createRef(ref).then((cr) => {
+                  /// Array returned to client
+                  dbres.entrez.push(p);
+                  /// Insert into database without further check ...
+                  database.createRef(Reference.fromPubmed(p)).then((cr) => {
                     win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${cr.id} success.`});
                   }).catch((err) => {
-                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${ref.txtid} failed. Name: ${err.name}. Message: ${err.message}.`});
+                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `Database insert of PMID ${dbref.txtid} failed. Name: ${err.name}. Message: ${err.message}.`});
                   });
                 });
-                console.log(`[routes/entrez] /twostep success: Found ${res.found.length}, Entrez: ${res.entrez.length}`.yellow);
                 result.status(200).json({
                   status: 'OK',
-                  contained: res.contained,
-                  unknown:   res.unknown,
-                  entrez:    res.entrez
+                  contained: dbres.contained.map(r => r.attr),
+                  unknown:   dbres.unknown,
+                  entrez:    dbres.entrez
                 }); /// result
               } else {
                 win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostep', message: `entrez.fetch returned unknown.`});
-                console.log(`[routes/entrez] /twostep Error: entrez.fetch returned unknown`.yellow);
                 result.status(200).json({
                   status: 'Error',
                   message: '[entrez/twostep] entrez.fetch returned unknown'
@@ -256,10 +251,10 @@ router.post('/twostep', (request, result, next) => {
             }) /// fetch.then()
         } else {
           /// res.unknown.length = 0
-          console.log(`[routes/entrez] /twostep success: res.unknown is empty`.yellow);
+          console.log(`[routes/entrez] /twostep success: dbres.unknown is empty`.yellow);
           result.status(200).json({
             status: 'OK',
-            contained: res.contained,
+            contained: dbres.contained.map(r => r.attr),
             unknown: [],
             entrez: []
           });
