@@ -41,7 +41,25 @@ class JsonRepository {
   constructor(){
     this.#nFiles = 0;
   }
-   
+  
+  /**
+   * @param{filename}   : Name [string] of file without path and extension
+   * @returns{Promise}  : json object
+   **/
+  getFileStats = async (filename) => {
+    let f = path.join(config.json.dir, `${filename}.json`);
+    win.def.log({ level: 'info', file: 'model/json', func: 'readFile', message: `filename: ${filename}`});
+    return new Promise((resolve, reject) => {
+      fsp.stat(f).then((res) => {
+        resolve(res);
+      }).catch((err) => {
+        reject(err);
+      });
+    });
+  }
+  
+  
+  
   /**
    * @param{filename}   : Name [string] of file without path and extension
    * @returns{Promise}  : json object
@@ -146,7 +164,6 @@ class JsonRepository {
     return fsp.readdir(config.json.dir);
   }
   
-
 }
 
 const json = new JsonRepository;

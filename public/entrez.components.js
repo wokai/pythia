@@ -1,6 +1,6 @@
 /*******************************************************************************
  * The MIT License
- * Copyright 2021, Wolfgang Kaisers
+ * Copyright 2026, Wolfgang Kaisers
  * Permission is hereby granted, free of charge, to any person obtaining a 
  * copy of this software and associated documentation files (the "Software"), 
  * to deal in the Software without restriction, including without limitation 
@@ -33,15 +33,15 @@ app.component('twoStageQuery', {
     
     var preprocess = function(x) {
       x = x.trim();
-      // Replace all commas by empty space
+      /// Replace all commas by empty space
       x = x.replace(/,/g, ' ');
-      // Replace multiple empty spaces (tabs, ...) with one space
+      /// Replace multiple empty spaces (tabs, ...) with one space
       x = x.replace(/\s\s+/g, ' ');
-      // Split string into array
+      /// Split string into array
       var a = x.split(' ');
-      // Parse array elements to Integer
+      /// Parse array elements to Integer
       a = a.map(x => Number.parseInt(x));
-      // Remove NaN (non integral)
+      /// Remove NaN (non integral)
       return a.filter(x => !Number.isNaN(x));
     }
     

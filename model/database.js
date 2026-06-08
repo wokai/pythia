@@ -185,7 +185,6 @@ class Database {
    * @returns         - (Promise: resolved provides id)
    **/
   async createRef(ref){
-    //console.log(`[model/database] createRef`.brightYellow);
     
     return new Promise((resolve, reject) => {
       const res = Refs.create({
@@ -299,7 +298,7 @@ class Database {
         
         /// res = Array of database records
         const pContained = res.map(x => { return x.txtid });
-        console.log('[model/database] getRecordsByPubmedIds. Found. pmids: %s'.brightGreen, pContained);
+        // console.log('[model/database] getRecordsByPubmedIds. Found. pmids: %s'.brightGreen, pContained);
 
         /// Construct returned json
         const target = new Set(pmids);
@@ -368,7 +367,7 @@ class Database {
       Refs.findAll({
         where: { title: { [Op.regexp]: regexp } }
       }).then((res) => {
-        console.log(`[model/database] getRecordsByTitle. Title: ${regexp}`.brightYellow);
+        // console.log(`[model/database] getRecordsByTitle. Title: ${regexp}`.brightYellow);
         resolve(res);
       }).catch((err) => {
           win.def.log({ 
@@ -407,6 +406,5 @@ const database = Object.freeze(new Database);
 
 module.exports = {
   database: database,
-  //Database: Database,
   Refs: Refs
 }

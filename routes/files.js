@@ -75,6 +75,30 @@ router.get('/read/:name', (request, result, next) => {
   });
 });
 
+/// //////////////////////////////////////////////////////////////// ///
+/// Reads file statistics as provided by node
+/// Example (read existing file): 
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/stats/24147111
+/// //////////////////////////////////////////////////////////////// ///
+
+router.get('/stats/:name', (request, result, next) => {
+  console.log(`[routes/files] Read file stats for file ${request.params.name}`.brightGreen);
+  json.repo.getFileStats(request.params.name).then((res) => {
+      result.status(200).json({
+        status: 'OK',
+        filename: request.params.name,
+        size: res.size,
+        blksize: res.blksize,
+        birth: new Date(res.birthtimeMs),
+        atime: new Date(res.atimeMs),
+        mtime: new Date(res.mtimeMs),
+        ctime: new Date(res.ctimeMs)
+      });
+    }).catch((err) => {
+      result.status(500).json(err);
+    });
+});
+
 /// ////////////////////////////////////////////////////////////////////// ///
 /// Reads json file from repository and returns json content
 /// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/ref/19833758

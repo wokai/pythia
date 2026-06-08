@@ -117,7 +117,7 @@ router.get('/count', (request, result, next) =>{
 /// http://localhost:9000/db/pmid/622185
 /// //////////////////////////////////////////////////////////////////////// ///
 router.get('/pmid/:pmid', (request, result) => {
-  console.log('[routes/db] get/pmid: %s'.brightGreen, request.params.pmid)
+  console.log('[routes/db] get/pmid: %s'.brightGreen, request.params.pmid);
   
   database.getOneRecordByTxtId(request.params.pmid).then((res) => {
     if(res.found){
