@@ -99,6 +99,23 @@ router.get('/stats/:name', (request, result, next) => {
     });
 });
 
+/// //////////////////////////////////////////////////////////////// ///
+/// Selectively reads file birth data as provided by node
+/// Example (read existing file): 
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/birth/24147111
+/// //////////////////////////////////////////////////////////////// ///
+
+router.get('/birth/:name', (request, result, next) => {
+  json.repo.getFileCreationDate(request.params.name).then((res) => {
+    result.status(200).json({
+      status: 'OK',
+      birth: res
+    });
+  }).catch((err) => {
+    result.status(500).json(err);
+  });
+});
+
 /// ////////////////////////////////////////////////////////////////////// ///
 /// Reads json file from repository and returns json content
 /// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/ref/19833758

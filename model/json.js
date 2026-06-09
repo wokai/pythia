@@ -48,7 +48,7 @@ class JsonRepository {
    **/
   getFileStats = async (filename) => {
     let f = path.join(config.json.dir, `${filename}.json`);
-    win.def.log({ level: 'info', file: 'model/json', func: 'readFile', message: `filename: ${filename}`});
+    win.def.log({ level: 'info', file: 'model/json', func: 'getFileStats', message: `filename: ${filename}`});
     return new Promise((resolve, reject) => {
       fsp.stat(f).then((res) => {
         resolve(res);
@@ -58,7 +58,17 @@ class JsonRepository {
     });
   }
   
-  
+  getFileCreationDate = async (filename) => {
+    let f = path.join(config.json.dir, `${filename}.json`);
+    win.def.log({ level: 'info', file: 'model/json', func: 'getFileCreationDate', message: `filename: ${filename}`});
+    return new Promise((resolve, reject) => {
+      fsp.stat(f).then((res) => {
+        resolve(new Date(res.birthtimeMs));
+      }).catch((err) => {
+        reject(err);
+      });
+    });
+  }
   
   /**
    * @param{filename}   : Name [string] of file without path and extension
