@@ -115,7 +115,10 @@ class JsonRepository {
         win.def.log({ level: 'error', file: 'model/json', func: 'restoreJsonToDb', message: `getFileStats error ${err.name}: ${err.message}`});
         reject(err);
       });
-    }); /// readRef
+    }).catch(err => {
+      win.def.log({ level: 'error', file: 'model/json', func: 'restoreJsonToDb', message: `readRef error ${err.name}: ${err.message}`});
+      reject(err);
+    }); /// catch readRef
     }); /// Promise
   }     /// restoreJsonToDb
   
@@ -159,6 +162,20 @@ class JsonRepository {
    **/
   getFileNames = async () => {
     return fsp.readdir(config.json.dir);
+  }
+  
+  restoreAllJsonToDb = async() => {
+    return new Promise((resolve, reject) => {
+      fsp.readdir(config.json.dir).then(filenames => {
+        resolve({
+          status: 'OK',
+          count: filenames.length
+        });
+      }).catch(err => {
+        win.def.log({ level: 'error', file: 'model/json', func: 'restoreAllJsonToDb', message: `readdir error ${err.name}: ${err.message}`});
+        reject(err);
+      });
+    });
   }
   
 }

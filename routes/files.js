@@ -116,14 +116,22 @@ router.get('/ref/:name', (request, result, next) => {
 
 /// //////////////////////////////////////////////////////////////// ///
 /// Reads database record from json file 
-/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/restore/24147111 | jq
-/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/restore/10024268 | jq
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/restore/file/24147111 | jq
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/restore/file/10024268 | jq
 /// //////////////////////////////////////////////////////////////// ///
-router.get('/restore/:name', (request, result, next) => {
+router.get('/restore/file/:name', (request, result, next) => {
   json.repo.restoreJsonToDb(request.params.name).then(ref => {
     result.status(200).json(ref);
-  }).catch(e => {
-    result.status(404).json({ status: 'Error', name: e.name });
+  }).catch(err => {
+    result.status(404).json(err);
+  });
+});
+
+router.get('/restore/all', (request, result, next) => {
+  json.repo.restoreAllJsonToDb().then(res => {
+    result.status(200).json(res);
+  }).catch(err => {
+    result.status(404).json(err);
   });
 });
 
