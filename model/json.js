@@ -50,42 +50,28 @@ class JsonRepository {
     let f = path.join(config.json.dir, `${filename}.json`);
     win.def.log({ level: 'info', file: 'model/json', func: 'getFileStats', message: `filename: ${filename}`});
     return new Promise((resolve, reject) => {
-      fsp.stat(f).then((res) => {
-        resolve(res);
+      fsp.stat(f).then((stat) => {
+        stat.mtime = new Date(stat.mtimeMs).toISOString();
+        resolve(stat);
       }).catch((err) => {
         reject(err);
       });
     });
   }
-  
-  getFileCreationDate = async (filename) => {
-    let f = path.join(config.json.dir, `${filename}.json`);
-    win.def.log({ level: 'info', file: 'model/json', func: 'getFileCreationDate', message: `filename: ${filename}`});
-    return new Promise((resolve, reject) => {
-      fsp.stat(f).then((res) => {
-        resolve(new Date(res.birthtimeMs));
-      }).catch((err) => {
-        reject(err);
-      });
-    });
-  }
-  
+
+   
   /**
    * @param{filename}   : Name [string] of file without path and extension
    * @returns{Promise}  : json object
    **/
   readFile = async (filename) => {
     let f = path.join(config.json.dir, `${filename}.json`);
-    console.log(`[model/json] readFile: ${f}`.brightGreen);
     win.def.log({ level: 'info', file: 'model/json', func: 'readFile', message: `filename: ${filename}`});
     return new Promise((resolve, reject) => {
       fsp.readFile(f, "utf8")
         .then(value => {
-          let j = JSON.parse(value);
-          console.log(`[model/json] readFile: Received uid ${j.uid}`.brightGreen);
-          resolve(j);
-        })
-        .catch(err => {
+          resolve(JSON.parse(value));
+        }).catch(err => {
           if(err.code == 'ENOENT') {
             win.def.log({ level: 'warn', file: 'model/json', func: 'readFile', message: `filename: ${f}: No such file`});
             reject({ filename: filename, code: err.code, call: err.syscall, message: 'No such file' });
@@ -102,11 +88,9 @@ class JsonRepository {
    **/
   readRef = async (filename) => {
     return new Promise((resolve, reject) => {
-      console.log(`[model/json] readRef: Received filename ${filename}`.brightCyan);
+      //console.log(`[model/json] readRef: Reading file ${filename}`.brightCyan);
       this.readFile(filename).then(j => {
-        console.log(`[model/json] readRef: Received uid ${j.uid}`.brightCyan);
         const r = Reference.fromPubmed(j);
-        console.log(`[model/json] readRef.id: ${r.id}`.brightCyan);
         resolve(r);
       }).catch(err => {
         reject(err);
@@ -115,22 +99,25 @@ class JsonRepository {
   };      /// readRef
   
   
-  readAndSave = async (filename) => {
+  restoreJsonToDb = async (filename) => {
     return new Promise((resolve, reject) => {
       this.readRef(filename).then(ref => {
-        console.log(`[model/json] readAndSave: Received Ref`.brightCyan);
-        //console.log(ref);
-        database.createRef(ref).then(res => {
-          win.def.log({ level: 'info', file: 'model/json', func: 'createRef', message: `Insert Record success.`});
-          resolve(res);
-        }).catch((e) => {
-          //console.log(`[model/json] readAndSave Error: name ${e.name} | message: ${e.message}`.brightCyan);
-          win.def.log({ level: 'error', file: 'model/json', func: 'readAndSave', message: `${e.name}: ${e.message}`});
-          reject(e);
-        });
+        this.getFileStats(filename).then(stat => {
+          ref.jsonCreated = stat.mtimeMs;
+          database.createRef(ref).then(res => {
+            win.def.log({ level: 'info', file: 'model/json', func: 'restoreJsonToDb', message: `Insert Record id ${res.id} success.`});
+            resolve(res);
+          }).catch(err => {
+            win.def.log({ level: 'error', file: 'model/json', func: 'restoreJsonToDb', message: `createRef error: ${err.name}: ${err.message}`});
+            reject(err);
+          });
+      }).catch(err => {
+        win.def.log({ level: 'error', file: 'model/json', func: 'restoreJsonToDb', message: `getFileStats error ${err.name}: ${err.message}`});
+        reject(err);
       });
+    }); /// readRef
     }); /// Promise
-  }     /// readAndSave
+  }     /// restoreJsonToDb
   
   /**
    * @param{obj}  - (Object representing Pubmed record)

@@ -89,31 +89,14 @@ router.get('/stats/:name', (request, result, next) => {
         filename: request.params.name,
         size: res.size,
         blksize: res.blksize,
-        birth: new Date(res.birthtimeMs),
-        atime: new Date(res.atimeMs),
-        mtime: new Date(res.mtimeMs),
-        ctime: new Date(res.ctimeMs)
+        birth: new Date(res.birthtimeMs).toISOString(),
+        atime: new Date(res.atimeMs).toISOString(),
+        mtime: new Date(res.mtimeMs).toISOString(),
+        ctime: new Date(res.ctimeMs).toISOString()
       });
     }).catch((err) => {
       result.status(500).json(err);
     });
-});
-
-/// //////////////////////////////////////////////////////////////// ///
-/// Selectively reads file birth data as provided by node
-/// Example (read existing file): 
-/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/birth/24147111
-/// //////////////////////////////////////////////////////////////// ///
-
-router.get('/birth/:name', (request, result, next) => {
-  json.repo.getFileCreationDate(request.params.name).then((res) => {
-    result.status(200).json({
-      status: 'OK',
-      birth: res
-    });
-  }).catch((err) => {
-    result.status(500).json(err);
-  });
 });
 
 /// ////////////////////////////////////////////////////////////////////// ///
@@ -131,14 +114,13 @@ router.get('/ref/:name', (request, result, next) => {
   });
 });
 
-/// ////////////////////////////////////////////////////////////////////// ///
-/// Reads json file from repository and saves content to Database
-/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/readAndSave/24147111 | jq
-/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/readAndSave/28 | jq
-/// ////////////////////////////////////////////////////////////////////// ///
-router.get('/readAndSave/:name', (request, result, next) => {
-  console.log(`[routes/files] ReadAndSave ref: ${request.params.name}`.brightGreen);
-  json.repo.readAndSave(request.params.name).then(ref => {
+/// //////////////////////////////////////////////////////////////// ///
+/// Reads database record from json file 
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/restore/24147111 | jq
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/restore/10024268 | jq
+/// //////////////////////////////////////////////////////////////// ///
+router.get('/restore/:name', (request, result, next) => {
+  json.repo.restoreJsonToDb(request.params.name).then(ref => {
     result.status(200).json(ref);
   }).catch(e => {
     result.status(404).json({ status: 'Error', name: e.name });

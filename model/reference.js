@@ -133,6 +133,17 @@ class Reference {
   get pubdate()       { return this.#db.art.pubdate;}
   set pubdate(x)      { this.#db.art.pubdate = x;   }
   
+  get jsonCreated()     { return this.#db.jsonCreated;  }
+  set jsonCreated(x)    {
+    let d = new Date(x); /// It is ok to have a date object here
+    if(isNaN(d.getDate())){
+      /// Something went wrong. Use current date
+      this.#db.jsonCreated = new Date();
+    } else {
+      this.#db.jsonCreated = d;
+    }
+  }
+  
   toString() {  return `[Reference] ID: ${this.id}`; }
 
 
@@ -143,27 +154,28 @@ class Reference {
     this.#json = json;
     
     this.#db = {
-      id:       0,
-      txtid:    null,
-      filename: null,
-      type:     null,
-      doi:      null,
+      id:           0,
+      txtid:        null,
+      filename:     null,
+      type:         null,
+      doi:          null,
+      jsonCreated:  null,
       pm: {
-        pmid:   null,
-        pmcid:  null
+        pmid:       null,
+        pmcid:      null
       },
       ref: {
-        source: null,
-        volume: null,
-        issue:  null,
-        pages:  null,
-        year:   null
+        source:     null,
+        volume:     null,
+        issue:      null,
+        pages:      null,
+        year:       null
       },
       art: {
-        title: null,
-        fAuthor: null,
-        lAuthor: null,
-        pubdate: null
+        title:      null,
+        fAuthor:    null,
+        lAuthor:    null,
+        pubdate:    null
       } 
     };
   }
@@ -180,7 +192,6 @@ class Reference {
    **/
 
   static fromPubmed(j) {
-    //console.log(`[model/reference] static fromPubmed: Received uid ${j.uid}`.brightYellow);
     const r = new Reference(j);
     
     r.txtid = j.uid /// `pmid-${j.uid}` will not be used initially

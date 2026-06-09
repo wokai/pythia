@@ -183,17 +183,15 @@ router.post('/', (request, result, next) => {
           /// Insert into database without check ...
           const r = Reference.fromPubmed(json.result[p]);
           database.createRef(ref).then(res => {
-            win.def.log({ level: 'info', file: 'model/json', func: 'createRef', message: `Insert Record success.`});
+            win.def.log({ level: 'info', file: 'model/json', func: 'createRef', message: `Insert Record id ${res.id} success.`});
             result.status(200).json(res);
           }).catch((err) => {
-            win.def.log({ level: 'error', file: 'model/json', func: 'readAndSave', message: `${err.name}: ${err.message}`});
+            win.def.log({ level: 'error', file: 'model/json', func: 'createRef', message: `${err.name}: ${err.message}`});
             result.status(500).json(err);
           });
-          //request.app.locals.col.insertOne(json.result[p])
-          //  .catch(e => console.log('[entrez.js] database insert of PMID %s failed.'.brightRed, p, e.message))
           console.log('[pythia] database PMID %s written.'.brightGreen, p)
         } catch(err) {
-          win.def.log({ level: 'error', file: 'model/json', func: 'readAndSave', message: `${err.name}: ${err.message}`});
+          win.def.log({ level: 'error', file: 'model/json', func: 'createRef', message: `${err.name}: ${err.message}`});
           result.status(500).json(err);
         }
         

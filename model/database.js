@@ -83,6 +83,7 @@ Refs.init(
     firstauthor:  { type: DataTypes.STRING },
     lastauthor:   { type: DataTypes.STRING },
     pubdate:      { type: DataTypes.STRING },
+    jsonCreated:  { type: DataTypes.DATE },
     attr:         { type: DataTypes.JSON }
   },{ sequelize,
       modelName: 'Refs'
@@ -111,14 +112,22 @@ CREATE OR REPLACE TABLE Refs (
   pmid INT,
   pmcid VARCHAR(20),
   attr JSON,
+  jsonCreated DATETIME,
   createdAt DATETIME,
   updatedAt DATETIME,
   PRIMARY KEY (id)
 );
 
 CREATE OR REPLACE UNIQUE INDEX refs_txtid_idx ON Refs (txtid);
+
+ALTER TABLE Refs ADD jsonCreated DATETIME;
+CREATE OR REPLACE INDEX json_created_idx ON Refs (jsonCreated);
+
+ALTER TABLE Refs ADD jsonBirth DATETIME;
+CREATE OR REPLACE INDEX json_birth_idx ON Refs (jsonBirth);
+
  * 
- * SELECT id, txtid, filename, createdAt FROM Refs;
+ * SELECT id, txtid, filename, jsonCreated, createdAt FROM Refs;
  */
 
 /**
@@ -150,12 +159,13 @@ class Database {
     return pminf.map(x => x.toString()).sort();
   }
   
-  
+
   /**
    * @param{uid}      - (array of pubmed-id's. Output of toPmidArray)
    * @param{pubmed}   - (Array of pubmed-records)
    * @returns{object} - ({ contained: pubmed-records, unknown: pubmed-id's })
    **/
+  /*
   setDifference = (uid, pubmed) => {
     let ui=0, pi=0;
     let contained = [];
@@ -175,6 +185,7 @@ class Database {
     }
     return { contained : contained, unknown: unknown }
   }
+  */
   
   /// ------------------------------------------------------------------
   /// Insert routines
@@ -203,12 +214,14 @@ class Database {
         firstauthor: ref.firstauthor,
         lastauthor: ref.lastauthor,
         pubdate: ref.pubdate,
-        attr: ref.json
+        attr: ref.json,
+        jsonCreated: ref.jsonCreated
       }).then((res) => {
-        win.def.log({ level: 'info', file: 'model/database', func: 'createRef', message: `Insert of record id ${res.dataValues.id}.`});
+        win.def.log({ level: 'info', file: 'model/database', func: 'createRef', message: `Insert of record id ${res.dataValues.id} success.`});
         resolve({
           status: 'OK',
           id: res.dataValues.id,
+          created: res.dataValues.jsonCreated
         });
       }).catch((e) => {
         win.def.log({ level: 'error', file: 'model/database', func: 'createRef', message: `${e.name}: ${e.message}`, stack: e.stack});
