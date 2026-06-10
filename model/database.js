@@ -119,15 +119,16 @@ CREATE OR REPLACE TABLE Refs (
 );
 
 CREATE OR REPLACE UNIQUE INDEX refs_txtid_idx ON Refs (txtid);
-
-ALTER TABLE Refs ADD jsonCreated DATETIME;
 CREATE OR REPLACE INDEX json_created_idx ON Refs (jsonCreated);
 
+
+ALTER TABLE Refs ADD jsonCreated DATETIME;
 ALTER TABLE Refs ADD jsonBirth DATETIME;
 CREATE OR REPLACE INDEX json_birth_idx ON Refs (jsonBirth);
 
  * 
  * SELECT id, txtid, filename, jsonCreated, createdAt FROM Refs;
+ * SELECT id, txtid, filename, jsonCreated, createdAt FROM Refs ORDER BY Id DESC limit 10;
  */
 
 /**

@@ -47,6 +47,8 @@ class JsonRepository {
    * @returns{Promise}  : json object
    **/
   getFileStats = async (filename) => {
+    /// Remove file extension
+    filename = filename.replace(/\.[^/.]+$/, "");
     let f = path.join(config.json.dir, `${filename}.json`);
     win.def.log({ level: 'info', file: 'model/json', func: 'getFileStats', message: `filename: ${filename}`});
     return new Promise((resolve, reject) => {
@@ -60,11 +62,15 @@ class JsonRepository {
   }
 
    
-  /**
+  /*****
+   * Reads content of a single .json file from config.json.dir
    * @param{filename}   : Name [string] of file without path and extension
    * @returns{Promise}  : json object
-   **/
+   * @rejects           : File not found or syscall error
+   *****/
   readFile = async (filename) => {
+    /// Remove file extension
+    filename = filename.replace(/\.[^/.]+$/, "");   
     let f = path.join(config.json.dir, `${filename}.json`);
     win.def.log({ level: 'info', file: 'model/json', func: 'readFile', message: `filename: ${filename}`});
     return new Promise((resolve, reject) => {
@@ -82,13 +88,14 @@ class JsonRepository {
     });
   }; /// readFile
 
-  /**
+  /*****
+   * Reads content of a single .json file from config.json.dir
    * @param{filename}   : Name [string] of file without path and extension
    * @returns{Promise}  : Resolves to Reference object
-   **/
+   * @rejects           : File not found or syscall error
+   *****/
   readRef = async (filename) => {
     return new Promise((resolve, reject) => {
-      //console.log(`[model/json] readRef: Reading file ${filename}`.brightCyan);
       this.readFile(filename).then(j => {
         const r = Reference.fromPubmed(j);
         resolve(r);
@@ -98,6 +105,14 @@ class JsonRepository {
     });   /// Promise
   };      /// readRef
   
+  
+  /*****
+   * Reads content of a single .json file from config.json.dir,
+   * adds jsonCreated (mtimeMs) property and writes a database record
+   * @param{filename}   : Name [string] of file without path and extension
+   * @returns{Promise}  : Resolves to Json object (returned by model/database/createRef)
+   * @rejects           : File not found or syscall error
+   *****/
   
   restoreJsonToDb = async (filename) => {
     return new Promise((resolve, reject) => {
@@ -121,32 +136,63 @@ class JsonRepository {
     }); /// catch readRef
     }); /// Promise
   }     /// restoreJsonToDb
-  
+
   /**
-   * @param{obj}  - (Object representing Pubmed record)
+   * Iterates all Files in json.dir
+   * 
+  **/
+  
+  async restoreAllJsonToDb() {
+    return new Promise((resolve, reject) => {
+      
+      fsp.readdir(config.json.dir).then(filenames => {
+        var result = {
+          success : 0,
+          error : []
+        };
+
+        Promise.all(filenames.map(async (filename) => {
+          try {
+            var res = await this.restoreJsonToDb(filename);
+            result.success++;
+          } catch (err) {
+            result.error.push(err);
+          }
+        })).then(r => {
+          win.def.log({ level: 'info', file: 'model/json', func: 'restoreAllJsonToDb', message: `Success ${result.success}, Errors ${result.error.length}`});
+          resolve(result);
+        });
+      }).catch(err => {
+        win.def.log({ level: 'error', file: 'model/json', func: 'restoreAllJsonToDb', message: `readdir error ${err.name}: ${err.message}`});
+        reject(err);
+      });
+    });
+  }
+
+
+
+  /**
+   * Saves a single Record in Json format to disk
+   * @param{obj}  - (Object representing Reference record)
    * @param{name} - (File name [.json will be added]: Pubmed-id)
    * @returns{Promise}
    **/
   writeSingleJson = async (obj, name) => {
     let filename = path.join(config.json.dir, name + '.json');
-    /// //////////////////////////////////////////////////////////////////////////
-    /// Object validation
-    /// Failing validation will impede insertion into MongoDb collection
-    /// //////////////////////////////////////////////////////////////////////////
-    if(!obj.hasOwnProperty('title')){
-      throw new Error('[json.writeJson] Required property *title* not found.'); 
-    }
     /// Include spacer for readability
     let js = JSON.stringify(obj, null, 2);
     return fsp.writeFile(filename, js)
-        .then(() => {
-          ++this.#nFiles;
-          console.log(`[json.js] File ${p} written.`.brightYellow)
-        })
-        .catch(reason => {console.log('[model/json.js] writeSingleJson: writeFile Rejected: %s'.brightRed, reason) });
+      .then(() => {
+        ++this.#nFiles;
+        console.log(`[json.js] File ${p} written.`.brightYellow)
+      })
+      .catch(reason => {
+        console.log('[model/json.js] writeSingleJson: writeFile Rejected: %s'.brightRed, reason)
+      });
   }
 
   /**
+   * Writes a small number of reference objects to disk
    * @param{entrez} - (Object: Returned by entrez query)
    * @returns{Promise}
    **/ 
@@ -160,23 +206,7 @@ class JsonRepository {
   /**
    * @returns(Promise)
    **/
-  getFileNames = async () => {
-    return fsp.readdir(config.json.dir);
-  }
-  
-  restoreAllJsonToDb = async() => {
-    return new Promise((resolve, reject) => {
-      fsp.readdir(config.json.dir).then(filenames => {
-        resolve({
-          status: 'OK',
-          count: filenames.length
-        });
-      }).catch(err => {
-        win.def.log({ level: 'error', file: 'model/json', func: 'restoreAllJsonToDb', message: `readdir error ${err.name}: ${err.message}`});
-        reject(err);
-      });
-    });
-  }
+  getFileNames = async () => { return fsp.readdir(config.json.dir); }
   
 }
 

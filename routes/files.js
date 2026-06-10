@@ -115,7 +115,7 @@ router.get('/ref/:name', (request, result, next) => {
 });
 
 /// //////////////////////////////////////////////////////////////// ///
-/// Reads database record from json file 
+/// Reads json file and saves it to database
 /// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/restore/file/24147111 | jq
 /// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/restore/file/10024268 | jq
 /// //////////////////////////////////////////////////////////////// ///
@@ -126,6 +126,12 @@ router.get('/restore/file/:name', (request, result, next) => {
     result.status(404).json(err);
   });
 });
+
+/// //////////////////////////////////////////////////////////////// ///
+/// Reads all json files from config.json and saves them to database 
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/restore/file/24147111 | jq
+/// curl -w "\nstatus=%{http_code}\n" http://localhost:9000/files/restore/all | jq
+/// //////////////////////////////////////////////////////////////// ///
 
 router.get('/restore/all', (request, result, next) => {
   json.repo.restoreAllJsonToDb().then(res => {
