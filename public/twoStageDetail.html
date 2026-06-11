@@ -1,8 +1,11 @@
 <div>
-  <div class="text-secondary" style="font-size:small;">PMID: {{ $ctrl.data.uid }}, ID: {{$ctrl.data.id}}, JSON: {{$ctrl.data.jsonCreated}}</div>
   <div class="panel panel-default">
   <table class="table table-sm" >
     <tbody>
+      <tr>
+        <td class="text-seccondary" style="width: 15%;"><small>PMID: {{$ctrl.data.uid }}</small></td>
+        <td class="text-secondary"><small>Database ID: {{$ctrl.data.id}} | JSON created: {{$ctrl.data.jsonCreated}} | DB-record created: {{$ctrl.data.createdAt}}</small></td>
+      </tr>
       <tr>
         <th scope="row" style="white-space:nowrap; width: 15%;">Journal name</th>
         <td>{{ $ctrl.data.fulljournalname }}</td>
@@ -33,6 +36,7 @@
           <a class="btn btn-sm btn-outline-secondary ml-2" href="http://localhost/lit/{{$ctrl.data.uid}}.pdf">PDF</a>
           <button class="btn btn-outline-primary btn-sm ml-2" ng-click-copy="{{ $ctrl.refElem }}">Copy Mediawiki</button>
           <button class="btn btn-outline-primary btn-sm ml-2" ng-click-copy="{{ $ctrl.bibTexElem }}">Copy BibTex</button>
+          <button class="btn btn-outline-primary btn-sm ml-2" ng-click-copy="{{ $ctrl.data.uid }}">Copy PMID</button>
           <check-pdf-access file="$ctrl.data.uid"></check-pdf-access>
         </td>
       </tr>

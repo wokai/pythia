@@ -62,6 +62,7 @@ CREATE OR REPLACE INDEX json_created_idx ON Refs (jsonCreated);
 const colors          = require('colors');
 const path            = require('path');
 const fsp             = require('fs').promises;
+const { format }      = require('date-and-time');
 const config          = require(path.join(__dirname, '..', 'config', 'config'));
 const win             = require(path.join('.', '..', 'logger', 'logger'));
 
@@ -123,7 +124,22 @@ Refs.init(
     lastauthor:   { type: DataTypes.STRING },
     pubdate:      { type: DataTypes.STRING },
     jsonCreated:  { type: DataTypes.DATE },
-    attr:         { type: DataTypes.JSON }
+    attr:         { type: DataTypes.JSON },
+    /// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    /// Virtual property for usage in font-end only 
+    /// (JSON with additional data)
+    /// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    display:      {
+      type: DataTypes.VIRTUAL,
+      get()       {
+        let a = this.attr;
+        a.id = this.id;
+        a.createdAt = format(this.createdAt, config.datetime.format);
+        a.jsonCreated = format(this.jsonCreated, config.datetime.format);
+        return a;
+      },
+      set(value)  { throw new Error('[Refs.init] Setting display value is not supported.');}
+    }
   },{ sequelize,
       modelName: 'Refs'
   }

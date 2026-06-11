@@ -24,6 +24,9 @@ const path = require('path');
 
 
 const config = {
+  datetime: {
+    "format" : 'YYYY/MM/DD'
+  },
   database: {
     "url" : 'mongodb://localhost:27017',
     "dataBaseName" : "pythia",
@@ -61,6 +64,7 @@ try {
   let local = require("./local.config");
   
   /// Copy values
+  config.datetime = local.datetime;
   config.database = local.database;
   config.pdf = local.pdf;
   config.json = local.json;

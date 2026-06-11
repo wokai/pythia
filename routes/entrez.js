@@ -20,11 +20,12 @@
  * USE OR OTHER DEALINGS IN THE SOFTWARE.
  ******************************************************************************/
 
-const express   = require('express');
-const fetch     = require('node-fetch');
-const path      = require('path');
-const fs        = require('fs/promises');
-const colors    = require('colors');
+const express     = require('express');
+const fetch       = require('node-fetch');
+const path        = require('path');
+const fs          = require('fs/promises');
+const colors      = require('colors');
+const { format }  = require('date-and-time');
 
 const config      = require(path.join(__dirname, '..', 'config', 'config'));    /// database
 const win         = require(path.join(__dirname, '..', 'logger', 'logger'));
@@ -223,22 +224,26 @@ router.post('/twostage', (request, result, next) => {
           entrez.fetch(dbres.unknown)
            .then(e => {
               if(e !== undefined){
-                e.forEach(p => {
-                  /// Array returned to client
-                  dbres.entrez.push(p);
-                  /// Insert into database without further check ...
-                  database.createRef(Reference.fromPubmed(p)).then((cr) => {
+                Promise.all(e.map(async (p) => {
+                  await database.createRef(Reference.fromPubmed(p)).then((cr) => {
+                    p.id = cr.id;
+                    p.jsonCreated = format(new Date(), config.datetime.format);
+                    p.createdAt = format(new Date(), config.datetime.format);
+                    /// Array returned to client
+                    dbres.entrez.push(p);
                     win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostage', message: `Database insert of PMID ${cr.id} success.`});
                   }).catch((err) => {
                     win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostage', message: `Database insert of PMID ${dbref.txtid} failed. Name: ${err.name}. Message: ${err.message}.`});
-                  });
-                });
-                result.status(200).json({
-                  status: 'OK',
-                  contained: dbres.contained.map(r => r.attr),
-                  unknown:   dbres.unknown,
-                  entrez:    dbres.entrez
-                }); /// result
+                  }); /// createRef
+                })).then((r) => {
+                  result.status(200).json({
+                    status: 'OK',
+                    contained: dbres.contained.map(r => r.display),
+                    unknown:   dbres.unknown,
+                    entrez:    dbres.entrez
+                  }); /// result
+                });   /// then
+                  
               } else {
                 win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostage', message: `entrez.fetch returned unknown.`});
                 result.status(200).json({
@@ -251,7 +256,7 @@ router.post('/twostage', (request, result, next) => {
           /// res.unknown.length = 0
           result.status(200).json({
             status: 'OK',
-            contained: dbres.contained.map(r => r.attr),
+            contained: dbres.contained.map(r => r.display),
             unknown: [],
             entrez: []
           });
