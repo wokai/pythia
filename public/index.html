@@ -23,7 +23,7 @@
       
       //----------------------------------------------------------------------//
       $scope.querytwostage    = EntrezService.querytwostage;
-      $scope.twostagePubMed   = EntrezService.twostagePubMed;
+      $scope.twoStagePubmed   = EntrezService.twoStagePubmed;
 
       //----------------------------------------------------------------------//
       $scope.localfiles = EntrezService.localPubMed.filenames;
@@ -127,18 +127,18 @@
             <two-stage-query></two-stage-query>
           </div>
           <div class="card-body border">
-            <div class="text-success ml-1">Database articles: {{twostagePubMed.contained.length}}</div>
-            <span ng-if="twostagePubMed.contained.length == 0" class="text-secondary">
+            <div class="text-success ml-1">Database articles: {{twoStagePubmed.contained.length}}</div>
+            <span ng-if="twoStagePubmed.contained.length == 0" class="text-secondary">
               (Empty result)
             </span>
-            <two-stage-detail data="p" ng-repeat="p in twostagePubMed.contained"></two-stage-detail>
+            <two-stage-detail data="p" ng-repeat="p in twoStagePubmed.contained"></two-stage-detail>
           </div>
           <div class="card-body border">
-            <div class="text-primary ml-1" >Entrez articles: {{twostagePubMed.entrez.length}}</div>
-            <span ng-if="twostagePubMed.entrez.length == 0" class="text-secondary">
+            <div class="text-primary ml-1" >Entrez articles: {{twoStagePubmed.entrez.length}}</div>
+            <span ng-if="twoStagePubmed.entrez.length == 0" class="text-secondary">
               (Empty result)
             </span>
-            <two-stage-detail data="p" ng-repeat="p in twostagePubMed.entrez"></two-stage-detail>
+            <two-stage-detail data="p" ng-repeat="p in twoStagePubmed.entrez"></two-stage-detail>
           </div>
         </div>
       </div>

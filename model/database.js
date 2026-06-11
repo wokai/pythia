@@ -20,9 +20,44 @@
  * USE OR OTHER DEALINGS IN THE SOFTWARE.
  ******************************************************************************/
 
-/// ////////////////////////////////////////////////////////////////////////////
-/// 
-/// ////////////////////////////////////////////////////////////////////////////
+/***********************************************************************
+ * See initdb.sql in root directory
+ * table name 'references' ist not allowed
+ * 
+CREATE OR REPLACE TABLE Refs (
+  id INT NOT NULL AUTO_INCREMENT,
+  txtid VARCHAR(100),
+  type VARCHAR(20),
+  filename VARCHAR(100) UNIQUE,
+  source VARCHAR(100),
+  issue VARCHAR(20),
+  pages VARCHAR(20),
+  year INT,
+  title TEXT,
+  firstauthor VARCHAR(100),
+  lastauthor VARCHAR(100),
+  pubdate VARCHAR(20),
+  doi VARCHAR(100),
+  pmid INT,
+  pmcid VARCHAR(20),
+  attr JSON,
+  jsonCreated DATETIME,
+  createdAt DATETIME,
+  updatedAt DATETIME,
+  PRIMARY KEY (id)
+);
+
+CREATE OR REPLACE UNIQUE INDEX refs_txtid_idx ON Refs (txtid);
+CREATE OR REPLACE INDEX json_created_idx ON Refs (jsonCreated);
+
+ ** Maintenance:
+ * SELECT id, txtid, filename, jsonCreated, createdAt FROM Refs;
+ * SELECT id, txtid, filename, jsonCreated, createdAt FROM Refs ORDER BY Id DESC limit 10;
+ **********************************************************************/
+
+/// ////////////////////////////////////////////////////////////////////
+/// A.  Setup 
+/// ////////////////////////////////////////////////////////////////////
 
 const colors          = require('colors');
 const path            = require('path');
@@ -60,6 +95,10 @@ sequelize.authenticate().then(() => {
   });
 });
 
+/// ////////////////////////////////////////////////////////////////////
+/// B.  Public interface 
+/// ////////////////////////////////////////////////////////////////////
+
 class Refs extends Model {}
 
 Refs.init(
@@ -92,46 +131,6 @@ Refs.init(
 
 
 /**
- * 
- * table name 'references' ist not allowed
- * 
-CREATE OR REPLACE TABLE Refs (
-  id INT NOT NULL AUTO_INCREMENT,
-  txtid VARCHAR(100),
-  type VARCHAR(20),
-  filename VARCHAR(100) UNIQUE,
-  source VARCHAR(100),
-  issue VARCHAR(20),
-  pages VARCHAR(20),
-  year INT,
-  title TEXT,
-  firstauthor VARCHAR(100),
-  lastauthor VARCHAR(100),
-  pubdate VARCHAR(20),
-  doi VARCHAR(100),
-  pmid INT,
-  pmcid VARCHAR(20),
-  attr JSON,
-  jsonCreated DATETIME,
-  createdAt DATETIME,
-  updatedAt DATETIME,
-  PRIMARY KEY (id)
-);
-
-CREATE OR REPLACE UNIQUE INDEX refs_txtid_idx ON Refs (txtid);
-CREATE OR REPLACE INDEX json_created_idx ON Refs (jsonCreated);
-
-
-ALTER TABLE Refs ADD jsonCreated DATETIME;
-ALTER TABLE Refs ADD jsonBirth DATETIME;
-CREATE OR REPLACE INDEX json_birth_idx ON Refs (jsonBirth);
-
- * 
- * SELECT id, txtid, filename, jsonCreated, createdAt FROM Refs;
- * SELECT id, txtid, filename, jsonCreated, createdAt FROM Refs ORDER BY Id DESC limit 10;
- */
-
-/**
  * @usedBy    - (routes/entrez, routes/db, model/json)
  **/
 
@@ -139,9 +138,8 @@ class Database {
   
   constructor(){}
   
-
   /// ------------------------------------------------------------------
-  /// 
+  /// Utils
   /// ------------------------------------------------------------------
 
   isInt = (val) => { return Number.isNaN(parseInt(val)); }
@@ -159,35 +157,7 @@ class Database {
     /// Convert back to string
     return pminf.map(x => x.toString()).sort();
   }
-  
-
-  /**
-   * @param{uid}      - (array of pubmed-id's. Output of toPmidArray)
-   * @param{pubmed}   - (Array of pubmed-records)
-   * @returns{object} - ({ contained: pubmed-records, unknown: pubmed-id's })
-   **/
-  /*
-  setDifference = (uid, pubmed) => {
-    let ui=0, pi=0;
-    let contained = [];
-    let unknown   = [];
     
-    while(ui < uid.length && pi < pubmed.length){
-      if      (uid[ui] < pubmed[pi].uid) { unknown.push(uid[ui++]); }
-      else if (uid[ui] > pubmed[pi].uid) { ++pi; }
-      else    { contained.push(pubmed[pi]); ++ui; ++ pi; }
-    }
-    
-    while(ui < uid.length){ unknown.push(uid[ui++]); }
-    if(contained.length > 0){
-      console.log(`[model/mongo] Found pmid's ${contained.map(p => p.uid).join()}`.green);
-    } else {
-      console.log('[model/mongo] No pmid found in local database.'.green);
-    }
-    return { contained : contained, unknown: unknown }
-  }
-  */
-  
   /// ------------------------------------------------------------------
   /// Insert routines
   /// ------------------------------------------------------------------
@@ -291,8 +261,8 @@ class Database {
   }
   
   /**
-   * 
    * @param{pmids}    - (Array<String> or single String representing Pubmed ID's)
+   * @returns         - (Promise: resolves to JSON: { contained ..., unknown ...} )
    **/
   
   async getRecordsByPubmedIds(pmids) {
@@ -312,7 +282,6 @@ class Database {
         
         /// res = Array of database records
         const pContained = res.map(x => { return x.txtid });
-        // console.log('[model/database] getRecordsByPubmedIds. Found. pmids: %s'.brightGreen, pContained);
 
         /// Construct returned json
         const target = new Set(pmids);
@@ -343,14 +312,14 @@ class Database {
       
     });     /// Promise
   }         /// getRecordsByPubmedIds
-  
+
+
   /**
    * @usedBy    { get: /pmid/:pmid} + (routes/db)
    * @param     { txtIds: Array of txtId's - String }
    * @returns   { Array of database records as returned by findAll }
    * @throws    { Nothing. Promise will be rejected }
    **/
-  
   async getRecordsByTxtId(txtIds) {
     return new Promise((resolve, reject) => {
       /// findAll returns array
@@ -381,7 +350,6 @@ class Database {
       Refs.findAll({
         where: { title: { [Op.regexp]: regexp } }
       }).then((res) => {
-        // console.log(`[model/database] getRecordsByTitle. Title: ${regexp}`.brightYellow);
         resolve(res);
       }).catch((err) => {
           win.def.log({ 
@@ -415,6 +383,10 @@ class Database {
   }     /// pubMedArray
 
 } /// class Database
+
+/// ////////////////////////////////////////////////////////////////////
+/// C.  Export
+/// ////////////////////////////////////////////////////////////////////
 
 const database = Object.freeze(new Database);
 

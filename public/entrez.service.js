@@ -39,7 +39,7 @@ app.factory('EntrezService', function($http) {
     refs: []
   }
   
-  let twostagePubMed = {
+  let twoStagePubmed = {
     contained: [],
     unknown: [],
     entrez: []
@@ -251,16 +251,16 @@ app.factory('EntrezService', function($http) {
       console.log('[EntrezService.queryTwoStage response.data.status:', response.data.status);
 
       /// Clear data
-      twostagePubMed.contained.length = 0;
-      twostagePubMed.unknown.length = 0;
-      twostagePubMed.entrez.length = 0;
+      twoStagePubmed.contained.length = 0;
+      twoStagePubmed.unknown.length = 0;
+      twoStagePubmed.entrez.length = 0;
 
-      twostagePubMed.contained.push(...response.data.contained);
-      twostagePubMed.unknown.push(...response.data.unknown);
-      twostagePubMed.entrez.push(...response.data.entrez);
+      twoStagePubmed.contained.push(...response.data.contained);
+      twoStagePubmed.unknown.push(...response.data.unknown);
+      twoStagePubmed.entrez.push(...response.data.entrez);
 
-      twostagePubMed.contained.forEach(c => processAuthorNames(c));
-      twostagePubMed.entrez.forEach(e => processAuthorNames(e));
+      twoStagePubmed.contained.forEach(c => processAuthorNames(c));
+      twoStagePubmed.entrez.forEach(e => processAuthorNames(e));
     }, function(response) {
       console.log('[EntrezService.querytwostage] Notification: ', response)
     }).catch(function(error){
@@ -322,7 +322,7 @@ app.factory('EntrezService', function($http) {
     queryAuthors: queryAuthors,
     qryResult: qryResult,
     transferRecord: transferRecord,
-    twostagePubMed: twostagePubMed
+    twoStagePubmed: twoStagePubmed
   }
 });                   /// EntrezService
 })(window.angular);   /// function(angular)

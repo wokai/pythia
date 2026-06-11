@@ -212,6 +212,7 @@ class Reference {
     
     r.pmid = j.uid;
     r.pmcid = getArticleId(j, 'pmc');
+    r.jsonCreated = new Date();
 
     return r;
   }
@@ -240,6 +241,7 @@ class Reference {
     r.title = j.title;
     r.firstauthor = j.firstauthor;
     r.lastauthor = j.lastauthor;
+    r.jsonCreated = new Date();
     return r;
   }
   
@@ -257,6 +259,7 @@ class Reference {
     r.pubdate = j.pubdate;
     r.firstauthor = j.firstauthor;
     r.lastauthor = j.lastauthor;
+    r.jsonCreated = new Date();
     return r;
   }
 };

@@ -249,7 +249,6 @@ router.post('/twostage', (request, result, next) => {
             }) /// fetch.then()
         } else {
           /// res.unknown.length = 0
-          console.log(`[routes/entrez] /twostage success: dbres.unknown is empty`.yellow);
           result.status(200).json({
             status: 'OK',
             contained: dbres.contained.map(r => r.attr),
