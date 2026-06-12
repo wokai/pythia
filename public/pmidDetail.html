@@ -1,5 +1,6 @@
 <div>
   <div class="text-secondary" style="font-size:small;">PMID: {{ $ctrl.data.uid }}</div>
+  <td class="text-secondary"><small>Database ID: {{$ctrl.data.id}} | JSON created: {{$ctrl.data.jsonCreated}} | DB-record created: {{$ctrl.data.createdAt}}</small></td>
   <div class="panel panel-default">
   <table class="table table-sm" >
     <tbody>
@@ -33,6 +34,8 @@
           <a class="btn btn-sm btn-outline-danger ml-2" href="http://localhost/lit/{{$ctrl.data.uid}}.pdf">PDF</a>
           <button class="btn btn-outline-success btn-sm ml-2" ng-click-copy="{{ $ctrl.refElem }}">Copy Mediawiki</button>
           <button class="btn btn-outline-success btn-sm ml-2" ng-click-copy="{{ $ctrl.bibTexElem }}">Copy BibTex</button>
+          <button class="btn btn-outline-primary btn-sm ml-2" ng-click-copy="{{ $ctrl.data.uid }}">Copy PMID</button>
+          <check-pdf-access file="$ctrl.data.uid"></check-pdf-access>
         </td>
       </tr>
     </tbody>

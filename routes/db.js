@@ -105,6 +105,14 @@ router.get('/count', (request, result, next) =>{
 /// D Query records
 /// ////////////////////////////////////////////////////////////////////////////
 
+router.get('/last/:n', (request, result) => { 
+  database.getLastRecords(request.params.n).then((res) => {
+    result.status(200).json(res);
+  }).catch((e) => {
+    result.status(500).json(e);
+  });
+});
+
 /// //////////////////////////////////////////////////////////////////////// ///
 /// Find single document by Pubmed-ID
 /// curl http://localhost:9000/db/pmid/622185 | jq

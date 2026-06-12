@@ -137,15 +137,24 @@ app.factory('EntrezService', function($http) {
       })
   }
   
+  var queryLastItems = function(n) {
+    $http.get(`/db/last/${n}`).then(function(response) {
+      response.data.forEach(processAuthorNames);
+      qryResult.documents = response.data;
+      console.log('[EntrezService.queryTitles] Returned %i documents.', response.data.length);
+    }, function(response){
+      console.log('[EntrezService.queryTitles] Notification: ', response);
+    }).catch(function(error) {
+      console.log('[EntrezService.queryTitles] Error: ' + error);
+    });
+  }
+  
   var queryTitles = function(title, type = "text"){
-    
     var qry = {
       search : title,
       type : type       // 'text' or 'phrase'
     }
-    
     $http.post('/db/query/title', qry).then(function(response){
-      
       response.data.forEach(processAuthorNames);
       qryResult.documents = response.data;
       console.log('[EntrezService.queryTitles] Returned %i documents.', response.data.length);
@@ -195,7 +204,6 @@ app.factory('EntrezService', function($http) {
   }
   
   var transferRecord = function(pmid){
-    
     var data = {
       pmid: pmid
     };
@@ -319,6 +327,7 @@ app.factory('EntrezService', function($http) {
     queryTitles: queryTitles,
     queryTwoStage: queryTwoStage,
     queryPmid: queryPmid,
+    queryLastItems: queryLastItems,
     queryAuthors: queryAuthors,
     qryResult: qryResult,
     transferRecord: transferRecord,

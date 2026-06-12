@@ -89,6 +89,23 @@ app.component('checkPdfAccess', {
 });
 
 
+app.component('lastItemsQuery', {
+  templateUrl: 'lastItemsQuery.html',
+  controller: function($scope, $element, EntrezService){
+    this.qry = '10';
+    
+    this.submit = function() {
+      EntrezService.queryLastItems(this.qry);
+    }
+    
+    this.clear = function() {
+      this.qry = '10';
+      $element.find('input').focus();
+    }
+  }
+});
+
+
 app.component('titleQuery', {
   templateUrl: 'titleQuery.html',
   controller: function($scope, $element, EntrezService){

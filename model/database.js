@@ -134,8 +134,9 @@ Refs.init(
       get()       {
         let a = this.attr;
         a.id = this.id;
-        a.createdAt = format(this.createdAt, config.datetime.format);
-        a.jsonCreated = format(this.jsonCreated, config.datetime.format);
+        /// This must be done in order to prevent crashes ....
+        a.createdAt   = (this.createdAt == null)   ? '-' : format(this.createdAt, config.datetime.format);
+        a.jsonCreated = (this.jsonCreated == null) ? '-' : format(this.jsonCreated, config.datetime.format);
         return a;
       },
       set(value)  { throw new Error('[Refs.init] Setting display value is not supported.');}
@@ -242,6 +243,27 @@ class Database {
   }         /// count
   
   
+  async getLastRecords(n) {
+    return new Promise((resolve, reject) => {
+      const parsed = Number.parseInt(n);
+      if (Number.isNaN(parsed)) {
+        win.def.log({ level: 'error', file: 'model/database', func: 'getLastRecords', message: `Proviced number '${n}' is not numeric.`});
+        reject({
+          status: 'Error',
+          param: n,
+          message: 'param is not an integer'
+        });
+      } else {
+        Refs.findAll({
+          order: [[ 'id', 'DESC' ]],
+          limit: parsed
+        }).then(res => {
+            resolve(res.map(r => r.display));
+        }); /// then
+        }   /// else
+    });     /// Promise
+  }         /// getLastRecords
+  
   /**
    * @usedBy    { get: /pmid/:pmid} + (routes/db)
    * @param     { txtid: Record Id - String }
@@ -295,15 +317,13 @@ class Database {
     
     return new Promise((resolve, reject) => {
       Refs.findAll({ where: { txtid: pmids } }).then((res) => {
-        
-        /// res = Array of database records
-        const pContained = res.map(x => { return x.txtid });
-
+                
+        /// res = (possibly empty) Array of database records 
         /// Construct returned json
         const target = new Set(pmids);
-        const query = new Set(pContained);
+        const query = new Set(res.map(x => { return x.txtid }));
         const dbResult = {
-            contained: res,
+            contained: res.map(x => x.display),
             unknown: [...target.difference(query)]
           }
         resolve(dbResult);

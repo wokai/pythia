@@ -235,10 +235,10 @@ router.post('/twostage', (request, result, next) => {
                   }).catch((err) => {
                     win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostage', message: `Database insert of PMID ${dbref.txtid} failed. Name: ${err.name}. Message: ${err.message}.`});
                   }); /// createRef
-                })).then((r) => {
+                })).then((r) => {                  
                   result.status(200).json({
                     status: 'OK',
-                    contained: dbres.contained.map(r => r.display),
+                    contained: dbres.contained, 
                     unknown:   dbres.unknown,
                     entrez:    dbres.entrez
                   }); /// result
@@ -253,10 +253,10 @@ router.post('/twostage', (request, result, next) => {
               }
             }) /// fetch.then()
         } else {
-          /// res.unknown.length = 0
+          /// res.unknown.length = 0          
           result.status(200).json({
             status: 'OK',
-            contained: dbres.contained.map(r => r.display),
+            contained: dbres.contained,
             unknown: [],
             entrez: []
           });

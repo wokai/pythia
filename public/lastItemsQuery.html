@@ -1,11 +1,11 @@
 <!--- .form-control : Expands input size to full input-group size           --->
-<div ng-form="titleQueryForm" novalidate>
-<div class="input-group mb-3">
-  <span class="input-group-text" style="width:20%">Title query</span>
-  <input type="text" ng-ref="titleQueryInput"
-    placeholder="Suchbegriff für Überschriften" class="form-control"
+<div ng-form="lastItemsQueryForm" novalidate>
+<div class="input-group">
+  <span class="input-group-text" style="width:20%">Last database items</span>
+  <input type="text" ng-ref="lastItemsQueryInput"
+    placeholder="Enter number of records" class="form-control"
     data-toggle="tooltip" data-placement="bottom"
-    title="Bitte Suchbegriff eintragen"
+    title="Please enter number of returned records"
     ng-enter="$ctrl.submit()"
     ng-model="$ctrl.qry"/>
     <button class="btn btn-outline-secondary" ng-click="$ctrl.clear()"
