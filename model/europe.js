@@ -28,6 +28,8 @@ const colors    = require('colors');
 const path      = require('path');
 const fetch     = require('node-fetch');
 const fs        = require('fs/promises');
+
+const Reference = require(path.join(__dirname, 'reference'));
 const config    = require(path.join(__dirname, '..', 'config', 'config'));
 const win       = require(path.join(__dirname, '..', 'logger', 'logger'));
 
@@ -35,7 +37,7 @@ const win       = require(path.join(__dirname, '..', 'logger', 'logger'));
 /// Europe-PMC
 /// https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=p53&format=json
 /// Query pubmed:
-/// https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=25404529&format=json
+/// https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=ext_id:25404529&format=json
 /// Query DOI
 /// https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1007/bf00197367&format=json
 ///
@@ -59,16 +61,56 @@ class Europe {
   constructor(){}
   
   fetch = async (pmid) => {
-    pmid = parseInt(pmid);
-    if(Number.isNaN(pmid)) {
-      return new Promise((resolve, reject) => {
-        resolve({ result: "Empty" });
-      });
-    } else {
-      const url = `https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=ext_id%3a${pmid}and%20src%3amed&format=json`;
-      return fetch(url).then(res => res.json())
-    }
-  }
+    return new Promise((resolve, reject) => {
+      pmid = parseInt(pmid);
+      if(Number.isNaN(pmid)) {
+        win.def.log({ level: 'warn', file: '/model/europe', func: 'fetch', message: `Argument ${pmid} is not an integer.`});
+        reject({
+          status: "Error",
+          message: `Argument '${pmid}' is not an integer`
+        });
+      } else {
+        const url = `https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=ext_id:${pmid}&format=json`;
+        fetch(url).then(response => {
+          if(!response.ok) {
+            win.def.log({ level: 'warn', file: '/model/europe', func: 'fetch', message: `Status-Text: ${response.statusText}.`});
+            // https://developer.mozilla.org/en-US/docs/Web/API/Response
+            reject(response); 
+          } else {
+            resolve(response.json());
+          }   /// if-else
+        });   /// fetch.then
+      }       /// else
+    });       /// Promise
+  }           /// fetch
+  
+
+  fetchReference = async (pmid) => {
+    return new Promise((resolve, reject) => {
+      pmid = parseInt(pmid);
+      if(Number.isNaN(pmid)) {
+        win.def.log({ level: 'warn', file: '/model/europe', func: 'fetchReference', message: `Argument ${pmid} is not an integer.`});
+        reject({
+          status: "Error",
+          message: `Argument '${pmid}' is not an integer`
+        });
+      } else {
+        const url = `https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=ext_id:${pmid}&format=json`;
+        fetch(url).then(response => {
+          if(!response.ok) {
+            win.def.log({ level: 'warn', file: '/model/europe', func: 'fetchReference', message: `Status-Text: ${response.statusText}.`});
+            // https://developer.mozilla.org/en-US/docs/Web/API/Response
+            reject(response); 
+          } else {
+            response.json().then(json => {
+              resolve(json.resultList.result[0]);
+              //resolve(Response.fromEuropePmc(json.resultList.result[0]));
+            });
+          }   /// if-else
+        });   /// fetch.then
+      }       /// else
+    });       /// Promise
+  }       /// fetchReference
 }
 
 const europe = new Europe();

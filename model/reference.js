@@ -217,7 +217,16 @@ class Reference {
     return r;
   }
   
-  //https://europepmc.org/RestfulWebService
+  static fromEuropePmc(j) {
+    const r = new Reference(j);
+    r.txtid = j.id;
+    r.type = 'pubmed';
+    r.filename = j.id;
+    r.source = j.journalTitle;
+    r.volume = j.journalVolume;
+    r.
+  }
+  
   
   /**
    * Create reference object from Json object

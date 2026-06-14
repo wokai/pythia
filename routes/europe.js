@@ -52,4 +52,18 @@ router.get('/pmid/:pmid', function(request, result, next) {
   });
 });
 
+router.get('/response/:pmid', function(request, result, next) {
+  console.log(`[pythia] GET Europe-PMC PMID: ${request.params.pmid}`.green);
+  europe.fetchReference(request.params.pmid).then(res => {
+    win.def.log({ level: 'info', file: '/routes/europe', func: 'Get /response/:pmid', message: `success`});
+    result.status(200).json(res);
+  }).catch((err) => {
+    win.def.log({ level: 'warn', file: '/routes/europe', func: 'Get /response/:pmid', message: `error: ${err.message}`});
+    result.status(500).json({
+      status: 'Error',
+      message: err.message
+    });
+  });
+});
+
 module.exports = router;

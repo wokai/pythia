@@ -55,7 +55,7 @@ const config = {
     "example" : "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pmc&retmode=json&id=2048009"
   },
   europe: {
-    "baseUrl" : ""
+    "baseUrl" : "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query="
   }
 };
 
