@@ -35,9 +35,41 @@ Query results are displayed together with export options for
 Upon selection of the provided format, the reference is copied into the 
 clipboard.
 
-A local directory for PDF's is maintained.
+## Usage of links to stored PDF
+
+### Usage of PDF-links inside Pythia
+
+In Pythia, a base directory for PDF dokuments is configured.
 For every record, the presence of the referring PDF can be checked.
-A link is provided, so that PDF's can directly be viewed in a Browser.
+The PDF can be opened by clicking a link inside Pythia record.
+
+### Usage of PDF-links inside Mediawiki
+
+The Pythia-generated Mediawiki references contain a link to the referred
+PDF-document inside the configured directory.
+Ideally, these PDF contain the original document of the reference.
+
+The user must copy the PDF from downloaded documents into the
+configured directory using the correct filename.
+The filename should be the Pubmed-Id (for example `12345678.pdf`).
+
+From inside Mediawiki, the PDF can be viewed by clicking the link in the given
+reference.
+
+# Setup (Linux)
+
+ - Download project into working directory
+ - Execute `npm install` in base directory
+ - Initialize MariaDB
+     - Install MariaDB database
+     - Create database, database-user and database table as shown in `initdb.sql`
+ - Create `pdf.base` directory and make directory accessible for `www-data` user
+ - Customize configuration
+     - Copy `/config/config.js` into `/config/local.config.js`
+     - Open `local.config.js`
+     - Remove `try {} catch (e) {}` block in `local.config.js`
+     - Update database-user and user-password in `local.config.js`
+     - Update pdf.base in `local.config.js`
 
 # Documentation
 

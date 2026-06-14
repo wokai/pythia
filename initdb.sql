@@ -1,6 +1,10 @@
 /** Creation of database and database-table */
 
 CREATE DATABASE pythia;
+
+CREATE USER 'pythia-user'@'localhost' IDENTIFIED BY 'password-for-pythia-user';
+GRANT ALL ON pythia.* TO 'pythiaroot'@'localhost';
+
 USE pythia;
 
 CREATE OR REPLACE TABLE Refs (

@@ -28,12 +28,12 @@ const config = {
     "format" : 'YYYY/MM/DD'
   },
   database: {
-    "url" : 'mongodb://localhost:27017',
+    "host" : "localhost",
     "dataBaseName" : "pythia",
     "tableName" : "refs",
-    "dbUserName" : "database-user-name",
-    "dbUserPassword" : "user-password",
-    "host" : "localhost"
+    /// User-name and password must be the same as in initdb.sql
+    "dbUserName" : "pythia-user",
+    "dbUserPassword" : "password-for-pythia-user"
   },
   pdf: {
     "base" : "path/to/pdf/files"
