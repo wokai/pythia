@@ -277,6 +277,7 @@ app.component('twoStageDetail', {
     const ctrl = this;
     
     ctrl.refElem = '(empty)';
+    ctrl.shortRefElem = '(empty)';
     ctrl.bibTexElem = '(empty)';
     
     function prepareReferenceElement(){
@@ -318,6 +319,15 @@ app.component('twoStageDetail', {
       ctrl.refElem = left_delim + ref_elem + pmid_link + pdf_link + right_delim;
     }
     
+    function prepareShortRefElement(){
+      if(ctrl.data.error){
+        ctrl.shortRefElem = 'Error: ' + ctrl.data.error;
+      } else {
+        // <ref name="..."</ref> 
+        ctrl.shortRefElem = `<ref name="pmid${ctrl.data.uid}"/>`;
+      }
+    }
+    
     function prepareBibTexElement(){
       
       if(ctrl.data.error){
@@ -344,6 +354,7 @@ app.component('twoStageDetail', {
     // Lifecycle hook of component: Called on each digest cycle
     ctrl.$doCheck = function() { 
       prepareReferenceElement();
+      prepareShortRefElement();
       prepareBibTexElement();
     }
   }
