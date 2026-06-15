@@ -224,7 +224,6 @@ class Reference {
     r.filename = j.id;
     r.source = j.journalTitle;
     r.volume = j.journalVolume;
-    r.
   }
   
   
