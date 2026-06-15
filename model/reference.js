@@ -133,14 +133,23 @@ class Reference {
   get pubdate()       { return this.#db.art.pubdate;}
   set pubdate(x)      { this.#db.art.pubdate = x;   }
   
-  get jsonCreated()     { return this.#db.jsonCreated;  }
-  set jsonCreated(x)    {
+  get jsonCreated()   { return this.#db.jsonCreated;  }
+  set jsonCreated(x)  {
     let d = new Date(x); /// It is ok to have a date object here
     if(isNaN(d.getDate())){
       /// Something went wrong. Use current date
       this.#db.jsonCreated = new Date();
     } else {
       this.#db.jsonCreated = d;
+    }
+  }
+  get createdAt()     { return this.#db.createdAt; }
+  set createdAt(x)    {
+    let d = new Date(x); 
+    if(isNaN(d.getDate())){
+      this.#db.createdAt = new Date();
+    } else {
+      this.#db.createdAt = d;
     }
   }
   
@@ -160,6 +169,7 @@ class Reference {
       type:         null,
       doi:          null,
       jsonCreated:  null,
+      createdAt:    null,
       pm: {
         pmid:       null,
         pmcid:      null
@@ -213,17 +223,27 @@ class Reference {
     r.pmid = j.uid;
     r.pmcid = getArticleId(j, 'pmc');
     r.jsonCreated = new Date();
-
+    r.createdAt = new Date();
     return r;
   }
   
   static fromEuropePmc(j) {
     const r = new Reference(j);
     r.txtid = j.id;
-    r.type = 'pubmed';
+    r.type = 'eup';
     r.filename = j.id;
     r.source = j.journalTitle;
     r.volume = j.journalVolume;
+    r.issue = j.issue;
+    r.pages = j.pageInfo;
+    r.year = j.pubYear;
+    r.title = j.title;
+    r.pubdate = j.firstPublicationDate;
+    r.doi = j.doi;
+    r.pmid = j.id;
+    r.jsonCreated = new Date();
+    r.createdAt = new Date();
+    return r;
   }
   
   

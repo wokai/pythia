@@ -103,8 +103,10 @@ class Europe {
             reject(response); 
           } else {
             response.json().then(json => {
-              resolve(json.resultList.result[0]);
-              //resolve(Response.fromEuropePmc(json.resultList.result[0]));
+              //const r = Reference.fromEuropePmc(json.resultList.result[0]);
+              //console.log(r.db);
+              resolve(Reference.fromEuropePmc(json.resultList.result[0]));
+              //resolve(json.resultList.result[0]);
             });
           }   /// if-else
         });   /// fetch.then
