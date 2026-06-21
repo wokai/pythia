@@ -194,8 +194,18 @@ app.component('pmidDetail', {
     const ctrl = this;
     
     ctrl.refElem = '(empty)';
+    ctrl.shortRefElem = '(empty)';
     ctrl.bibTexElem = '(empty)';
     ctrl.postDatabase = EntrezService.postDatabase;
+
+    function prepareShortRefElement(){
+      if(ctrl.data.error){
+        ctrl.shortRefElem = 'Error: ' + ctrl.data.error;
+      } else {
+        // <ref name="..."</ref> 
+        ctrl.shortRefElem = `<ref name="pmid${ctrl.data.uid}"/>`;
+      }
+    }
     
     function prepareReferenceElement(){
       
@@ -262,6 +272,7 @@ app.component('pmidDetail', {
     // Lifecycle hook of component: Called on each digest cycle
     ctrl.$doCheck = function() { 
       prepareReferenceElement();
+      prepareShortRefElement();
       prepareBibTexElement();
     }
     
