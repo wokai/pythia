@@ -279,6 +279,16 @@ app.component('pmidDetail', {
   }
 });
 
+app.component('manualRecordInput', {
+  templateUrl: 'manualRecordInput.html',
+  bindings: {
+    data: '='
+  },
+  controller: function(EntrezService){
+    const ctrl = this;
+  }
+});
+
 app.component('twoStageDetail', {
   templateUrl: 'twoStageDetail.html',
   bindings: {
