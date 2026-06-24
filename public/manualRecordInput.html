@@ -3,14 +3,26 @@
     Manual Record Input
   </div>
   <div class="card-body">
+    
     <!--- .form-control : Expands input size to full input-group size           --->
-    <div ng-form="titleQueryForm" novalidate>
+    <div ng-form="manRecInputForm" novalidate>
+           
+      <div class="input-group mb-3">
+        <label class="input-group-text" for="recTypeSelect" style="width:20%">Record Type</label>
+        <select class="form-select" id="recTypeSelect">
+          <option selected>Record Type</option>
+          <option value="doi">DOI</option>
+          <option value="dae">DAE</option>
+          <option value="prop">Prop</option>
+        </select>
+      </div>
+      
     <div class="input-group mb-3">
-      <span class="input-group-text" style="width:20%">Title query</span>
-      <input type="text" ng-ref="titleQueryInput"
-        placeholder="Suchbegriff für Überschriften" class="form-control"
+      <span class="input-group-text" style="width:20%">DOI</span>
+      <input type="text" ng-ref="doiInput"
+        placeholder="DOI" class="form-control"
         data-toggle="tooltip" data-placement="bottom"
-        title="Bitte Suchbegriff eintragen"
+        title="Enter DOI"
         ng-enter="$ctrl.submit()"
         ng-model="$ctrl.qry"/>
         <button class="btn btn-outline-secondary" ng-click="$ctrl.clear()"
@@ -18,8 +30,53 @@
           title="Clear input">
           <img src="/icons/x.svg" alt="Clear">
         </button>
-        <button class="btn btn-success" ng-click="$ctrl.submit()">Send</button>
     </div>
+
+    <div class="input-group mb-3">
+      <span class="input-group-text" style="width:20%">Filename</span>
+      <input type="text" ng-ref="fileNameInput"
+        placeholder="Filename" class="form-control"
+        data-toggle="tooltip" data-placement="bottom"
+        title="Enter Filename"
+        ng-enter="$ctrl.submit()"
+        ng-model="$ctrl.qry"/>
+        <button class="btn btn-outline-secondary" ng-click="$ctrl.clear()"
+          data-toggle="tooltip", data-placement="bottom"
+          title="Clear input">
+          <img src="/icons/x.svg" alt="Clear">
+        </button>
+    </div>
+
+    <div class="input-group mb-3">
+      <span class="input-group-text" style="width:20%">Title</span>
+      <input type="text" ng-ref="titleInput"
+        placeholder="Title" class="form-control"
+        data-toggle="tooltip" data-placement="bottom"
+        title="Enter title"
+        ng-enter="$ctrl.submit()"
+        ng-model="$ctrl.qry"/>
+        <button class="btn btn-outline-secondary" ng-click="$ctrl.clear()"
+          data-toggle="tooltip", data-placement="bottom"
+          title="Clear input">
+          <img src="/icons/x.svg" alt="Clear">
+        </button>
+    </div>
+
+    <div class="input-group mb-3">
+      <span class="input-group-text" style="width:20%">Journal</span>
+      <input type="text" ng-ref="journalInput"
+        placeholder="Journal" class="form-control"
+        data-toggle="tooltip" data-placement="bottom"
+        title="Enter Journal"
+        ng-enter="$ctrl.submit()"
+        ng-model="$ctrl.qry"/>
+        <button class="btn btn-outline-secondary" ng-click="$ctrl.clear()"
+          data-toggle="tooltip", data-placement="bottom"
+          title="Clear input">
+          <img src="/icons/x.svg" alt="Clear">
+        </button>
+    </div>
+
     </div>
   </div>
 </div>

@@ -250,7 +250,7 @@ class Reference {
   /**
    * Create reference object from Json object
    * {
-   *  type:   (string)              [ 'pubmed', 'doi', 'eup', 'prop' ]
+   *  type:   (string)              [ 'pubmed', 'doi', 'eup', 'dae', 'ai', 'prop' ]
    *  id:     (string or numeric)
    *  title:  (string)
    *  source: (string)
