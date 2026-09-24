@@ -233,7 +233,7 @@ router.post('/twostage', (request, result, next) => {
                     dbres.entrez.push(p);
                     win.def.log({ level: 'info', file: 'entrez', func: 'Post /twostage', message: `Database insert of PMID ${cr.id} success.`});
                   }).catch((err) => {
-                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostage', message: `Database insert of PMID ${dbref.txtid} failed. Name: ${err.name}. Message: ${err.message}.`});
+                    win.def.log({ level: 'warn', file: 'entrez', func: 'Post /twostage', message: `Database insert of PMID ${dbres.txtid} failed. Name: ${err.name}. Message: ${err.message}.`});
                   }); /// createRef
                 })).then((r) => {                  
                   result.status(200).json({
